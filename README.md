@@ -39,3 +39,16 @@ https://www.nomoreransom.org/en/index.html
 https://github.com/AvillaDaniel/AvillaForensics  
 
 
+### ACTIVE FORENSICS
+
+https://www.youtube.com/watch?v=WwmcZSHw66w  
+https://www.youtube.com/watch?v=P-OpyGJcMHE  
+https://www.youtube.com/watch?v=0AwI6YrV2h4  
+
+https://github.com/snort3/
+
+
+### ZERO-DAY  
+
+
+
