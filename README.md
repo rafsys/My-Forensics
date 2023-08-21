@@ -36,7 +36,7 @@ https://github.com/imagej/ImageJ
 
 https://www.nomoreransom.org/en/index.html  
 
-### MOBILE MEMORY  
+### VOLATILE MEMORY
 
 https://www.volatilityfoundation.org/releases  
 
@@ -45,7 +45,6 @@ https://www.volatilityfoundation.org/releases
 https://github.com/AvillaDaniel/AvillaForensics  
 
 https://docs.mvt.re/en/latest/  
-
 
 ### ACTIVE FORENSICS
 
