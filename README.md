@@ -60,9 +60,9 @@ https://www.whatsapp.com/records/login
 
 ### NETWORK ANALYSIS
 
-Snort - https://github.com/snort3/
-Wireshark - https://www.wireshark.org/
-NMAP - https://nmap.org/
+Snort - https://github.com/snort3  
+Wireshark - https://www.wireshark.org  
+NMAP - https://nmap.org  
 
 ### MALWARES AND ZERO-DAYS  
 
