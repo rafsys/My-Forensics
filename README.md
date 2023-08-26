@@ -49,9 +49,9 @@ https://github.com/AvillaDaniel/AvillaForensics
 https://docs.mvt.re/en/latest/  
 • Forensics Journal
 Comparative analysis of mobile forensic proprietary tools: an application in forensic investigation (2022)  
-https://www.forensicscijournal.com/articles/jfsr-aid1039.pdf
-• An Analysis of Smartphones Using Open Source Tools versus the Proprietary Tool Cellebrite UFED Touch®  
-https://www.marshall.edu/forensics/files/BACHLER_MARCIE_Research-Paper_Aug-5.pdf  
+https://www.forensicscijournal.com/articles/jfsr-aid1039.pdf  
+• Methodology for Forensics Data Reconstruction on Mobile Devices with Android Operating System Applying In-System Programming and Combination Firmware (2020)  
+https://ppee.unb.br/wp-content/uploads/2020/12/Artigo_Claudinei-Morim.pdf  
 • OWASP Mobile Application Security  
 https://mas.owasp.org/  
 https://mobile-security.gitbook.io/mobile-security-testing-guide/  
