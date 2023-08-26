@@ -1,7 +1,5 @@
 # FORENSICS
 
-## ONLINE  
-
 ### SYSTEM BASED  
 
 https://www.kali.org/docs/general-use/kali-linux-forensics-mode  
@@ -83,9 +81,9 @@ PhotoDNA
 Geo-tags  
 
 ### MALWARES, BACKDOORS,DATA POISONING, MAN-IN-THE-MIDDLE, HONEYPOTS AND ZERO-DAYS  
-**• Scanning Tools**
-https://www.virustotal.com/  
-https://binvis.io/
+**• Scanning Tools**  
+https://www.virustotal.com  
+https://binvis.io  
 • Malwares
 https://dergipark.org.tr/tr/download/article-file/835902  
 • Magic Lantern  
@@ -102,7 +100,6 @@ https://theintercept.com/2021/07/27/pegasus-nso-spyware-security/
 
 https://www.youtube.com/@hitbsecconf/videos
 
-## OFFLINE
 
 
 
