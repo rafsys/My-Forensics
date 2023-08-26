@@ -81,6 +81,8 @@ NMAP - https://nmap.org
 
 https://theintercept.com/2021/07/27/pegasus-nso-spyware-security/  
 https://dergipark.org.tr/tr/download/article-file/835902  
+https://www.virustotal.com/  
+https://binvis.io/  
 
 ### OTHERS  
 
