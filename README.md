@@ -42,11 +42,22 @@ https://www.nomoreransom.org/en/index.html
 
 https://www.volatilityfoundation.org/releases  
 
-### MOBILE PHONE  
-
+### MOBILE PHONE FORENSICS
+• Cellebrite
+https://cellebrite.com  
+• Avilla Forensics  
 https://github.com/AvillaDaniel/AvillaForensics  
-
+• Mobile Verification Toolkit (MVT)  
 https://docs.mvt.re/en/latest/  
+• Forensics Journal
+Comparative analysis of mobile forensic proprietary tools: an application in forensic investigation (2022)  
+https://www.forensicscijournal.com/articles/jfsr-aid1039.pdf
+• An Analysis of Smartphones Using Open Source Tools versus the Proprietary Tool Cellebrite UFED Touch®  
+https://www.marshall.edu/forensics/files/BACHLER_MARCIE_Research-Paper_Aug-5.pdf  
+• OWASP Mobile Application Security  
+https://mas.owasp.org/  
+https://mobile-security.gitbook.io/mobile-security-testing-guide/  
+https://github.com/OWASP/owasp-mastg/   
 
 ## ACTIVE FORENSICS
 
@@ -66,8 +77,10 @@ Snort - https://github.com/snort3
 Wireshark - https://www.wireshark.org  
 NMAP - https://nmap.org  
 
-### MALWARES AND ZERO-DAYS  
+### MALWARES, DATA POISONING, BACKDOORS, HONEYPOTS AND ZERO-DAYS  
 
+https://theintercept.com/2021/07/27/pegasus-nso-spyware-security/  
+https://dergipark.org.tr/tr/download/article-file/835902  
 
 ### OTHERS  
 
