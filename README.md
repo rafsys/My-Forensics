@@ -67,9 +67,10 @@ https://www.youtube.com/watch?v=0AwI6YrV2h4
 
 ### LAW ENFORCEMENT
 https://www.coe.int/en/web/cybercrime/the-budapest-convention  
-https://www.whatsapp.com/records/login  
 https://lers.google.com/signup_v2/landing  
+https://www.whatsapp.com/records/login  
 https://www.facebook.com/records/login/  
+https://lert.uber.com/s/?language=en_US  
 
 ### NETWORK ANALYSIS
 
@@ -77,12 +78,25 @@ Snort - https://github.com/snort3
 Wireshark - https://www.wireshark.org  
 NMAP - https://nmap.org  
 
-### MALWARES, DATA POISONING, BACKDOORS, HONEYPOTS AND ZERO-DAYS  
+### METADATA  
+PhotoDNA  
+Geo-tags  
 
-https://theintercept.com/2021/07/27/pegasus-nso-spyware-security/  
-https://dergipark.org.tr/tr/download/article-file/835902  
+### MALWARES, BACKDOORS,DATA POISONING, MAN-IN-THE-MIDDLE, HONEYPOTS AND ZERO-DAYS  
+**• Scanning Tools**
 https://www.virustotal.com/  
-https://binvis.io/  
+https://binvis.io/
+• Malwares
+https://dergipark.org.tr/tr/download/article-file/835902  
+• Magic Lantern  
+• Bundestrojaner  
+• Pegasus Spyware
+https://theintercept.com/2021/07/27/pegasus-nso-spyware-security/  
+
+  
+
+### FINGERPRINT  
+
 
 ### OTHERS  
 
