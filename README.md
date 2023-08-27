@@ -63,15 +63,8 @@ https://www.youtube.com/watch?v=WwmcZSHw66w
 https://www.youtube.com/watch?v=P-OpyGJcMHE  
 https://www.youtube.com/watch?v=0AwI6YrV2h4  
 
-### LAW ENFORCEMENT
-https://www.coe.int/en/web/cybercrime/the-budapest-convention  
-https://lers.google.com/signup_v2/landing  
-https://www.whatsapp.com/records/login  
-https://www.facebook.com/records/login/  
-https://lert.uber.com/s/?language=en_US  
 
 ### NETWORK ANALYSIS
-
 Snort - https://github.com/snort3  
 Wireshark - https://www.wireshark.org  
 NMAP - https://nmap.org  
@@ -79,6 +72,7 @@ NMAP - https://nmap.org
 ### METADATA  
 PhotoDNA  
 Geo-tags  
+ExifTool - https://github.com/exiftool/exiftool  
 
 ### MALWARES, BACKDOORS,DATA POISONING, MAN-IN-THE-MIDDLE, HONEYPOTS AND ZERO-DAYS  
 **• Scanning Tools**  
@@ -89,15 +83,19 @@ https://dergipark.org.tr/tr/download/article-file/835902
 • Magic Lantern  
 • Bundestrojaner  
 • Pegasus Spyware
-https://theintercept.com/2021/07/27/pegasus-nso-spyware-security/  
-
-  
+https://theintercept.com/2021/07/27/pegasus-nso-spyware-security  
 
 ### FINGERPRINT  
 
+### LAW ENFORCEMENT
+https://www.coe.int/en/web/cybercrime/the-budapest-convention  
+https://lers.google.com/signup_v2/landing  
+https://www.whatsapp.com/records/login  
+https://www.facebook.com/records/login/  
+https://lert.uber.com/s/?language=en_US  
+https://www.microsoft.com/en-us/corporate-responsibility/law-enforcement-requests-report  
 
 ### OTHERS  
-
 https://www.youtube.com/@hitbsecconf/videos
 
 
