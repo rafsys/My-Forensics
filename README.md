@@ -6,9 +6,9 @@ https://www.kali.org/docs/general-use/kali-linux-forensics-mode
 • CAINE  
 https://www.caine-live.net  
 • CSI Linux  
-https://csilinux.com/
+https://csilinux.com  
 • SIFT Workstation  
-https://www.sans.org/tools/sift-workstation/  
+https://www.sans.org/tools/sift-workstation  
 • Debian Forensics Packaages  
 https://packages.debian.org/unstable/forensics-all  
 
