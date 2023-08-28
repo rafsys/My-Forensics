@@ -42,8 +42,8 @@ https://www.nomoreransom.org/en/index.html
 https://www.volatilityfoundation.org/releases  
 
 ### MOBILE PHONE FORENSICS
-• Cellebrite  
-https://cellebrite.com  
+• Cellebrite    
+https://cellebrite.com    
 • Avilla Forensics  
 https://github.com/AvillaDaniel/AvillaForensics  
 • Mobile Verification Toolkit (MVT)  
@@ -81,15 +81,17 @@ Geo-tags
 ### MALWARES, BACKDOORS,DATA POISONING, MAN-IN-THE-MIDDLE, HONEYPOTS AND ZERO-DAYS  
 • Case: EncroChat  
 https://en.wikipedia.org/wiki/EncroChat    
-• Case: Phantom Secure  
+• Case: Phantom Secure    
 https://en.wikipedia.org/wiki/Phantom_Secure    
-• Case: Sky Global  
+• Case: Sky Global    
 https://en.wikipedia.org/wiki/Shutdown_of_Sky_Global    
-• Case: Pegasus Spyware
+• Case: ANON (also stylized as AN0M or ΛNØM)    
+https://en.wikipedia.org/wiki/ANOM
+• Case: Pegasus Spyware    
 https://theintercept.com/2021/07/27/pegasus-nso-spyware-security    
 • Case: Magic Lantern    
-• Case: Bundestrojaner  
-• Malwares  
+• Case: Bundestrojaner    
+• Malwares    
 https://dergipark.org.tr/tr/download/article-file/835902  
 
 ### FINGERPRINT  
