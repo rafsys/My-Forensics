@@ -58,6 +58,9 @@ https://mas.owasp.org
 https://mobile-security.gitbook.io/mobile-security-testing-guide    
 https://github.com/OWASP/owasp-mastg    
 
+### CRYPTOCURRENCIES ANALYSIS    
+https://www.chainalysis.com    
+
 ## ACTIVE FORENSICS
 
 https://www.youtube.com/watch?v=WwmcZSHw66w  
