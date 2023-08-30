@@ -72,8 +72,8 @@ https://github.com/504ensicsLabs
 ### VOLATILE MEMORY ANALYSIS    
 Volatility    
 https://www.volatilityfoundation.org/releases  
-Linux Memory Extractor (LiME) 
-https://github.com/504ensicsLabs/LiME    
+Linux Memory Extractor (LiME)    
+https://github.com/504ensicsLabs/LiME      
 
 ### CRYPTOCURRENCIES ANALYSIS    
 https://www.chainalysis.com    
