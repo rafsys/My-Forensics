@@ -1,7 +1,7 @@
 # FORENSICS
 
 ### FORENSICS TOOLS
-**FLOSS**
+**FLOSS**  
 • Kali Linux  
 https://www.kali.org/docs/general-use/kali-linux-forensics-mode  
 • CAINE  
@@ -10,7 +10,7 @@ https://www.caine-live.net
 https://csilinux.com  
 • Debian Forensics Packages  
 https://packages.debian.org/unstable/forensics-all  
-**PROPRIETARY**
+**PROPRIETARY**    
 • SIFT Workstation  
 https://www.sans.org/tools/sift-workstation  
 • GMDSOFT    
