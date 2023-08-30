@@ -14,10 +14,10 @@ https://packages.debian.org/unstable/forensics-all
 • SIFT Workstation  
 https://www.sans.org/tools/sift-workstation  
 • GMDSOFT    
-https://www.gmdsoft.com/
+https://www.gmdsoft.com/    
 • NirSoft    
 https://www.nirsoft.net/computer_forensic_software.html    
-• MiTeC
+• MiTeC    
 https://www.mitec.cz/    
 
 
