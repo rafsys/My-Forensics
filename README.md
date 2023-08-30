@@ -40,6 +40,8 @@ https://ppee.unb.br/wp-content/uploads/2020/12/Artigo_Claudinei-Morim.pdf
 https://mas.owasp.org    
 https://mobile-security.gitbook.io/mobile-security-testing-guide    
 https://github.com/OWASP/owasp-mastg    
+• Android Tools    
+https://github.com/jakev/android-tools    
 
 ### WINDOWS RELATED  
 
@@ -65,8 +67,13 @@ https://www.autopsy.com/download/
 
 https://www.nomoreransom.org/en/index.html  
 
-### VOLATILE MEMORY
+https://github.com/504ensicsLabs    
+
+### VOLATILE MEMORY ANALYSIS    
+Volatility    
 https://www.volatilityfoundation.org/releases  
+Linux Memory Extractor (LiME) 
+https://github.com/504ensicsLabs/LiME    
 
 ### CRYPTOCURRENCIES ANALYSIS    
 https://www.chainalysis.com    
@@ -92,6 +99,7 @@ PhotoDNA
 Geo-tags  
 
 ### MALWARES, BACKDOORS,DATA POISONING, MAN-IN-THE-MIDDLE, HONEYPOTS AND ZERO-DAYS  
+**CASES**
 • Case: EncroChat  
 https://en.wikipedia.org/wiki/EncroChat    
 • Case: Phantom Secure    
@@ -104,10 +112,14 @@ https://en.wikipedia.org/wiki/ANOM
 https://theintercept.com/2021/07/27/pegasus-nso-spyware-security    
 • Case: Magic Lantern    
 • Case: Bundestrojaner    
+**MALWARES**    
 • Malwares    
 https://dergipark.org.tr/tr/download/article-file/835902  
 • CVEs    
 https://www.cve.org    
+**MAN-IN-THE-MIDDLE**    
+https://github.com/jakev/mitm-helper-wifi    
+https://github.com/jakev/mitm-helper-vpn    
 
 ### TOR BROWSER FINGERPRINT  
 https://blog.torproject.org/browser-fingerprinting-introduction-and-challenges-ahead/    
