@@ -1,16 +1,45 @@
 # FORENSICS
 
-### SYSTEM BASED  
+### FORENSICS TOOLS
+**FLOSS**
 • Kali Linux  
 https://www.kali.org/docs/general-use/kali-linux-forensics-mode  
 • CAINE  
 https://www.caine-live.net  
 • CSI Linux  
 https://csilinux.com  
-• SIFT Workstation  
-https://www.sans.org/tools/sift-workstation  
 • Debian Forensics Packages  
 https://packages.debian.org/unstable/forensics-all  
+**PROPRIETARY**
+• SIFT Workstation  
+https://www.sans.org/tools/sift-workstation  
+• GMDSOFT    
+https://www.gmdsoft.com/
+• NirSoft    
+https://www.nirsoft.net/computer_forensic_software.html    
+• MiTeC
+https://www.mitec.cz/    
+
+
+### MOBILE PHONE FORENSICS
+**PROPRIETARY**
+• Cellebrite    
+https://cellebrite.com  
+
+**FLOSS**
+• Avilla Forensics  
+https://github.com/AvillaDaniel/AvillaForensics  
+• Mobile Verification Toolkit (MVT)  
+https://docs.mvt.re/en/latest    
+• Forensics Journal  
+Comparative analysis of mobile forensic proprietary tools: an application in forensic investigation (2022)  
+https://www.forensicscijournal.com/articles/jfsr-aid1039.pdf  
+• Methodology for Forensics Data Reconstruction on Mobile Devices with Android Operating System Applying In-System Programming and Combination Firmware (2020)  
+https://ppee.unb.br/wp-content/uploads/2020/12/Artigo_Claudinei-Morim.pdf  
+• OWASP Mobile Application Security  
+https://mas.owasp.org    
+https://mobile-security.gitbook.io/mobile-security-testing-guide    
+https://github.com/OWASP/owasp-mastg    
 
 ### WINDOWS RELATED  
 
@@ -34,31 +63,10 @@ https://github.com/imagej/ImageJ
 
 https://www.autopsy.com/download/  
 
-https://www.nirsoft.net/utils/index.html  
-
-https://www.mitec.cz  
-
 https://www.nomoreransom.org/en/index.html  
 
 ### VOLATILE MEMORY
 https://www.volatilityfoundation.org/releases  
-
-### MOBILE PHONE FORENSICS
-• Cellebrite    
-https://cellebrite.com    
-• Avilla Forensics  
-https://github.com/AvillaDaniel/AvillaForensics  
-• Mobile Verification Toolkit (MVT)  
-https://docs.mvt.re/en/latest    
-• Forensics Journal  
-Comparative analysis of mobile forensic proprietary tools: an application in forensic investigation (2022)  
-https://www.forensicscijournal.com/articles/jfsr-aid1039.pdf  
-• Methodology for Forensics Data Reconstruction on Mobile Devices with Android Operating System Applying In-System Programming and Combination Firmware (2020)  
-https://ppee.unb.br/wp-content/uploads/2020/12/Artigo_Claudinei-Morim.pdf  
-• OWASP Mobile Application Security  
-https://mas.owasp.org    
-https://mobile-security.gitbook.io/mobile-security-testing-guide    
-https://github.com/OWASP/owasp-mastg    
 
 ### CRYPTOCURRENCIES ANALYSIS    
 https://www.chainalysis.com    
