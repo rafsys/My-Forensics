@@ -1,4 +1,4 @@
-# FORENSICS
+# COMPUTER FORENSICS    
 
 ### FORENSICS TOOLS
 **FLOSS**  
@@ -106,9 +106,12 @@ https://theintercept.com/2021/07/27/pegasus-nso-spyware-security
 • Case: Bundestrojaner    
 • Malwares    
 https://dergipark.org.tr/tr/download/article-file/835902  
+• CVEs    
+https://www.cve.org    
 
-### FINGERPRINT  
-
+### TOR BROWSER FINGERPRINT  
+https://blog.torproject.org/browser-fingerprinting-introduction-and-challenges-ahead/    
+https://coveryourtracks.eff.org/learn    
 
 
 ### LAW ENFORCEMENT  
@@ -126,7 +129,4 @@ https://www.microsoft.com/en-us/corporate-responsibility/law-enforcement-request
 ### OTHERS  
 https://www.youtube.com/@hitbsecconf/videos  
 https://necessaryandproportionate.org  
-
-
-
 
