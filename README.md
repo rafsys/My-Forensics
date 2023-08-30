@@ -22,11 +22,11 @@ https://www.mitec.cz/
 
 
 ### MOBILE PHONE FORENSICS
-**PROPRIETARY**
+**PROPRIETARY**    
 • Cellebrite    
 https://cellebrite.com  
-
-**FLOSS**
+  
+**FLOSS**    
 • Avilla Forensics  
 https://github.com/AvillaDaniel/AvillaForensics  
 • Mobile Verification Toolkit (MVT)  
