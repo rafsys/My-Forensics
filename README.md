@@ -20,7 +20,6 @@ https://www.nirsoft.net/computer_forensic_software.html
 • MiTeC    
 https://www.mitec.cz/    
 
-
 ### MOBILE PHONE FORENSICS
 **PROPRIETARY**    
 • Cellebrite    
@@ -99,24 +98,27 @@ PhotoDNA
 Geo-tags  
 
 ### MALWARES, BACKDOORS,DATA POISONING, MAN-IN-THE-MIDDLE, HONEYPOTS AND ZERO-DAYS  
+
 **CASES**
 • Case: EncroChat  
 https://en.wikipedia.org/wiki/EncroChat    
+• Case: Pegasus Spyware    
+https://theintercept.com/2021/07/27/pegasus-nso-spyware-security    
 • Case: Phantom Secure    
 https://en.wikipedia.org/wiki/Phantom_Secure    
 • Case: Sky Global    
 https://en.wikipedia.org/wiki/Shutdown_of_Sky_Global    
 • Case: ANON (also stylized as AN0M or ΛNØM)    
 https://en.wikipedia.org/wiki/ANOM
-• Case: Pegasus Spyware    
-https://theintercept.com/2021/07/27/pegasus-nso-spyware-security    
 • Case: Magic Lantern    
 • Case: Bundestrojaner    
+
 **MALWARES**    
 • Malwares    
 https://dergipark.org.tr/tr/download/article-file/835902  
 • CVEs    
 https://www.cve.org    
+
 **MAN-IN-THE-MIDDLE**    
 https://github.com/jakev/mitm-helper-wifi    
 https://github.com/jakev/mitm-helper-vpn    
@@ -129,14 +131,18 @@ https://coveryourtracks.eff.org/learn
 ### LAW ENFORCEMENT  
 
 **International Conventions**  
-https://www.unodc.org/unodc/en/organized-crime/intro/UNTOC.html    
-https://www.coe.int/en/web/cybercrime/the-budapest-convention    
+UNO - https://www.unodc.org/unodc/en/organized-crime/intro/UNTOC.html    
+Budapest Convention - https://www.coe.int/en/web/cybercrime/the-budapest-convention    
+Five Eyes - https://en.wikipedia.org/wiki/Five_Eyes    
+
 **Private Agents**   
-https://lers.google.com/signup_v2/landing    
-https://www.whatsapp.com/records/login    
-https://www.facebook.com/records/login    
-https://lert.uber.com/s/?language=en_US  
-https://www.microsoft.com/en-us/corporate-responsibility/law-enforcement-requests-report  
+Google - https://lers.google.com/signup_v2/landing
+Google Time Line - https://timeline.google.com  
+Google Takeout - https://takeout.google.com  
+Qhatsapp - https://www.whatsapp.com/records/login    
+Facebook - https://www.facebook.com/records/login    
+Uber - https://lert.uber.com/s/?language=en_US  
+Microsoft - https://www.microsoft.com/en-us/corporate-responsibility/law-enforcement-requests-report  
 
 ### OTHERS  
 https://www.youtube.com/@hitbsecconf/videos  
