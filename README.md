@@ -24,7 +24,8 @@ https://www.mitec.cz/
 **PROPRIETARY**    
 • Cellebrite    
 https://cellebrite.com  
-  
+  • Octoplus Box    
+https://octoplusbox.com    
 **FLOSS**    
 • Avilla Forensics  
 https://github.com/AvillaDaniel/AvillaForensics  
