@@ -118,6 +118,7 @@ https://eucrim.eu/news/germany-federal-court-of-justice-confirms-use-of-evidence
 https://theintercept.com/2021/07/27/pegasus-nso-spyware-security    
 • Case: Phantom Secure    
 https://en.wikipedia.org/wiki/Phantom_Secure    
+https://www.vice.com/en/article/v7m4pj/the-network-vincent-ramos-phantom-secure    
 • Case: Sky Global    
 https://en.wikipedia.org/wiki/Shutdown_of_Sky_Global    
 • Case: Magic Lantern    
