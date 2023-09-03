@@ -1,6 +1,9 @@
-# COMPUTER FORENSICS    
+<img src="https://latex.codecogs.com/svg.image?\inline&space;\huge&space;\bg{red}{\textbf{COMPUTER&space;FORENSICS}}" title="{\textbf{COMPUTER FORENSICS}}" />    
 
-### FORENSICS TOOLS
+------------------------------------------------------------------------------------------------------------------------------
+<img src="https://latex.codecogs.com/svg.image?\LARGE&space;\textbf{{\color{Red}PASSIVE&space;FORENSICS}}" title="\textbf{{\color{Red}PASSIVE FORENSICS}}" />    
+
+### FORENSICS TOOLS    
 **FLOSS**  
 • Kali Linux  
 https://www.kali.org/docs/general-use/kali-linux-forensics-mode  
@@ -19,7 +22,8 @@ https://www.gmdsoft.com/
 https://www.nirsoft.net/computer_forensic_software.html    
 • MiTeC    
 https://www.mitec.cz/    
-
+• Cyber Arm    
+https://cyber-arm.com/services/    
 ### MOBILE PHONE FORENSICS
 **PROPRIETARY**    
 • Cellebrite    
@@ -74,29 +78,32 @@ Volatility
 https://www.volatilityfoundation.org/releases  
 Linux Memory Extractor (LiME)    
 https://github.com/504ensicsLabs/LiME      
+**Cobalt Strike in memory**    
+https://andreafortuna.org/2020/11/22/how-to-detect-cobalt-strike-activity-in-memory-forensics/    
 
 ### CRYPTOCURRENCIES ANALYSIS    
 https://www.chainalysis.com    
 
-## ACTIVE FORENSICS
+------------------------------------------------------------------------------------------------------------------------------
+<img src="https://latex.codecogs.com/svg.image?\LARGE&space;\textbf{{\color{Red}ACTIVE&space;FORENSICS}}" title="\textbf{{\color{Red}ACTIVE FORENSICS}}" />    
 
 https://www.youtube.com/watch?v=WwmcZSHw66w  
 https://www.youtube.com/watch?v=P-OpyGJcMHE  
 https://www.youtube.com/watch?v=0AwI6YrV2h4  
 
-### NETWORK ANALYSIS
-Snort - https://github.com/snort3  
-Wireshark - https://www.wireshark.org  
-NMAP - https://nmap.org  
-
-### ANALYSIS TOOLS    
-https://www.virustotal.com  
-https://binvis.io  
-
-### METADATA  
-ExifTool - https://github.com/exiftool/exiftool  
-PhotoDNA  
-Geo-tags  
+### LAW ENFORCEMENT  
+**International Conventions**  
+UNO - https://www.unodc.org/unodc/en/organized-crime/intro/UNTOC.html    
+Budapest Convention - https://www.coe.int/en/web/cybercrime/the-budapest-convention    
+Five Eyes - https://en.wikipedia.org/wiki/Five_Eyes    
+**Private Agents**   
+Google - https://lers.google.com/signup_v2/landing
+Google Time Line - https://timeline.google.com  
+Google Takeout - https://takeout.google.com  
+Microsoft - https://www.microsoft.com/en-us/corporate-responsibility/law-enforcement-requests-report  
+Whatsapp - https://www.whatsapp.com/records/login    
+Facebook - https://www.facebook.com/records/login    
+Uber - https://lert.uber.com/s/?language=en_US  
 
 ### MALWARES, BACKDOORS,DATA POISONING, MAN-IN-THE-MIDDLE, HONEYPOTS AND ZERO-DAYS  
 
@@ -125,28 +132,32 @@ https://www.cve.org
 https://github.com/jakev/mitm-helper-wifi    
 https://github.com/jakev/mitm-helper-vpn    
 
-### TOR BROWSER FINGERPRINT  
+**TOR BROWSER FINGERPRINT**
 https://blog.torproject.org/browser-fingerprinting-introduction-and-challenges-ahead/    
 https://coveryourtracks.eff.org/learn    
 
+**FORENSICS FOOTPRINTS**
 
-### LAW ENFORCEMENT  
 
-**International Conventions**  
-UNO - https://www.unodc.org/unodc/en/organized-crime/intro/UNTOC.html    
-Budapest Convention - https://www.coe.int/en/web/cybercrime/the-budapest-convention    
-Five Eyes - https://en.wikipedia.org/wiki/Five_Eyes    
 
-**Private Agents**   
-Google - https://lers.google.com/signup_v2/landing
-Google Time Line - https://timeline.google.com  
-Google Takeout - https://takeout.google.com  
-Qhatsapp - https://www.whatsapp.com/records/login    
-Facebook - https://www.facebook.com/records/login    
-Uber - https://lert.uber.com/s/?language=en_US  
-Microsoft - https://www.microsoft.com/en-us/corporate-responsibility/law-enforcement-requests-report  
+### NETWORK ANALYSIS
+Snort - https://github.com/snort3  
+Wireshark - https://www.wireshark.org  
+NMAP - https://nmap.org  
+
+### REGISTRY AND EVENT LOG    
+
+### METADATA  
+ExifTool - https://github.com/exiftool/exiftool  
+PhotoDNA  
+Geo-tags  
+
+### ONLINE ANALYSIS TOOLS    
+https://www.virustotal.com  
+https://binvis.io  
 
 ### OTHERS  
 https://www.youtube.com/@hitbsecconf/videos  
 https://necessaryandproportionate.org  
+https://forensics.wiki/    
 
