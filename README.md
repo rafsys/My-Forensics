@@ -105,10 +105,10 @@ Whatsapp - https://www.whatsapp.com/records/login
 Facebook - https://www.facebook.com/records/login    
 Uber - https://lert.uber.com/s/?language=en_US  
 
-### MALWARES, BACKDOORS,DATA POISONING, MAN-IN-THE-MIDDLE, HONEYPOTS AND ZERO-DAYS  
+### MALWARES, BACKDOORS, ZERO-DAYS, DATA POISONING, SUPPLY CHAIN ATTACK, MAN-IN-THE-MIDDLE (MITM), HONEY POTS, AND SOCIAL ENGINEERING ATTACK    
 
-**CASES**
-• Case: EncroChat  
+**CASES**    
+• Case: EncroChat    
 https://en.wikipedia.org/wiki/EncroChat    
 https://eucrim.eu/news/germany-federal-court-of-justice-confirms-use-of-evidence-in-encrochat-cases    
 • Case: Pegasus Spyware    
@@ -120,7 +120,9 @@ https://en.wikipedia.org/wiki/Shutdown_of_Sky_Global
 • Case: ANON (also stylized as AN0M or ΛNØM)    
 https://en.wikipedia.org/wiki/ANOM
 • Case: Magic Lantern    
-• Case: Bundestrojaner    
+• Case: Bundestrojaner  
+• Case: Cryptophon    
+https://en.wikipedia.org/wiki/Tron_(hacker)#Cryptophon    
 
 **MALWARES**    
 • Malwares    
@@ -138,7 +140,9 @@ https://coveryourtracks.eff.org/learn
 
 **FORENSICS FOOTPRINTS**
 
+**SUPPLY CHAIN ATTACK**    
 
+https://reproducible-builds.org/  
 
 ### NETWORK ANALYSIS
 Snort - https://github.com/snort3  
@@ -152,9 +156,12 @@ ExifTool - https://github.com/exiftool/exiftool
 PhotoDNA  
 Geo-tags  
 
-### ONLINE ANALYSIS TOOLS    
+### ONLINE ANALYSIS TOOLS - DATA POISONING
 https://www.virustotal.com  
 https://binvis.io  
+
+### SOCIAL ENGINEERING ATTACK
+
 
 ### OTHERS  
 https://www.youtube.com/@hitbsecconf/videos  
