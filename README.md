@@ -103,6 +103,7 @@ Geo-tags
 **CASES**
 • Case: EncroChat  
 https://en.wikipedia.org/wiki/EncroChat    
+https://eucrim.eu/news/germany-federal-court-of-justice-confirms-use-of-evidence-in-encrochat-cases    
 • Case: Pegasus Spyware    
 https://theintercept.com/2021/07/27/pegasus-nso-spyware-security    
 • Case: Phantom Secure    
