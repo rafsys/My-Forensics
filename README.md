@@ -107,7 +107,10 @@ Uber - https://lert.uber.com/s/?language=en_US
 
 ### MALWARES, BACKDOORS, ZERO-DAYS, DATA POISONING, SUPPLY CHAIN ATTACK, MAN-IN-THE-MIDDLE (MITM), HONEY POTS, AND SOCIAL ENGINEERING ATTACK    
 
-**CASES**    
+**CASE LAW**    
+• Case: ANON (also stylized as AN0M or ΛNØM)    
+https://en.wikipedia.org/wiki/ANOM    
+https://www.vice.com/en/article/n7b4gg/anom-phone-arcaneos-fbi-backdoor    
 • Case: EncroChat    
 https://en.wikipedia.org/wiki/EncroChat    
 https://eucrim.eu/news/germany-federal-court-of-justice-confirms-use-of-evidence-in-encrochat-cases    
@@ -117,8 +120,6 @@ https://theintercept.com/2021/07/27/pegasus-nso-spyware-security
 https://en.wikipedia.org/wiki/Phantom_Secure    
 • Case: Sky Global    
 https://en.wikipedia.org/wiki/Shutdown_of_Sky_Global    
-• Case: ANON (also stylized as AN0M or ΛNØM)    
-https://en.wikipedia.org/wiki/ANOM
 • Case: Magic Lantern    
 • Case: Bundestrojaner  
 • Case: Cryptophon    
