@@ -26,7 +26,7 @@ https://www.mitec.cz/
 https://cyber-arm.com/services/    
 ### MOBILE PHONE FORENSICS
 **PROPRIETARY**    
-• Cellebrite    
+• Cellebrite (NSO Group)    
 https://cellebrite.com  
   • Octoplus Box    
 https://octoplusbox.com    
@@ -108,13 +108,15 @@ Uber - https://lert.uber.com/s/?language=en_US
 ### MALWARES, BACKDOORS, ZERO-DAYS, DATA POISONING, SUPPLY CHAIN ATTACK, MAN-IN-THE-MIDDLE (MITM), HONEY POTS, AND SOCIAL ENGINEERING ATTACK    
 
 **CASE LAW**    
+![1_dRthFvGk3zqARHOPzAymQQ](https://github.com/RENANZG/My-Forensics/assets/53377291/b347418d-dd76-4e0f-b075-e95db4817340)    
 • Case: ANON (also stylized as AN0M or ΛNØM)    
 https://en.wikipedia.org/wiki/ANOM    
 https://www.vice.com/en/article/n7b4gg/anom-phone-arcaneos-fbi-backdoor    
 • Case: EncroChat    
 https://en.wikipedia.org/wiki/EncroChat    
 https://eucrim.eu/news/germany-federal-court-of-justice-confirms-use-of-evidence-in-encrochat-cases    
-• Case: Pegasus Spyware    
+https://xperylab.medium.com/the-dark-phones-encrochat-criminals-are-building-their-own-communication-system-474f3aeef759    
+• Case: Pegasus Spyware (NSO Group)    
 https://theintercept.com/2021/07/27/pegasus-nso-spyware-security    
 • Case: Phantom Secure    
 https://en.wikipedia.org/wiki/Phantom_Secure    
@@ -133,7 +135,8 @@ https://dergipark.org.tr/tr/download/article-file/835902
 https://www.cve.org    
 
 **MAN-IN-THE-MIDDLE**    
-https://github.com/jakev/mitm-helper-wifi    
+https://github.![1_dRthFvGk3zqARHOPzAymQQ](https://github.com/RENANZG/My-Forensics/assets/53377291/ed434acf-bb90-4613-9632-40d9e4ce2866)
+com/jakev/mitm-helper-wifi    
 https://github.com/jakev/mitm-helper-vpn    
 
 **TOR BROWSER FINGERPRINT**
