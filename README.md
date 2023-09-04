@@ -26,7 +26,7 @@ https://www.mitec.cz/
 https://cyber-arm.com/services/    
 ### MOBILE PHONE FORENSICS
 **PROPRIETARY**    
-• Cellebrite (NSO Group)    
+• Cellebrite        
 https://cellebrite.com  
   • Octoplus Box    
 https://octoplusbox.com    
@@ -174,4 +174,4 @@ https://binvis.io
 https://www.youtube.com/@hitbsecconf/videos  
 https://necessaryandproportionate.org  
 https://forensics.wiki/    
-
+https://socradar.io/beyond-the-veil-of-surveillance-private-sector-offensive-actors-psoas/    
