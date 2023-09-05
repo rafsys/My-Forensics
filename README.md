@@ -168,9 +168,10 @@ ExifTool - https://github.com/exiftool/exiftool
 PhotoDNA  
 Geo-tags  
 
-### ONLINE ANALYSIS TOOLS - DATA POISONING
+### ANALYSIS TOOLS    
 https://www.virustotal.com  
 https://binvis.io  
+https://github.com/freedomofpress/dangerzone    
 
 ### REVERSE ENGINEERING    
 
