@@ -1,5 +1,11 @@
 <img src="https://latex.codecogs.com/svg.image?\inline&space;\huge&space;\bg{red}{\textbf{COMPUTER&space;FORENSICS}}" title="{\textbf{COMPUTER FORENSICS}}" />    
 
+https://github.com/Cugu/awesome-forensics
+https://forensics.wiki    
+https://github.com/enaqx/awesome-pentest    
+https://github.com/onlurking/awesome-infosec    
+https://www.forensicscijournal.com    
+
 ------------------------------------------------------------------------------------------------------------------------------
 <img src="https://latex.codecogs.com/svg.image?\LARGE&space;\textbf{{\color{Red}PASSIVE&space;FORENSICS}}" title="\textbf{{\color{Red}PASSIVE FORENSICS}}" />    
 
@@ -35,8 +41,7 @@ https://octoplusbox.com
 https://github.com/AvillaDaniel/AvillaForensics  
 • Mobile Verification Toolkit (MVT)  
 https://docs.mvt.re/en/latest    
-• Forensics Journal  
-Comparative analysis of mobile forensic proprietary tools: an application in forensic investigation (2022)  
+• Forensics Journal Comparative analysis of mobile forensic proprietary tools: an application in forensic investigation (2022)    
 https://www.forensicscijournal.com/articles/jfsr-aid1039.pdf  
 • Methodology for Forensics Data Reconstruction on Mobile Devices with Android Operating System Applying In-System Programming and Combination Firmware (2020)  
 https://ppee.unb.br/wp-content/uploads/2020/12/Artigo_Claudinei-Morim.pdf  
