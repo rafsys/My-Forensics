@@ -1,6 +1,6 @@
 <img src="https://latex.codecogs.com/svg.image?\inline&space;\huge&space;\bg{red}{\textbf{COMPUTER&space;FORENSICS}}" title="{\textbf{COMPUTER FORENSICS}}" />    
 
-https://github.com/Cugu/awesome-forensics
+https://github.com/Cugu/awesome-forensics    
 https://forensics.wiki    
 https://github.com/enaqx/awesome-pentest    
 https://github.com/onlurking/awesome-infosec    
@@ -83,11 +83,14 @@ Volatility
 https://www.volatilityfoundation.org/releases  
 Linux Memory Extractor (LiME)    
 https://github.com/504ensicsLabs/LiME      
-**Cobalt Strike in memory**    
+Cobalt Strike in memory    
 https://andreafortuna.org/2020/11/22/how-to-detect-cobalt-strike-activity-in-memory-forensics/    
 
 ### CRYPTOCURRENCIES ANALYSIS    
 https://www.chainalysis.com    
+https://github.com/demining/CryptoDeepTools    
+https://github.com/demining/bitcoindigger    
+https://github.com/demining/Dao-Exploit    
 
 ------------------------------------------------------------------------------------------------------------------------------
 <img src="https://latex.codecogs.com/svg.image?\LARGE&space;\textbf{{\color{Red}ACTIVE&space;FORENSICS}}" title="\textbf{{\color{Red}ACTIVE FORENSICS}}" />    
@@ -112,7 +115,7 @@ Uber - https://lert.uber.com/s/?language=en_US
 
 ### MALWARES, BACKDOORS, ZERO-DAYS, DATA POISONING, SUPPLY CHAIN ATTACK, MAN-IN-THE-MIDDLE (MITM), HONEY POTS, AND SOCIAL ENGINEERING ATTACK    
 
-**CASE LAW**    
+**Case Law**    
 ![1_dRthFvGk3zqARHOPzAymQQ](https://github.com/RENANZG/My-Forensics/assets/53377291/b347418d-dd76-4e0f-b075-e95db4817340)    
 • Case: ANON (also stylized as AN0M or ΛNØM)    
 https://en.wikipedia.org/wiki/ANOM    
@@ -133,25 +136,24 @@ https://en.wikipedia.org/wiki/Shutdown_of_Sky_Global
 • Case: Cryptophon    
 https://en.wikipedia.org/wiki/Tron_(hacker)#Cryptophon    
 
-**MALWARES**    
+**Malwares**    
 • Malwares    
 https://dergipark.org.tr/tr/download/article-file/835902  
 • CVEs    
 https://www.cve.org    
 
-**MAN-IN-THE-MIDDLE**    
+**Man-In-The-Middle**    
 https://github.![1_dRthFvGk3zqARHOPzAymQQ](https://github.com/RENANZG/My-Forensics/assets/53377291/ed434acf-bb90-4613-9632-40d9e4ce2866)
 com/jakev/mitm-helper-wifi    
 https://github.com/jakev/mitm-helper-vpn    
 
-**TOR BROWSER FINGERPRINT**
+**Tor Browser Fingerprint**    
 https://blog.torproject.org/browser-fingerprinting-introduction-and-challenges-ahead/    
 https://coveryourtracks.eff.org/learn    
 
-**FORENSICS FOOTPRINTS**
+**Forensics Footprints**    
 
-**SUPPLY CHAIN ATTACK**    
-
+**Supply Chain Attack**    
 https://reproducible-builds.org/  
 
 ### NETWORK ANALYSIS
