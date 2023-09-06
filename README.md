@@ -156,12 +156,15 @@ https://coveryourtracks.eff.org/learn
 **Supply Chain Attack**    
 https://reproducible-builds.org/  
 
+### HARDWARE, BIOS AND FIRMWARE ATTACKS
+KeyGrabber Forensic Keylogger - https://www.youtube.com/watch?v=6JJo8qCYE8M    
+https://arstechnica.com/tech-policy/2014/05/photos-of-an-nsa-upgrade-factory-show-cisco-router-getting-implant/    
+LightEater Demo: Stealing GPG keys/emails in Tails via remote firmware infection - https://www.youtube.com/watch?v=sNYsfUNegEA    
+
 ### NETWORK ANALYSIS
 Snort - https://github.com/snort3  
 Wireshark - https://www.wireshark.org  
 NMAP - https://nmap.org  
-
-### REGISTRY AND EVENT LOG    
 
 ### METADATA  
 ExifTool - https://github.com/exiftool/exiftool  
@@ -173,10 +176,11 @@ https://www.virustotal.com
 https://binvis.io  
 https://github.com/freedomofpress/dangerzone    
 
+### REGISTRY AND EVENT LOG    
+
 ### REVERSE ENGINEERING    
 
 ### SOCIAL ENGINEERING ATTACK
-
 
 ### OTHERS  
 https://www.youtube.com/@hitbsecconf/videos  
