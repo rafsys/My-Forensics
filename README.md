@@ -159,6 +159,7 @@ https://reproducible-builds.org/
 ### HARDWARE, BIOS AND FIRMWARE ATTACKS
 KeyGrabber Forensic Keylogger - https://www.youtube.com/watch?v=6JJo8qCYE8M    
 https://arstechnica.com/tech-policy/2014/05/photos-of-an-nsa-upgrade-factory-show-cisco-router-getting-implant/    
+https://legbacore.com/    
 LightEater Demo: Stealing GPG keys/emails in Tails via remote firmware infection - https://www.youtube.com/watch?v=sNYsfUNegEA    
 
 ### NETWORK ANALYSIS
