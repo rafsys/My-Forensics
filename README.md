@@ -29,14 +29,25 @@ https://www.gmdsoft.com/
 https://www.nirsoft.net/computer_forensic_software.html    
 • MiTeC    
 https://www.mitec.cz/    
+• FTK® - Forensic Toolkit    
+https://www.exterro.com/forensic-toolkit    
 • Cyber Arm    
 https://cyber-arm.com/services/    
+• Verint    
+https://www.verint.com    
+• NSO Group    
+https://www.nsogroup.com/    
+
 ### MOBILE PHONE FORENSICS
 **PROPRIETARY**    
 • Cellebrite        
 https://cellebrite.com  
-  • Octoplus Box    
+• Octoplus Box    
 https://octoplusbox.com    
+• MSAB    
+https://www.msab.com    
+
+
 **FLOSS**    
 • Avilla Forensics  
 https://github.com/AvillaDaniel/AvillaForensics  
@@ -80,11 +91,11 @@ https://www.nomoreransom.org/en/index.html
 https://github.com/504ensicsLabs    
 
 ### VOLATILE MEMORY ANALYSIS    
-Volatility    
+• Volatility    
 https://www.volatilityfoundation.org/releases  
-Linux Memory Extractor (LiME)    
+• Linux Memory Extractor (LiME)    
 https://github.com/504ensicsLabs/LiME      
-Cobalt Strike in memory    
+• Cobalt Strike in memory    
 https://andreafortuna.org/2020/11/22/how-to-detect-cobalt-strike-activity-in-memory-forensics/    
 
 ### CRYPTOCURRENCIES ANALYSIS    
@@ -142,6 +153,9 @@ https://eucrim.eu/news/germany-federal-court-of-justice-confirms-use-of-evidence
 https://xperylab.medium.com/the-dark-phones-encrochat-criminals-are-building-their-own-communication-system-474f3aeef759    
 • Case: Pegasus Spyware (NSO Group)    
 https://theintercept.com/2021/07/27/pegasus-nso-spyware-security    
+• Case: Verint    
+https://wikileaks.org/spyfiles/docs/VERINT_2012_AvneTurn_en.html    
+https://www.reddit.com/r/InfoSecNews/comments/sxxzju/leaktheanalyst_group_leak_critical_data_from/    
 • Case: Phantom Secure    
 https://en.wikipedia.org/wiki/Phantom_Secure    
 https://www.vice.com/en/article/v7m4pj/the-network-vincent-ramos-phantom-secure    
@@ -160,8 +174,7 @@ https://dergipark.org.tr/tr/download/article-file/835902
 https://www.cve.org    
 
 **Man-In-The-Middle**    
-https://github.![1_dRthFvGk3zqARHOPzAymQQ](https://github.com/RENANZG/My-Forensics/assets/53377291/ed434acf-bb90-4613-9632-40d9e4ce2866)
-com/jakev/mitm-helper-wifi    
+https://github.com/jakev/mitm-helper-wifi    
 https://github.com/jakev/mitm-helper-vpn    
 
 **Tor Browser Fingerprint**    
@@ -174,20 +187,24 @@ https://coveryourtracks.eff.org/learn
 https://reproducible-builds.org/  
 
 ### HARDWARE, BIOS AND FIRMWARE ATTACKS
-KeyGrabber Forensic Keylogger - https://www.youtube.com/watch?v=6JJo8qCYE8M    
+• KeyGrabber Forensic Keylogger    
+https://www.youtube.com/watch?v=6JJo8qCYE8M    
+• Installation of beacon implants    
 https://arstechnica.com/tech-policy/2014/05/photos-of-an-nsa-upgrade-factory-show-cisco-router-getting-implant/    
-https://legbacore.com/    
-LightEater Demo: Stealing GPG keys/emails in Tails via remote firmware infection - https://www.youtube.com/watch?v=sNYsfUNegEA    
+• LegbaCore
+https://legbacore.com/Research.html    
+• LightEater Demo: Stealing GPG keys/emails in Tails via remote firmware infection    
+https://www.youtube.com/watch?v=sNYsfUNegEA    
 
 ### NETWORK ANALYSIS
-Snort - https://github.com/snort3  
-Wireshark - https://www.wireshark.org  
-NMAP - https://nmap.org  
+• Snort - https://github.com/snort3  
+• Wireshark - https://www.wireshark.org  
+• NMAP - https://nmap.org  
 
 ### METADATA  
-ExifTool - https://github.com/exiftool/exiftool  
-PhotoDNA  
-Geo-tags  
+• ExifTool - https://github.com/exiftool/exiftool  
+• PhotoDNA  
+• Geo-tags  
 
 ### ANALYSIS TOOLS    
 https://www.virustotal.com  
@@ -205,3 +222,4 @@ https://www.youtube.com/@hitbsecconf/videos
 https://necessaryandproportionate.org  
 https://forensics.wiki/    
 https://socradar.io/beyond-the-veil-of-surveillance-private-sector-offensive-actors-psoas/    
+LeakTheAnalyst        
