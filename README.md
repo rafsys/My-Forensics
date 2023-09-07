@@ -1,8 +1,9 @@
 <img src="https://latex.codecogs.com/svg.image?\inline&space;\huge&space;\bg{red}{\textbf{COMPUTER&space;FORENSICS}}" title="{\textbf{COMPUTER FORENSICS}}" />    
 
+https://github.com/mikeroyal/Digital-Forensics-Guide    
 https://github.com/Cugu/awesome-forensics    
-https://forensics.wiki    
 https://github.com/enaqx/awesome-pentest    
+https://forensics.wiki    
 https://github.com/onlurking/awesome-infosec    
 https://www.forensicscijournal.com    
 
@@ -92,6 +93,21 @@ https://github.com/demining/CryptoDeepTools
 https://github.com/demining/bitcoindigger    
 https://github.com/demining/Dao-Exploit    
 
+### OSINT
+Awesome Osint - https://github.com/jivoi/awesome-osint    
+Sherlock Project - https://github.com/sherlock-project/sherlock    
+Name OSINT - https://namechk.com  
+IP Logger - https://iplogger.org  
+IP Tracker - https://iplogger.org/ip-tracker  
+Location Tracker - https://iplogger.org/location-tracker  
+URL checker -  https://iplogger.org/url_checker  
+MAC address lookup - https://iplogger.org/mac-checker  
+Rainbow Tables (Hashes) - https://hashes.com/en/decrypt/hash  
+Message Header Analyzer - https://mha.azurewebsites.net/  |  https://github.com/microsoft/MHA  
+Magic Numbers - https://en.wikipedia.org/wiki/Magic_number_(programming)  
+Blockchain Sherlock - https://www.blocksherlock.com/home/blockchain-explorers  
+Web Cache - https://archive.org  
+
 ------------------------------------------------------------------------------------------------------------------------------
 <img src="https://latex.codecogs.com/svg.image?\LARGE&space;\textbf{{\color{Red}ACTIVE&space;FORENSICS}}" title="\textbf{{\color{Red}ACTIVE FORENSICS}}" />    
 
@@ -135,7 +151,8 @@ https://en.wikipedia.org/wiki/Shutdown_of_Sky_Global
 • Case: Bundestrojaner  
 • Case: Cryptophon    
 https://en.wikipedia.org/wiki/Tron_(hacker)#Cryptophon    
-
+**APT & Cybercriminal Campagin Collections**
+https://github.com/CyberMonitor/APT_CyberCriminal_Campagin_Collections    
 **Malwares**    
 • Malwares    
 https://dergipark.org.tr/tr/download/article-file/835902  
