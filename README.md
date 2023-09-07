@@ -33,7 +33,7 @@ https://www.mitec.cz/
 https://www.exterro.com/forensic-toolkit    
 • Cyber Arm    
 https://cyber-arm.com/services/    
-• Verint    
+• Verint Systems    
 https://www.verint.com    
 • NSO Group    
 https://www.nsogroup.com/    
