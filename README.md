@@ -144,6 +144,8 @@ Uber - https://lert.uber.com/s/?language=en_US
 
 **Case Law**    
 ![1_dRthFvGk3zqARHOPzAymQQ](https://github.com/RENANZG/My-Forensics/assets/53377291/b347418d-dd76-4e0f-b075-e95db4817340)    
+• Omerta Digital    
+https://www.omertadigital.com/    
 • Case: ANON (also stylized as AN0M or ΛNØM)    
 https://en.wikipedia.org/wiki/ANOM    
 https://www.vice.com/en/article/n7b4gg/anom-phone-arcaneos-fbi-backdoor    
