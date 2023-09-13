@@ -141,6 +141,7 @@ Uber - https://lert.uber.com/s/?language=en_US
 
 https://www.wired.com/story/duckduckgo-microsoft-twitter-ft-bush-assassination-whatsapp/    
 https://proprivacy.com/privacy-service/guides/duckduckgo-safe    
+https://www.reddit.com/r/privacytoolsIO/comments/oonja7/protonmail_working_with_law_enforcement_a_concern/    
 
 ### MALWARES, BACKDOORS, ZERO-DAYS, DATA POISONING, SUPPLY CHAIN ATTACK, MAN-IN-THE-MIDDLE (MITM), HONEY POTS, AND SOCIAL ENGINEERING ATTACK    
 
