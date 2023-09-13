@@ -42,17 +42,18 @@ https://www.nsogroup.com/
 **PROPRIETARY**    
 • Cellebrite        
 https://cellebrite.com  
-• Octoplus Box    
-https://octoplusbox.com    
 • MSAB    
 https://www.msab.com    
-
+• Octoplus Box    
+https://octoplusbox.com    https://octoplusbox.com/en/features/models/    
 
 **FLOSS**    
 • Avilla Forensics  
 https://github.com/AvillaDaniel/AvillaForensics  
 • Mobile Verification Toolkit (MVT)  
 https://docs.mvt.re/en/latest    
+
+**OTHERS**
 • Forensics Journal Comparative analysis of mobile forensic proprietary tools: an application in forensic investigation (2022)    
 https://www.forensicscijournal.com/articles/jfsr-aid1039.pdf  
 • Methodology for Forensics Data Reconstruction on Mobile Devices with Android Operating System Applying In-System Programming and Combination Firmware (2020)  
@@ -61,8 +62,6 @@ https://ppee.unb.br/wp-content/uploads/2020/12/Artigo_Claudinei-Morim.pdf
 https://mas.owasp.org    
 https://mobile-security.gitbook.io/mobile-security-testing-guide    
 https://github.com/OWASP/owasp-mastg    
-• Android Tools    
-https://github.com/jakev/android-tools    
 
 ### WINDOWS RELATED  
 
@@ -117,7 +116,6 @@ MAC address lookup - https://iplogger.org/mac-checker
 Rainbow Tables (Hashes) - https://hashes.com/en/decrypt/hash  
 Message Header Analyzer - https://mha.azurewebsites.net/  |  https://github.com/microsoft/MHA  
 Magic Numbers - https://en.wikipedia.org/wiki/Magic_number_(programming)  
-Blockchain Sherlock - https://www.blocksherlock.com/home/blockchain-explorers  
 Web Cache - https://archive.org  
 
 ------------------------------------------------------------------------------------------------------------------------------
