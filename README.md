@@ -53,7 +53,7 @@ https://github.com/AvillaDaniel/AvillaForensics
 • Mobile Verification Toolkit (MVT)  
 https://docs.mvt.re/en/latest    
 
-**OTHERS**
+**OTHERS**    
 • Forensics Journal Comparative analysis of mobile forensic proprietary tools: an application in forensic investigation (2022)    
 https://www.forensicscijournal.com/articles/jfsr-aid1039.pdf  
 • Methodology for Forensics Data Reconstruction on Mobile Devices with Android Operating System Applying In-System Programming and Combination Firmware (2020)  
@@ -126,11 +126,11 @@ https://www.youtube.com/watch?v=P-OpyGJcMHE
 https://www.youtube.com/watch?v=0AwI6YrV2h4  
 
 ### LAW ENFORCEMENT  
-**International Conventions**  
+• **International Conventions**  
 UNO - https://www.unodc.org/unodc/en/organized-crime/intro/UNTOC.html    
 Budapest Convention - https://www.coe.int/en/web/cybercrime/the-budapest-convention    
 Five Eyes - https://en.wikipedia.org/wiki/Five_Eyes    
-**Private Agents**   
+• **Private Agents**   
 Google - https://lers.google.com/signup_v2/landing
 Google Time Line - https://timeline.google.com  
 Google Takeout - https://takeout.google.com  
@@ -138,6 +138,9 @@ Microsoft - https://www.microsoft.com/en-us/corporate-responsibility/law-enforce
 Whatsapp - https://www.whatsapp.com/records/login    
 Facebook - https://www.facebook.com/records/login    
 Uber - https://lert.uber.com/s/?language=en_US  
+
+https://www.wired.com/story/duckduckgo-microsoft-twitter-ft-bush-assassination-whatsapp/    
+https://proprivacy.com/privacy-service/guides/duckduckgo-safe    
 
 ### MALWARES, BACKDOORS, ZERO-DAYS, DATA POISONING, SUPPLY CHAIN ATTACK, MAN-IN-THE-MIDDLE (MITM), HONEY POTS, AND SOCIAL ENGINEERING ATTACK    
 
