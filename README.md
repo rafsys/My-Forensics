@@ -20,6 +20,9 @@ https://www.caine-live.net
 https://csilinux.com  
 • Debian Forensics Packages  
 https://packages.debian.org/unstable/forensics-all  
+• Drive Badger    
+https://drivebadger.com    
+
 **PROPRIETARY**    
 • SIFT Workstation  
 https://www.sans.org/tools/sift-workstation  
@@ -119,6 +122,7 @@ Rainbow Tables (Hashes) - https://hashes.com/en/decrypt/hash
 Message Header Analyzer - https://mha.azurewebsites.net/  |  https://github.com/microsoft/MHA  
 Magic Numbers - https://en.wikipedia.org/wiki/Magic_number_(programming)  
 Web Cache - https://archive.org  
+Offensive Google framework - https://github.com/mxrch/GHunt    
 
 ------------------------------------------------------------------------------------------------------------------------------
 <img src="https://latex.codecogs.com/svg.image?\LARGE&space;\textbf{{\color{Red}ACTIVE&space;FORENSICS}}" title="\textbf{{\color{Red}ACTIVE FORENSICS}}" />    
@@ -179,6 +183,7 @@ https://github.com/CyberMonitor/APT_CyberCriminal_Campagin_Collections
 https://dergipark.org.tr/tr/download/article-file/835902  
 • CVEs    
 https://www.cve.org    
+https://github.com/vdohney/keepass-password-dumper    
 
 **Man-In-The-Middle**    
 https://github.com/jakev/mitm-helper-wifi    
@@ -213,12 +218,17 @@ https://www.youtube.com/watch?v=sNYsfUNegEA
 • PhotoDNA  
 • Geo-tags  
 
-### ANALYSIS TOOLS    
+### DATA CONVERT, REGISTRY, EVENT LOG, FINDERS   
+**Online**    
 https://www.virustotal.com  
 https://binvis.io  
-https://github.com/freedomofpress/dangerzone    
+**Offline**    
+Convert to safe PDFs - https://github.com/freedomofpress/dangerzone    
+ImHex - https://github.com/WerWolv/ImHex    
+Making Maps for Investigators - https://github.com/northloopforensics/Fetch    
+Bitlocker Key Finder - https://github.com/northloopforensics/Bitlocker_Key_Finder    
+Drive Badger - Covert Data Exfiltration Operations - https://github.com/drivebadger/drivebadger
 
-### REGISTRY AND EVENT LOG    
 
 ### REVERSE ENGINEERING    
 
