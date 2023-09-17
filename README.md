@@ -9,6 +9,7 @@ https://www.forensicscijournal.com
 
 DEF CON 31 - Ringhopper - How We Almost Zero day’d the World - Benny Zeltser, Jonathan Lusky    
 https://youtu.be/u8V4ofWpHZk    
+
 ------------------------------------------------------------------------------------------------------------------------------
 <img src="https://latex.codecogs.com/svg.image?\LARGE&space;\textbf{{\color{Red}PASSIVE&space;FORENSICS}}" title="\textbf{{\color{Red}PASSIVE FORENSICS}}" />    
 
