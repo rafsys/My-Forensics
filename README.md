@@ -4,6 +4,7 @@
 https://github.com/Cugu/awesome-forensics    
 https://github.com/shadawck/awesome-anti-forensic    
 https://github.com/Digital-Forensics-Discord-Server/LawEnforcementResources    
+https://github.com/Digital-Forensics-Discord-Server/TheHitchhikersGuidetoDFIRExperiencesFromBeginnersandExperts    
 https://github.com/Hack-with-Github/Awesome-Hacking    
 https://github.com/enaqx/awesome-pentest    
 https://github.com/mikeroyal/Digital-Forensics-Guide    
