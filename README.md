@@ -1,4 +1,4 @@
-<img src="https://latex.codecogs.com/svg.image?\inline&space;\huge&space;\bg{red}{\textbf{COMPUTER&space;FORENSICS}}" title="{\textbf{COMPUTER FORENSICS}}" />    
+<img src="https://latex.codecogs.com/svg.image?\huge&space;\mathbf{\texttt{DIGITAL&space;FORENSICS&space;AND&space;INCIDENT&space;RESPONSE&space;{\color{Orchid}(DFIR)}}}" title="\mathbf{\texttt{DIGITAL FORENSICS AND INCIDENT RESPONSE&space;{\color{Orchid}(DFIR)}}}" />    
 
 **Best References**    
 https://github.com/Cugu/awesome-forensics    
@@ -9,9 +9,6 @@ https://github.com/Hack-with-Github/Awesome-Hacking
 https://github.com/enaqx/awesome-pentest    
 https://github.com/mikeroyal/Digital-Forensics-Guide    
 https://github.com/onlurking/awesome-infosec    
-https://www.reddit.com/r/computerforensics    
-https://forensics.wiki    
-https://www.forensicscijournal.com    
 
 DEF CON 31 - Ringhopper - How We Almost Zero day’d the World - Benny Zeltser, Jonathan Lusky    
 https://youtu.be/u8V4ofWpHZk    
@@ -29,16 +26,14 @@ https://youtu.be/u8V4ofWpHZk
 <p>https://socradar.io/beyond-the-veil-of-surveillance-private-sector-offensive-actors-psoas</p>
 <p>• Burn, drown, or smash your phone: Forensics can extract data anyway</p>
 <p>https://www.zdnet.com/article/burn-drown-or-smash-your-phone-forensics-can-extract-data-anyway</p>
+<p>• How law enforcement gets around your smartphone’s encryption</p>
+<p>https://arstechnica.com/information-technology/2021/01/how-law-enforcement-gets-around-your-smartphones-encryption/</p>
 <p>• Forensics Journal Comparative analysis of mobile forensic proprietary tools: an application in forensic investigation (2022)</p>
 <p>https://www.forensicscijournal.com/articles/jfsr-aid1039.pdf</p>
-<p>• Methodology for Forensics Data Reconstruction on Mobile Devices with Android Operating System Applying In-System Programming and Combination Firmware (2020)    </p>
+<p>• Methodology for Forensics Data Reconstruction on Mobile Devices with Android Operating System Applying In-System Programming and Combination Firmware (2020)</p>
 <p>https://ppee.unb.br/wp-content/uploads/2020/12/Artigo_Claudinei-Morim.pdf</p>
 <p>• OWASP Mobile Application Security</p>
-<p>https://mas.owasp.org</p>
 <p>https://mobile-security.gitbook.io/mobile-security-testing-guide</p>
-<p>https://github.com/OWASP/owasp-mastg</p>
-<p>• Distrowatch - Security</p>
-<p>https://distrowatch.com/search.php?category=Security</p>
 </sub>
 
 ### WINDOWS RELATED  
@@ -49,8 +44,6 @@ https://github.com/keydet89/RegRipper3.0
 
 ### -under work-  
 
-https://ericzimmerman.github.io/#!index.md  
-https://github.com/imagej/ImageJ  
 https://www.autopsy.com/download/  
 https://www.nomoreransom.org/en/index.html  
 https://github.com/504ensicsLabs    
@@ -70,34 +63,28 @@ https://github.com/demining/bitcoindigger
 https://github.com/demining/Dao-Exploit    
 https://www.blocksherlock.com/home/blockchain-explorers    
 
-### OSINT
-Awesome Osint - https://github.com/jivoi/awesome-osint    
-Sherlock Project - https://github.com/sherlock-project/sherlock    
-Name OSINT - https://namechk.com  
-IP Logger - https://iplogger.org  
-IP Tracker - https://iplogger.org/ip-tracker  
-Location Tracker - https://iplogger.org/location-tracker  
-URL checker -  https://iplogger.org/url_checker  
-MAC address lookup - https://iplogger.org/mac-checker  
-Message Header Analyzer - https://mha.azurewebsites.net/  |  https://github.com/microsoft/MHA  
-Magic Numbers - https://en.wikipedia.org/wiki/Magic_number_(programming)  
-Rainbow Tables (Hashes) - https://hashes.com/en/decrypt/hash  
-Web Cache - https://archive.org  
-Offensive Google framework - https://github.com/mxrch/GHunt    
 
 ------------------------------------------------------------------------------------------------------------------------------
 <img src="https://latex.codecogs.com/svg.image?\LARGE&space;\textbf{{\color{Red}ACTIVE&space;FORENSICS}}" title="\textbf{{\color{Red}ACTIVE FORENSICS}}" />    
 
 https://www.youtube.com/watch?v=WwmcZSHw66w  
-https://www.youtube.com/watch?v=P-OpyGJcMHE  
 https://www.youtube.com/watch?v=0AwI6YrV2h4  
 
-### LAW ENFORCEMENT    
+### LAW ENFORCEMENT AGENCY (LEA)    
 
-• **Best References**    
-https://github.com/Digital-Forensics-Discord-Server/LawEnforcementResources    
-https://www.wired.com/story/duckduckgo-microsoft-twitter-ft-bush-assassination-whatsapp/    
-https://www.reddit.com/r/privacytoolsIO/comments/oonja7/protonmail_working_with_law_enforcement_a_concern/    
+• **Rule of Law Benchmarks** <img src="https://latex.codecogs.com/svg.image?\small&space;\textrm{{\color{Red}(Remember&space;that&space;the&space;law&space;in&space;theory&space;is&space;different&space;from&space;the&space;law&space;in&space;practice)}}" title="\textrm{{\color{Red}(Remember that the law in theory is different from the law in practice)}}" />    
+*Council of Europe*    
+Cybercrime - www.coe.int/cybercrime    
+GLACY+ - https://coe.int/en/web/cybercrime/glacyplus    
+https://coe.int/en/web/cybercrime/iproceeds-2    
+iPROCEEDS-2 - https://coe.int/en/web/cybercrime/iproceeds-2    
+Octopus Project - https://coe.int/en/web/cybercrime/octopus-project    
+CyberSouth - https://coe.int/en/web/cybercrime/cybersouth    
+CyberEast - https://coe.int/en/web/cybercrime/cybereast    
+
+• **Investigatory Powers**    
+UK Public General Acts - Investigatory Powers Act 2016 - https://www.legislation.gov.uk/ukpga/2016/25/contents    
+46 U.S. Code § 70035 - Investigatory powers - https://www.law.cornell.edu/uscode/text/46/70035    
 
 • **International Conventions**  
 UNO - https://www.unodc.org/unodc/en/organized-crime/intro/UNTOC.html    
@@ -114,6 +101,10 @@ Facebook - https://www.facebook.com/records/login
 Uber - https://lert.uber.com/s/?language=en_US  
 
 • **Liability for Contents**    
+[How to start your own ISP](https://startyourownisp.com/)    
+[Where are torrents permitted?](https://i.imgur.com/3fHyG2S.png)    
+[UK ISP Court Orders](http://www.ukispcourtorders.co.uk/)    
+[Web Sheriff](https://en.wikipedia.org/wiki/Web_Sheriff)    
 [A new bill could punish web platforms for using end-to-end encryption](https://www.theverge.com/2020/1/31/21116788/earn-it-act-section-230-lindsey-graham-draft-bill-encryption)    
 [French court rules that Steam’s ban on reselling used games is contrary to European law](https://www.polygon.com/2019/9/19/20874384/french-court-steam-valve-used-games-eu-law)    
 [MEPs approve sweeping changes to copyright law](https://www.theguardian.com/media/2019/mar/26/meps-approve-sweeping-changes-to-copyright-law-european-copyright-directive)    
@@ -125,14 +116,11 @@ Uber - https://lert.uber.com/s/?language=en_US
 [Domain Registrar Can be Held Liable for Pirate Site, Court Rules](https://torrentfreak.com/domain-registrar-can-be-held-liable-for-pirate-site-court-rules-181224/)    
 [Reporting When Pirate Releases Hit The Internet is Apparently Illegal Now](https://torrentfreak.com/reporting-when-pirate-releases-hit-the-internet-is-apparently-illegal-now-190101/)    
 [Swiss Copyright Law: Downloading Stays Legal, No Site Blocking](https://torrentfreak.com/swiss-copyright-law-downloading-stays-legal-no-site-blocking/)    
-[Web Sheriff](https://en.wikipedia.org/wiki/Web_Sheriff)    
 [List of websites blocked in the United Kingdom](https://en.wikipedia.org/wiki/List_of_websites_blocked_in_the_United_Kingdom)    
 [Who Watches the Watchmen: Exploring Complaints on the Web](https://arxiv.org/abs/1902.05796)    
 [Major US ISPs Refuse to Discuss Repeat Infringer Policies](https://torrentfreak.com/major-us-isps-refuse-to-discuss-repeat-infringer-policies-190912/)    
 [British ISPs throw in the towel, give up sending out toothless copyright infringement warnings](https://www.theregister.co.uk/2019/07/20/creative_content_piracy/)    
-[How to start your own ISP](https://startyourownisp.com/) - Start your own ISP, lists tools which you need and lots of background information.    
-[Where are torrents permitted?](https://i.imgur.com/3fHyG2S.png) - A world map (picture) which shows where warez torrenting is allowed.    
-[UK ISP Court Orders](http://www.ukispcourtorders.co.uk/) - A incomplete list of websites recently taken down in the UK by the High Court.    
+
 
 ### MALWARES, BACKDOORS, ZERO-DAYS, DATA POISONING, SUPPLY CHAIN ATTACK, MAN-IN-THE-MIDDLE (MITM), HONEY POTS, AND SOCIAL ENGINEERING ATTACK    
 
@@ -199,22 +187,42 @@ https://www.youtube.com/watch?v=6JJo8qCYE8M
 • PhotoDNA  
 • Geo-tags  
 
-### DATA CONVERT, REGISTRY, EVENT LOG, FINDERS   
+### CONVERTERS, PROCESSORS, ANALYZERS, LOGGERS AND DATA SEEKERS
 **Online**    
-https://www.virustotal.com  
-https://binvis.io  
+Virus Total - https://www.virustotal.com  
+Binvis - https://binvis.io  
+Hybrid - https://hybrid-analysis.com    
+Any Run - https://app.any.run    
+IP Logger - https://iplogger.org  
+IP Tracker - https://iplogger.org/ip-tracker  
+Location Tracker - https://iplogger.org/location-tracker  
+URL checker -  https://iplogger.org/url_checker  
+MAC address lookup - https://iplogger.org/mac-checker  
+Name OSINT - https://namechk.com  
+Message Header Analyzer - https://mha.azurewebsites.net/  |  https://github.com/microsoft/MHA  
+Magic Numbers - https://en.wikipedia.org/wiki/Magic_number_(programming)  
+Rainbow Tables (Hashes) - https://hashes.com/en/decrypt/hash  
+Awesome Osint - https://github.com/jivoi/awesome-osint    
+Sherlock Project - https://github.com/sherlock-project/sherlock   
+
 **Offline**    
 ImHex - https://github.com/WerWolv/ImHex    
 Making Maps for Investigators - https://github.com/northloopforensics/Fetch    
 Bitlocker Key Finder - https://github.com/northloopforensics/Bitlocker_Key_Finder    
 Drive Badger - Covert Data Exfiltration Operations - https://github.com/drivebadger/drivebadger
-
+Eric Zimmerman's tools - https://ericzimmerman.github.io/#!index.md  
+ImageJ - https://github.com/imagej/ImageJ  
+Offensive Google framework - https://github.com/mxrch/GHunt    
 
 ### REVERSE ENGINEERING    
+https://github.com/alphaSeclab/awesome-reverse-engineering    
 
 ### SOCIAL ENGINEERING ATTACK
+https://github.com/trustedsec/social-engineer-toolkit    
 
 ### OTHERS  
+https://www.youtube.com/@DEFCONConference    
 https://www.youtube.com/@hitbsecconf/videos  
+https://www.youtube.com/@SANSOffensiveOperations    
 https://necessaryandproportionate.org  
-LeakTheAnalyst        
+https://www.reddit.com/r/InfoSecNews/comments/sxxzju/leaktheanalyst_group_leak_critical_data_from/
