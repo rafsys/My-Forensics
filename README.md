@@ -21,7 +21,7 @@ https://youtu.be/u8V4ofWpHZk
 | • Kali Linux<br>https://www.kali.org/docs/general-use/kali-linux-forensics-mode<br>• CAINE<br>https://www.caine-live.net<br>• CSI Linux<br>https://csilinux.com<br>• Avilla Forensics<br>https://github.com/AvillaDaniel/AvillaForensics<br>• IPED<br>https://github.com/sepinf-inc/IPED<br>• Mobile Verification Toolkit (MVT)<br>https://docs.mvt.re/en/latest<br>• Debian Forensics Packages<br>https://packages.debian.org/unstable/forensics-all<br>• Drive Badger<br>https://drivebadger.com<br>• Octoplus Box (easy end user acess)<br>https://octoplusbox.com<br>https://octoplusbox.com/en/features/models/<br>https://www.aliexpress.com/w/wholesale-octoplus-box.html 	| • Cellebrite ®<br>https://cellebrite.com<br>• Oxygen Forensic ®<br>https://oxygen-forensic.wedatasolution.com<br>• MSAB ®<br>https://www.msab.com<br>• SIFT Workstation ®<br>https://www.sans.org/tools/sift-workstation<br>• GMDSOFT ®<br>https://www.gmdsoft.com<br>• FTK ® - Forensic Toolkit<br>https://www.exterro.com/forensic-toolkit<br>• Verint Systems ®<br>https://www.verint.com<br>• NSO Group ®<br>https://www.nsogroup.com<br>• Cyber Arm ®<br>https://cyber-arm.com/services<br>• NirSoft ®<br>https://www.nirsoft.net/computer_forensic_software.html<br>• MiTeC ®<br>https://www.mitec.cz 	|
 
 <sub>
-<p>**Others**</p>
+<p><b>Others</b></p>
 <p>• Beyond the Veil of Surveillance: Private Sector Offensive Actors (PSOAs)</p>
 <p>https://socradar.io/beyond-the-veil-of-surveillance-private-sector-offensive-actors-psoas</p>
 <p>• Burn, drown, or smash your phone: Forensics can extract data anyway</p>
@@ -36,14 +36,11 @@ https://youtu.be/u8V4ofWpHZk
 <p>https://mobile-security.gitbook.io/mobile-security-testing-guide</p>
 </sub>
 
-### WINDOWS RELATED  
+### FORENSIC TOOLS 
 
 https://www.hirensbootcd.org/download    
 https://docs.microsoft.com/en-us/sysinternals/downloads  
 https://github.com/keydet89/RegRipper3.0  
-
-### -under work-  
-
 https://www.autopsy.com/download/  
 https://www.nomoreransom.org/en/index.html  
 https://github.com/504ensicsLabs    
@@ -221,8 +218,14 @@ https://github.com/alphaSeclab/awesome-reverse-engineering
 https://github.com/trustedsec/social-engineer-toolkit    
 
 ### OTHERS  
-https://www.youtube.com/@DEFCONConference    
-https://www.youtube.com/@hitbsecconf/videos  
-https://www.youtube.com/@SANSOffensiveOperations    
-https://necessaryandproportionate.org  
-https://www.reddit.com/r/InfoSecNews/comments/sxxzju/leaktheanalyst_group_leak_critical_data_from/
+<details>
+<summary>YouTube Channels</summary>  </p>
+<p>https://www.youtube.com/@DEFCONConference    </p>
+<p>https://www.youtube.com/@hitbsecconf/videos   </p> 
+<p>https://www.youtube.com/@SANSForensics    </p>
+<p>https://www.youtube.com/@SANSOffensiveOperations    </p>
+<p>https://www.youtube.com/@BlackHatOfficialYT    </p>
+</details>
+
+https://www.reddit.com/r/digitalforensics    
+https://necessaryandproportionate.org    
