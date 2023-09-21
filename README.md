@@ -1,5 +1,7 @@
 <img src="https://latex.codecogs.com/svg.image?\huge&space;\mathbf{\texttt{DIGITAL&space;FORENSICS&space;AND&space;INCIDENT&space;RESPONSE&space;{\color{Orchid}(DFIR)}}}" title="\mathbf{\texttt{DIGITAL FORENSICS AND INCIDENT RESPONSE&space;{\color{Orchid}(DFIR)}}}" />    
 
+![the-treachery-of-images-this-is-not-a-pipe-1948(2)-660791473](https://github.com/RENANZG/My-Forensics/assets/53377291/c7196b87-8d4f-49c1-b1df-39c4b07ad230)
+
 **Best References**    
 https://github.com/Cugu/awesome-forensics    
 https://github.com/shadawck/awesome-anti-forensic    
