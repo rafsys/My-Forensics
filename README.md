@@ -3,6 +3,7 @@
 ![the-treachery-of-images-this-is-not-a-pipe-1948(2)-660791473](https://github.com/RENANZG/My-Forensics/assets/53377291/c7196b87-8d4f-49c1-b1df-39c4b07ad230)
 
 **Best References**    
+https://dfrws.org/presentation  
 https://github.com/Cugu/awesome-forensics    
 https://github.com/shadawck/awesome-anti-forensic    
 https://github.com/Digital-Forensics-Discord-Server/LawEnforcementResources    
@@ -16,6 +17,7 @@ DEF CON 31 - Ringhopper - How We Almost Zero day’d the World - Benny Zeltser, 
 https://youtu.be/u8V4ofWpHZk    
 
 ------------------------------------------------------------------------------------------------------------------------------
+
 <img src="https://latex.codecogs.com/svg.image?\LARGE&space;\textbf{{\color{Red}PASSIVE&space;FORENSICS}}" title="\textbf{{\color{Red}PASSIVE FORENSICS}}" />    
 
 | **FLOSS** 	| **PROPRIETARY** - Private Sector Offensive Actors (PSOAs) 	|
@@ -43,9 +45,14 @@ https://youtu.be/u8V4ofWpHZk
 https://www.hirensbootcd.org/download    
 https://docs.microsoft.com/en-us/sysinternals/downloads  
 https://github.com/keydet89/RegRipper3.0  
+https://github.com/504ensicsLabs    
 https://www.autopsy.com/download/  
 https://www.nomoreransom.org/en/index.html  
-https://github.com/504ensicsLabs    
+
+
+
+
+
 
 ### VOLATILE MEMORY ANALYSIS    
 • Volatility    
@@ -54,6 +61,11 @@ https://www.volatilityfoundation.org/releases
 https://github.com/504ensicsLabs/LiME      
 • Cobalt Strike in memory    
 https://andreafortuna.org/2020/11/22/how-to-detect-cobalt-strike-activity-in-memory-forensics/    
+
+### JTAG AND CHIP-OFF FORENSICS    
+https://www.fletc.gov/jtag-chipoff-smartphones-training-program    
+https://www.gillware.com/phone-data-recovery-services/jtag-chip-off-forensics    
+https://www.gillware.com/phone-data-recovery-services/chip-off-forensics-services    
 
 ### CRYPTOCURRENCIES ANALYSIS    
 https://www.chainalysis.com    
@@ -217,6 +229,7 @@ Offensive Google framework - https://github.com/mxrch/GHunt
 https://github.com/alphaSeclab/awesome-reverse-engineering    
 
 ### SOCIAL ENGINEERING ATTACK
+https://github.com/giuliacassara/awesome-social-engineering    
 https://github.com/trustedsec/social-engineer-toolkit    
 
 ### OTHERS  
@@ -225,6 +238,7 @@ https://github.com/trustedsec/social-engineer-toolkit
 <p>https://www.youtube.com/@DEFCONConference    </p>
 <p>https://www.youtube.com/@hitbsecconf/videos   </p> 
 <p>https://www.youtube.com/@SANSForensics    </p>
+<p>https://www.youtube.com/@DFRWS/featured    </p>
 <p>https://www.youtube.com/@SANSOffensiveOperations    </p>
 <p>https://www.youtube.com/@BlackHatOfficialYT    </p>
 </details>
