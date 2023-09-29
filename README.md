@@ -12,7 +12,8 @@ https://github.com/Hack-with-Github/Awesome-Hacking
 https://github.com/enaqx/awesome-pentest    
 https://github.com/mikeroyal/Digital-Forensics-Guide    
 https://github.com/onlurking/awesome-infosec    
-https://github.com/504ensicsLabs    
+https://github.com/504ensicsLabs  
+https://forensics.wiki        
 
 DEF CON 31 - Ringhopper - How We Almost Zero day’d the World - Benny Zeltser, Jonathan Lusky    
 https://youtu.be/u8V4ofWpHZk    
@@ -90,10 +91,20 @@ https://github.com/504ensicsLabs/LiME
 • Cobalt Strike in memory    
 https://andreafortuna.org/2020/11/22/how-to-detect-cobalt-strike-activity-in-memory-forensics/    
 
-### JTAG AND CHIP-OFF FORENSICS    
+### JTAG, CHIP-OFF AND ISP FORENSICS    
+https://www.teeltech.com/ufaqs/what-is-jtag-chip-off-and-isp        
+https://www.cellebritelearningcenter.com/mod/page/view.php?id=11903     
 https://www.fletc.gov/jtag-chipoff-smartphones-training-program    
 https://www.gillware.com/phone-data-recovery-services/jtag-chip-off-forensics    
-https://www.gillware.com/phone-data-recovery-services/chip-off-forensics-services    
+https://www.gillware.com/phone-data-recovery-services/chip-off-forensics-services  
+
+**Researching support for phones in JTAG software**     
+https://medusabox.com       
+https://octoplusbox.com     
+https://www.riffbox.org     
+https://easy-jtag.com       
+https://z3x-team.com        
+
 
 ### CRYPTOCURRENCIES ANALYSIS    
 https://www.chainalysis.com    
