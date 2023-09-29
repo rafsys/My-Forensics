@@ -282,3 +282,11 @@ https://www.reddit.com/r/digitalforensics
 https://necessaryandproportionate.org    
 
 </details>
+
+<p></p>
+<sub>
+<p><b>Others</b></p>
+<p>https://coe.int/en/web/cybercrime</p>
+<p>https://sherloc.unodc.org/cld/en/st/home.html</p>
+<p>https://www.justice.gov/news</p>
+</sub>
