@@ -6,28 +6,27 @@
 https://dfrws.org/presentation  
 https://github.com/Cugu/awesome-forensics    
 https://github.com/shadawck/awesome-anti-forensic    
+https://github.com/Ignitetechnologies/Mindmap    
+https://github.com/mikeroyal/Digital-Forensics-Guide    
+https://github.com/forensicswiki/wiki    
 https://github.com/Digital-Forensics-Discord-Server/LawEnforcementResources    
 https://github.com/Digital-Forensics-Discord-Server/TheHitchhikersGuidetoDFIRExperiencesFromBeginnersandExperts    
 https://github.com/Hack-with-Github/Awesome-Hacking    
 https://github.com/enaqx/awesome-pentest    
-https://github.com/mikeroyal/Digital-Forensics-Guide    
 https://github.com/onlurking/awesome-infosec    
 https://github.com/504ensicsLabs  
-https://forensics.wiki        
 
 DEF CON 31 - Ringhopper - How We Almost Zero day’d the World - Benny Zeltser, Jonathan Lusky    
 https://youtu.be/u8V4ofWpHZk    
 
 ------------------------------------------------------------------------------------------------------------------------------
 
-**Crime Triangle**
-
+**Crime Triangle**    
 <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.benthamsgaze.org%2Fwp-content%2Fuploads%2F2019%2F11%2Fcrime_triangle.png&f=1&nofb=1&ipt=4285022ddfdbbc2fa708c6808e37cf3c6979893df035951e6bf65e8bce4ce1ed&ipo=images" alt="Girl in a jacket" style="width:320px;height:300px;">
-
-**Basic Investigative Metodology**
-• 5W• 
-• PDCA Cycle
-• Root Cause
+**Basic Investigative Metodology**    
+• 5W    
+• PDCA Cycle    
+• Root Cause    
 
 <details>
 <summary>${\color{Blue}\textbf{PASSIVE FORENSICS}}$</summary>  
