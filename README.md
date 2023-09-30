@@ -23,10 +23,13 @@ https://youtu.be/u8V4ofWpHZk
 
 **Crime Triangle**    
 <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.benthamsgaze.org%2Fwp-content%2Fuploads%2F2019%2F11%2Fcrime_triangle.png&f=1&nofb=1&ipt=4285022ddfdbbc2fa708c6808e37cf3c6979893df035951e6bf65e8bce4ce1ed&ipo=images" alt="Girl in a jacket" style="width:320px;height:300px;">    
+
+<p></p>
 **Basic Investigative Metodology**    
 • 5W    
 • PDCA Cycle    
 • Root Cause    
+<p></p>
 
 <details>
 <summary>${\color{Blue}\textbf{PASSIVE FORENSICS}}$</summary>  
@@ -260,14 +263,12 @@ https://github.com/alphaSeclab/awesome-reverse-engineering
 https://github.com/giuliacassara/awesome-social-engineering    
 https://github.com/trustedsec/social-engineer-toolkit    
 
-### OTHERS  
-
 
 <p></p>
 
-
-
 </details>
+
+------------------------------------------------------------------------------------------------------------------------------
 
 <p></p>
 <sub>
