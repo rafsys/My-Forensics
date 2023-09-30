@@ -4,6 +4,7 @@
 
 **Best References**    
 https://dfrws.org/presentation  
+https://github.com/neolea/neolea-training-materials    
 https://github.com/Cugu/awesome-forensics    
 https://github.com/shadawck/awesome-anti-forensic    
 https://github.com/Ignitetechnologies/Mindmap    
@@ -53,12 +54,20 @@ https://youtu.be/u8V4ofWpHZk
 <p>https://www.zdnet.com/article/burn-drown-or-smash-your-phone-forensics-can-extract-data-anyway</p>
 <p>• How law enforcement gets around your smartphone’s encryption</p>
 <p>https://arstechnica.com/information-technology/2021/01/how-law-enforcement-gets-around-your-smartphones-encryption/</p>
+<p>• Cellphone data used to solve murder case from 2 years ago, police say</p>
+<p>https://www.youtube.com/watch?v=EmWsW_p_ta4</p>
+<p>• The Stingray: How Law Enforcement Can Track Your Every Move</p>
+<p>https://www.youtube.com/watch?v=wzSgLpNrr2E</p>
+<p>• Edward Snowden: How Your Cell Phone Spies on You</p>
+<p>https://www.youtube.com/watch?v=VFns39RXPrU</p>
+<p>• SCOTUS: Police Need Search Warrant to Ping cell Phones</p>
+<p>https://www.youtube.com/watch?v=ASYm-3NJ-GA&t=40s</p>
+<p>• Police are tracking you and your license plates</p>
+<p>https://www.youtube.com/watch?v=DH7edXaZS0A</p>
 <p>• Forensics Journal Comparative analysis of mobile forensic proprietary tools: an application in forensic investigation (2022)</p>
 <p>https://www.forensicscijournal.com/articles/jfsr-aid1039.pdf</p>
 <p>• Methodology for Forensics Data Reconstruction on Mobile Devices with Android Operating System Applying In-System Programming and Combination Firmware (2020)</p>
 <p>https://ppee.unb.br/wp-content/uploads/2020/12/Artigo_Claudinei-Morim.pdf</p>
-<p>• OWASP Mobile Application Security</p>
-<p>https://mobile-security.gitbook.io/mobile-security-testing-guide</p>
 </sub>
 <p></p>
 
@@ -66,7 +75,9 @@ https://youtu.be/u8V4ofWpHZk
 
 <p></p>
 
--under-work-
+```diff
+- UNDER WORK -
+```
 
 **Online**    
 Virus Total - https://www.virustotal.com  
@@ -78,10 +89,17 @@ IP Tracker - https://iplogger.org/ip-tracker
 Location Tracker - https://iplogger.org/location-tracker  
 URL checker -  https://iplogger.org/url_checker  
 MAC address lookup - https://iplogger.org/mac-checker  
-Name OSINT - https://namechk.com  
+IP API    
+    - [ip-api](https://ip-api.com/)    
+    - [ipify](https://www.ipify.org/)    
+    - [ipapi](https://ipapi.co/)    
+    - [vpnapi](https://vpnapi.io/)    
+    - [ipapi](https://ipapi.com/)    
+Name OSINT - https://namechk.com    
 Awesome Osint - https://github.com/jivoi/awesome-osint    
 Sherlock Project - https://github.com/sherlock-project/sherlock   
 Message Header Analyzer - https://mha.azurewebsites.net/  |  https://github.com/microsoft/MHA  
+Reverse Shell Generator - https://www.revshells.com    
 Magic Numbers - https://en.wikipedia.org/wiki/Magic_number_(programming)  
 Rainbow Tables (Hashes) - https://hashes.com/en/decrypt/hash  
 
@@ -89,8 +107,8 @@ Rainbow Tables (Hashes) - https://hashes.com/en/decrypt/hash
 ImHex - https://github.com/WerWolv/ImHex    
 Making Maps for Investigators - https://github.com/northloopforensics/Fetch    
 Bitlocker Key Finder - https://github.com/northloopforensics/Bitlocker_Key_Finder    
-Drive Badger - Covert Data Exfiltration Operations - https://github.com/drivebadger/drivebadger
-Eric Zimmerman's tools - https://ericzimmerman.github.io/#!index.md  
+Drive Badger - Covert Data Exfiltration Operations - https://github.com/drivebadger/drivebadger    
+Eric Zimmerman's tools - https://ericzimmerman.github.io/#!index.md    
 ImageJ - https://github.com/imagej/ImageJ  
 Offensive Google framework - https://github.com/mxrch/GHunt    
 https://github.com/keydet89/RegRipper3.0  
@@ -138,12 +156,13 @@ https://www.blocksherlock.com/home/blockchain-explorers
 <summary>${\color{Red}\textbf{ACTIVE FORENSICS}}$</summary>
 <p></p>
 <p></p>
-https://www.youtube.com/watch?v=WwmcZSHw66w  
-https://www.youtube.com/watch?v=0AwI6YrV2h4  
+  
+https://www.youtube.com/watch?v=WwmcZSHw66w    
+https://www.youtube.com/watch?v=0AwI6YrV2h4    
 
 ### LAW ENFORCEMENT AGENCY (LEA)    
 
-• **Rule of Law Benchmarks** <img src="https://latex.codecogs.com/svg.image?\small&space;\textrm{{\color{Red}(Remember&space;that&space;the&space;law&space;in&space;theory&space;is&space;different&space;from&space;the&space;law&space;in&space;practice)}}" title="\textrm{{\color{Red}(Remember that the law in theory is different from the law in practice)}}" />    
+• **Rule of Law Benchmarks** (Remember that the law in theory is different from the law in practice)    
 *Council of Europe*    
 Cybercrime - www.coe.int/cybercrime    
 GLACY+ - https://coe.int/en/web/cybercrime/glacyplus    
@@ -162,8 +181,8 @@ Budapest Convention - https://www.coe.int/en/web/cybercrime/the-budapest-convent
 Five Eyes - https://en.wikipedia.org/wiki/Five_Eyes    
 
 • **Private Agents**   
-[“Reverse Location Search Warrant”: A New Personal Data Hoovering Exercise Brought to You by Google (2019)](https://www.nakedcapitalism.com/2019/02/reverse-location-search-warrant-a-new-personal-data-hoovering-exercise-brought-to-you-by-google.html)
-[As UN Human Rights Chief Urges Stricter Rules, Snowden Calls for End to Spyware Trade (2021)](https://www.nakedcapitalism.com/2021/07/as-un-human-rights-chief-urges-stricter-rules-snowden-calls-for-end-to-spyware-trade.html)
+[“Reverse Location Search Warrant”: A New Personal Data Hoovering Exercise Brought to You by Google (2019)](https://www.nakedcapitalism.com/2019/02/reverse-location-search-warrant-a-new-personal-data-hoovering-exercise-brought-to-you-by-google.html)    
+[As UN Human Rights Chief Urges Stricter Rules, Snowden Calls for End to Spyware Trade (2021)](https://www.nakedcapitalism.com/2021/07/as-un-human-rights-chief-urges-stricter-rules-snowden-calls-for-end-to-spyware-trade.html)    
 
 • **Liability for Contents**    
 [How to start your own ISP](https://startyourownisp.com/)    
@@ -189,7 +208,7 @@ Five Eyes - https://en.wikipedia.org/wiki/Five_Eyes
 
 ### MALWARES, BACKDOORS, ZERO-DAYS, DATA POISONING, SUPPLY CHAIN ATTACK, MAN-IN-THE-MIDDLE (MITM), HONEY POTS, AND SOCIAL ENGINEERING ATTACK    
 
-**Some Famous Case Law**    
+**Some Famous Cases**    
 
 ![1_dRthFvGk3zqARHOPzAymQQ](https://github.com/RENANZG/My-Forensics/assets/53377291/b347418d-dd76-4e0f-b075-e95db4817340)    
 • Omerta Digital (FBI Honey Pot?)
@@ -244,7 +263,7 @@ https://coveryourtracks.eff.org/learn
 **Supply Chain Attack**    
 https://reproducible-builds.org    
 
-**APT & Cybercriminal Campagin Collections**
+**APT & Cybercriminal Campagin Collections**    
 https://github.com/CyberMonitor/APT_CyberCriminal_Campagin_Collections    
 
 **Man-In-The-Middle**    
@@ -268,6 +287,100 @@ https://github.com/alphaSeclab/awesome-reverse-engineering
 https://github.com/giuliacassara/awesome-social-engineering    
 https://github.com/trustedsec/social-engineer-toolkit    
 
+<p></p>
+</details>
+
+<p></p>
+<p></p>
+
+--------------------------------------------------------------------------------------------------------------------------
+
+<details>
+<summary>${\color{Yellow}\textbf{PHONE SNIFFING}}$</summary>
+<p></p>
+<p></p>
+
+| `Name` | `Desc.` |
+|-|-|
+| IMEI | [International Mobile Equipment Identity](https://en.wikipedia.org/wiki/International_Mobile_Equipment_Identity) |
+| IMSI | [International Mobile Subscriber Identity](https://en.wikipedia.org/wiki/International_mobile_subscriber_identity) |
+| MCC | [Mobile Country Code](https://en.wikipedia.org/wiki/Mobile_country_code) |
+| MNC | [Mobile Network Code](https://en.wikipedia.org/wiki/Mobile_country_code) |
+| MSIN | [Mobile Subscription Identification Number](https://en.wikipedia.org/wiki/Mobile_identification_number) |
+| ICCID | [Integrated Circuit Card Identifier](https://en.wikipedia.org/wiki/SIM_card#ICCID) |
+| MSID | Gigits Give Network you use |
+|==========|==============================|
+| GSM | [Global System for Mobile Communications](https://en.wikipedia.org/wiki/GSM) |
+| SIM Card | [Subscriber Identity Module Card](https://en.wikipedia.org/wiki/SIM_card) |
+| SMS | [Short Message/Messaging Service](https://en.wikipedia.org/wiki/SMS) |
+| SDR | [Software-Defined Radio](https://en.wikipedia.org/wiki/Software-defined_radio) |
+
+![image](https://user-images.githubusercontent.com/53458032/209445888-a0b016ee-0b05-49d6-a4ab-d14d72f632f7.png)
+
+### Useful Websites
+- OpenCellID - [Link](https://opencellid.org/)
+- Cell Tower Locator (Cell2GPS) - [Link](http://www.cell2gps.com/)
+- Cell Phone Trackers - [Link](https://cellphonetrackers.org/)
+- International Numbering Plans - [Link](https://www.numberingplans.com/)
+- GSM World Coverage Map and GSM Country List - [Link](https://www.worldtimezone.com/gsm.html)
+
+### Information & Explanations
+- IMSI-catcher - [Link](https://en.wikipedia.org/wiki/IMSI-catcher)
+- GSM frequency bands - [Link](https://en.wikipedia.org/wiki/GSM_frequency_bands)
+- List of software-defined radios - [Link](https://en.wikipedia.org/wiki/List_of_software-defined_radios)
+
+### Useful Apps
+- Mobile Software
+  - AIMSICD - [Link](https://github.com/CellularPrivacy/Android-IMSI-Catcher-Detector)
+  - SnoopSnitch - [Link](https://f-droid.org/en/packages/de.srlabs.snoopsnitch/)
+- Desktop Software
+  - GsmEvil 2 - [Link](https://github.com/ninjhacks/gsmevil2)
+  - IMSI-catcher - [Link](https://github.com/Oros42/IMSI-catcher)
+
+### Equipment
+``GSM 900 / GSM 1800 MHz are used in most parts of the world: Europe, Asia, Australia, Middle East, Africa.``
+``GSM 850 / GSM 1900 MHz are used in the United States, Canada, Mexico and most countries of S. America.``
+- SDR
+  - RTL-SDR (65MHz-2.3GHz) - [Link](https://www.amazon.com/dp/B06Y1HKLHY)
+- Antenna
+  - Antenna - [Link](https://www.amazon.com/dp/B07HQJKMBD)
+
+### Equipment
+- Catching IMSI Catchers - [Link](https://youtu.be/eivHO1OzF5E)
+
+### GSM Sniffing Install/Setup Guide
+```
+# Install
+sudo apt install python3-numpy python3-scipy python3-scapy gr-gsm
+git clone https://github.com/Oros42/IMSI-catcher && cd IMSI-catcher
+sudo grgsm_livemon && python3 simple_IMSI-catcher.py --sniff
+
+# GSM Install Error? Try this!
+
+sudo apt-get install -y \
+    cmake \
+    autoconf \
+    libtool \
+    pkg-config \
+    build-essential \
+    docutils \
+    libcppunit-dev \
+    swig \
+    doxygen \
+    liblog4cpp5-dev \
+    gnuradio-dev \
+    gr-osmosdr \
+    libosmocore-dev \
+    liborc-0.4-dev \
+    swig
+    
+gnuradio-config-info -v
+
+# Tips
+sudo grgsm_scanner -l    # List your SDR connected.
+sudo grgsm_scanner       # Scan for cell towers near you.
+sudo grgsm_livemon       # Live radio scanning.
+```
 
 <p></p>
 
@@ -282,7 +395,8 @@ https://github.com/trustedsec/social-engineer-toolkit
 <p>https://sherloc.unodc.org/cld/en/st/home.html</p>
 <p>https://www.justice.gov/news</p>
 <p>https://www.reddit.com/r/digitalforensics</p>    
-<p>https://necessaryandproportionate.org</p>      
+<p>https://necessaryandproportionate.org</p>     
+<p>https://www.cvedetails.com/</p>
 </sub>
 
 <sub>
