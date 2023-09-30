@@ -20,6 +20,15 @@ https://youtu.be/u8V4ofWpHZk
 
 ------------------------------------------------------------------------------------------------------------------------------
 
+**Crime Triangle**
+
+<img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.benthamsgaze.org%2Fwp-content%2Fuploads%2F2019%2F11%2Fcrime_triangle.png&f=1&nofb=1&ipt=4285022ddfdbbc2fa708c6808e37cf3c6979893df035951e6bf65e8bce4ce1ed&ipo=images" alt="Girl in a jacket" style="width:320px;height:300px;">
+
+**Basic Investigative Metodology**
+• 5W• 
+• PDCA Cycle
+• Root Cause
+
 <details>
 <summary>${\color{Blue}\textbf{PASSIVE FORENSICS}}$</summary>  
 <p></p>
@@ -105,7 +114,6 @@ https://www.riffbox.org
 https://easy-jtag.com       
 https://z3x-team.com        
 
-
 ### CRYPTOCURRENCIES ANALYSIS    
 https://www.chainalysis.com    
 https://github.com/demining/CryptoDeepTools    
@@ -132,7 +140,6 @@ https://www.youtube.com/watch?v=0AwI6YrV2h4
 *Council of Europe*    
 Cybercrime - www.coe.int/cybercrime    
 GLACY+ - https://coe.int/en/web/cybercrime/glacyplus    
-https://coe.int/en/web/cybercrime/iproceeds-2    
 iPROCEEDS-2 - https://coe.int/en/web/cybercrime/iproceeds-2    
 Octopus Project - https://coe.int/en/web/cybercrime/octopus-project    
 CyberSouth - https://coe.int/en/web/cybercrime/cybersouth    
@@ -148,13 +155,8 @@ Budapest Convention - https://www.coe.int/en/web/cybercrime/the-budapest-convent
 Five Eyes - https://en.wikipedia.org/wiki/Five_Eyes    
 
 • **Private Agents**   
-Google - https://lers.google.com/signup_v2/landing    
-Google Time Line - https://timeline.google.com    
-Google Takeout - https://takeout.google.com  
-Microsoft - https://www.microsoft.com/en-us/corporate-responsibility/law-enforcement-requests-report  
-Whatsapp - https://www.whatsapp.com/records/login    
-Facebook - https://www.facebook.com/records/login    
-Uber - https://lert.uber.com/s/?language=en_US  
+[“Reverse Location Search Warrant”: A New Personal Data Hoovering Exercise Brought to You by Google (2019)](https://www.nakedcapitalism.com/2019/02/reverse-location-search-warrant-a-new-personal-data-hoovering-exercise-brought-to-you-by-google.html)
+[As UN Human Rights Chief Urges Stricter Rules, Snowden Calls for End to Spyware Trade (2021)](https://www.nakedcapitalism.com/2021/07/as-un-human-rights-chief-urges-stricter-rules-snowden-calls-for-end-to-spyware-trade.html)
 
 • **Liability for Contents**    
 [How to start your own ISP](https://startyourownisp.com/)    
@@ -260,26 +262,11 @@ https://github.com/giuliacassara/awesome-social-engineering
 https://github.com/trustedsec/social-engineer-toolkit    
 
 ### OTHERS  
-<details>
-<summary><b>YouTube Channels</b></summary>
-<p>https://www.youtube.com/@DEFCONConference</p>
-<p>https://www.youtube.com/@hitbsecconf/videos</p> 
-<p>https://www.youtube.com/@SANSForensics</p>
-<p>https://www.youtube.com/@DFRWS/featured</p>
-<p>https://www.youtube.com/@SANSOffensiveOperations</p>
-<p>https://www.youtube.com/@BlackHatOfficialYT</p>
-<p>https://www.youtube.com/@DebConfVideos</p>
-<p>https://www.youtube.com/@44contv</p>
-<p>https://www.youtube.com/@secwestnet</p>
-<p>https://www.youtube.com/@EkopartyConference</p>
-<p>https://www.youtube.com/@reconmtl</p>
-<p>https://www.youtube.com/@TROOPERScon</p>
-</details>
+
 
 <p></p>
 
-https://www.reddit.com/r/digitalforensics    
-https://necessaryandproportionate.org    
+
 
 </details>
 
@@ -289,4 +276,23 @@ https://necessaryandproportionate.org
 <p>https://coe.int/en/web/cybercrime</p>
 <p>https://sherloc.unodc.org/cld/en/st/home.html</p>
 <p>https://www.justice.gov/news</p>
+<p>https://www.reddit.com/r/digitalforensics</p>    
+<p>https://necessaryandproportionate.org</p>      
+</sub>
+
+<sub>
+<p><b>YouTube Channels</b></p>
+<p>https://www.youtube.com/@DEFCONConference</p>
+<p>https://www.youtube.com/@DFRWS</p>
+<p>https://www.youtube.com/@SANSForensics</p>
+<p>https://www.youtube.com/@SANSOffensiveOperations</p>
+<p>https://www.youtube.com/@hitbsecconf</p> 
+<p>https://www.youtube.com/@BlackHatOfficialYT</p>
+<p>https://www.youtube.com/@DebConfVideos</p>
+<p>https://www.youtube.com/@44contv</p>
+<p>https://www.youtube.com/@secwestnet</p>
+<p>https://www.youtube.com/@EkopartyConference</p>
+<p>https://www.youtube.com/@reconmtl</p>
+<p>https://www.youtube.com/@TROOPERScon</p>
+<p>https://www.youtube.com/@MCH2022NL</p>
 </sub>
