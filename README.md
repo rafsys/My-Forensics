@@ -4,7 +4,8 @@
 
 **Best References**    
 https://dfrws.org/presentation  
-https://github.com/neolea/neolea-training-materials    
+https://github.com/MISP/misp-training      
+https://github.com/ail-project/ail-training          
 https://github.com/Cugu/awesome-forensics    
 https://github.com/shadawck/awesome-anti-forensic    
 https://github.com/Ignitetechnologies/Mindmap    
