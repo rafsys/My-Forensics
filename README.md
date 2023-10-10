@@ -324,13 +324,16 @@ https://github.com/trustedsec/social-engineer-toolkit
 - Cell Phone Trackers - [Link](https://cellphonetrackers.org/)
 - International Numbering Plans - [Link](https://www.numberingplans.com/)
 - GSM World Coverage Map and GSM Country List - [Link](https://www.worldtimezone.com/gsm.html)
+- Imei Info - https://www.imei.info        
+- Phones - https://www.gsmarena.com        
+- Cell Towers - https://opencellid.org        
 
-### Information & Explanations
-- IMSI-catcher - [Link](https://en.wikipedia.org/wiki/IMSI-catcher)
+### Information & Explanations        
+- IMSI-catcher - [Link](https://en.wikipedia.org/wiki/IMSI-catcher)        
 - GSM frequency bands - [Link](https://en.wikipedia.org/wiki/GSM_frequency_bands)
 - List of software-defined radios - [Link](https://en.wikipedia.org/wiki/List_of_software-defined_radios)
 
-### Useful Apps
+### Useful Apps        
 - Mobile Software
   - AIMSICD - [Link](https://github.com/CellularPrivacy/Android-IMSI-Catcher-Detector)
   - SnoopSnitch - [Link](https://f-droid.org/en/packages/de.srlabs.snoopsnitch/)
