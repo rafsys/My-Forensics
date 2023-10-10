@@ -4,6 +4,8 @@
 
 **Best References**    
 https://dfrws.org/presentation  
+https://www.sciencedirect.com/journal/forensic-science-international-digital-investigation        
+https://www.sciencedirect.com/journal/computer-law-and-security-review        
 https://github.com/MISP/misp-training      
 https://github.com/ail-project/ail-training          
 https://github.com/Cugu/awesome-forensics    
@@ -19,19 +21,25 @@ https://github.com/onlurking/awesome-infosec
 https://github.com/504ensicsLabs  
 
 DEF CON 31 - Ringhopper - How We Almost Zero day’d the World - Benny Zeltser, Jonathan Lusky    
-https://youtu.be/u8V4ofWpHZk    
+https://youtu.be/u8V4ofWpHZk   
+
 
 ------------------------------------------------------------------------------------------------------------------------------
 
-**Crime Triangle**    
-<img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.benthamsgaze.org%2Fwp-content%2Fuploads%2F2019%2F11%2Fcrime_triangle.png&f=1&nofb=1&ipt=4285022ddfdbbc2fa708c6808e37cf3c6979893df035951e6bf65e8bce4ce1ed&ipo=images" alt="Girl in a jacket" style="width:320px;height:300px;">    
-
-<p></p>
-
-**Basic Investigative Metodology**    
-• 5W    
-• PDCA Cycle    
-• Root Cause    
+<table>
+<thead>
+  <tr>
+    <th>Crime Triangle</th>
+    <th>Basic Investigative Metodology</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td><img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.benthamsgaze.org%2Fwp-content%2Fuploads%2F2019%2F11%2Fcrime_triangle.png" alt="Image" width="320" height="300"></td>
+    <td>• 5W    <br>• PDCA Cycle    <br>• Root Cause<br><br><br><br><br><br><br><br><br><br><br><br><br><br></td>
+  </tr>
+</tbody>
+</table>
 
 <p></p>
 
