@@ -51,9 +51,20 @@ https://youtu.be/u8V4ofWpHZk
 <p></p>
 <p></p>
 
-| **FLOSS** Free/Libre and Open Source Software	| **PROPRIETARY** Private Sector Offensive Actors (PSOAs) 	|
-|---	|---	|
-| • Kali Linux<br>https://www.kali.org/docs/general-use/kali-linux-forensics-mode<br>• CAINE<br>https://www.caine-live.net<br>• CSI Linux<br>https://csilinux.com<br>• Avilla Forensics<br>https://github.com/AvillaDaniel/AvillaForensics<br>• IPED<br>https://github.com/sepinf-inc/IPED<br>• Mobile Verification Toolkit (MVT)<br>https://docs.mvt.re/en/latest<br>• Debian Forensics Packages<br>https://packages.debian.org/unstable/forensics-all<br>• Drive Badger<br>https://drivebadger.com<br>• Octoplus Box (easy end user acess)<br>https://octoplusbox.com<br>https://octoplusbox.com/en/features/models/<br>https://www.aliexpress.com/w/wholesale-octoplus-box.html 	| • Cellebrite ®<br>https://cellebrite.com<br>• Oxygen Forensic ®<br>https://oxygen-forensic.wedatasolution.com<br>• MSAB ®<br>https://www.msab.com<br>• SIFT Workstation ®<br>https://www.sans.org/tools/sift-workstation<br>• GMDSOFT ®<br>https://www.gmdsoft.com<br>• FTK ® - Forensic Toolkit<br>https://www.exterro.com/forensic-toolkit<br>• Verint Systems ®<br>https://www.verint.com<br>• NSO Group ®<br>https://www.nsogroup.com<br>• Cyber Arm ®<br>https://cyber-arm.com/services<br>• NirSoft ®<br>https://www.nirsoft.net/computer_forensic_software.html<br>• MiTeC ®<br>https://www.mitec.cz 	|
+<table>
+<thead>
+  <tr>
+    <th>FLOSS<br>Free/Libre and Open Source Software</th>
+    <th>PRIVATE<br>Private Sector Offensive Actors (PSOAs)</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>• Kali Linux<br><a href="https://www.kali.org/docs/general-use/kali-linux-forensics-mode">https://www.kali.org/docs/general-use/kali-linux-forensics-mode</a><br>• CAINE<br><a href="https://www.caine-live.net">https://www.caine-live.net</a><br>• CSI Linux<br><a href="https://csilinux.com">https://csilinux.com</a><br>• Avilla Forensics<br><a href="https://github.com/AvillaDaniel/AvillaForensics">https://github.com/AvillaDaniel/AvillaForensics</a><br>• IPED<br><a href="https://github.com/sepinf-inc/IPED">https://github.com/sepinf-inc/IPED</a><br>• Mobile Verification Toolkit (MVT)<br><a href="https://docs.mvt.re/en/latest">https://docs.mvt.re/en/latest</a><br>• Debian Forensics Package<br><a href="https://packages.debian.org/unstable/forensics-all">https://packages.debian.org/unstable/forensics-all</a><br>• Drive Badger<br><a href="https://drivebadger.com">https://drivebadger.com</a><br>• Octoplus Box ® (easy end user acess)<br><a href="https://octoplusbox.com">https://octoplusbox.com</a><br><a href="https://octoplusbox.com/en/features/models/">https://octoplusbox.com/en/features/models/</a><br><a href="https://www.aliexpress.com/w/wholesale-octoplus-box.html">https://www.aliexpress.com/w/wholesale-octoplus-box.html</a><br>• NirSoft ® (freeware utilities)<br><a href="https://www.nirsoft.net/computer_forensic_software.html">https://www.nirsoft.net/computer_forensic_software.html</a><br>• MiTeC ® (freeware utilities)<br><a href="https://www.mitec.com">https://www.mitec.com</a></td>
+    <td>• Cellebrite ®<br><a href="https://cellebrite.com/" target="_blank" rel="noopener noreferrer">https://cellebrite.com</a><br>• Oxygen Forensic ®<br><a href="https://oxygen-forensic.wedatasolution.com/" target="_blank" rel="noopener noreferrer">https://oxygen-forensic.wedatasolution.com</a><br>• MSAB ®<br><a href="https://www.msab.com/" target="_blank" rel="noopener noreferrer">https://www.msab.com</a><br>• SIFT Workstation ®<br><a href="https://www.sans.org/tools/sift-workstation" target="_blank" rel="noopener noreferrer">https://www.sans.org/tools/sift-workstation</a><br>• GMDSOFT ®<br><a href="https://www.gmdsoft.com/" target="_blank" rel="noopener noreferrer">https://www.gmdsoft.com</a><br>• Forensic Toolkit (FTK) ® <br><a href="https://www.exterro.com/forensic-toolkit" target="_blank" rel="noopener noreferrer">https://www.exterro.com/forensic-toolkit</a><br>• Verint Systems ®<br><a href="https://www.verint.com/" target="_blank" rel="noopener noreferrer">https://www.verint.com</a><br>• NSO Group ®<br><a href="https://www.nsogroup.com/" target="_blank" rel="noopener noreferrer">https://www.nsogroup.com</a><br>• Cyber Arm ®<br><a href="https://cyber-arm.com/services" target="_blank" rel="noopener noreferrer">https://cyber-arm.com/services</a><br>• Thorn's Safer ®<br><a href="https://www.thorn.org/" target="_blank" rel="noopener noreferrer">https://www.thorn.org</a><br><br><br><br></td>
+  </tr>
+</tbody>
+</table>
 
 <sub>
 <p><b>Others</b></p>
@@ -187,7 +198,31 @@ UK Public General Acts - Investigatory Powers Act 2016 - https://www.legislation
 • **International Conventions**  
 UNO - https://www.unodc.org/unodc/en/organized-crime/intro/UNTOC.html    
 Budapest Convention - https://www.coe.int/en/web/cybercrime/the-budapest-convention    
+Octopus Project - https://coe.int/en/web/cybercrime/octopus-project   
 Five Eyes - https://en.wikipedia.org/wiki/Five_Eyes    
+
+## The Five, Nine, & Fourteen Eyes surveillance alliance includes the following countries:
+
+| `Countries` | `Five Eyes` | `Nine Eyes` | `Fourteen Eyes` | `Other` |
+|-|:---:|:---:|:---:|:---:|
+| United Kingdom | ✔️ | ✔️ | ✔️ |
+| United States | ✔️ | ✔️ | ✔️ |
+| Australia | ✔️ | ✔️ | ✔️ |
+| Canada | ✔️ | ✔️ | ✔️ |
+| New Zealand | ✔️ | ✔️ | ✔️ |
+| Denmark | | ✔️ | ✔️ |
+| Netherlands | | ✔️ | ✔️ |
+| France | | ✔️ | ✔️ |
+| Norway | | | ✔️ |
+| Germany | | | ✔️ |
+| Belgium | | | ✔️ |
+| Spain | | | ✔️ |
+| Sweden | | | ✔️ |
+| Italy | | | ✔️ |
+| Israel | | | | ✔️ |
+| Sapan | | | | ✔️ |
+| Singapore | | | | ✔️ |
+| South Korea | | | | ✔️ |
 
 • **Private Agents**   
 [“Reverse Location Search Warrant”: A New Personal Data Hoovering Exercise Brought to You by Google (2019)](https://www.nakedcapitalism.com/2019/02/reverse-location-search-warrant-a-new-personal-data-hoovering-exercise-brought-to-you-by-google.html)    
