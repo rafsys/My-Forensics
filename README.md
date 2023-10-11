@@ -3,28 +3,23 @@
 ![magritte+pipe](https://github.com/RENANZG/My-Forensics/assets/53377291/b8fefc0f-e17e-4652-9e51-0b5d9265f181)
 
 **Best References**    
-https://dfrws.org/presentation  
-https://www.sciencedirect.com/journal/forensic-science-international-digital-investigation        
-https://www.sciencedirect.com/journal/computer-law-and-security-review        
-https://github.com/MISP/misp-training      
-https://github.com/ail-project/ail-training          
-https://github.com/Cugu/awesome-forensics    
-https://github.com/shadawck/awesome-anti-forensic    
-https://github.com/Ignitetechnologies/Mindmap    
-https://github.com/mikeroyal/Digital-Forensics-Guide    
-https://github.com/forensicswiki/wiki    
-https://github.com/Digital-Forensics-Discord-Server/LawEnforcementResources    
-https://github.com/Digital-Forensics-Discord-Server/TheHitchhikersGuidetoDFIRExperiencesFromBeginnersandExperts    
-https://github.com/Hack-with-Github/Awesome-Hacking    
-https://github.com/enaqx/awesome-pentest    
-https://github.com/onlurking/awesome-infosec    
-https://github.com/504ensicsLabs  
+
+<table>
+<thead>
+  <tr>
+    <td>https://dfrws.org/presentation  <br>https://www.sciencedirect.com/journal/forensic-science-international-digital-investigation        <br>https://www.sciencedirect.com/journal/computer-law-and-security-review        <br>https://github.com/MISP/misp-training      <br>https://github.com/ail-project/ail-training          <br>https://github.com/Cugu/awesome-forensics    <br>https://github.com/shadawck/awesome-anti-forensic    <br>https://github.com/Ignitetechnologies/Mindmap    <br>https://github.com/mikeroyal/Digital-Forensics-Guide    <br>https://github.com/forensicswiki/wiki</td>
+    <td>https://github.com/Digital-Forensics-Discord-Server/LawEnforcementResources    <br>https://github.com/Digital-Forensics-Discord-Server/TheHitchhikersGuidetoDFIRExperiencesFromBeginnersandExperts    <br>https://github.com/Hack-with-Github/Awesome-Hacking    <br>https://github.com/enaqx/awesome-pentest    <br>https://github.com/onlurking/awesome-infosec    <br>https://github.com/504ensicsLabs<br><br><br><br><br></td>
+  </tr>
+</thead>
+</table>
 
 DEF CON 31 - Ringhopper - How We Almost Zero day’d the World - Benny Zeltser, Jonathan Lusky    
 https://youtu.be/u8V4ofWpHZk   
+DEF CON 30 - Sam Bent - Tor - Darknet Opsec By a Veteran    
+https://www.youtube.com/watch?v=01oeaBb85Xc   
 
 
-------------------------------------------------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------------------------
 
 <table>
 <thead>
@@ -43,7 +38,7 @@ https://youtu.be/u8V4ofWpHZk
 
 <p></p>
 
-------------------------------------------------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------------------------
 
 
 <details>
@@ -170,7 +165,7 @@ https://www.blocksherlock.com/home/blockchain-explorers
 <p></p>
 <p></p>
 
-------------------------------------------------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------------------------
 
 <details>
 <summary>${\color{Red}\textbf{ACTIVE FORENSICS}}$</summary>
@@ -337,7 +332,7 @@ https://github.com/trustedsec/social-engineer-toolkit
 <p></p>
 <p></p>
 
---------------------------------------------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------------------------
 
 <details>
 <summary>${\color{Yellow}\textbf{PHONE SNIFFING}}$</summary>
@@ -433,7 +428,7 @@ sudo grgsm_livemon       # Live radio scanning.
 
 </details>
 
-------------------------------------------------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------------------------
 
 <p></p>
 <sub>
