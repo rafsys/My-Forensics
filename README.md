@@ -321,7 +321,7 @@ https://github.com/jakev/mitm-helper-vpn
 
 ### METADATA  
 • ExifTool - https://github.com/exiftool/exiftool  
-• PhotoDNA  
+• PhotoDNA - https://anishathalye.com/inverting-photodna      
 • Geo-tags  
 
 ### REVERSE ENGINEERING    
