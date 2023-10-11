@@ -196,28 +196,149 @@ Budapest Convention - https://www.coe.int/en/web/cybercrime/the-budapest-convent
 Octopus Project - https://coe.int/en/web/cybercrime/octopus-project   
 Five Eyes - https://en.wikipedia.org/wiki/Five_Eyes    
 
+![architecture](https://github.com/RENANZG/My-Forensics/assets/53377291/f92b0055-29fe-40de-9a45-da845d0f3f4b)
+
 ## The Five, Nine, & Fourteen Eyes surveillance alliance includes the following countries:
 
-| `Countries` | `Five Eyes` | `Nine Eyes` | `Fourteen Eyes` | `Other` |
-|-|:---:|:---:|:---:|:---:|
-| United Kingdom | ✔️ | ✔️ | ✔️ |
-| United States | ✔️ | ✔️ | ✔️ |
-| Australia | ✔️ | ✔️ | ✔️ |
-| Canada | ✔️ | ✔️ | ✔️ |
-| New Zealand | ✔️ | ✔️ | ✔️ |
-| Denmark | | ✔️ | ✔️ |
-| Netherlands | | ✔️ | ✔️ |
-| France | | ✔️ | ✔️ |
-| Norway | | | ✔️ |
-| Germany | | | ✔️ |
-| Belgium | | | ✔️ |
-| Spain | | | ✔️ |
-| Sweden | | | ✔️ |
-| Italy | | | ✔️ |
-| Israel | | | | ✔️ |
-| Sapan | | | | ✔️ |
-| Singapore | | | | ✔️ |
-| South Korea | | | | ✔️ |
+<table>
+<thead>
+  <tr>
+    <th>Countries</th>
+    <th>Five Eyes</th>
+    <th>Nine Eyes</th>
+    <th>Fourteen Eyes</th>
+    <th>Other</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>United Kingdom</td>
+    <td>✔️</td>
+    <td>✔️</td>
+    <td>✔️</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>United States</td>
+    <td>✔️</td>
+    <td>✔️</td>
+    <td>✔️</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Australia</td>
+    <td>✔️</td>
+    <td>✔️</td>
+    <td>✔️</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Canada</td>
+    <td>✔️</td>
+    <td>✔️</td>
+    <td>✔️</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>New Zealand</td>
+    <td>✔️</td>
+    <td>✔️</td>
+    <td>✔️</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Denmark</td>
+    <td></td>
+    <td>✔️</td>
+    <td>✔️</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Netherlands</td>
+    <td></td>
+    <td>✔️</td>
+    <td>✔️</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>France</td>
+    <td></td>
+    <td>✔️</td>
+    <td>✔️</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Norway</td>
+    <td></td>
+    <td></td>
+    <td>✔️</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Germany</td>
+    <td></td>
+    <td></td>
+    <td>✔️</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Belgium</td>
+    <td></td>
+    <td></td>
+    <td>✔️</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Spain</td>
+    <td></td>
+    <td></td>
+    <td>✔️</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Sweden</td>
+    <td></td>
+    <td></td>
+    <td>✔️</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Italy</td>
+    <td></td>
+    <td></td>
+    <td>✔️</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Israel</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td>✔️</td>
+  </tr>
+  <tr>
+    <td>Sapan</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td>✔️</td>
+  </tr>
+  <tr>
+    <td>Singapore</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td>✔️</td>
+  </tr>
+  <tr>
+    <td>South Korea</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td>✔️</td>
+  </tr>
+</tbody>
+</table>
 
 • **Private Agents**   
 [“Reverse Location Search Warrant”: A New Personal Data Hoovering Exercise Brought to You by Google (2019)](https://www.nakedcapitalism.com/2019/02/reverse-location-search-warrant-a-new-personal-data-hoovering-exercise-brought-to-you-by-google.html)    
