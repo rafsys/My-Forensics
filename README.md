@@ -92,10 +92,10 @@ https://www.youtube.com/watch?v=01oeaBb85Xc
     • <b>5W</b> - Who, What, When, Where and Why<br>
     • <b>PDCA Cycle</b> - Plan, Do, Check and Act<br>
     • <b>Root Cause Analysis (RCA)</b><br>
-    &emsp; - Identify and describe the problem clearly<br>
-    &emsp; - Establish a timeline from the normal situation until the problem occurs<br>
-    &emsp; - Distinguish between the root cause and other causal factors (e.g., using event correlation)<br>
-    &emsp; - Establish a causal graph between the root cause and the problem<br>
+    <p>&emsp; - Identify and describe the problem clearly</p><br>
+    <p>&emsp; - Establish a timeline from the normal situation until the problem occurs</p><br>
+    <p>&emsp; - Distinguish between the root cause and other causal factors (e.g., using event correlation)</p><br>
+    <p>&emsp; - Establish a causal graph between the root cause and the problem</p><br>
     <br><br><br><br><br><br><br>
     </td>
   </tr>
@@ -144,7 +144,7 @@ https://www.youtube.com/watch?v=01oeaBb85Xc
     • Lockheed Martin ®<br><a href="https://www.lockheedmartin.com" target="_blank" rel="noopener noreferrer">https://www.lockheedmartin.com/</a><br>
     <br>
     <br>
-  <td>
+  </td>
   </tr>
 </tbody>
 </table>
