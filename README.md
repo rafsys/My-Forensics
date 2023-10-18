@@ -37,6 +37,8 @@ https://github.com/504ensicsLabs<br>
 </thead>
 </table>
 
+-----------------------------------------------------------------------------------------------------------------
+
 ### NATIONAL CYBER SECURITY AGENCIES
 
 <table>
@@ -65,12 +67,12 @@ https://github.com/504ensicsLabs<br>
 </thead>
 </table>
 
+-----------------------------------------------------------------------------------------------------------------
 
 DEF CON 31 - Ringhopper - How We Almost Zero day’d the World - Benny Zeltser, Jonathan Lusky    
 https://youtu.be/u8V4ofWpHZk   
 DEF CON 30 - Sam Bent - Tor - Darknet Opsec By a Veteran    
-https://www.youtube.com/watch?v=01oeaBb85Xc   
-
+https://www.youtube.com/watch?v=01oeaBb85Xc    
 
 -----------------------------------------------------------------------------------------------------------------
 
@@ -176,6 +178,7 @@ https://www.youtube.com/watch?v=01oeaBb85Xc
 </sub>
 <p></p>
 
+-----------------------------------------------------------------------------------------------------------------
 
 <details>
 <summary>${\color{Blue}\textbf{PASSIVE FORENSICS}}$</summary>  
