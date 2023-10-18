@@ -2,16 +2,69 @@
 
 ![magritte+pipe](https://github.com/RENANZG/My-Forensics/assets/53377291/b8fefc0f-e17e-4652-9e51-0b5d9265f181)
 
-**Best References**    
+
+```diff
+- UNDER WORK -
+```
+
+### REFERENCES    
+
+<table>
+<thead>
+<tr>
+<td>
+https://dfrws.org/presentation<br>
+https://www.sciencedirect.com/journal/forensic-science-international-digital-investigation<br>
+https://www.sciencedirect.com/journal/computer-law-and-security-review<br>
+https://github.com/MISP/misp-training<br>
+https://github.com/ail-project/ail-training<br>
+https://github.com/Cugu/awesome-forensics<br>
+https://github.com/shadawck/awesome-anti-forensic<br>
+https://github.com/Ignitetechnologies/Mindmap<br>
+https://github.com/mikeroyal/Digital-Forensics-Guide<br>
+https://github.com/forensicswiki/wiki<br>
+</td>
+<td>
+https://github.com/Digital-Forensics-Discord-Server/LawEnforcementResources<br>
+https://github.com/Digital-Forensics-Discord-Server/TheHitchhikersGuidetoDFIRExperiencesFromBeginnersandExperts<br>
+https://github.com/Hack-with-Github/Awesome-Hacking<br>
+https://github.com/enaqx/awesome-pentest<br>
+https://github.com/onlurking/awesome-infosec<br>
+https://github.com/504ensicsLabs<br>
+<br><br><br><br>
+</td>
+</tr>
+</thead>
+</table>
+
+### NATIONAL CYBER SECURITY AGENCIES
 
 <table>
 <thead>
   <tr>
-    <td>https://dfrws.org/presentation  <br>https://www.sciencedirect.com/journal/forensic-science-international-digital-investigation        <br>https://www.sciencedirect.com/journal/computer-law-and-security-review        <br>https://github.com/MISP/misp-training      <br>https://github.com/ail-project/ail-training          <br>https://github.com/Cugu/awesome-forensics    <br>https://github.com/shadawck/awesome-anti-forensic    <br>https://github.com/Ignitetechnologies/Mindmap    <br>https://github.com/mikeroyal/Digital-Forensics-Guide    <br>https://github.com/forensicswiki/wiki</td>
-    <td>https://github.com/Digital-Forensics-Discord-Server/LawEnforcementResources    <br>https://github.com/Digital-Forensics-Discord-Server/TheHitchhikersGuidetoDFIRExperiencesFromBeginnersandExperts    <br>https://github.com/Hack-with-Github/Awesome-Hacking    <br>https://github.com/enaqx/awesome-pentest    <br>https://github.com/onlurking/awesome-infosec    <br>https://github.com/504ensicsLabs<br><br><br><br><br></td>
+    <td>
+    https://niccs.cisa.gov<br>
+    https://www.cyber.gov.au<br>
+    https://www.cyber.gc.ca/enhttps://www.ncsc.gov.uk<br>
+    https://english.ncsc.nl<br>
+    https://csirtamericas.org/en
+    </td>
+    <td>
+    https://www.cert.govt.nz<br>
+    https://www.ncsc.govt.nz<br>
+    https://www.nukib.cz/en<br>
+    https://www.bsi.bund.de/EN
+    </td>
+    <td>
+    https://www.gov.il/en/departments/israel_national_cyber_directorate/govil-landing-page<br>
+    https://www.csa.gov.sg/https://www.kisa.or.kr/ENhttps://nsm.no/areas-of-expertise/cyber-security/norwegian-national-cyber-security-centre-ncsc/<br>
+    https://www.jpcert.or.jp/english/<br>
+    https://www.nisc.go.jp/eng/index.html
+    </td>
   </tr>
 </thead>
 </table>
+
 
 DEF CON 31 - Ringhopper - How We Almost Zero day’d the World - Benny Zeltser, Jonathan Lusky    
 https://youtu.be/u8V4ofWpHZk   
@@ -20,6 +73,8 @@ https://www.youtube.com/watch?v=01oeaBb85Xc
 
 
 -----------------------------------------------------------------------------------------------------------------
+
+### BASIC STRATEGY
 
 <table>
 <thead>
@@ -30,21 +85,29 @@ https://www.youtube.com/watch?v=01oeaBb85Xc
 </thead>
 <tbody>
   <tr>
-    <td><img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.benthamsgaze.org%2Fwp-content%2Fuploads%2F2019%2F11%2Fcrime_triangle.png" alt="Image" width="320" height="300"></td>
-    <td>• 5W    <br>• PDCA Cycle    <br>• Root Cause<br><br><br><br><br><br><br><br><br><br><br><br><br><br></td>
+    <td>
+    <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.benthamsgaze.org%2Fwp-content%2Fuploads%2F2019%2F11%2Fcrime_triangle.png" alt="Image" width="320" height="300"></td>
+    <td>
+    <br>
+    • <b>5W</b> - Who, What, When, Where and Why<br>
+    • <b>PDCA Cycle</b> - Plan, Do, Check and Act<br>
+    • <b>Root Cause Analysis (RCA)</b><br>
+    &emsp; - Identify and describe the problem clearly<br>
+    &emsp; - Establish a timeline from the normal situation until the problem occurs<br>
+    &emsp; - Distinguish between the root cause and other causal factors (e.g., using event correlation)<br>
+    &emsp; - Establish a causal graph between the root cause and the problem<br>
+    <br><br><br><br><br><br><br>
+    </td>
   </tr>
 </tbody>
 </table>
 
 <p></p>
 
+
 -----------------------------------------------------------------------------------------------------------------
 
-
-<details>
-<summary>${\color{Blue}\textbf{PASSIVE FORENSICS}}$</summary>  
-<p></p>
-<p></p>
+### FRAMEWORKS
 
 <table>
 <thead>
@@ -55,14 +118,41 @@ https://www.youtube.com/watch?v=01oeaBb85Xc
 </thead>
 <tbody>
   <tr>
-    <td>• Kali Linux<br><a href="https://www.kali.org/docs/general-use/kali-linux-forensics-mode">https://www.kali.org/docs/general-use/kali-linux-forensics-mode</a><br>• CAINE<br><a href="https://www.caine-live.net">https://www.caine-live.net</a><br>• CSI Linux<br><a href="https://csilinux.com">https://csilinux.com</a><br>• Avilla Forensics<br><a href="https://github.com/AvillaDaniel/AvillaForensics">https://github.com/AvillaDaniel/AvillaForensics</a><br>• IPED<br><a href="https://github.com/sepinf-inc/IPED">https://github.com/sepinf-inc/IPED</a><br>• Mobile Verification Toolkit (MVT)<br><a href="https://docs.mvt.re/en/latest">https://docs.mvt.re/en/latest</a><br>• Debian Forensics Package<br><a href="https://packages.debian.org/unstable/forensics-all">https://packages.debian.org/unstable/forensics-all</a><br>• Drive Badger<br><a href="https://drivebadger.com">https://drivebadger.com</a><br>• Octoplus Box ® (easy end user acess)<br><a href="https://octoplusbox.com">https://octoplusbox.com</a><br><a href="https://octoplusbox.com/en/features/models/">https://octoplusbox.com/en/features/models/</a><br><a href="https://www.aliexpress.com/w/wholesale-octoplus-box.html">https://www.aliexpress.com/w/wholesale-octoplus-box.html</a><br>• NirSoft ® (freeware utilities)<br><a href="https://www.nirsoft.net/computer_forensic_software.html">https://www.nirsoft.net/computer_forensic_software.html</a><br>• MiTeC ® (freeware utilities)<br><a href="https://www.mitec.com">https://www.mitec.com</a></td>
-    <td>• Cellebrite ®<br><a href="https://cellebrite.com/" target="_blank" rel="noopener noreferrer">https://cellebrite.com</a><br>• Oxygen Forensic ®<br><a href="https://oxygen-forensic.wedatasolution.com/" target="_blank" rel="noopener noreferrer">https://oxygen-forensic.wedatasolution.com</a><br>• MSAB ®<br><a href="https://www.msab.com/" target="_blank" rel="noopener noreferrer">https://www.msab.com</a><br>• SIFT Workstation ®<br><a href="https://www.sans.org/tools/sift-workstation" target="_blank" rel="noopener noreferrer">https://www.sans.org/tools/sift-workstation</a><br>• GMDSOFT ®<br><a href="https://www.gmdsoft.com/" target="_blank" rel="noopener noreferrer">https://www.gmdsoft.com</a><br>• Forensic Toolkit (FTK) ® <br><a href="https://www.exterro.com/forensic-toolkit" target="_blank" rel="noopener noreferrer">https://www.exterro.com/forensic-toolkit</a><br>• Verint Systems ®<br><a href="https://www.verint.com/" target="_blank" rel="noopener noreferrer">https://www.verint.com</a><br>• NSO Group ®<br><a href="https://www.nsogroup.com/" target="_blank" rel="noopener noreferrer">https://www.nsogroup.com</a><br>• Cyber Arm ®<br><a href="https://cyber-arm.com/services" target="_blank" rel="noopener noreferrer">https://cyber-arm.com/services</a><br>• Thorn's Safer ®<br><a href="https://www.thorn.org/" target="_blank" rel="noopener noreferrer">https://www.thorn.org</a><br><br><br><br></td>
+  <td>
+    • Kali Linux<br><a href="https://www.kali.org/docs/general-use/kali-linux-forensics-mode">https://www.kali.org/docs/general-use/kali-linux-forensics-mode</a><br>
+    • CAINE<br><a href="https://www.caine-live.net">https://www.caine-live.net</a><br>
+    • CSI Linux<br><a href="https://csilinux.com">https://csilinux.com</a><br>
+    • Avilla Forensics<br><a href="https://github.com/AvillaDaniel/AvillaForensics">https://github.com/AvillaDaniel/AvillaForensics</a><br>
+    • IPED<br><a href="https://github.com/sepinf-inc/IPED">https://github.com/sepinf-inc/IPED</a><br>
+    • Mobile Verification Toolkit (MVT)<br><a href="https://docs.mvt.re/en/latest">https://docs.mvt.re/en/latest</a><br>
+    • Debian Forensics Package<br><a href="https://packages.debian.org/unstable/forensics-all">https://packages.debian.org/unstable/forensics-all</a><br>
+    • Drive Badger<br><a href="https://drivebadger.com">https://drivebadger.com</a><br>
+    • Octoplus Box ® (easy end user acess)<br><a href="https://octoplusbox.com">https://octoplusbox.com</a><br><a href="https://octoplusbox.com/en/features/models/">https://octoplusbox.com/en/features/models/</a><br><a href="https://www.aliexpress.com/w/wholesale-octoplus-box.html">https://www.aliexpress.com/w/wholesale-octoplus-box.html</a><br>
+    • NirSoft ® (freeware utilities)<br><a href="https://www.nirsoft.net/computer_forensic_software.html">https://www.nirsoft.net/computer_forensic_software.html</a><br>
+    • MiTeC ® (freeware utilities)<br><a href="https://www.mitec.com">https://www.mitec.com</a>
+  </td>
+  <td>
+    • Cellebrite ®<br><a href="https://cellebrite.com/" target="_blank" rel="noopener noreferrer">https://cellebrite.com</a><br>
+    • Oxygen Forensic ®<br><a href="https://oxygen-forensic.wedatasolution.com/" target="_blank" rel="noopener noreferrer">https://oxygen-forensic.wedatasolution.com</a><br>
+    • MSAB ®<br><a href="https://www.msab.com/" target="_blank" rel="noopener noreferrer">https://www.msab.com</a><br>
+    • SIFT Workstation ®<br><a href="https://www.sans.org/tools/sift-workstation" target="_blank" rel="noopener noreferrer">https://www.sans.org/tools/sift-workstation</a><br>
+    • GMDSOFT ®<br><a href="https://www.gmdsoft.com/" target="_blank" rel="noopener noreferrer">https://www.gmdsoft.com</a><br>• Forensic Toolkit (FTK) ® <br><a href="https://www.exterro.com/forensic-toolkit" target="_blank" rel="noopener noreferrer">https://www.exterro.com/forensic-toolkit</a><br>
+    • Verint Systems ®<br><a href="https://www.verint.com/" target="_blank" rel="noopener noreferrer">https://www.verint.com</a><br>
+    • NSO Group ®<br><a href="https://www.nsogroup.com/" target="_blank" rel="noopener noreferrer">https://www.nsogroup.com</a><br>
+    • Cyber Arm ®<br><a href="https://cyber-arm.com/services" target="_blank" rel="noopener noreferrer">https://cyber-arm.com/services</a><br>
+    • Thorn's Safer ®<br><a href="https://www.thorn.org/" target="_blank" rel="noopener noreferrer">https://www.thorn.org</a><br>
+    • Lockheed Martin ®<br><a href="https://www.lockheedmartin.com" target="_blank" rel="noopener noreferrer">https://www.lockheedmartin.com/</a><br>
+    <br>
+    <br>
+  <td>
   </tr>
 </tbody>
 </table>
 
+<p></p>
+
 <sub>
-<p><b>Others</b></p>
+<p><b>Info</b></p>
 <p>• Beyond the Veil of Surveillance: Private Sector Offensive Actors (PSOAs)</p>
 <p>https://socradar.io/beyond-the-veil-of-surveillance-private-sector-offensive-actors-psoas</p>
 <p>• Burn, drown, or smash your phone: Forensics can extract data anyway</p>
@@ -86,15 +176,19 @@ https://www.youtube.com/watch?v=01oeaBb85Xc
 </sub>
 <p></p>
 
+
+<details>
+<summary>${\color{Blue}\textbf{PASSIVE FORENSICS}}$</summary>  
+<p></p>
+<p></p>
+
+
 ### FORENSIC TOOLS 
 
 <p></p>
 
-```diff
-- UNDER WORK -
-```
 
-**Online**    
+**ONLINE**    
 Virus Total - https://www.virustotal.com  
 Binvis - https://binvis.io  
 Hybrid - https://hybrid-analysis.com    
@@ -105,11 +199,11 @@ Location Tracker - https://iplogger.org/location-tracker
 URL checker -  https://iplogger.org/url_checker  
 MAC address lookup - https://iplogger.org/mac-checker  
 IP API    
-    - [ip-api](https://ip-api.com/)    
-    - [ipify](https://www.ipify.org/)    
-    - [ipapi](https://ipapi.co/)    
-    - [vpnapi](https://vpnapi.io/)    
-    - [ipapi](https://ipapi.com/)    
+&emsp; - ip-api - https://ip-api.com    
+&emsp; - ipify - https://www.ipify.org    
+&emsp; - ipapi - https://ipapi.co    
+&emsp; - vpnapi - https://vpnapi.io    
+&emsp; - ipapi - https://ipapi.com    
 Name OSINT - https://namechk.com    
 Awesome Osint - https://github.com/jivoi/awesome-osint    
 Sherlock Project - https://github.com/sherlock-project/sherlock   
@@ -118,7 +212,7 @@ Reverse Shell Generator - https://www.revshells.com
 Magic Numbers - https://en.wikipedia.org/wiki/Magic_number_(programming)  
 Rainbow Tables (Hashes) - https://hashes.com/en/decrypt/hash  
 
-**Offline**    
+**OFFLINE**    
 ImHex - https://github.com/WerWolv/ImHex    
 Making Maps for Investigators - https://github.com/northloopforensics/Fetch    
 Bitlocker Key Finder - https://github.com/northloopforensics/Bitlocker_Key_Finder    
@@ -160,16 +254,15 @@ https://github.com/demining/CryptoDeepTools
 https://github.com/demining/bitcoindigger    
 https://github.com/demining/Dao-Exploit    
 https://www.blocksherlock.com/home/blockchain-explorers    
+
 </details>
 
-<p></p>
 <p></p>
 
 -----------------------------------------------------------------------------------------------------------------
 
 <details>
 <summary>${\color{Red}\textbf{ACTIVE FORENSICS}}$</summary>
-<p></p>
 <p></p>
   
 https://www.youtube.com/watch?v=WwmcZSHw66w    
@@ -341,29 +434,29 @@ Five Eyes - https://en.wikipedia.org/wiki/Five_Eyes
 </table>
 
 • **Private Agents**   
-[“Reverse Location Search Warrant”: A New Personal Data Hoovering Exercise Brought to You by Google (2019)](https://www.nakedcapitalism.com/2019/02/reverse-location-search-warrant-a-new-personal-data-hoovering-exercise-brought-to-you-by-google.html)    
-[As UN Human Rights Chief Urges Stricter Rules, Snowden Calls for End to Spyware Trade (2021)](https://www.nakedcapitalism.com/2021/07/as-un-human-rights-chief-urges-stricter-rules-snowden-calls-for-end-to-spyware-trade.html)    
+- [“Reverse Location Search Warrant”: A New Personal Data Hoovering Exercise Brought to You by Google (2019)](https://www.nakedcapitalism.com/2019/02/reverse-location-search-warrant-a-new-personal-data-hoovering-exercise-brought-to-you-by-google.html)    
+- [As UN Human Rights Chief Urges Stricter Rules, Snowden Calls for End to Spyware Trade (2021)](https://www.nakedcapitalism.com/2021/07/as-un-human-rights-chief-urges-stricter-rules-snowden-calls-for-end-to-spyware-trade.html)    
 
 • **Liability for Contents**    
-[How to start your own ISP](https://startyourownisp.com/)    
-[Where are torrents permitted?](https://i.imgur.com/3fHyG2S.png)    
-[UK ISP Court Orders](http://www.ukispcourtorders.co.uk/)    
-[Web Sheriff](https://en.wikipedia.org/wiki/Web_Sheriff)    
-[A new bill could punish web platforms for using end-to-end encryption](https://www.theverge.com/2020/1/31/21116788/earn-it-act-section-230-lindsey-graham-draft-bill-encryption)    
-[French court rules that Steam’s ban on reselling used games is contrary to European law](https://www.polygon.com/2019/9/19/20874384/french-court-steam-valve-used-games-eu-law)    
-[MEPs approve sweeping changes to copyright law](https://www.theguardian.com/media/2019/mar/26/meps-approve-sweeping-changes-to-copyright-law-european-copyright-directive)    
-[The Legalities of Linking](https://www.lifewire.com/legalities-of-linking-3468972)    
-[COPYRIGHT LIABILITY FOR LINKING AND EMBEDDING - Klaris Law (.PDF)](https://klarislaw.com/wp-content/uploads/klarislaw-copyright-liability-for-linking-and-embedding.pdf)    
-[EU court says linking to copyrighted material isn't illegal](https://www.engadget.com/2016/04/08/eu-court-linking-copyrighted-content-is-legal/)    
-[IP Address is Not Enough to Identify Pirate, US Court of Appeals Rules](https://torrentfreak.com/ip-address-is-not-enough-to-identify-pirate-us-court-of-appeals-rules-180828/) - ([.PDF](https://cdn.ca9.uscourts.gov/datastore/opinions/2018/08/27/17-35041.pdf))    
-[New EU Piracy Watchlist Targets Key Pirate Sites and Cloudflare](https://torrentfreak.com/new-eu-piracy-watchlist-targets-key-pirate-sites-and-cloudflare-181210/) - ([.PDF](https://torrentfreak.com/images/tradoc_157564.pdf))    
-[Domain Registrar Can be Held Liable for Pirate Site, Court Rules](https://torrentfreak.com/domain-registrar-can-be-held-liable-for-pirate-site-court-rules-181224/)    
-[Reporting When Pirate Releases Hit The Internet is Apparently Illegal Now](https://torrentfreak.com/reporting-when-pirate-releases-hit-the-internet-is-apparently-illegal-now-190101/)    
-[Swiss Copyright Law: Downloading Stays Legal, No Site Blocking](https://torrentfreak.com/swiss-copyright-law-downloading-stays-legal-no-site-blocking/)    
-[List of websites blocked in the United Kingdom](https://en.wikipedia.org/wiki/List_of_websites_blocked_in_the_United_Kingdom)    
-[Who Watches the Watchmen: Exploring Complaints on the Web](https://arxiv.org/abs/1902.05796)    
-[Major US ISPs Refuse to Discuss Repeat Infringer Policies](https://torrentfreak.com/major-us-isps-refuse-to-discuss-repeat-infringer-policies-190912/)    
-[British ISPs throw in the towel, give up sending out toothless copyright infringement warnings](https://www.theregister.co.uk/2019/07/20/creative_content_piracy/)    
+- [How to start your own ISP](https://startyourownisp.com/)    
+- [Where are torrents permitted?](https://i.imgur.com/3fHyG2S.png)    
+- [UK ISP Court Orders](http://www.ukispcourtorders.co.uk/)    
+- [Web Sheriff](https://en.wikipedia.org/wiki/Web_Sheriff)    
+- [A new bill could punish web platforms for using end-to-end encryption](https://www.theverge.com/2020/1/31/21116788/earn-it-act-section-230-lindsey-graham-draft-bill-encryption)    
+- [French court rules that Steam’s ban on reselling used games is contrary to European law](https://www.polygon.com/2019/9/19/20874384/french-court-steam-valve-used-games-eu-law)    
+- [MEPs approve sweeping changes to copyright law](https://www.theguardian.com/media/2019/mar/26/meps-approve-sweeping-changes-to-copyright-law-european-copyright-directive)    
+- [The Legalities of Linking](https://www.lifewire.com/legalities-of-linking-3468972)    
+- [COPYRIGHT LIABILITY FOR LINKING AND EMBEDDING - Klaris Law (.PDF)](https://klarislaw.com/wp-content/uploads/klarislaw-copyright-liability-for-linking-and-embedding.pdf)    
+- [EU court says linking to copyrighted material isn't illegal](https://www.engadget.com/2016/04/08/eu-court-linking-copyrighted-content-is-legal/)    
+- [IP Address is Not Enough to Identify Pirate, US Court of Appeals Rules](https://torrentfreak.com/ip-address-is-not-enough-to-identify-pirate-us-court-of-appeals-rules-180828/) - ([.PDF](https://cdn.ca9.uscourts.gov/datastore/opinions/2018/08/27/17-35041.pdf))    
+- [New EU Piracy Watchlist Targets Key Pirate Sites and Cloudflare](https://torrentfreak.com/new-eu-piracy-watchlist-targets-key-pirate-sites-and-cloudflare-181210/) - ([.PDF](https://torrentfreak.com/images/tradoc_157564.pdf))    
+- [Domain Registrar Can be Held Liable for Pirate Site, Court Rules](https://torrentfreak.com/domain-registrar-can-be-held-liable-for-pirate-site-court-rules-181224/)    
+- [Reporting When Pirate Releases Hit The Internet is Apparently Illegal Now](https://torrentfreak.com/reporting-when-pirate-releases-hit-the-internet-is-apparently-illegal-now-190101/)    
+- [Swiss Copyright Law: Downloading Stays Legal, No Site Blocking](https://torrentfreak.com/swiss-copyright-law-downloading-stays-legal-no-site-blocking/)    
+- [List of websites blocked in the United Kingdom](https://en.wikipedia.org/wiki/List_of_websites_blocked_in_the_United_Kingdom)    
+- [Who Watches the Watchmen: Exploring Complaints on the Web](https://arxiv.org/abs/1902.05796)    
+- [Major US ISPs Refuse to Discuss Repeat Infringer Policies](https://torrentfreak.com/major-us-isps-refuse-to-discuss-repeat-infringer-policies-190912/)    
+- [British ISPs throw in the towel, give up sending out toothless copyright infringement warnings](https://www.theregister.co.uk/2019/07/20/creative_content_piracy/)    
 
 
 ### MALWARES, BACKDOORS, ZERO-DAYS, DATA POISONING, SUPPLY CHAIN ATTACK, MAN-IN-THE-MIDDLE (MITM), HONEY POTS, AND SOCIAL ENGINEERING ATTACK    
@@ -421,7 +514,9 @@ https://blog.torproject.org/browser-fingerprinting-introduction-and-challenges-a
 https://coveryourtracks.eff.org/learn    
 
 **Supply Chain Attack**    
-https://reproducible-builds.org    
+https://reproducible-builds.org   
+https://github.com/SAP/risk-explorer-for-software-supply-chains   
+https://github.com/ossillate-inc/packj     
 
 **APT & Cybercriminal Campagin Collections**    
 https://github.com/CyberMonitor/APT_CyberCriminal_Campagin_Collections    
@@ -451,13 +546,11 @@ https://github.com/trustedsec/social-engineer-toolkit
 </details>
 
 <p></p>
-<p></p>
 
 -----------------------------------------------------------------------------------------------------------------
 
 <details>
 <summary>${\color{Yellow}\textbf{PHONE SNIFFING}}$</summary>
-<p></p>
 <p></p>
 
 | `Name` | `Desc.` |
@@ -557,6 +650,8 @@ sudo grgsm_livemon       # Live radio scanning.
 <p>https://coe.int/en/web/cybercrime</p>
 <p>https://sherloc.unodc.org/cld/en/st/home.html</p>
 <p>https://www.justice.gov/news</p>
+<p>https://www.enisa.europa.eu</p>
+<p>https://www.incibe.es</p>
 <p>https://www.reddit.com/r/digitalforensics</p>    
 <p>https://necessaryandproportionate.org</p>     
 <p>https://www.cvedetails.com/</p>
