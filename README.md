@@ -1,5 +1,8 @@
 <img src="https://latex.codecogs.com/svg.image?\huge&space;\mathbf{\texttt{DIGITAL&space;FORENSICS&space;AND&space;INCIDENT&space;RESPONSE&space;{\color{Orchid}(DFIR)}}}" title="\mathbf{\texttt{DIGITAL FORENSICS AND INCIDENT RESPONSE&space;{\color{Orchid}(DFIR)}}}" />    
 
+`"These programs were never about terrorism: they're about economic spying, social control,`    
+`and diplomatic manipulation. They're about power." (Edward Snowden)`   
+
 ![magritte+pipe](https://github.com/RENANZG/My-Forensics/assets/53377291/b8fefc0f-e17e-4652-9e51-0b5d9265f181)
 
 
