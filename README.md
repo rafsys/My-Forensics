@@ -91,16 +91,16 @@ https://www.youtube.com/watch?v=01oeaBb85Xc
 <tbody>
   <tr>
     <td>
-    <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.benthamsgaze.org%2Fwp-content%2Fuploads%2F2019%2F11%2Fcrime_triangle.png" alt="Image" width="320" height="300"></td>
+    <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.benthamsgaze.org%2Fwp-content%2Fuploads%2F2019%2F11%2Fcrime_triangle.png" alt="Image" width="300" height="300"></td>
     <td>
     <br>
-    • <b>5W</b> - Who, What, When, Where and Why<br>
-    • <b>PDCA Cycle</b> - Plan, Do, Check and Act<br>
-    • <b>Root Cause Analysis (RCA)</b><br>
-    <p>&emsp; - Identify and describe the problem clearly</p><br>
-    <p>&emsp; - Establish a timeline from the normal situation until the problem occurs</p><br>
-    <p>&emsp; - Distinguish between the root cause and other causal factors (e.g., using event correlation)</p><br>
-    <p>&emsp; - Establish a causal graph between the root cause and the problem</p><br>
+    • <b>5W</b> - Who, What, When, Where and Why<br>    
+    • <b>PDCA Cycle</b> - Plan, Do, Check and Act<br>   
+    • <b>Root Cause Analysis (RCA)</b><br>    
+    &emsp; - Identify and describe the problem clearly<br>    
+    &emsp; - Establish a timeline from the normal situation until the problem occurs<br>    
+    &emsp; - Distinguish between the root cause and other causal factors (e.g., using event correlation)<br>    
+    &emsp; - Establish a causal graph between the root cause and the problem<br>    
     <br><br><br><br><br><br><br>
     </td>
   </tr>
@@ -147,7 +147,7 @@ https://www.youtube.com/watch?v=01oeaBb85Xc
     • Cyber Arm ®<br><a href="https://cyber-arm.com/services" target="_blank" rel="noopener noreferrer">https://cyber-arm.com/services</a><br>
     • Thorn's Safer ®<br><a href="https://www.thorn.org/" target="_blank" rel="noopener noreferrer">https://www.thorn.org</a><br>
     • Lockheed Martin ®<br><a href="https://www.lockheedmartin.com" target="_blank" rel="noopener noreferrer">https://www.lockheedmartin.com/</a><br>
-    • Cognite ®<br><a href="https://www.cognyte.com/" target="_blank" rel="noopener noreferrer">https://www.cognyte.com/</a><br>
+    • Cognyte ®<br><a href="https://www.cognyte.com/" target="_blank" rel="noopener noreferrer">https://www.cognyte.com/</a><br>
     <br>
   </td>
   </tr>
