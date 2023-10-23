@@ -83,24 +83,27 @@ https://www.youtube.com/watch?v=01oeaBb85Xc
 <table>
 <thead>
   <tr>
-  <th align="center" valign="top">Crime Triangle</th>
-  <th align="center" valign="top">Basic Investigative Metodology</th>
+  <th align="center" valign="top" style="width: 100%;">Crime Triangle</th>
+  <th align="center" valign="top" style="width: 100%;">Basic Investigative Metodology</th>
   </tr>
 </thead>
 <tbody>
   <tr>
-  <td align="center" valign="top">
+  <td align="center" valign="top" style="width: 100%;">
   <img src="POLICE_HACKING/CT.png" alt="Image">
   </td>
-  <td valign="top">
-  <br></br>
-  <p><b>• 5W</b> - Who, What, When, Where and Why</br> 
-  <b>• PDCA Cycle</b> - Plan, Do, Check and Act</br>
-  <b>• Root Cause Analysis (RCA)</b></br>
+  <td valign="top" style="width: 100%;">
+  <p>
+  <b>• 5W:</b> Who, What, When, Where and Why &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;</br> 
+  <b>• PDCA Cycle:</b> Plan, Do, Check and Act</br>
+  <b>• Root Cause Analysis (RCA):</b></br>
   &emsp; - Identify and describe the problem clearly</br>
-  &emsp; - Establish a timeline from the normal situation until the problem occurs</br>
-  &emsp; - Distinguish between the root cause and other causal factors (e.g., using event correlation)</br>
-  &emsp; - Establish a causal graph between the root cause and the problem</p></br>
+  &emsp; - Establish a timeline from the normal situation</br>
+  &emsp;   until the problem occurs</br> 
+  &emsp; - Distinguish between the root cause and other</br>
+  &emsp;   causal factors (e.g., using event correlation)</br>
+  &emsp; - Establish a causal graph between the root</br>
+  &emsp;   cause and the problem</p></br>
   </td>
   </tr>
 </tbody>
