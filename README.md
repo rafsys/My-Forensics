@@ -80,7 +80,7 @@ https://www.youtube.com/watch?v=01oeaBb85Xc
 
 ### BASIC STRATEGY
 
-<table valign="top" cellspacing="0" cellpadding="0">
+<table>
 <thead>
   <tr>
   <th>Crime Triangle</th>
@@ -94,16 +94,16 @@ https://www.youtube.com/watch?v=01oeaBb85Xc
   </td>
   <td valign="top" style="width: 100%">
   <br>
-  <b>• 5W</b> - Who, What, When, Where and Why<br>    
-  <b>• PDCA Cycle</b> - Plan, Do, Check and Act<br>   
-  <b>• Root Cause Analysis (RCA)</b><br>    
-  &emsp; - Identify and describe the problem clearly<br>    
-  &emsp; - Establish a timeline from the normal situation<br>   
-  &emsp;   until the problem occurs<br>    
-  &emsp; - Distinguish between the root cause and other<br>    
-  &emsp;   causal factors (e.g., using event correlation)<br>    
-  &emsp; - Establish a causal graph between the root cause<br>    
-  &emsp;   and the problem<br>    
+  <b>• 5W</b> - Who, What, When, Where and Why<br>
+  <b>• PDCA Cycle</b> - Plan, Do, Check and Act<br>
+  <b>• Root Cause Analysis (RCA)</b><br>
+  &emsp; - Identify and describe the problem clearly<br>
+  &emsp; - Establish a timeline from the normal situation<br>
+  &emsp;   until the problem occurs<br>
+  &emsp; - Distinguish between the root cause and other<br>
+  &emsp;   causal factors (e.g., using event correlation)<br>
+  &emsp; - Establish a causal graph between the root cause<br>
+  &emsp;   and the problem<br>
   </td>
   </tr>
 </tbody>
