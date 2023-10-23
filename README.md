@@ -12,10 +12,10 @@
 
 ### REFERENCES    
 
-<table valign="top" style="width: 100%; border: none;" cellspacing="0" cellpadding="0">
+<table>
 <thead>
 <tr>
-<td valign="top" >
+<td valign="top" style="width: 100%;" cellspacing="0" cellpadding="0">
 https://dfrws.org/presentation<br>
 https://www.sciencedirect.com/journal/forensic-science-international-digital-investigation<br>
 https://www.sciencedirect.com/journal/computer-law-and-security-review<br>
@@ -27,7 +27,7 @@ https://github.com/Ignitetechnologies/Mindmap<br>
 https://github.com/mikeroyal/Digital-Forensics-Guide<br>
 https://github.com/forensicswiki/wiki<br>
 </td>
-<td valign="top" >
+<td valign="top" style="width: 100%;" cellspacing="0" cellpadding="0" >
 https://github.com/Digital-Forensics-Discord-Server/LawEnforcementResources<br>
 https://github.com/Digital-Forensics-Discord-Server/TheHitchhikersGuidetoDFIRExperiencesFromBeginnersandExperts<br>
 https://github.com/Hack-with-Github/Awesome-Hacking<br>
@@ -43,23 +43,23 @@ https://github.com/504ensicsLabs<br>
 
 ### NATIONAL CYBER SECURITY AGENCIES
 
-<table valign="top" style="width: 100%; border: none;" cellspacing="0" cellpadding="0">
+<table>
 <thead>
   <tr>
-    <td valign="top" >
+    <td valign="top" style="width: 100%;" cellspacing="0" cellpadding="0">
     https://niccs.cisa.gov<br>
     https://www.cyber.gov.au<br>
     https://www.cyber.gc.ca/enhttps://www.ncsc.gov.uk<br>
     https://english.ncsc.nl<br>
     https://csirtamericas.org/en
     </td>
-    <td valign="top" >
+    <td valign="top" style="width: 100%;" cellspacing="0" cellpadding="0">
     https://www.cert.govt.nz<br>
     https://www.ncsc.govt.nz<br>
     https://www.nukib.cz/en<br>
     https://www.bsi.bund.de/EN
     </td>
-    <td valign="top" >
+    <td valign="top" style="width: 100%;" cellspacing="0" cellpadding="0">
     https://www.gov.il/en/departments/israel_national_cyber_directorate/govil-landing-page<br>
     https://www.csa.gov.sg/https://www.kisa.or.kr/ENhttps://nsm.no/areas-of-expertise/cyber-security/norwegian-national-cyber-security-centre-ncsc/<br>
     https://www.jpcert.or.jp/english/<br>
