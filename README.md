@@ -12,10 +12,10 @@
 
 ### REFERENCES    
 
-<table>
+<table valign="top" style="width: 100%; border: none;" cellspacing="0" cellpadding="0">
 <thead>
 <tr>
-<td>
+<td valign="top" >
 https://dfrws.org/presentation<br>
 https://www.sciencedirect.com/journal/forensic-science-international-digital-investigation<br>
 https://www.sciencedirect.com/journal/computer-law-and-security-review<br>
@@ -27,14 +27,13 @@ https://github.com/Ignitetechnologies/Mindmap<br>
 https://github.com/mikeroyal/Digital-Forensics-Guide<br>
 https://github.com/forensicswiki/wiki<br>
 </td>
-<td>
+<td valign="top" >
 https://github.com/Digital-Forensics-Discord-Server/LawEnforcementResources<br>
 https://github.com/Digital-Forensics-Discord-Server/TheHitchhikersGuidetoDFIRExperiencesFromBeginnersandExperts<br>
 https://github.com/Hack-with-Github/Awesome-Hacking<br>
 https://github.com/enaqx/awesome-pentest<br>
 https://github.com/onlurking/awesome-infosec<br>
 https://github.com/504ensicsLabs<br>
-<br><br><br><br>
 </td>
 </tr>
 </thead>
@@ -44,23 +43,23 @@ https://github.com/504ensicsLabs<br>
 
 ### NATIONAL CYBER SECURITY AGENCIES
 
-<table>
+<table valign="top" style="width: 100%; border: none;" cellspacing="0" cellpadding="0">
 <thead>
   <tr>
-    <td>
+    <td valign="top" >
     https://niccs.cisa.gov<br>
     https://www.cyber.gov.au<br>
     https://www.cyber.gc.ca/enhttps://www.ncsc.gov.uk<br>
     https://english.ncsc.nl<br>
     https://csirtamericas.org/en
     </td>
-    <td>
+    <td valign="top" >
     https://www.cert.govt.nz<br>
     https://www.ncsc.govt.nz<br>
     https://www.nukib.cz/en<br>
     https://www.bsi.bund.de/EN
     </td>
-    <td>
+    <td valign="top" >
     https://www.gov.il/en/departments/israel_national_cyber_directorate/govil-landing-page<br>
     https://www.csa.gov.sg/https://www.kisa.or.kr/ENhttps://nsm.no/areas-of-expertise/cyber-security/norwegian-national-cyber-security-centre-ncsc/<br>
     https://www.jpcert.or.jp/english/<br>
@@ -81,31 +80,30 @@ https://www.youtube.com/watch?v=01oeaBb85Xc
 
 ### BASIC STRATEGY
 
-<table>
+<table valign="top" style="width: 100%; border: none;" cellspacing="0" cellpadding="0">
 <thead>
   <tr>
-    <th>Crime Triangle</th>
-    <th>Basic Investigative Metodology</th>
+  <th>Crime Triangle</th>
+  <th>Basic Investigative Metodology</th>
   </tr>
 </thead>
 <tbody>
   <tr>
-    <td>
-    <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.benthamsgaze.org%2Fwp-content%2Fuploads%2F2019%2F11%2Fcrime_triangle.png" alt="Image" width="300" height="300"></td>
-    <td>
-    <br>
-    • <b>5W</b> - Who, What, When, Where and Why<br>    
-    • <b>PDCA Cycle</b> - Plan, Do, Check and Act<br>   
-    • <b>Root Cause Analysis (RCA)</b><br>    
-    &emsp; - Identify and describe the problem clearly<br>    
-    &emsp; - Establish a timeline from the normal situation<br>   
-    &emsp;   until the problem occurs<br>    
-    &emsp; - Distinguish between the root cause and other<br>    
-    &emsp;   causal factors (e.g., using event correlation)<br>    
-    &emsp; - Establish a causal graph between the root cause<br>    
-    &emsp;   and the problem<br>    
-    <br><br><br><br><br><br><br>
-    </td>
+  <td valign="top" >
+  <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.benthamsgaze.org%2Fwp-content%2Fuploads%2F2019%2F11%2Fcrime_triangle.png" alt="Image" width="300" height="300"></td>
+  <td valign="top" >
+  <br>
+  <b>• 5W</b> - Who, What, When, Where and Why<br>    
+  <b>• PDCA Cycle</b> - Plan, Do, Check and Act<br>   
+  <b>• Root Cause Analysis (RCA)</b><br>    
+  &emsp; - Identify and describe the problem clearly<br>    
+  &emsp; - Establish a timeline from the normal situation<br>   
+  &emsp;   until the problem occurs<br>    
+  &emsp; - Distinguish between the root cause and other<br>    
+  &emsp;   causal factors (e.g., using event correlation)<br>    
+  &emsp; - Establish a causal graph between the root cause<br>    
+  &emsp;   and the problem<br>    
+  </td>
   </tr>
 </tbody>
 </table>
@@ -117,7 +115,7 @@ https://www.youtube.com/watch?v=01oeaBb85Xc
 
 ### FRAMEWORKS
 
-<table>
+<table valign="top" style="width: 100%; border: none;" cellspacing="0" cellpadding="0">
 <thead>
   <tr>
     <th>FLOSS<br>Free/Libre and Open Source Software</th>
@@ -302,7 +300,7 @@ Five Eyes - https://en.wikipedia.org/wiki/Five_Eyes
 
 ## The Five, Nine, & Fourteen Eyes surveillance alliance includes the following countries:
 
-<table>
+<table valign="top" style="width: 100%; border: none;" cellspacing="0" cellpadding="0">
 <thead>
   <tr>
     <th>Countries</th>
@@ -657,13 +655,14 @@ sudo grgsm_livemon       # Live radio scanning.
 <sub>
 <p><b>Others</b></p>
 <p>https://coe.int/en/web/cybercrime</p>
-<p>https://sherloc.unodc.org/cld/en/st/home.html</p>
+<p>https://sherloc.unodc.org</p>
 <p>https://www.justice.gov/news</p>
 <p>https://www.enisa.europa.eu</p>
+<p>http://www.fbi.gov</p>
 <p>https://www.incibe.es</p>
+<p>https://www.cvedetails.com/</p>
 <p>https://www.reddit.com/r/digitalforensics</p>    
 <p>https://necessaryandproportionate.org</p>     
-<p>https://www.cvedetails.com/</p>
 </sub>
 
 <sub>
@@ -672,7 +671,8 @@ sudo grgsm_livemon       # Live radio scanning.
 <p>https://www.youtube.com/@DFRWS</p>
 <p>https://www.youtube.com/@SANSForensics</p>
 <p>https://www.youtube.com/@SANSOffensiveOperations</p>
-<p>https://www.youtube.com/@hitbsecconf</p> 
+<p>https://www.youtube.com/@RSAConference</p>
+<p>https://www.youtube.com/@hitbsecconf</p>
 <p>https://www.youtube.com/@BlackHatOfficialYT</p>
 <p>https://www.youtube.com/@DebConfVideos</p>
 <p>https://www.youtube.com/@44contv</p>
