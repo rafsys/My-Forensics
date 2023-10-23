@@ -89,9 +89,9 @@ https://www.youtube.com/watch?v=01oeaBb85Xc
 </thead>
 <tbody>
   <tr>
-  <td valign="top" style="width: 50%">
+  <td>
   <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.benthamsgaze.org%2Fwp-content%2Fuploads%2F2019%2F11%2Fcrime_triangle.png" alt="Image" width="300" height="300"></td>
-  <td valign="top" style="width: 50%">
+  <td>
   <br>
   <b>• 5W</b> - Who, What, When, Where and Why<br>    
   <b>• PDCA Cycle</b> - Plan, Do, Check and Act<br>   
