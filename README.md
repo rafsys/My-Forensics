@@ -80,7 +80,7 @@ https://www.youtube.com/watch?v=01oeaBb85Xc
 
 ### BASIC STRATEGY
 
-<table valign="top" style="width: 100%" cellspacing="0" cellpadding="0">
+<table valign="top" cellspacing="0" cellpadding="0">
 <thead>
   <tr>
   <th>Crime Triangle</th>
