@@ -89,10 +89,10 @@ https://www.youtube.com/watch?v=01oeaBb85Xc
 </thead>
 <tbody>
   <tr>
-  <td valign="top" style="width: 100%">
+  <td valign="top" style="width: 415px">
   <img src="POLICE_HACKING/CT.png" alt="Image">
   </td>
-  <td valign="top" style="width: 100%">
+  <td valign="top" style="width: 415px">
   <br>
   <b>• 5W</b> - Who, What, When, Where and Why<br>
   <b>• PDCA Cycle</b> - Plan, Do, Check and Act<br>
