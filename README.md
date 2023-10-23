@@ -90,7 +90,7 @@ https://www.youtube.com/watch?v=01oeaBb85Xc
 <tbody>
   <tr>
   <td valign="top" style="width: 30%">
-  <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.benthamsgaze.org%2Fwp-content%2Fuploads%2F2019%2F11%2Fcrime_triangle.png" alt="Image"></td>
+  <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.benthamsgaze.org%2Fwp-content%2Fuploads%2F2019%2F11%2Fcrime_triangle.png" alt="Image" width="300" height="300"></td>
   <td valign="top" style="width: 70%">
   <br>
   <b>• 5W</b> - Who, What, When, Where and Why<br>    
