@@ -89,9 +89,9 @@ https://www.youtube.com/watch?v=01oeaBb85Xc
 </thead>
 <tbody>
   <tr>
-  <td valign="top" >
+  <td valign="top" style="width: 100%">
   <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.benthamsgaze.org%2Fwp-content%2Fuploads%2F2019%2F11%2Fcrime_triangle.png" alt="Image" width="300" height="300"></td>
-  <td valign="top" >
+  <td valign="top" style="width: 100%">
   <br>
   <b>• 5W</b> - Who, What, When, Where and Why<br>    
   <b>• PDCA Cycle</b> - Plan, Do, Check and Act<br>   
@@ -124,7 +124,7 @@ https://www.youtube.com/watch?v=01oeaBb85Xc
 </thead>
 <tbody>
   <tr>
-  <td>
+  <td valign="top" style="width: 100%">
     • Kali Linux<br><a href="https://www.kali.org/docs/general-use/kali-linux-forensics-mode">https://www.kali.org/docs/general-use/kali-linux-forensics-mode</a><br>
     • CAINE<br><a href="https://www.caine-live.net">https://www.caine-live.net</a><br>
     • CSI Linux<br><a href="https://csilinux.com">https://csilinux.com</a><br>
@@ -137,7 +137,7 @@ https://www.youtube.com/watch?v=01oeaBb85Xc
     • NirSoft ® (freeware utilities)<br><a href="https://www.nirsoft.net/computer_forensic_software.html">https://www.nirsoft.net/computer_forensic_software.html</a><br>
     • MiTeC ® (freeware utilities)<br><a href="https://www.mitec.com">https://www.mitec.com</a>
   </td>
-  <td>
+  <td valign="top" style="width: 100%">
     • Cellebrite ®<br><a href="https://cellebrite.com/" target="_blank" rel="noopener noreferrer">https://cellebrite.com</a><br>
     • Oxygen Forensic ®<br><a href="https://oxygen-forensic.wedatasolution.com/" target="_blank" rel="noopener noreferrer">https://oxygen-forensic.wedatasolution.com</a><br>
     • MSAB ®<br><a href="https://www.msab.com/" target="_blank" rel="noopener noreferrer">https://www.msab.com</a><br>
@@ -303,11 +303,11 @@ Five Eyes - https://en.wikipedia.org/wiki/Five_Eyes
 <table valign="top" style="width: 100%; border: none;" cellspacing="0" cellpadding="0">
 <thead>
   <tr>
-    <th>Countries</th>
-    <th>Five Eyes</th>
-    <th>Nine Eyes</th>
-    <th>Fourteen Eyes</th>
-    <th>Other</th>
+  <th>Countries</th>
+  <th>Five Eyes</th>
+  <th>Nine Eyes</th>
+  <th>Fourteen Eyes</th>
+  <th>Other</th>
   </tr>
 </thead>
 <tbody>
