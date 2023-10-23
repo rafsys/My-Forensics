@@ -97,10 +97,10 @@ https://www.youtube.com/watch?v=01oeaBb85Xc
   <b>• 5W</b> - Who, What, When, Where and Why<br>
   <b>• PDCA Cycle</b> - Plan, Do, Check and Act<br>
   <b>• Root Cause Analysis (RCA)</b><br>
-  &emsp; - <br>Identify and describe the problem clearly</br>
-  &emsp; - <br>Establish a timeline from the normal situation until the problem occurs</br>
-  &emsp; - <br>Distinguish between the root cause and other causal factors (e.g., using event correlation)</br>
-  &emsp; - <br>Establish a causal graph between the root cause and the problem</br>
+  <br>&emsp; - Identify and describe the problem clearly</br>
+  <br>&emsp; - Establish a timeline from the normal situation until the problem occurs</br>
+  <br>&emsp; - Distinguish between the root cause and other causal factors (e.g., using event correlation)</br>
+  <br>&emsp; - Establish a causal graph between the root cause and the problem</br>
   </p>
   </td>
   </tr>
@@ -134,7 +134,7 @@ https://www.youtube.com/watch?v=01oeaBb85Xc
     • Drive Badger<br><a href="https://drivebadger.com">https://drivebadger.com</a><br>
     • Octoplus Box ® (easy end user acess)<br><a href="https://octoplusbox.com">https://octoplusbox.com</a><br><a href="https://octoplusbox.com/en/features/models/">https://octoplusbox.com/en/features/models/</a><br><a href="https://www.aliexpress.com/w/wholesale-octoplus-box.html">https://www.aliexpress.com/w/wholesale-octoplus-box.html</a><br>
     • NirSoft ® (freeware utilities)<br><a href="https://www.nirsoft.net/computer_forensic_software.html">https://www.nirsoft.net/computer_forensic_software.html</a><br>
-    • MiTeC ® (freeware utilities)<br><a href="https://www.mitec.com">https://www.mitec.com</a>
+    • MiTeC ® (freeware utilities)<br><a href="https://www.mitec.com">https://www.mitec.com</a><br>
   </td>
   <td valign="top" style="width: 100%">
     • Cellebrite ®<br><a href="https://cellebrite.com/" target="_blank" rel="noopener noreferrer">https://cellebrite.com</a><br>
@@ -148,7 +148,6 @@ https://www.youtube.com/watch?v=01oeaBb85Xc
     • Thorn's Safer ®<br><a href="https://www.thorn.org/" target="_blank" rel="noopener noreferrer">https://www.thorn.org</a><br>
     • Lockheed Martin ®<br><a href="https://www.lockheedmartin.com" target="_blank" rel="noopener noreferrer">https://www.lockheedmartin.com/</a><br>
     • Cognyte ®<br><a href="https://www.cognyte.com/" target="_blank" rel="noopener noreferrer">https://www.cognyte.com/</a><br>
-    <br>
   </td>
   </tr>
 </tbody>
