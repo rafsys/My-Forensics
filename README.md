@@ -24,10 +24,10 @@ https://github.com/ail-project/ail-training<br>
 https://github.com/Cugu/awesome-forensics<br>
 https://github.com/shadawck/awesome-anti-forensic<br>
 https://github.com/Ignitetechnologies/Mindmap<br>
-https://github.com/mikeroyal/Digital-Forensics-Guide<br>
-https://github.com/forensicswiki/wiki<br>
 </td>
 <td style="width:50%" valign="top" style="width: 100%;">
+https://github.com/mikeroyal/Digital-Forensics-Guide<br>
+https://github.com/forensicswiki/wiki<br>
 https://github.com/Digital-Forensics-Discord-Server/LawEnforcementResources<br>
 https://github.com/Digital-Forensics-Discord-Server/TheHitchhikersGuidetoDFIRExperiencesFromBeginnersandExperts<br>
 https://github.com/Hack-with-Github/Awesome-Hacking<br>
@@ -95,7 +95,7 @@ https://www.youtube.com/watch?v=01oeaBb85Xc
   <td align="center" valign="top" style="width: 50%;">
   <img src="3.POLICE_HACKING/CT.png" alt="Image">
   </td>
-  <td align="left" valign="top" style="width: 50%;">
+  <td align="left" valign="top" style="width: 100%;">
   <p>
   <b>• 5W:</b> Who, What, When, Where and Why</br> 
   <b>• PDCA Cycle:</b> Plan, Do, Check and Act</br>
@@ -681,7 +681,6 @@ sudo grgsm_livemon    # Live radio scanning.
 ```
 <p></p>
 </details>
-<br>
 
 ----------------------------------------------------------------
 
