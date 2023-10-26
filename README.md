@@ -12,10 +12,10 @@
 
 ### REFERENCES    
 
-<table cellspacing="0" cellpadding="0">
+<table style="width:100%" cellspacing="0" cellpadding="0">
 <thead>
 <tr>
-<td valign="top" style="width: 100%;">
+<td style="width:50%" valign="top" style="width: 100%;">
 https://dfrws.org/presentation<br>
 https://www.sciencedirect.com/journal/forensic-science-international-digital-investigation<br>
 https://www.sciencedirect.com/journal/computer-law-and-security-review<br>
@@ -27,7 +27,7 @@ https://github.com/Ignitetechnologies/Mindmap<br>
 https://github.com/mikeroyal/Digital-Forensics-Guide<br>
 https://github.com/forensicswiki/wiki<br>
 </td>
-<td valign="top" style="width: 100%;">
+<td style="width:50%" valign="top" style="width: 100%;">
 https://github.com/Digital-Forensics-Discord-Server/LawEnforcementResources<br>
 https://github.com/Digital-Forensics-Discord-Server/TheHitchhikersGuidetoDFIRExperiencesFromBeginnersandExperts<br>
 https://github.com/Hack-with-Github/Awesome-Hacking<br>
@@ -43,27 +43,30 @@ https://github.com/504ensicsLabs<br>
 
 ### NATIONAL CYBER SECURITY AGENCIES
 
-<table cellspacing="0" cellpadding="0">
+<table style="width:100%" cellspacing="0" cellpadding="0">
 <thead>
   <tr>
-    <td valign="top" style="width: 100%;">
+    <td style="width:33%" valign="top" style="width: 100%;">
     https://niccs.cisa.gov<br>
     https://www.cyber.gov.au<br>
-    https://www.cyber.gc.ca/enhttps://www.ncsc.gov.uk<br>
+    https://www.cyber.gc.ca/en<br>
+    https://www.ncsc.gov.uk<br>
     https://english.ncsc.nl<br>
-    https://csirtamericas.org/en
+    https://csirtamericas.org/en<br>
     </td>
-    <td valign="top" style="width: 100%;">
+    <td style="width:33%" valign="top" style="width: 100%;">
     https://www.cert.govt.nz<br>
     https://www.ncsc.govt.nz<br>
     https://www.nukib.cz/en<br>
-    https://www.bsi.bund.de/EN
+    https://www.bsi.bund.de/EN<br>
+    https://www.nki.gov.hu/en<br>
     </td>
-    <td valign="top" style="width: 100%;">
+    <td style="width:33%" valign="top" style="width: 100%;">
     https://www.gov.il/en/departments/israel_national_cyber_directorate/govil-landing-page<br>
-    https://www.csa.gov.sg/https://www.kisa.or.kr/ENhttps://nsm.no/areas-of-expertise/cyber-security/norwegian-national-cyber-security-centre-ncsc/<br>
+    https://www.csa.gov.sg<br>
+    https://www.kisa.or.kr/ENhttps://nsm.no/areas-of-expertise/cyber-securitynorwegian-national-cyber-security-centre-ncsc/<br>
     https://www.jpcert.or.jp/english/<br>
-    https://www.nisc.go.jp/eng/index.html
+    https://www.nisc.go.jp/eng/index.html<br>
     </td>
   </tr>
 </thead>
@@ -80,21 +83,21 @@ https://www.youtube.com/watch?v=01oeaBb85Xc
 
 ### BASIC STRATEGY
 
-<table>
+<table style="width:100%" cellspacing="0" cellpadding="0">
 <thead>
   <tr>
-  <th align="center" valign="top" style="width: 100%;">Crime Triangle</th>
-  <th align="center" valign="top" style="width: 100%;">Basic Investigative Metodology</th>
+  <th align="center" valign="top" style="width: 50%;">Crime Triangle</th>
+  <th align="center" valign="top" style="width: 50%;">Basic Investigative Metodology</th>
   </tr>
 </thead>
 <tbody>
   <tr>
-  <td align="center" valign="top" style="width: 100%;">
+  <td align="center" valign="top" style="width: 50%;">
   <img src="POLICE_HACKING/CT.png" alt="Image">
   </td>
-  <td valign="top" style="width: 100%;">
+  <td align="left" valign="top" style="width: 50%;">
   <p>
-  <b>• 5W:</b> Who, What, When, Where and Why &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp;</br> 
+  <b>• 5W:</b> Who, What, When, Where and Why</br> 
   <b>• PDCA Cycle:</b> Plan, Do, Check and Act</br>
   <b>• Root Cause Analysis (RCA):</b></br>
   &emsp; - Identify and describe the problem clearly</br>
@@ -103,7 +106,8 @@ https://www.youtube.com/watch?v=01oeaBb85Xc
   &emsp; - Distinguish between the root cause and other</br>
   &emsp;   causal factors (e.g., using event correlation)</br>
   &emsp; - Establish a causal graph between the root</br>
-  &emsp;   cause and the problem</p></br>
+  &emsp;   cause and the problem</br>
+  </p>
   </td>
   </tr>
 </tbody>
@@ -116,16 +120,16 @@ https://www.youtube.com/watch?v=01oeaBb85Xc
 
 ### FRAMEWORKS
 
-<table cellspacing="0" cellpadding="0">
+<table style="width:100%" cellspacing="0" cellpadding="0">
 <thead>
   <tr>
-    <th>FLOSS<br>Free/Libre and Open Source Software</th>
-    <th>PRIVATE<br>Private Sector Offensive Actors (PSOAs)</th>
+    <th align="center" valign="top" style="width: 50%;">FLOSS<br>Free/Libre and Open Source Software</th>
+    <th align="center" valign="top" style="width: 50%;">PRIVATE<br>Private Sector Offensive Actors (PSOAs)</th>
   </tr>
 </thead>
 <tbody>
   <tr>
-  <td valign="top" style="width: 100%">
+  <td align="left" valign="top" style="width: 50%;">
     • Kali Linux<br><a href="https://www.kali.org/docs/general-use/kali-linux-forensics-mode">https://www.kali.org/docs/general-use/kali-linux-forensics-mode</a><br>
     • CAINE<br><a href="https://www.caine-live.net">https://www.caine-live.net</a><br>
     • CSI Linux<br><a href="https://csilinux.com">https://csilinux.com</a><br>
@@ -138,7 +142,7 @@ https://www.youtube.com/watch?v=01oeaBb85Xc
     • NirSoft ® (freeware utilities)<br><a href="https://www.nirsoft.net/computer_forensic_software.html">https://www.nirsoft.net/computer_forensic_software.html</a><br>
     • MiTeC ® (freeware utilities)<br><a href="https://www.mitec.com">https://www.mitec.com</a><br>
   </td>
-  <td valign="top" style="width: 100%">
+  <td align="left" valign="top" style="width: 50%;">
     • Cellebrite ®<br><a href="https://cellebrite.com/" target="_blank" rel="noopener noreferrer">https://cellebrite.com</a><br>
     • Oxygen Forensic ®<br><a href="https://oxygen-forensic.wedatasolution.com/" target="_blank" rel="noopener noreferrer">https://oxygen-forensic.wedatasolution.com</a><br>
     • MSAB ®<br><a href="https://www.msab.com/" target="_blank" rel="noopener noreferrer">https://www.msab.com</a><br>
@@ -300,10 +304,10 @@ Five Eyes - https://en.wikipedia.org/wiki/Five_Eyes
 
 ## The Five, Nine, & Fourteen Eyes surveillance alliance includes the following countries:
 
-<table valign="top" style="width: 100%; border: none;" cellspacing="0" cellpadding="0">
+<table  align="center" valign="center" style="width: 100%;" cellspacing="0" cellpadding="0">
 <thead>
   <tr>
-  <th>Countries</th>
+  <th align="left">Countries</th>
   <th>Five Eyes</th>
   <th>Nine Eyes</th>
   <th>Fourteen Eyes</th>
@@ -312,126 +316,126 @@ Five Eyes - https://en.wikipedia.org/wiki/Five_Eyes
 </thead>
 <tbody>
   <tr>
-    <td>United Kingdom</td>
+    <td align="left">United Kingdom</td>
     <td>✔️</td>
     <td>✔️</td>
     <td>✔️</td>
     <td></td>
   </tr>
   <tr>
-    <td>United States</td>
+    <td align="left">United States</td>
     <td>✔️</td>
     <td>✔️</td>
     <td>✔️</td>
     <td></td>
   </tr>
   <tr>
-    <td>Australia</td>
+    <td align="left">Australia</td>
     <td>✔️</td>
     <td>✔️</td>
     <td>✔️</td>
     <td></td>
   </tr>
   <tr>
-    <td>Canada</td>
+    <td align="left">Canada</td>
     <td>✔️</td>
     <td>✔️</td>
     <td>✔️</td>
     <td></td>
   </tr>
   <tr>
-    <td>New Zealand</td>
+    <td align="left">New Zealand</td>
     <td>✔️</td>
     <td>✔️</td>
     <td>✔️</td>
     <td></td>
   </tr>
   <tr>
-    <td>Denmark</td>
+    <td align="left">Denmark</td>
     <td></td>
     <td>✔️</td>
     <td>✔️</td>
     <td></td>
   </tr>
   <tr>
-    <td>Netherlands</td>
+    <td align="left">Netherlands</td>
     <td></td>
     <td>✔️</td>
     <td>✔️</td>
     <td></td>
   </tr>
   <tr>
-    <td>France</td>
+    <td align="left">France</td>
     <td></td>
     <td>✔️</td>
     <td>✔️</td>
     <td></td>
   </tr>
   <tr>
-    <td>Norway</td>
+    <td align="left">Norway</td>
     <td></td>
     <td></td>
     <td>✔️</td>
     <td></td>
   </tr>
   <tr>
-    <td>Germany</td>
+    <td align="left">Germany</td>
     <td></td>
     <td></td>
     <td>✔️</td>
     <td></td>
   </tr>
   <tr>
-    <td>Belgium</td>
+    <td align="left">Belgium</td>
     <td></td>
     <td></td>
     <td>✔️</td>
     <td></td>
   </tr>
   <tr>
-    <td>Spain</td>
+    <td align="left">Spain</td>
     <td></td>
     <td></td>
     <td>✔️</td>
     <td></td>
   </tr>
   <tr>
-    <td>Sweden</td>
+    <td align="left">Sweden</td>
     <td></td>
     <td></td>
     <td>✔️</td>
     <td></td>
   </tr>
   <tr>
-    <td>Italy</td>
+    <td align="left">Italy</td>
     <td></td>
     <td></td>
     <td>✔️</td>
     <td></td>
   </tr>
   <tr>
-    <td>Israel</td>
+    <td align="left">Israel</td>
     <td></td>
     <td></td>
     <td></td>
     <td>✔️</td>
   </tr>
   <tr>
-    <td>Sapan</td>
+    <td align="left">Sapan</td>
     <td></td>
     <td></td>
     <td></td>
     <td>✔️</td>
   </tr>
   <tr>
-    <td>Singapore</td>
+    <td align="left">Singapore</td>
     <td></td>
     <td></td>
     <td></td>
     <td>✔️</td>
   </tr>
   <tr>
-    <td>South Korea</td>
+    <td align="left">South Korea</td>
     <td></td>
     <td></td>
     <td></td>
@@ -560,20 +564,60 @@ https://github.com/trustedsec/social-engineer-toolkit
 <summary>${\color{Yellow}\textbf{PHONE SNIFFING}}$</summary>
 <p></p>
 
-| `Name` | `Desc.` |
-|-|-|
-| IMEI | [International Mobile Equipment Identity](https://en.wikipedia.org/wiki/International_Mobile_Equipment_Identity) |
-| IMSI | [International Mobile Subscriber Identity](https://en.wikipedia.org/wiki/International_mobile_subscriber_identity) |
-| MCC | [Mobile Country Code](https://en.wikipedia.org/wiki/Mobile_country_code) |
-| MNC | [Mobile Network Code](https://en.wikipedia.org/wiki/Mobile_country_code) |
-| MSIN | [Mobile Subscription Identification Number](https://en.wikipedia.org/wiki/Mobile_identification_number) |
-| ICCID | [Integrated Circuit Card Identifier](https://en.wikipedia.org/wiki/SIM_card#ICCID) |
-| MSID | Gigits Give Network you use |
-|==========|==============================|
-| GSM | [Global System for Mobile Communications](https://en.wikipedia.org/wiki/GSM) |
-| SIM Card | [Subscriber Identity Module Card](https://en.wikipedia.org/wiki/SIM_card) |
-| SMS | [Short Message/Messaging Service](https://en.wikipedia.org/wiki/SMS) |
-| SDR | [Software-Defined Radio](https://en.wikipedia.org/wiki/Software-defined_radio) |
+<table>
+    <tr>
+        <td>NAME</td>
+        <td>MEANING</td>
+    </tr>
+    <tr>
+        <td>IMEI</td>
+        <td><a href="https://en.wikipedia.org/wiki/International_Mobile_Equipment_Identity">International Mobile Equipment Identity</a></td>
+    </tr>
+    <tr>
+        <td>IMSI</td>
+        <td><a href="https://en.wikipedia.org/wiki/International_mobile_subscriber_identity">International Mobile Subscriber Identity</a></td>
+    </tr>
+    <tr>
+        <td>MCC</td>
+        <td><a href="https://en.wikipedia.org/wiki/Mobile_country_code">Mobile Country Code</a></td>
+    </tr>
+    <tr>
+        <td>MNC</td>
+        <td><a href="https://en.wikipedia.org/wiki/Mobile_country_code">Mobile Network Code</a></td>
+    </tr>
+    <tr>
+        <td>MSIN</td>
+        <td><a href="https://en.wikipedia.org/wiki/Mobile_identification_number">Mobile Subscription Identification Number</a></td>
+    </tr>
+    <tr>
+        <td>ICCID</td>
+        <td><a href="https://en.wikipedia.org/wiki/SIM_card#ICCID">Integrated Circuit Card Identifier</a></td>
+    </tr>
+    <tr>
+        <td>MSID</td>
+        <td><a href="https://www.pcmag.com/encyclopedia/term/mobile-station">Mobile Station ID</a></td>
+    </tr>
+    <tr>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>GSM</td>
+        <td><a href="https://en.wikipedia.org/wiki/GSM">Global System for Mobile Communications</a></td>
+    </tr>
+    <tr>
+        <td>SIM Card</td>
+        <td><a href="https://en.wikipedia.org/wiki/SIM_card">Subscriber Identity Module Card</a></td>
+    </tr>
+    <tr>
+        <td>SMS</td>
+        <td><a href="https://en.wikipedia.org/wiki/SMS">Short Message/Messaging Service</a></td>
+    </tr>
+    <tr>
+        <td>SDR</td>
+        <td><a href="https://en.wikipedia.org/wiki/Software-defined_radio">Software-Defined Radio</a></td>
+    </tr>
+</table>
 
 ![image](https://user-images.githubusercontent.com/53458032/209445888-a0b016ee-0b05-49d6-a4ab-d14d72f632f7.png)
 
@@ -654,13 +698,14 @@ sudo grgsm_livemon       # Live radio scanning.
 <p></p>
 <sub>
 <p><b>Others</b></p>
+<p>https://www.cve.org</p>
+<p>https://www.cvedetails.com</p>
 <p>https://coe.int/en/web/cybercrime</p>
 <p>https://sherloc.unodc.org</p>
 <p>https://www.justice.gov/news</p>
 <p>https://www.enisa.europa.eu</p>
 <p>http://www.fbi.gov</p>
 <p>https://www.incibe.es</p>
-<p>https://www.cvedetails.com/</p>
 <p>https://www.reddit.com/r/digitalforensics</p>    
 <p>https://necessaryandproportionate.org</p>     
 </sub>
@@ -672,9 +717,9 @@ sudo grgsm_livemon       # Live radio scanning.
 <p>https://www.youtube.com/@SANSForensics</p>
 <p>https://www.youtube.com/@SANSOffensiveOperations</p>
 <p>https://www.youtube.com/@RSAConference</p>
-<p>https://www.youtube.com/@hitbsecconf</p>
 <p>https://www.youtube.com/@BlackHatOfficialYT</p>
 <p>https://www.youtube.com/@DebConfVideos</p>
+<p>https://www.youtube.com/@hitbsecconf</p>
 <p>https://www.youtube.com/@44contv</p>
 <p>https://www.youtube.com/@secwestnet</p>
 <p>https://www.youtube.com/@EkopartyConference</p>
