@@ -22,9 +22,9 @@ social control, and diplomatic manipulation. They're about power." (Edward Snowd
 
 <h3>REFERENCES</h3>
 
-<table style="width:100%" cellspacing="0" cellpadding="0">
+<table style="width: 100%" cellspacing="0" cellpadding="0">
 <tr>
-<td valign="top" style="width:50%">
+<td valign="top" style="width: 50%">
 https://dfrws.org/presentation<br>
 https://www.sciencedirect.com/journal/forensic-science-international-digital-investigation<br>
 https://www.sciencedirect.com/journal/computer-law-and-security-review<br>
@@ -34,7 +34,7 @@ https://github.com/Cugu/awesome-forensics<br>
 https://github.com/shadawck/awesome-anti-forensic<br>
 https://github.com/Ignitetechnologies/Mindmap<br>
 </td>
-<td valign="top" style="width:50%">
+<td valign="top" style="width: 50%">
 https://github.com/mikeroyal/Digital-Forensics-Guide<br>
 https://github.com/forensicswiki/wiki<br>
 https://github.com/Digital-Forensics-Discord-Server/LawEnforcementResources<br>
@@ -53,9 +53,9 @@ https://github.com/504ensicsLabs<br>
 
 <h3>NATIONAL CYBER SECURITY AGENCIES</h3>
 
-<table style="width:100%" cellspacing="0" cellpadding="0">
+<table style="width: 100%" cellspacing="0" cellpadding="0">
 <tr>
-<td style="width:33%" valign="top">
+<td style="width: 33%" valign="top">
 <a href="https://www.cisa.gov/">US - CISA</a><br>
 <a href="https://www.cyber.gov.au">AU - Cyber</a><br>
 <a href="https://www.cyber.gc.ca/en">CA - Cyber</a><br>
@@ -64,7 +64,7 @@ https://github.com/504ensicsLabs<br>
 <a href="https://csirtamericas.org/en">Americas - CSI</a><br>
 <br>
 </td>
-<td style="width:33%" valign="top">
+<td style="width: 33%" valign="top">
 <a href="https://www.cert.govt.nz">NZ - CERT</a><br>
 <a href="https://www.ncsc.govt.nz">NZ - NCSC</a><br>
 <a href="https://www.nukib.cz/en">CZ - NUKIB</a><br>
@@ -72,7 +72,7 @@ https://github.com/504ensicsLabs<br>
 <a href="https://www.nki.gov.hu/en">HU - NKI</a><br>
 <a href="https://nsm.no/areas-of-expertise/cyber-securitynorwegian-national-cyber-security-centre-ncsc">NO - NCSC</a><br>
 </td>
-<td style="width:33%" valign="top">
+<td style="width: 33%" valign="top">
 <a href="https://www.gov.il/en/departments/israel_national_cyber_directorate/govil-landing-page">IS - INCD</a><br>
 <a href="https://www.csa.gov.sg">SG - CSA</a><br>
 <a href="https://www.kisa.or.kr/EN">KR - KISA</a><br>
@@ -88,16 +88,16 @@ https://github.com/504ensicsLabs<br>
 
 <h3>BASIC STRATEGY</h3>
 
-<table style="width:100%" cellspacing="0" cellpadding="0">
+<table style="width: 100%" cellspacing="0" cellpadding="0">
 <tr>
   <td align="center" valign="top" style="width: 50%;"><b>Crime Triangle</b></td>
   <td align="center" valign="top" style="width: 50%;"><b>Basic Investigative Metodology</b></td>
 </tr>
 <tr>
-  <td align="center" valign="top" style="width: 50%;">
+  <td align="center" valign="top" style="width: 50%">
     <img src="3.POLICE_HACKING/CT.png" alt="Image">
   </td>
-  <td align="left" valign="top" style="width: 50%;">
+  <td align="left" valign="top" style="width: 50%">
     <p>
     <b>• 5W:</b> Who, What, When, Where and Why</br> 
     <b>• PDCA Cycle:</b> Plan, Do, Check and Act</br>
@@ -120,13 +120,13 @@ https://github.com/504ensicsLabs<br>
 
 <h3>FRAMEWORKS</h3>
 
-<table style="width:100%" cellspacing="0" cellpadding="0">
+<table style="width: 100%" cellspacing="0" cellpadding="0">
  <tr>
-<td align="center" valign="top" style="width: 50%;"><b>FLOSS</b><br>Free/Libre and Open Source Software</td>
-<td align="center" valign="top" style="width: 50%;"><b>PRIVATE</b><br>Private Sector Offensive Actors (PSOAs)</td>
+<td align="center" valign="top" style="width: 50%"><b>FLOSS</b><br>Free/Libre and Open Source Software</td>
+<td align="center" valign="top" style="width: 50%"><b>PRIVATE</b><br>Private Sector Offensive Actors (PSOAs)</td>
   </tr>
   <tr>
-  <td align="left" valign="top" style="width: 50%;">
+  <td align="left" valign="top" style="width: 50%">
 • Kali Linux<br><a href="https://www.kali.org/docs/general-use/kali-linux-forensics-mode">https://www.kali.org/docs/general-use/kali-linux-forensics-mode</a><br>
 • CAINE<br><a href="https://www.caine-live.net">https://www.caine-live.net</a><br>
 • CSI Linux<br><a href="https://csilinux.com">https://csilinux.com</a><br>
@@ -442,11 +442,13 @@ Five Eyes - https://en.wikipedia.org/wiki/Five_Eyes</br>
 <!-- ################################# -->
 <hr>
 
-• **Private Agents**   
+<h4>• Private Agents</h4>
+
 - [“Reverse Location Search Warrant”: A New Personal Data Hoovering Exercise Brought to You by Google (2019)](https://www.nakedcapitalism.com/2019/02/reverse-location-search-warrant-a-new-personal-data-hoovering-exercise-brought-to-you-by-google.html)
 - [As UN Human Rights Chief Urges Stricter Rules, Snowden Calls for End to Spyware Trade (2021)](https://www.nakedcapitalism.com/2021/07/as-un-human-rights-chief-urges-stricter-rules-snowden-calls-for-end-to-spyware-trade.html)
 
-• **Liability for Contents**
+<h4>• Liability for Contents</h4>
+
 - [How to start your own ISP](https://startyourownisp.com/)
 - [Where are torrents permitted?](https://i.imgur.com/3fHyG2S.png)
 - [UK ISP Court Orders](http://www.ukispcourtorders.co.uk/)
@@ -469,9 +471,9 @@ Five Eyes - https://en.wikipedia.org/wiki/Five_Eyes</br>
 
 <!-- ################################# -->
 
-### MALWARES, BACKDOORS, ZERO-DAYS, DATA POISONING, SUPPLY CHAIN ATTACK, MAN-IN-THE-MIDDLE (MITM), HONEY POTS, AND SOCIAL ENGINEERING ATTACK</br>
+<h3> MALWARES, BACKDOORS, ZERO-DAYS, DATA POISONING, SUPPLY CHAIN ATTACK, MAN-IN-THE-MIDDLE (MITM), HONEY POTS, AND SOCIAL ENGINEERING ATTACK</h3>
 
-**Some Famous Cases**<br>
+<h4>Some Famous Cases</h4>
 
 ![1_dRthFvGk3zqARHOPzAymQQ](https://github.com/RENANZG/My-Forensics/assets/53377291/b347418d-dd76-4e0f-b075-e95db4817340)</br>
 
@@ -501,9 +503,8 @@ https://en.wikipedia.org/wiki/Magic_Lantern_(software)</br>
 https://github.com/bibanon/bibanon/blob/0b84bb23794c91c238a5601403898b61b5d193fc/Encyclopedia/History/Events/Pifts.md?</br>plain=1#L125
 • Case: Cryptophon</br>
 https://en.wikipedia.org/wiki/Tron_(hacker)#Cryptophon</br>
-</br>
 
-**Spy chips, hardware implant, bios attacks and spyware attacks**</br>
+<h4>Spy chips, hardware implant, bios attacks and spyware attacks</h4>
 • Planting Tiny Spy Chips in Hardware Can Cost as Little as $200</br>
 https://www.wired.com/story/plant-spy-chips-hardware-supermicro-cheap-proof-of-concept</br>
 • Installation of beacon implants</br>
@@ -535,7 +536,6 @@ https://github.com/CyberMonitor/APT_CyberCriminal_Campagin_Collections</br>
 **Man-In-The-Middle**</br>
 https://github.com/jakev/mitm-helper-wifi</br>
 https://github.com/jakev/mitm-helper-vpn</br>
-</br>
 
 <!-- ################################# -->
 
@@ -633,6 +633,7 @@ https://github.com/trustedsec/social-engineer-toolkit</br>
 ![image](https://user-images.githubusercontent.com/53458032/209445888-a0b016ee-0b05-49d6-a4ab-d14d72f632f7.png)
 
 <h3>Useful Websites</h3>
+
 - OpenCellID - [Link](https://opencellid.org/)
 - Cell Tower Locator (Cell2GPS) - [Link](http://www.cell2gps.com/)
 - Cell Phone Trackers - [Link](https://cellphonetrackers.org/)
@@ -643,11 +644,13 @@ https://github.com/trustedsec/social-engineer-toolkit</br>
 - Cell Towers - https://opencellid.org
 
 <h3>Information & Explanations</h3>
+
 - IMSI-catcher - [Link](https://en.wikipedia.org/wiki/IMSI-catcher)
 - GSM frequency bands - [Link](https://en.wikipedia.org/wiki/GSM_frequency_bands)
 - List of software-defined radios - [Link](https://en.wikipedia.org/wiki/List_of_software-defined_radios)
 
 <h3>Useful Apps</h3>
+
 - Mobile Software
   - AIMSICD - [Link](https://github.com/CellularPrivacy/Android-IMSI-Catcher-Detector)
   - SnoopSnitch - [Link](https://f-droid.org/en/packages/de.srlabs.snoopsnitch/)
@@ -701,7 +704,7 @@ libosmocore-dev \
 liborc-0.4-dev \
 swig
 
-gnuradio-config-info -v
+$ gnuradio-config-info -v
 </pre>
 
 <h4>Tips</h4>
