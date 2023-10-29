@@ -130,6 +130,7 @@ https://github.com/504ensicsLabs<br>
 • Kali Linux<br><a href="https://www.kali.org/docs/general-use/kali-linux-forensics-mode">https://www.kali.org/docs/general-use/kali-linux-forensics-mode</a><br>
 • CAINE<br><a href="https://www.caine-live.net">https://www.caine-live.net</a><br>
 • CSI Linux<br><a href="https://csilinux.com">https://csilinux.com</a><br>
+• SIFT Workstation<br><a href="https://www.sans.org/tools/sift-workstation" target="_blank" rel="noopener noreferrer">https://www.sans.org/tools/sift-workstation</a><br>
 • Avilla Forensics<br><a href="https://github.com/AvillaDaniel/AvillaForensics">https://github.com/AvillaDaniel/AvillaForensics</a><br>
 • IPED<br><a href="https://github.com/sepinf-inc/IPED">https://github.com/sepinf-inc/IPED</a><br>
 • Eric Zimmerman's tools<br><a href="https://ericzimmerman.github.io/#!index.md">https://ericzimmerman.github.io/#!index.md</a><br>
@@ -144,7 +145,6 @@ https://github.com/504ensicsLabs<br>
 • Cellebrite ®<br><a href="https://cellebrite.com/" target="_blank" rel="noopener noreferrer">https://cellebrite.com</a><br>
 • Oxygen Forensic ®<br><a href="https://oxygen-forensic.wedatasolution.com/" target="_blank" rel="noopener noreferrer">https://oxygen-forensic.wedatasolution.com</a><br>
 • MSAB ®<br><a href="https://www.msab.com/" target="_blank" rel="noopener noreferrer">https://www.msab.com</a><br>
-• SIFT Workstation ®<br><a href="https://www.sans.org/tools/sift-workstation" target="_blank" rel="noopener noreferrer">https://www.sans.org/tools/sift-workstation</a><br>
 • GMDSOFT ®<br><a href="https://www.gmdsoft.com/" target="_blank" rel="noopener noreferrer">https://www.gmdsoft.com</a><br>• Forensic Toolkit (FTK) ® <br><a href="https://www.exterro.com/forensic-toolkit" target="_blank" rel="noopener noreferrer">https://www.exterro.com/forensic-toolkit</a><br>
 • Verint Systems ®<br><a href="https://www.verint.com/" target="_blank" rel="noopener noreferrer">https://www.verint.com</a><br>
 • NSO Group ®<br><a href="https://www.nsogroup.com/" target="_blank" rel="noopener noreferrer">https://www.nsogroup.com</a><br>
@@ -221,6 +221,7 @@ https://github.com/504ensicsLabs<br>
 • Making Maps for Investigators - https://github.com/northloopforensics/Fetch</br>
 • Offensive Google framework - https://github.com/mxrch/GHunt</br>
 • Bitlocker Key Finder - https://github.com/northloopforensics/Bitlocker_Key_Finder</br>
+• https://github.com/teamdfir/sift</br>
 • https://github.com/keydet89/RegRipper3.0</br>
 • https://www.autopsy.com/download/</br>
 • https://www.nomoreransom.org/en/index.html</br>
