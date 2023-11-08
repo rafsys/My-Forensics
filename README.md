@@ -32,12 +32,13 @@ https://www.sciencedirect.com/journal/computer-law-and-security-review</br>
 https://github.com/MISP/misp-training</br>
 https://github.com/ail-project/ail-training</br>
 https://www.isc2.org/Certifications/CISSP</br>
+https://attack.mitre.org</br>
 https://www.forensicfocus.com</br>
+</td>
+<td valign="top" style="width: 50%">
 https://github.com/Cugu/awesome-forensics</br>
 https://github.com/shadawck/awesome-anti-forensic</br>
 https://github.com/Ignitetechnologies/Mindmap</br>
-</td>
-<td valign="top" style="width: 50%">
 https://github.com/asiamina/A-Course-on-Digital-Forensics</br>
 https://github.com/mikeroyal/Digital-Forensics-Guide</br>
 https://github.com/forensicswiki/wiki</br>
