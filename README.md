@@ -291,7 +291,7 @@ https://www.youtube.com/watch?v=0AwI6YrV2h4<br>
 
 <h4>• Rule of Law Benchmarks</h4>
 
-<em><b>Always remember that the law in theory is different from the law in practice</b></em></br>
+<em><b>Always remember that the law in books is different from the law in action!</b></em></br>
 
 <em>Council of Europe</em></br>
 Cybercrime - www.coe.int/cybercrime</br>
