@@ -781,6 +781,10 @@ https://necessaryandproportionate.org</br>
 https://github.com/opencve/opencve</br>
 • The Hacker News - Newsletter</br>
 https://thehackernews.com/#email-outer</br>
+• Google Scholar - Alerts</br>
+https://scholar.google.com/scholar_alerts?view_op=list_alerts&hl=en-US</br>
+• Forensic Focus - Newsletter</br>
+https://www.forensicfocus.com</br>
 </details>
 
 <!-- ################################# -->
