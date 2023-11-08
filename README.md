@@ -25,24 +25,28 @@ social control, and diplomatic manipulation. They're about power." (Edward Snowd
 <table style="width: 100%" cellspacing="0" cellpadding="0">
 <tr>
 <td valign="top" style="width: 50%">
-https://dfrws.org/presentation<br>
-https://www.sciencedirect.com/journal/forensic-science-international-digital-investigation<br>
-https://www.sciencedirect.com/journal/computer-law-and-security-review<br>
-https://github.com/MISP/misp-training<br>
-https://github.com/ail-project/ail-training<br>
-https://github.com/Cugu/awesome-forensics<br>
-https://github.com/shadawck/awesome-anti-forensic<br>
-https://github.com/Ignitetechnologies/Mindmap<br>
+https://dfrws.org/presentation</br>
+https://www.issworldtraining.com</br>
+https://www.sciencedirect.com/journal/forensic-science-international-digital-investigation</br>
+https://www.sciencedirect.com/journal/computer-law-and-security-review</br>
+https://github.com/MISP/misp-training</br>
+https://github.com/ail-project/ail-training</br>
+https://www.isc2.org/Certifications/CISSP</br>
+https://www.forensicfocus.com</br>
+https://github.com/Cugu/awesome-forensics</br>
+https://github.com/shadawck/awesome-anti-forensic</br>
+https://github.com/Ignitetechnologies/Mindmap</br>
 </td>
 <td valign="top" style="width: 50%">
-https://github.com/mikeroyal/Digital-Forensics-Guide<br>
-https://github.com/forensicswiki/wiki<br>
-https://github.com/Digital-Forensics-Discord-Server/LawEnforcementResources<br>
-https://github.com/Digital-Forensics-Discord-Server/TheHitchhikersGuidetoDFIRExperiencesFromBeginnersandExperts<br>
-https://github.com/Hack-with-Github/Awesome-Hacking<br>
-https://github.com/enaqx/awesome-pentest<br>
-https://github.com/onlurking/awesome-infosec<br>
-https://github.com/504ensicsLabs<br>
+https://github.com/asiamina/A-Course-on-Digital-Forensics</br>
+https://github.com/mikeroyal/Digital-Forensics-Guide</br>
+https://github.com/forensicswiki/wiki</br>
+https://github.com/Digital-Forensics-Discord-Server/LawEnforcementResources</br>
+https://github.com/Digital-Forensics-Discord-Server/TheHitchhikersGuidetoDFIRExperiencesFromBeginnersandExperts</br>
+https://github.com/Hack-with-Github/Awesome-Hacking</br>
+https://github.com/enaqx/awesome-pentest</br>
+https://github.com/onlurking/awesome-infosec</br>
+https://github.com/504ensicsLabs</br>
 </td>
 </tr>
 </table>
@@ -57,18 +61,20 @@ https://github.com/504ensicsLabs<br>
 <tr>
 <td style="width: 33%" valign="top">
 <a href="https://www.cisa.gov/">US - CISA</a><br>
-<a href="https://www.cyber.gov.au">AU - Cyber</a><br>
 <a href="https://www.cyber.gc.ca/en">CA - Cyber</a><br>
+<a href="https://csirtamericas.org/en">Americas - CSIRT</a><br>
+<a href="https://www.enisa.europa.eu">EU - ENISA</a><br>
 <a href="https://www.ncsc.gov.uk">UK - NCSC</a><br>
 <a href="https://english.ncsc.nl">NL - NCSC</a><br>
-<a href="https://csirtamericas.org/en">Americas - CSI</a><br>
+<a href="https://www.cyber.gov.au">AU - Cyber</a><br>
+<a href="https://www.bsi.bund.de/EN">DE - BSI</a><br>
+<a href="https://www.incibe.es">ES - INCIBE</a><br>
 <br>
 </td>
 <td style="width: 33%" valign="top">
 <a href="https://www.cert.govt.nz">NZ - CERT</a><br>
 <a href="https://www.ncsc.govt.nz">NZ - NCSC</a><br>
 <a href="https://www.nukib.cz/en">CZ - NUKIB</a><br>
-<a href="https://www.bsi.bund.de/EN">DE - BSI</a><br>
 <a href="https://www.nki.gov.hu/en">HU - NKI</a><br>
 <a href="https://nsm.no/areas-of-expertise/cyber-securitynorwegian-national-cyber-security-centre-ncsc">NO - NCSC</a><br>
 </td>
@@ -121,12 +127,12 @@ https://github.com/504ensicsLabs<br>
 <h3>FRAMEWORKS</h3>
 
 <table style="width: 100%" cellspacing="0" cellpadding="0">
- <tr>
+<tr>
 <td align="center" valign="top" style="width: 50%"><b>FLOSS</b><br>Free/Libre and Open Source Software</td>
-<td align="center" valign="top" style="width: 50%"><b>PRIVATE</b><br>Private Sector Offensive Actors (PSOAs)</td>
-  </tr>
-  <tr>
-  <td align="left" valign="top" style="width: 50%">
+<td align="center" valign="top" style="width: 50%"><b>PROPRIETARY</b><br>Cyber-surveillance Industry</td>
+</tr>
+<tr>
+<td align="left" valign="top" style="width: 50%">
 • Kali Linux<br><a href="https://www.kali.org/docs/general-use/kali-linux-forensics-mode">https://www.kali.org/docs/general-use/kali-linux-forensics-mode</a><br>
 • CAINE<br><a href="https://www.caine-live.net">https://www.caine-live.net</a><br>
 • CSI Linux<br><a href="https://csilinux.com">https://csilinux.com</a><br>
@@ -149,15 +155,20 @@ https://github.com/504ensicsLabs<br>
 • Verint Systems ®<br><a href="https://www.verint.com/" target="_blank" rel="noopener noreferrer">https://www.verint.com</a><br>
 • NSO Group ®<br><a href="https://www.nsogroup.com/" target="_blank" rel="noopener noreferrer">https://www.nsogroup.com</a><br>
 • Cyber Arm ®<br><a href="https://cyber-arm.com/services" target="_blank" rel="noopener noreferrer">https://cyber-arm.com/services</a><br>
-• Thorn's Safer ®<br><a href="https://www.thorn.org/" target="_blank" rel="noopener noreferrer">https://www.thorn.org</a><br>
-• Lockheed Martin ®<br><a href="https://www.lockheedmartin.com" target="_blank" rel="noopener noreferrer">https://www.lockheedmartin.com/</a><br>
 • Cognyte ®<br><a href="https://www.cognyte.com/" target="_blank" rel="noopener noreferrer">https://www.cognyte.com/</a><br>
-  </td>
-  </tr>
+• Lumi Networks ®<br><a href="https://www.lumi.network" target="_blank" rel="noopener noreferrer">https://www.lumi.network</a><br>
+• Lockheed Martin ®<br><a href="https://www.lockheedmartin.com" target="_blank" rel="noopener noreferrer">https://www.lockheedmartin.com/</a><br>
+• MOBILedit ®<br><a href="https://www.mobiledit.com/mobiledit-forensic" target="_blank" rel="noopener noreferrer">https://www.mobiledit.com</a><br>
+• Magnet Forensic ®<br><a href="https://www.magnetforensics.com/" target="_blank" rel="noopener noreferrer">https://www.magnetforensics.com</a><br>
+• Binalyze ®<br><a href="https://www.binalyze.com" target="_blank" rel="noopener noreferrer">https://www.binalyze.com</a><br>
+• Thorn's Safer ®<br><a href="https://www.thorn.org/" target="_blank" rel="noopener noreferrer">https://www.thorn.org</a><br>
+</td>
+</tr>
 </table>
 
 <sub>
-<p><b>Info</b></p>
+<details>
+<p><summary><b>&emsp; Interesting information</b></summary></p>
 <p>• Beyond the Veil of Surveillance: Private Sector Offensive Actors (PSOAs)</p>
 <p>https://socradar.io/beyond-the-veil-of-surveillance-private-sector-offensive-actors-psoas</p>
 <p>• Burn, drown, or smash your phone: Forensics can extract data anyway</p>
@@ -168,16 +179,18 @@ https://github.com/504ensicsLabs<br>
 <p>https://www.youtube.com/watch?v=EmWsW_p_ta4</p>
 <p>• The Stingray: How Law Enforcement Can Track Your Every Move</p>
 <p>https://www.youtube.com/watch?v=wzSgLpNrr2E</p>
-<p>• Edward Snowden: How Your Cell Phone Spies on You</p>
-<p>https://www.youtube.com/watch?v=VFns39RXPrU</p>
-<p>• SCOTUS: Police Need Search Warrant to Ping cell Phones</p>
-<p>https://www.youtube.com/watch?v=ASYm-3NJ-GA&t=40s</p>
 <p>• Police are tracking you and your license plates</p>
 <p>https://www.youtube.com/watch?v=DH7edXaZS0A</p>
+<p>• SCOTUS: Police Need Search Warrant to Ping cell Phones</p>
+<p>https://www.youtube.com/watch?v=ASYm-3NJ-GA&t=40s</p>
+<p>• EFF to Michigan Court: Governments Shouldn’t Be Allowed to Use a Drone to Spy on You Without a Warrant
+<p>https://www.eff.org/deeplinks/2023/09/eff-michigan-court-governments-shouldnt-be-allowed-use-drone-spy-you-without
 <p>• Forensics Journal Comparative analysis of mobile forensic proprietary tools: an application in forensic investigation (2022)</p>
 <p>https://www.forensicscijournal.com/articles/jfsr-aid1039.pdf</p>
-<p>• Methodology for Forensics Data Reconstruction on Mobile Devices with Android Operating System Applying In-System Programming and Combination Firmware (2020)</p>
+<p>• Methodology for Forensics Data Reconstruction on Mobile Devices with Android Operating System Applying In-System</p>
+<p>Programming and Combination Firmware (2020)</p>
 <p>https://ppee.unb.br/wp-content/uploads/2020/12/Artigo_Claudinei-Morim.pdf</p>
+</details>
 </sub>
 
 <!-- ################################################################################# -->
@@ -443,36 +456,17 @@ Five Eyes - https://en.wikipedia.org/wiki/Five_Eyes</br>
 <!-- ################################# -->
 <hr>
 
-<h4>• Private Agents</h4>
-
-- [“Reverse Location Search Warrant”: A New Personal Data Hoovering Exercise Brought to You by Google (2019)](https://www.nakedcapitalism.com/2019/02/reverse-location-search-warrant-a-new-personal-data-hoovering-exercise-brought-to-you-by-google.html)
-- [As UN Human Rights Chief Urges Stricter Rules, Snowden Calls for End to Spyware Trade (2021)](https://www.nakedcapitalism.com/2021/07/as-un-human-rights-chief-urges-stricter-rules-snowden-calls-for-end-to-spyware-trade.html)
-
-<h4>• Liability for Contents</h4>
-
-- [How to start your own ISP](https://startyourownisp.com/)
-- [Where are torrents permitted?](https://i.imgur.com/3fHyG2S.png)
-- [UK ISP Court Orders](http://www.ukispcourtorders.co.uk/)
-- [Web Sheriff](https://en.wikipedia.org/wiki/Web_Sheriff)
-- [A new bill could punish web platforms for using end-to-end encryption](https://www.theverge.com/2020/1/31/21116788/earn-it-act-section-230-lindsey-graham-draft-bill-encryption)
-- [French court rules that Steam’s ban on reselling used games is contrary to European law](https://www.polygon.com/2019/9/19/20874384/french-court-steam-valve-used-games-eu-law)
-- [MEPs approve sweeping changes to copyright law](https://www.theguardian.com/media/2019/mar/26/meps-approve-sweeping-changes-to-copyright-law-european-copyright-directive)
-- [The Legalities of Linking](https://www.lifewire.com/legalities-of-linking-3468972)
-- [COPYRIGHT LIABILITY FOR LINKING AND EMBEDDING - Klaris Law (.PDF)](https://klarislaw.com/wp-content/uploads/klarislaw-copyright-liability-for-linking-and-embedding.pdf)
-- [EU court says linking to copyrighted material isn't illegal](https://www.engadget.com/2016/04/08/eu-court-linking-copyrighted-content-is-legal/)
-- [IP Address is Not Enough to Identify Pirate, US Court of Appeals Rules](https://torrentfreak.com/ip-address-is-not-enough-to-identify-pirate-us-court-of-appeals-rules-180828/) - ([.PDF](https://cdn.ca9.uscourts.gov/datastore/opinions/2018/08/27/17-35041.pdf))
-- [New EU Piracy Watchlist Targets Key Pirate Sites and Cloudflare](https://torrentfreak.com/new-eu-piracy-watchlist-targets-key-pirate-sites-and-cloudflare-181210/) - ([.PDF](https://torrentfreak.com/images/tradoc_157564.pdf))
-- [Domain Registrar Can be Held Liable for Pirate Site, Court Rules](https://torrentfreak.com/domain-registrar-can-be-held-liable-for-pirate-site-court-rules-181224/)
-- [Reporting When Pirate Releases Hit The Internet is Apparently Illegal Now](https://torrentfreak.com/reporting-when-pirate-releases-hit-the-internet-is-apparently-illegal-now-190101/)
-- [Swiss Copyright Law: Downloading Stays Legal, No Site Blocking](https://torrentfreak.com/swiss-copyright-law-downloading-stays-legal-no-site-blocking/)
-- [List of websites blocked in the United Kingdom](https://en.wikipedia.org/wiki/List_of_websites_blocked_in_the_United_Kingdom)
-- [Who Watches the Watchmen: Exploring Complaints on the Web](https://arxiv.org/abs/1902.05796)
-- [Major US ISPs Refuse to Discuss Repeat Infringer Policies](https://torrentfreak.com/major-us-isps-refuse-to-discuss-repeat-infringer-policies-190912/)
-- [British ISPs throw in the towel, give up sending out toothless copyright infringement warnings](https://www.theregister.co.uk/2019/07/20/creative_content_piracy/)
-
-<!-- ################################# -->
 
 <h3> MALWARES, BACKDOORS, ZERO-DAYS, DATA POISONING, SUPPLY CHAIN ATTACK, MAN-IN-THE-MIDDLE (MITM), HONEY POTS, AND SOCIAL ENGINEERING ATTACK</h3>
+
+• MITRE ATT&CK - ICS Techniques</br>
+https://attack.mitre.org/techniques/ics</br>
+
+• MITRE ATT&CK -  Mobile Techniques</br>
+https://attack.mitre.org/techniques/mobile/</br>
+
+• MITRE ATT&CK - Enterprise Techniques</br>
+https://attack.mitre.org/techniques/enterprise/</br>
 
 <h4>Some Famous Cases</h4>
 
@@ -537,6 +531,37 @@ https://github.com/CyberMonitor/APT_CyberCriminal_Campagin_Collections</br>
 **Man-In-The-Middle**</br>
 https://github.com/jakev/mitm-helper-wifi</br>
 https://github.com/jakev/mitm-helper-vpn</br>
+
+<!-- ################################# -->
+
+<h4>• Private Agents</h4>
+
+- [“Reverse Location Search Warrant”: A New Personal Data Hoovering Exercise Brought to You by Google (2019)](https://www.nakedcapitalism.com/2019/02/reverse-location-search-warrant-a-new-personal-data-hoovering-exercise-brought-to-you-by-google.html)
+- [As UN Human Rights Chief Urges Stricter Rules, Snowden Calls for End to Spyware Trade (2021)](https://www.nakedcapitalism.com/2021/07/as-un-human-rights-chief-urges-stricter-rules-snowden-calls-for-end-to-spyware-trade.html)
+
+<!-- ################################# -->
+
+<h4>• Liability for Contents</h4>
+
+- [How to start your own ISP](https://startyourownisp.com/)
+- [Where are torrents permitted?](https://i.imgur.com/3fHyG2S.png)
+- [UK ISP Court Orders](http://www.ukispcourtorders.co.uk/)
+- [Web Sheriff](https://en.wikipedia.org/wiki/Web_Sheriff)
+- [A new bill could punish web platforms for using end-to-end encryption](https://www.theverge.com/2020/1/31/21116788/earn-it-act-section-230-lindsey-graham-draft-bill-encryption)
+- [French court rules that Steam’s ban on reselling used games is contrary to European law](https://www.polygon.com/2019/9/19/20874384/french-court-steam-valve-used-games-eu-law)
+- [MEPs approve sweeping changes to copyright law](https://www.theguardian.com/media/2019/mar/26/meps-approve-sweeping-changes-to-copyright-law-european-copyright-directive)
+- [The Legalities of Linking](https://www.lifewire.com/legalities-of-linking-3468972)
+- [COPYRIGHT LIABILITY FOR LINKING AND EMBEDDING - Klaris Law (.PDF)](https://klarislaw.com/wp-content/uploads/klarislaw-copyright-liability-for-linking-and-embedding.pdf)
+- [EU court says linking to copyrighted material isn't illegal](https://www.engadget.com/2016/04/08/eu-court-linking-copyrighted-content-is-legal/)
+- [IP Address is Not Enough to Identify Pirate, US Court of Appeals Rules](https://torrentfreak.com/ip-address-is-not-enough-to-identify-pirate-us-court-of-appeals-rules-180828/) - ([.PDF](https://cdn.ca9.uscourts.gov/datastore/opinions/2018/08/27/17-35041.pdf))
+- [New EU Piracy Watchlist Targets Key Pirate Sites and Cloudflare](https://torrentfreak.com/new-eu-piracy-watchlist-targets-key-pirate-sites-and-cloudflare-181210/) - ([.PDF](https://torrentfreak.com/images/tradoc_157564.pdf))
+- [Domain Registrar Can be Held Liable for Pirate Site, Court Rules](https://torrentfreak.com/domain-registrar-can-be-held-liable-for-pirate-site-court-rules-181224/)
+- [Reporting When Pirate Releases Hit The Internet is Apparently Illegal Now](https://torrentfreak.com/reporting-when-pirate-releases-hit-the-internet-is-apparently-illegal-now-190101/)
+- [Swiss Copyright Law: Downloading Stays Legal, No Site Blocking](https://torrentfreak.com/swiss-copyright-law-downloading-stays-legal-no-site-blocking/)
+- [List of websites blocked in the United Kingdom](https://en.wikipedia.org/wiki/List_of_websites_blocked_in_the_United_Kingdom)
+- [Who Watches the Watchmen: Exploring Complaints on the Web](https://arxiv.org/abs/1902.05796)
+- [Major US ISPs Refuse to Discuss Repeat Infringer Policies](https://torrentfreak.com/major-us-isps-refuse-to-discuss-repeat-infringer-policies-190912/)
+- [British ISPs throw in the towel, give up sending out toothless copyright infringement warnings](https://www.theregister.co.uk/2019/07/20/creative_content_piracy/)
 
 <!-- ################################# -->
 
@@ -727,16 +752,25 @@ $ sudo grgsm_livemon    # Live radio scanning.
 https://www.cve.org</br>
 https://www.cvedetails.com</br>
 https://www.openwall.com</br>
-https://coe.int/en/web/cybercrime</br>
-https://sherloc.unodc.org</br>
-https://www.justice.gov/news</br>
-https://www.enisa.europa.eu</br>
-https://www.fbi.gov</br>
-https://www.incibe.es</br>
+https://lkrg.org</br>
+https://attack.mitre.org</br>
+https://www.hackthebox.com</br>
+https://www.htcia.org</br>
+https://www.exterro.com</br>
+https://www.forensicfocus.com</br>
+https://www.osforensics.com</br>
+https://www.magnetforensics.com</br>
+https://www.exterro.com/ftk-product-downloads/how-to-run-ftk-imager-from-a-flash-drive-imager-lite</br>
 https://www.reddit.com/r/digitalforensics</br>
-https://necessaryandproportionate.org</br>
 https://github.com/yeahhub/Hacking-Security-Ebooks</br>
 https://github.com/InfoSecIITR/reading-material</br>
+
+https://www.fbi.gov</br>
+https://www.justice.gov/news</br>
+https://coe.int/en/web/cybercrime</br>
+https://sherloc.unodc.org</br>
+https://www.enisa.europa.eu</br>
+https://necessaryandproportionate.org</br>
 </details>
 
 <!-- ################################# -->
