@@ -279,12 +279,6 @@ https://github.com/demining/Dao-Exploit</br>
 
 <details>
 <summary>${\color{Red}\textbf{ACTIVE FORENSICS}}$</summary>
-<br>
-
-https://www.youtube.com/watch?v=WwmcZSHw66w<br>
-https://www.youtube.com/watch?v=0AwI6YrV2h4<br>
-
-<br>
 
 <!-- ################################# -->
 
@@ -309,7 +303,7 @@ UK Public General Acts - Investigatory Powers Act 2016 - https://www.legislation
 <h4>• International Conventions</h4>
 UNO - https://www.unodc.org/unodc/en/organized-crime/intro/UNTOC.html</br>
 Budapest Convention - https://www.coe.int/en/web/cybercrime/the-budapest-convention</br>
-Octopus Project - https://coe.int/en/web/cybercrime/octopus-project   </br>
+Octopus Project - https://coe.int/en/web/cybercrime/octopus-project</br>
 Five Eyes - https://en.wikipedia.org/wiki/Five_Eyes</br>
 
 ![architecture](https://github.com/RENANZG/My-Forensics/assets/53377291/f92b0055-29fe-40de-9a45-da845d0f3f4b)
@@ -432,7 +426,7 @@ Five Eyes - https://en.wikipedia.org/wiki/Five_Eyes</br>
 <td align="center">✔️</td>
 </tr>
 <tr>
-<td align="left">Sapan</td>
+<td align="left">Japan</td>
 <td align="center"></td>
 <td align="center"></td>
 <td align="center"></td>
@@ -763,6 +757,7 @@ https://www.osforensics.com</br>
 https://www.magnetforensics.com</br>
 https://www.exterro.com/ftk-product-downloads/how-to-run-ftk-imager-from-a-flash-drive-imager-lite</br>
 https://www.reddit.com/r/digitalforensics</br>
+https://www.reddit.com/r/InfoSecNews</br>
 https://github.com/yeahhub/Hacking-Security-Ebooks</br>
 https://github.com/InfoSecIITR/reading-material</br>
 
