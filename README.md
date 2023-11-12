@@ -7,10 +7,9 @@
 <img src="https://latex.codecogs.com/svg.image?\huge&space;\mathbf{\texttt{DIGITAL&space;FORENSICS&space;AND&space;INCIDENT&space;RESPONSE&space;{\color{Orchid}(DFIR)}}}" title="\mathbf{\texttt{DIGITAL FORENSICS AND INCIDENT RESPONSE&space;{\color{Orchid}(DFIR)}}}" />
 
 <pre>"These programs were never about terrorism: they're about economic spying,
-social control, and diplomatic manipulation. They're about power." (Edward Snowden)</pre>
+social control and diplomatic manipulation. They're about power." (Edward Snowden)</pre>
 
 ![magritte+pipe](https://github.com/RENANZG/My-Forensics/assets/53377291/b8fefc0f-e17e-4652-9e51-0b5d9265f181)
-
 
 <!-- ################################################################################# -->
 <br>
@@ -60,31 +59,32 @@ https://github.com/504ensicsLabs</br>
 
 <table style="width: 100%" cellspacing="0" cellpadding="0">
 <tr>
-<td style="width: 33%" valign="top">
+<td valign="top">
 <a href="https://www.cisa.gov/">US - CISA</a><br>
 <a href="https://www.cyber.gc.ca/en">CA - Cyber</a><br>
 <a href="https://csirtamericas.org/en">Americas - CSIRT</a><br>
+</td>
+<td valign="top">
 <a href="https://www.enisa.europa.eu">EU - ENISA</a><br>
 <a href="https://www.ncsc.gov.uk">UK - NCSC</a><br>
 <a href="https://english.ncsc.nl">NL - NCSC</a><br>
-<a href="https://www.cyber.gov.au">AU - Cyber</a><br>
 <a href="https://www.bsi.bund.de/EN">DE - BSI</a><br>
 <a href="https://www.incibe.es">ES - INCIBE</a><br>
-<br>
-</td>
-<td style="width: 33%" valign="top">
-<a href="https://www.cert.govt.nz">NZ - CERT</a><br>
-<a href="https://www.ncsc.govt.nz">NZ - NCSC</a><br>
-<a href="https://www.nukib.cz/en">CZ - NUKIB</a><br>
 <a href="https://www.nki.gov.hu/en">HU - NKI</a><br>
+<a href="https://www.nukib.cz/en">CZ - NUKIB</a><br>
 <a href="https://nsm.no/areas-of-expertise/cyber-securitynorwegian-national-cyber-security-centre-ncsc">NO - NCSC</a><br>
 </td>
-<td style="width: 33%" valign="top">
+<td valign="top">
 <a href="https://www.gov.il/en/departments/israel_national_cyber_directorate/govil-landing-page">IS - INCD</a><br>
-<a href="https://www.csa.gov.sg">SG - CSA</a><br>
+<a href="https://www.cyber.gov.au">AU - Cyber</a><br>
+<a href="https://www.cert.govt.nz">NZ - CERT</a><br>
+<a href="https://www.ncsc.govt.nz">NZ - NCSC</a><br>
+</td>
+<td valign="top">
 <a href="https://www.kisa.or.kr/EN">KR - KISA</a><br>
 <a href="https://www.jpcert.or.jp/english">JP - Cert</a><br>
 <a href="https://www.nisc.go.jp/eng/index.html">JP - NISC</a><br>
+<a href="https://www.csa.gov.sg">SG - CSA</a><br>
 </td>
 </tr>
 </table>
@@ -97,14 +97,14 @@ https://github.com/504ensicsLabs</br>
 
 <table style="width: 100%" cellspacing="0" cellpadding="0">
 <tr>
-  <td align="center" valign="top" style="width: 50%;"><b>Crime Triangle</b></td>
-  <td align="center" valign="top" style="width: 50%;"><b>Basic Investigative Metodology</b></td>
+  <td align="center" valign="top"><b>Crime Triangle</b></td>
+  <td align="center" valign="top"><b>Basic Investigative Metodology</b></td>
 </tr>
 <tr>
-  <td align="center" valign="top" style="width: 50%">
+  <td align="center" valign="top">
     <img src="3.POLICE_HACKING/CT.png" alt="Image">
   </td>
-  <td align="left" valign="top" style="width: 50%">
+  <td align="left" valign="top">
     <p>
     <b>• 5W:</b> Who, What, When, Where and Why</br> 
     <b>• PDCA Cycle:</b> Plan, Do, Check and Act</br>
@@ -136,8 +136,8 @@ https://github.com/504ensicsLabs</br>
 <td align="left" valign="top" style="width: 50%">
 • Kali Linux<br><a href="https://www.kali.org/docs/general-use/kali-linux-forensics-mode">https://www.kali.org/docs/general-use/kali-linux-forensics-mode</a><br>
 • CAINE<br><a href="https://www.caine-live.net">https://www.caine-live.net</a><br>
-• CSI Linux<br><a href="https://csilinux.com">https://csilinux.com</a><br>
 • SIFT Workstation<br><a href="https://www.sans.org/tools/sift-workstation" target="_blank" rel="noopener noreferrer">https://www.sans.org/tools/sift-workstation</a><br>
+• CSI Linux<br><a href="https://csilinux.com">https://csilinux.com</a><br>
 • Avilla Forensics<br><a href="https://github.com/AvillaDaniel/AvillaForensics">https://github.com/AvillaDaniel/AvillaForensics</a><br>
 • IPED<br><a href="https://github.com/sepinf-inc/IPED">https://github.com/sepinf-inc/IPED</a><br>
 • Eric Zimmerman's tools<br><a href="https://ericzimmerman.github.io/#!index.md">https://ericzimmerman.github.io/#!index.md</a><br>
@@ -146,17 +146,18 @@ https://github.com/504ensicsLabs</br>
 • Drive Badger<br><a href="https://drivebadger.com">https://drivebadger.com</a><br>
 • Octoplus Box ® (easy end user acess)<br><a href="https://octoplusbox.com">https://octoplusbox.com</a><br><a href="https://octoplusbox.com/en/features/models/">https://octoplusbox.com/en/features/models/</a><br><a href="https://www.aliexpress.com/w/wholesale-octoplus-box.html">https://www.aliexpress.com/w/wholesale-octoplus-box.html</a><br>
 • NirSoft ® (freeware utilities)<br><a href="https://www.nirsoft.net/computer_forensic_software.html">https://www.nirsoft.net/computer_forensic_software.html</a><br>
-• MiTeC ® (freeware utilities)<br><a href="https://www.mitec.com">https://www.mitec.com</a><br>
+• MiTeC ® (freeware utilities)<br><a href="https://www.mitec.cz">https://www.mitec.cz</a><br>
   </td>
   <td align="left" valign="top" style="width: 50%;">
 • Cellebrite ®<br><a href="https://cellebrite.com/" target="_blank" rel="noopener noreferrer">https://cellebrite.com</a><br>
+• NSO Group ®<br><a href="https://www.nsogroup.com/" target="_blank" rel="noopener noreferrer">https://www.nsogroup.com</a><br>
+• Cognyte ®<br><a href="https://www.cognyte.com/" target="_blank" rel="noopener noreferrer">https://www.cognyte.com/</a><br>
 • Oxygen Forensic ®<br><a href="https://oxygen-forensic.wedatasolution.com/" target="_blank" rel="noopener noreferrer">https://oxygen-forensic.wedatasolution.com</a><br>
 • MSAB ®<br><a href="https://www.msab.com/" target="_blank" rel="noopener noreferrer">https://www.msab.com</a><br>
 • GMDSOFT ®<br><a href="https://www.gmdsoft.com/" target="_blank" rel="noopener noreferrer">https://www.gmdsoft.com</a><br>• Forensic Toolkit (FTK) ® <br><a href="https://www.exterro.com/forensic-toolkit" target="_blank" rel="noopener noreferrer">https://www.exterro.com/forensic-toolkit</a><br>
 • Verint Systems ®<br><a href="https://www.verint.com/" target="_blank" rel="noopener noreferrer">https://www.verint.com</a><br>
-• NSO Group ®<br><a href="https://www.nsogroup.com/" target="_blank" rel="noopener noreferrer">https://www.nsogroup.com</a><br>
 • Cyber Arm ®<br><a href="https://cyber-arm.com/services" target="_blank" rel="noopener noreferrer">https://cyber-arm.com/services</a><br>
-• Cognyte ®<br><a href="https://www.cognyte.com/" target="_blank" rel="noopener noreferrer">https://www.cognyte.com/</a><br>
+• Cobalt Strike ®<br><a href="https://www.cobaltstrike.com" target="_blank" rel="noopener noreferrer">https://www.cobaltstrike.com</a><br>
 • Lumi Networks ®<br><a href="https://www.lumi.network" target="_blank" rel="noopener noreferrer">https://www.lumi.network</a><br>
 • Lockheed Martin ®<br><a href="https://www.lockheedmartin.com" target="_blank" rel="noopener noreferrer">https://www.lockheedmartin.com/</a><br>
 • MOBILedit ®<br><a href="https://www.mobiledit.com/mobiledit-forensic" target="_blank" rel="noopener noreferrer">https://www.mobiledit.com</a><br>
