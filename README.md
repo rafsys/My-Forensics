@@ -817,7 +817,7 @@ https://www.tandfonline.com/journals/ucis20</br>
 https://www.tandfonline.com/journals/tajf20</br>
 </details>
 
-<!-- ################################# -->
+<!-- ################################ -->
 
 <details>
 <summary><b>YouTube Channels</b></summary>
