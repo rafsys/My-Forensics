@@ -296,7 +296,7 @@ https://github.com/demining/Dao-Exploit</br>
 ∙ Octopus Project - https://coe.int/en/web/cybercrime/octopus-project</br>
 ∙ Five Eyes - https://en.wikipedia.org/wiki/Five_Eyes</br>
 
-<h4>Council of Europe - Cybercrime</h4>
+<h4>• Council of Europe - Cybercrime</h4>
 ∙ Cybercrime - https://www.coe.int/cybercrime</br>
 ∙ GLACY+ - https://coe.int/en/web/cybercrime/glacyplus</br>
 ∙ iPROCEEDS-2 - https://coe.int/en/web/cybercrime/iproceeds-2</br>
@@ -305,11 +305,11 @@ https://github.com/demining/Dao-Exploit</br>
 ∙ CyberEast - https://coe.int/en/web/cybercrime/cybereast</br>
 
 <h4>• Investigatory Powers</h4>
-∙ U.S. - Federal Rules - Criminal Procedure - Overview - <a href="https://www.law.cornell.edu/wex/criminal_procedure" target="_blank">Link</a></br>
-∙ U.S. - Federal Rules - Criminal Procedure - Rule 41 - Search and Seizure - <a href="https://www.law.cornell.edu/rules/frcrmp/rule_41" target="_blank">Link</a></br>
-∙ U.E. - Criminal procedural laws across the European Union – A comparative analysis - <a href="https://www.europarl.europa.eu/RegData/etudes/STUD/2018/604977/IPOL_STU(2018)604977(ANN01)_EN.pdf" target="_blank">Link</a></br>
-∙ U.K. - Crime, justice and law - Law and practice - <a href="https://www.gov.uk/guidance/rules-and-practice-directions-2020" target="_blank">Link</a></br>
-∙ U.K. - Public General Acts - Investigatory Powers Act 2016 - <a href="https://www.legislation.gov.uk/ukpga/2016/25/contents" target="_blank">Link</a></br>
+∙ US - Federal Rules - Criminal Procedure - Overview - <a href="https://www.law.cornell.edu/wex/criminal_procedure" target="_blank">Link</a></br>
+∙ US - Federal Rules - Criminal Procedure - Rule 41 - Search and Seizure - <a href="https://www.law.cornell.edu/rules/frcrmp/rule_41" target="_blank">Link</a></br>
+∙ UE - Criminal procedural laws across the European Union – A comparative analysis - <a href="https://www.europarl.europa.eu/RegData/etudes/STUD/2018/604977/IPOL_STU(2018)604977(ANN01)_EN.pdf" target="_blank">Link</a></br>
+∙ UK - Crime, justice and law - Law and practice - <a href="https://www.gov.uk/guidance/rules-and-practice-directions-2020" target="_blank">Link</a></br>
+∙ UK - Public General Acts - Investigatory Powers Act 2016 - <a href="https://www.legislation.gov.uk/ukpga/2016/25/contents" target="_blank">Link</a></br>
 ∙ GE - German Criminal Code (Strafgesetzbuch – StGB) - <a href="https://www.gesetze-im-internet.de/englisch_stgb" target="_blank">Link</a></br>
 ∙ GE - German Code of Criminal Procedure (Strafprozeßordnung – StPO) - <a href="https://www.gesetze-im-internet.de/englisch_stpo/index.html" target="_blank">Link</a></br>
 
@@ -470,121 +470,126 @@ https://attack.mitre.org/techniques/mobile/</br>
 • MITRE ATT&CK - Enterprise Techniques</br>
 https://attack.mitre.org/techniques/enterprise/</br>
 
-<h4>Some Cases</h4>
+<h4>• Some Cases</h4>
 
 ![1_dRthFvGk3zqARHOPzAymQQ](https://github.com/RENANZG/My-Forensics/assets/53377291/b347418d-dd76-4e0f-b075-e95db4817340)</br>
 
-• Omerta Digital (FBI Honey Pot?)</br>
+∙ Omerta Digital (FBI Honey Pot?)</br>
 https://www.omertadigital.com/</br>
-• Case: ANON (also stylized as AN0M or ΛNØM)</br>
+∙ Case: ANON (also stylized as AN0M or ΛNØM)</br>
 https://en.wikipedia.org/wiki/ANOM</br>
 https://www.vice.com/en/article/n7b4gg/anom-phone-arcaneos-fbi-backdoor</br>
-• Case: EncroChat</br>
+∙ Case: EncroChat</br>
 https://en.wikipedia.org/wiki/EncroChat</br>
 https://eucrim.eu/news/germany-federal-court-of-justice-confirms-use-of-evidence-in-encrochat-cases</br>
 https://xperylab.medium.com/the-dark-phones-encrochat-criminals-are-building-their-own-communication-system-474f3aeef759</br>
-• Case: Pegasus Spyware (NSO Group)</br>
+∙ Case: Pegasus Spyware (NSO Group)</br>
 https://theintercept.com/2021/07/27/pegasus-nso-spyware-security</br>
-• Case: Verint</br>
+∙ Case: Verint</br>
 https://wikileaks.org/spyfiles/docs/VERINT_2012_AvneTurn_en.html</br>
 https://www.reddit.com/r/InfoSecNews/comments/sxxzju/leaktheanalyst_group_leak_critical_data_from/</br>
-• Case: Phantom Secure</br>
+∙ Case: Phantom Secure</br>
 https://en.wikipedia.org/wiki/Phantom_Secure</br>
 https://www.vice.com/en/article/v7m4pj/the-network-vincent-ramos-phantom-secure</br>
-• Case: Sky Global</br>
+∙ Case: Sky Global</br>
 https://en.wikipedia.org/wiki/Shutdown_of_Sky_Global</br>
-• Case: Bundestrojaner  </br>
+∙ Case: Bundestrojaner  </br>
 https://en.wikipedia.org/wiki/Bundestrojaner</br>
-• Case: Magic Lantern</br>
+∙ Case: Magic Lantern</br>
 https://en.wikipedia.org/wiki/Magic_Lantern_(software)</br>
 https://github.com/bibanon/bibanon/blob/0b84bb23794c91c238a5601403898b61b5d193fc/Encyclopedia/History/Events/Pifts.md?</br>plain=1#L125
-• Case: Cryptophon</br>
+∙ Case: Cryptophon</br>
 https://en.wikipedia.org/wiki/Tron_(hacker)#Cryptophon</br>
-• Planting Tiny Spy Chips in Hardware Can Cost as Little as $200</br>
+∙ Planting Tiny Spy Chips in Hardware Can Cost as Little as $200</br>
 https://www.wired.com/story/plant-spy-chips-hardware-supermicro-cheap-proof-of-concept</br>
-• Installation of beacon implants</br>
+∙ Installation of beacon implants</br>
 https://arstechnica.com/tech-policy/2014/05/photos-of-an-nsa-upgrade-factory-show-cisco-router-getting-implant  </br>
-• The tricky issue of spyware with a badge: meet ‘policeware’</br>
+∙ The tricky issue of spyware with a badge: meet ‘policeware’</br>
 https://arstechnica.com/information-technology/2007/07/will-security-firms-avoid-detecting-government-spyware</br>
-• Analisi della normativa e della giurisprudenza sul captatore informatico e la spiegazione del Caso Exodus</br>
+∙ Analisi della normativa e della giurisprudenza sul captatore informatico e la spiegazione del Caso Exodus</br>
 https://www.dirittoconsenso.it/2021/11/11/captatore-informatico-trojan-di-stato</br>
-• LightEater Demo: Stealing GPG keys/emails in Tails via remote firmware infection</br>
+∙ LightEater Demo: Stealing GPG keys/emails in Tails via remote firmware infection</br>
 https://www.youtube.com/watch?v=sNYsfUNegEA</br>
-• KeyGrabber Forensic Keylogger</br>
+∙ KeyGrabber Forensic Keylogger</br>
 https://www.youtube.com/watch?v=6JJo8qCYE8M</br>
 </br>
 
 
-<h4>Tor Browser Fingerprint</h4>
-TOR Fingerprinting - https://blog.torproject.org/browser-fingerprinting-introduction-and-challenges-ahead</br>
-Attacks on Tor - https://github.com/Attacks-on-Tor/Attacks-on-Tor</br>
-EFF Test - https://coveryourtracks.eff.org/learn</br>
+<h4>• Tor Browser Fingerprint</h4>
+∙ TOR Fingerprinting - https://blog.torproject.org/browser-fingerprinting-introduction-and-challenges-ahead</br>
+∙ Attacks on Tor - https://github.com/Attacks-on-Tor/Attacks-on-Tor</br>
+∙ EFF Test - https://coveryourtracks.eff.org/learn</br>
 </br>
 
-<h4>Forensics Footprints</h4>
-https://github.com/PaulNorman01/Forensia</br>
+<h4>• Forensics Footprints</h4>
+∙ https://github.com/PaulNorman01/Forensia</br>
 </br>
 
-<h4>Supply Chain Attack</h4>
-https://reproducible-builds.org</br>
-https://github.com/SAP/risk-explorer-for-software-supply-chains</br>
-https://github.com/ossillate-inc/packj</br>
+<h4>• Supply Chain Attack</h4>
+∙ https://reproducible-builds.org</br>
+∙ https://github.com/SAP/risk-explorer-for-software-supply-chains</br>
+∙ https://github.com/ossillate-inc/packj</br>
 </br>
 
-<h4>APT & Cybercriminal Campagin Collections</h4>
-https://github.com/CyberMonitor/APT_CyberCriminal_Campagin_Collections</br>
+<h4>• APT & Cybercriminal Campagin Collections</h4>
+∙ https://github.com/CyberMonitor/APT_CyberCriminal_Campagin_Collections</br>
 </br>
 
-<h4>Man-In-The-Middle</h4>
-https://github.com/jakev/mitm-helper-wifi</br>
-https://github.com/jakev/mitm-helper-vpn</br>
+<h4>• Man-In-The-Middle</h4>
+∙ https://github.com/jakev/mitm-helper-wifi</br>
+∙ https://github.com/jakev/mitm-helper-vpn</br>
 
 <!-- ################################# -->
 
 <h4>• Private Agents and LEA</h4>
 
-- [“Reverse Location Search Warrant”: A New Personal Data Hoovering Exercise Brought to You by Google (2019)](https://www.nakedcapitalism.com/2019/02/reverse-location-search-warrant-a-new-personal-data-hoovering-exercise-brought-to-you-by-google.html)
-- [As UN Human Rights Chief Urges Stricter Rules, Snowden Calls for End to Spyware Trade (2021)](https://www.nakedcapitalism.com/2021/07/as-un-human-rights-chief-urges-stricter-rules-snowden-calls-for-end-to-spyware-trade.html)
+<ul>
+<li><a href="https://www.nakedcapitalism.com/2019/02/reverse-location-search-warrant-a-new-personal-data-hoovering-exercise-brought-to-you-by-google.html">“Reverse Location Search Warrant”: A New Personal Data Hoovering Exercise Brought to You by Google (2019)</a></li>
+<li><a href="https://www.nakedcapitalism.com/2021/07/as-un-human-rights-chief-urges-stricter-rules-snowden-calls-for-end-to-spyware-trade.html">As UN Human Rights Chief Urges Stricter Rules, Snowden Calls for End to Spyware Trade (2021)</a></li>
+</ul>
 
 <!-- ################################# -->
 
 <h4>• Liability for Contents</h4>
 
-- [How to start your own ISP](https://startyourownisp.com/)
-- [Where are torrents permitted?](https://i.imgur.com/3fHyG2S.png)
-- [UK ISP Court Orders](http://www.ukispcourtorders.co.uk/)
-- [Web Sheriff](https://en.wikipedia.org/wiki/Web_Sheriff)
-- [A new bill could punish web platforms for using end-to-end encryption](https://www.theverge.com/2020/1/31/21116788/earn-it-act-section-230-lindsey-graham-draft-bill-encryption)
-- [French court rules that Steam’s ban on reselling used games is contrary to European law](https://www.polygon.com/2019/9/19/20874384/french-court-steam-valve-used-games-eu-law)
-- [MEPs approve sweeping changes to copyright law](https://www.theguardian.com/media/2019/mar/26/meps-approve-sweeping-changes-to-copyright-law-european-copyright-directive)
-- [The Legalities of Linking](https://www.lifewire.com/legalities-of-linking-3468972)
-- [COPYRIGHT LIABILITY FOR LINKING AND EMBEDDING - Klaris Law (.PDF)](https://klarislaw.com/wp-content/uploads/klarislaw-copyright-liability-for-linking-and-embedding.pdf)
-- [EU court says linking to copyrighted material isn't illegal](https://www.engadget.com/2016/04/08/eu-court-linking-copyrighted-content-is-legal/)
-- [IP Address is Not Enough to Identify Pirate, US Court of Appeals Rules](https://torrentfreak.com/ip-address-is-not-enough-to-identify-pirate-us-court-of-appeals-rules-180828/) - ([.PDF](https://cdn.ca9.uscourts.gov/datastore/opinions/2018/08/27/17-35041.pdf))
-- [New EU Piracy Watchlist Targets Key Pirate Sites and Cloudflare](https://torrentfreak.com/new-eu-piracy-watchlist-targets-key-pirate-sites-and-cloudflare-181210/) - ([.PDF](https://torrentfreak.com/images/tradoc_157564.pdf))
-- [Domain Registrar Can be Held Liable for Pirate Site, Court Rules](https://torrentfreak.com/domain-registrar-can-be-held-liable-for-pirate-site-court-rules-181224/)
-- [Reporting When Pirate Releases Hit The Internet is Apparently Illegal Now](https://torrentfreak.com/reporting-when-pirate-releases-hit-the-internet-is-apparently-illegal-now-190101/)
-- [Swiss Copyright Law: Downloading Stays Legal, No Site Blocking](https://torrentfreak.com/swiss-copyright-law-downloading-stays-legal-no-site-blocking/)
-- [List of websites blocked in the United Kingdom](https://en.wikipedia.org/wiki/List_of_websites_blocked_in_the_United_Kingdom)
-- [Who Watches the Watchmen: Exploring Complaints on the Web](https://arxiv.org/abs/1902.05796)
-- [Major US ISPs Refuse to Discuss Repeat Infringer Policies](https://torrentfreak.com/major-us-isps-refuse-to-discuss-repeat-infringer-policies-190912/)
-- [British ISPs throw in the towel, give up sending out toothless copyright infringement warnings](https://www.theregister.co.uk/2019/07/20/creative_content_piracy/)
+<ul>
+<li><a href="https://startyourownisp.com/">How to start your own ISP</a></li>
+<li><a href="https://i.imgur.com/3fHyG2S.png">Where are torrents permitted?</a></li>
+<li><a href="http://www.ukispcourtorders.co.uk/">UK ISP Court Orders</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Web_Sheriff">Web Sheriff</a></li>
+<li><a href="https://www.theverge.com/2020/1/31/21116788/earn-it-act-section-230-lindsey-graham-draft-bill-encryption">A new bill could punish web platforms for using end-to-end encryption</a></li>
+<li><a href="https://www.polygon.com/2019/9/19/20874384/french-court-steam-valve-used-games-eu-law">French court rules that Steam’s ban on reselling used games is contrary to European law</a></li>
+<li><a href="https://www.theguardian.com/media/2019/mar/26/meps-approve-sweeping-changes-to-copyright-law-european-copyright-directive">MEPs approve sweeping changes to copyright law</a></li>
+<li><a href="https://www.lifewire.com/legalities-of-linking-3468972">The Legalities of Linking</a></li>
+<li><a href="https://klarislaw.com/wp-content/uploads/klarislaw-copyright-liability-for-linking-and-embedding.pdf">COPYRIGHT LIABILITY FOR LINKING AND EMBEDDING - Klaris Law (.PDF)</a></li>
+<li><a href="https://www.engadget.com/2016/04/08/eu-court-linking-copyrighted-content-is-legal/">EU court says linking to copyrighted material isn&#39;t illegal</a></li>
+<li><a href="https://torrentfreak.com/ip-address-is-not-enough-to-identify-pirate-us-court-of-appeals-rules-180828/">IP Address is Not Enough to Identify Pirate, US Court of Appeals Rules</a> - (<a href="https://cdn.ca9.uscourts.gov/datastore/opinions/2018/08/27/17-35041.pdf">.PDF</a>)</li>
+<li><a href="https://torrentfreak.com/new-eu-piracy-watchlist-targets-key-pirate-sites-and-cloudflare-181210/">New EU Piracy Watchlist Targets Key Pirate Sites and Cloudflare</a> - (<a href="https://torrentfreak.com/images/tradoc_157564.pdf">.PDF</a>)</li>
+<li><a href="https://torrentfreak.com/domain-registrar-can-be-held-liable-for-pirate-site-court-rules-181224/">Domain Registrar Can be Held Liable for Pirate Site, Court Rules</a></li>
+<li><a href="https://torrentfreak.com/reporting-when-pirate-releases-hit-the-internet-is-apparently-illegal-now-190101/">Reporting When Pirate Releases Hit The Internet is Apparently Illegal Now</a></li>
+<li><a href="https://torrentfreak.com/swiss-copyright-law-downloading-stays-legal-no-site-blocking/">Swiss Copyright Law: Downloading Stays Legal, No Site Blocking</a></li>
+<li><a href="https://en.wikipedia.org/wiki/List_of_websites_blocked_in_the_United_Kingdom">List of websites blocked in the United Kingdom</a></li>
+<li><a href="https://arxiv.org/abs/1902.05796">Who Watches the Watchmen: Exploring Complaints on the Web</a></li>
+<li><a href="https://torrentfreak.com/major-us-isps-refuse-to-discuss-repeat-infringer-policies-190912/">Major US ISPs Refuse to Discuss Repeat Infringer Policies</a></li>
+<li><a href="https://www.theregister.co.uk/2019/07/20/creative_content_piracy/">British ISPs throw in the towel, give up sending out toothless copyright infringement warnings</a></li>
+</ul>
+
 
 <!-- ################################# -->
 
 <h3>NETWORK ANALYSIS</h3>
-• Snort - https://github.com/snort3</br>
-• NMAP - https://nmap.org</br>
-• Wireshark - https://www.wireshark.org</br>
+∙ Snort - https://github.com/snort3</br>
+∙ NMAP - https://nmap.org</br>
+∙ Wireshark - https://www.wireshark.org</br>
 
 </br>
 
 <!-- ################################# -->
 
 <h3>METADATA</h3>
-• ExifTool - https://github.com/exiftool/exiftool</br>
-• PhotoDNA - https://anishathalye.com/inverting-photodna</br>
-• Geo-tags</br>
+∙ ExifTool - https://github.com/exiftool/exiftool</br>
+∙ PhotoDNA - https://anishathalye.com/inverting-photodna</br>
+∙ Geo-tags</br>
 </br>
 
 <!-- ################################# -->
