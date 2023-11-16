@@ -145,9 +145,9 @@ https://github.com/504ensicsLabs</br>
 • Eric Zimmerman's tools<br><a href="https://ericzimmerman.github.io/#!index.md">https://ericzimmerman.github.io/#!index.md</a><br>
 • Mobile Verification Toolkit (MVT)<br><a href="https://docs.mvt.re/en/latest">https://docs.mvt.re/en/latest</a><br>
 • Drive Badger<br><a href="https://drivebadger.com">https://drivebadger.com</a><br>
-• Octoplus Box ® (easy end user acess)<br><a href="https://octoplusbox.com">https://octoplusbox.com</a><br><a href="https://octoplusbox.com/en/features/models/">https://octoplusbox.com/en/features/models/</a><br><a href="https://www.aliexpress.com/w/wholesale-octoplus-box.html">https://www.aliexpress.com/w/wholesale-octoplus-box.html</a><br>
 • NirSoft ® (Freeware)<br><a href="https://www.nirsoft.net/computer_forensic_software.html">https://www.nirsoft.net</a><br>
 • MiTeC ® (Freeware)<br><a href="https://www.mitec.cz">https://www.mitec.cz</a><br>
+• Octoplus Box ® (easy end user acess)<br><a href="https://octoplusbox.com">https://octoplusbox.com</a><br><a href="https://octoplusbox.com/en/features/models/">https://octoplusbox.com/en/features/models/</a><br><a href="https://www.aliexpress.com/w/wholesale-octoplus-box.html">https://www.aliexpress.com/w/wholesale-octoplus-box.html</a><br>
   </td>
   <td align="left" valign="top" style="width: 50%;">
 • Cellebrite ®<br><a href="https://cellebrite.com/" target="_blank" rel="noopener noreferrer">https://cellebrite.com</a><br>
@@ -288,25 +288,30 @@ https://github.com/demining/Dao-Exploit</br>
 
 <h4>• Rule of Law Benchmarks</h4>
 
-<em><b>Always remember that the law in books is different from the law in action!</b></em></br>
+<em><b>Always remember that the law in books is different from the law in action.</b></em></br>
 
-<em>Council of Europe</em></br>
-Cybercrime - www.coe.int/cybercrime</br>
-GLACY+ - https://coe.int/en/web/cybercrime/glacyplus</br>
-iPROCEEDS-2 - https://coe.int/en/web/cybercrime/iproceeds-2</br>
-Octopus Project - https://coe.int/en/web/cybercrime/octopus-project</br>
-CyberSouth - https://coe.int/en/web/cybercrime/cybersouth</br>
-CyberEast - https://coe.int/en/web/cybercrime/cybereast</br>
+<h4>• International Convention</h4>
+∙ UNO - Organized Crime - https://www.unodc.org/unodc/en/organized-crime/intro/UNTOC.html</br>
+∙ Budapest Convention - Cybercrime - https://www.coe.int/en/web/cybercrime/the-budapest-convention</br>
+∙ Octopus Project - https://coe.int/en/web/cybercrime/octopus-project</br>
+∙ Five Eyes - https://en.wikipedia.org/wiki/Five_Eyes</br>
+
+<h4>Council of Europe - Cybercrime</h4>
+∙ Cybercrime - https://www.coe.int/cybercrime</br>
+∙ GLACY+ - https://coe.int/en/web/cybercrime/glacyplus</br>
+∙ iPROCEEDS-2 - https://coe.int/en/web/cybercrime/iproceeds-2</br>
+∙ Octopus Project - https://coe.int/en/web/cybercrime/octopus-project</br>
+∙ CyberSouth - https://coe.int/en/web/cybercrime/cybersouth</br>
+∙ CyberEast - https://coe.int/en/web/cybercrime/cybereast</br>
 
 <h4>• Investigatory Powers</h4>
-UK Public General Acts - Investigatory Powers Act 2016 - https://www.legislation.gov.uk/ukpga/2016/25/contents</br>
-46 U.S. Code § 70035 - Investigatory powers - https://www.law.cornell.edu/uscode/text/46/70035</br>
-
-<h4>• International Conventions</h4>
-UNO - https://www.unodc.org/unodc/en/organized-crime/intro/UNTOC.html</br>
-Budapest Convention - https://www.coe.int/en/web/cybercrime/the-budapest-convention</br>
-Octopus Project - https://coe.int/en/web/cybercrime/octopus-project</br>
-Five Eyes - https://en.wikipedia.org/wiki/Five_Eyes</br>
+∙ U.S. - Federal Rules - Criminal Procedure - Overview - <a href="https://www.law.cornell.edu/wex/criminal_procedure" target="_blank">Link</a></br>
+∙ U.S. - Federal Rules - Criminal Procedure - Rule 41 - Search and Seizure - <a href="https://www.law.cornell.edu/rules/frcrmp/rule_41" target="_blank">Link</a></br>
+∙ U.E. - Criminal procedural laws across the European Union – A comparative analysis - <a href="https://www.europarl.europa.eu/RegData/etudes/STUD/2018/604977/IPOL_STU(2018)604977(ANN01)_EN.pdf" target="_blank">Link</a></br>
+∙ U.K. - Crime, justice and law - Law and practice - <a href="https://www.gov.uk/guidance/rules-and-practice-directions-2020" target="_blank">Link</a></br>
+∙ U.K. - Public General Acts - Investigatory Powers Act 2016 - <a href="https://www.legislation.gov.uk/ukpga/2016/25/contents" target="_blank">Link</a></br>
+∙ GE - German Criminal Code (Strafgesetzbuch – StGB) - <a href="https://www.gesetze-im-internet.de/englisch_stgb" target="_blank">Link</a></br>
+∙ GE - German Code of Criminal Procedure (Strafprozeßordnung – StPO) - <a href="https://www.gesetze-im-internet.de/englisch_stpo/index.html" target="_blank">Link</a></br>
 
 ![architecture](https://github.com/RENANZG/My-Forensics/assets/53377291/f92b0055-29fe-40de-9a45-da845d0f3f4b)
 
@@ -459,13 +464,13 @@ Five Eyes - https://en.wikipedia.org/wiki/Five_Eyes</br>
 • MITRE ATT&CK - ICS Techniques</br>
 https://attack.mitre.org/techniques/ics</br>
 
-• MITRE ATT&CK -  Mobile Techniques</br>
+• MITRE ATT&CK - Mobile Techniques</br>
 https://attack.mitre.org/techniques/mobile/</br>
 
 • MITRE ATT&CK - Enterprise Techniques</br>
 https://attack.mitre.org/techniques/enterprise/</br>
 
-<h4>Some Famous Cases</h4>
+<h4>Some Cases</h4>
 
 ![1_dRthFvGk3zqARHOPzAymQQ](https://github.com/RENANZG/My-Forensics/assets/53377291/b347418d-dd76-4e0f-b075-e95db4817340)</br>
 
@@ -495,8 +500,6 @@ https://en.wikipedia.org/wiki/Magic_Lantern_(software)</br>
 https://github.com/bibanon/bibanon/blob/0b84bb23794c91c238a5601403898b61b5d193fc/Encyclopedia/History/Events/Pifts.md?</br>plain=1#L125
 • Case: Cryptophon</br>
 https://en.wikipedia.org/wiki/Tron_(hacker)#Cryptophon</br>
-
-<h4>Spy chips, hardware implant, bios attacks and spyware attacks</h4>
 • Planting Tiny Spy Chips in Hardware Can Cost as Little as $200</br>
 https://www.wired.com/story/plant-spy-chips-hardware-supermicro-cheap-proof-of-concept</br>
 • Installation of beacon implants</br>
@@ -510,28 +513,35 @@ https://www.youtube.com/watch?v=sNYsfUNegEA</br>
 • KeyGrabber Forensic Keylogger</br>
 https://www.youtube.com/watch?v=6JJo8qCYE8M</br>
 </br>
-**Forensics Footprints**</br>
+
+
+<h4>Tor Browser Fingerprint</h4>
+TOR Fingerprinting - https://blog.torproject.org/browser-fingerprinting-introduction-and-challenges-ahead</br>
+Attacks on Tor - https://github.com/Attacks-on-Tor/Attacks-on-Tor</br>
+EFF Test - https://coveryourtracks.eff.org/learn</br>
+</br>
+
+<h4>Forensics Footprints</h4>
 https://github.com/PaulNorman01/Forensia</br>
 </br>
-**Tor Browser Fingerprint**</br>
-https://blog.torproject.org/browser-fingerprinting-introduction-and-challenges-ahead</br>
-https://coveryourtracks.eff.org/learn</br>
-</br>
-**Supply Chain Attack**</br>
+
+<h4>Supply Chain Attack</h4>
 https://reproducible-builds.org</br>
 https://github.com/SAP/risk-explorer-for-software-supply-chains</br>
 https://github.com/ossillate-inc/packj</br>
 </br>
-**APT & Cybercriminal Campagin Collections**</br>
+
+<h4>APT & Cybercriminal Campagin Collections</h4>
 https://github.com/CyberMonitor/APT_CyberCriminal_Campagin_Collections</br>
 </br>
-**Man-In-The-Middle**</br>
+
+<h4>Man-In-The-Middle</h4>
 https://github.com/jakev/mitm-helper-wifi</br>
 https://github.com/jakev/mitm-helper-vpn</br>
 
 <!-- ################################# -->
 
-<h4>• Private Agents</h4>
+<h4>• Private Agents and LEA</h4>
 
 - [“Reverse Location Search Warrant”: A New Personal Data Hoovering Exercise Brought to You by Google (2019)](https://www.nakedcapitalism.com/2019/02/reverse-location-search-warrant-a-new-personal-data-hoovering-exercise-brought-to-you-by-google.html)
 - [As UN Human Rights Chief Urges Stricter Rules, Snowden Calls for End to Spyware Trade (2021)](https://www.nakedcapitalism.com/2021/07/as-un-human-rights-chief-urges-stricter-rules-snowden-calls-for-end-to-spyware-trade.html)
@@ -564,8 +574,9 @@ https://github.com/jakev/mitm-helper-vpn</br>
 
 <h3>NETWORK ANALYSIS</h3>
 • Snort - https://github.com/snort3</br>
-• Wireshark - https://www.wireshark.org</br>
 • NMAP - https://nmap.org</br>
+• Wireshark - https://www.wireshark.org</br>
+
 </br>
 
 <!-- ################################# -->
@@ -780,10 +791,10 @@ https://necessaryandproportionate.org</br>
 https://github.com/opencve/opencve</br>
 • The Hacker News - Newsletter</br>
 https://thehackernews.com/#email-outer</br>
-• Google Scholar - Alerts</br>
-https://scholar.google.com/scholar_alerts?view_op=list_alerts&hl=en-US</br>
 • Forensic Focus - Newsletter</br>
 https://www.forensicfocus.com</br>
+• Google Scholar - Alerts</br>
+https://scholar.google.com/scholar_alerts?view_op=list_alerts&hl=en-US</br>
 </details>
 
 <!-- ################################# -->
