@@ -165,6 +165,7 @@ https://github.com/504ensicsLabs</br>
 • Lockheed Martin ®<br><a href="https://www.lockheedmartin.com" target="_blank" rel="noopener noreferrer">https://www.lockheedmartin.com/</a><br>
 • MOBILedit ®<br><a href="https://www.mobiledit.com/mobiledit-forensic" target="_blank" rel="noopener noreferrer">https://www.mobiledit.com</a><br>
 • Magnet Forensic ®<br><a href="https://www.magnetforensics.com/" target="_blank" rel="noopener noreferrer">https://www.magnetforensics.com</a><br>
+• Crowd Strike ®<br><a href="https://www.crowdstrike.com" target="_blank" rel="noopener noreferrer">https://www.crowdstrike.com</a><br>
 • Binalyze ®<br><a href="https://www.binalyze.com" target="_blank" rel="noopener noreferrer">https://www.binalyze.com</a><br>
 • Thorn's Safer ®<br><a href="https://www.thorn.org/" target="_blank" rel="noopener noreferrer">https://www.thorn.org</a><br>
 </td>
@@ -774,37 +775,45 @@ $ sudo grgsm_livemon    # Live radio scanning.
 <hr>
 
 <details>
-<summary><b>Some Links</b></summary>
+<summary><b>Links</b></summary>
+</br>
+<em>Some Links</em></br>
 https://www.cve.org</br>
 https://www.cvedetails.com</br>
 https://www.openwall.com</br>
-https://lkrg.org</br>
-https://attack.mitre.org</br>
-https://www.hackthebox.com</br>
-https://www.htcia.org</br>
+https://www.lkrg.org</br>
+https://www.attack.mitre.org</br>
 https://www.exterro.com</br>
 https://www.forensicfocus.com</br>
+https://www.hackthebox.com</br>
+https://www.hackerone.comv
+https://www.htcia.org</br>
+https://www.hackread.com</br>
 https://www.osforensics.com</br>
 https://www.magnetforensics.com</br>
 https://www.exterro.com/ftk-product-downloads/how-to-run-ftk-imager-from-a-flash-drive-imager-lite</br>
+
+<em>Law</em></br>
+https://www.fbi.gov</br>
+https://www.justice.gov/news</br>
+https://www.coe.int/en/web/cybercrime</br>
+https://www.sherloc.unodc.org</br>
+https://www.enisa.europa.eu</br>
+https://www.necessaryandproportionate.org</br>
+
+<em>Others</em></br>
+https://www.nowsecure.com</br>
 https://www.reddit.com/r/digitalforensics</br>
 https://www.reddit.com/r/InfoSecNews</br>
 https://github.com/yeahhub/Hacking-Security-Ebooks</br>
 https://github.com/InfoSecIITR/reading-material</br>
-https://www.nowsecure.com</br>
-
-https://www.fbi.gov</br>
-https://www.justice.gov/news</br>
-https://coe.int/en/web/cybercrime</br>
-https://sherloc.unodc.org</br>
-https://www.enisa.europa.eu</br>
-https://necessaryandproportionate.org</br>
 </details>
 
 <!-- ################################# -->
 
 <details>
 <summary><b>Security feeds & alerts</b></summary>
+</br>
 • CVE Alerting Platform</br>
 https://github.com/opencve/opencve</br>
 • The Hacker News - Newsletter</br>
@@ -819,6 +828,7 @@ https://scholar.google.com/scholar_alerts?view_op=list_alerts&hl=en-US</br>
 
 <details>
 <summary><b>Papers (open acess journals)</b></summary>
+</br>
 • Make a Google Scholar search from an interesting subject that you want to follow up on.</br>
 • Search paramters example: </br>
 <pre>police hacking intext:ilegal intext:abusive intext:law</pre>
