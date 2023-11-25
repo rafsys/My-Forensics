@@ -232,13 +232,13 @@ https://github.com/504ensicsLabs</br>
 
 <p>Comparison between Drive Badger with other lawful interception platforms. Visit: <a href="https://docs.google.com/spreadsheets/d/1Ux0WeL-K4NOZTEQgJXuRzHPcG_ewKmcMNADuFhamytg/edit#gid=1460165261" target="_blank" rel="noopener noreferrer">Official Sheet Updated</a> or <a href="3.GUIDES_&_PAPERS/Drive_Bagder_-_Comparison_of_lawful_interception_platforms.pdf" target="_blank" rel="noopener noreferrer">PDF in our Repo</a>.</p>
 
-<table style="width:830px" cellspacing="0" cellpadding="0">
+<table width="100%" cellspacing="0" cellpadding="0">
 <thead>
   <tr>
-    <th style="width:30px;">PRODUCT KNOWN AS</th>
-    <th style="width:200px;">• DevilsTongue</br>• Sourgum</br></th>
-    <th style="width:200px;">• Pegasus</th>
-    <th style="width:200px;">• Drive Badger</br>• Funkcjonariusz</br></th>
+    <th width="10%">PRODUCT KNOWN AS</th>
+    <th width="30%">• DevilsTongue</br>• Sourgum</br></th>
+    <th width="30%">• Pegasus</th>
+    <th width="30%">• Drive Badger</br>• Funkcjonariusz</br></th>
   </tr>
 </thead>
 <tbody valign="top">
