@@ -235,13 +235,14 @@ https://github.com/504ensicsLabs</br>
 <table style="width:830px" cellspacing="0" cellpadding="0">
 <thead>
   <tr>
-    <th style="width:10%;">PRODUCT KNOWN AS</th>
-    <th style="width:30%;">• DevilsTongue</br>• Sourgum</br></th>
-    <th style="width:30%;">• Pegasus</th>
-    <th style="width:30%;">• Drive Badger</br>• Funkcjonariusz</br></th>
+    <th style="width:30px;">PRODUCT KNOWN AS</th>
+    <th style="width:200px;">• DevilsTongue</br>• Sourgum</br></th>
+    <th style="width:200px;">• Pegasus</th>
+    <th style="width:200px;">• Drive Badger</br>• Funkcjonariusz</br></th>
   </tr>
 </thead>
 <tbody valign="top">
+  
   <tr>
     <td>DETAILS LAST UPDATED</td>
     <td>2022-06-19</td>
@@ -580,7 +581,7 @@ https://github.com/504ensicsLabs</br>
   </tr>
   <tr>
     <td>One time entry cost - excluding trainings</td>
-    <td>16850000</td>
+    <td>€ 16.850.000</td>
     <td>€ 3.500.000</td>
     <td>only hardware cost</td>
   </tr>
