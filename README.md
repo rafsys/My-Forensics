@@ -23,8 +23,6 @@
 <table style="width: 100%" cellspacing="0" cellpadding="0">
 <thead>
   <tr>
-    <th></th>
-    <th></th>
   </tr>
 </thead>
 <tbody> 
@@ -71,7 +69,6 @@ https://github.com/504ensicsLabs</br>
 <table style="width: 100%" cellspacing="0" cellpadding="0">
 <thead>
   <tr>
-    <th></th>
   </tr>
 </thead>
 <tbody> 
@@ -116,8 +113,7 @@ https://github.com/504ensicsLabs</br>
 <table style="width: 100%" cellspacing="0" cellpadding="0">
 <thead>
   <tr>
-    <th></th>
-   </tr>
+  </tr>
 </thead>
 <tbody> 
 <tr>
@@ -153,7 +149,6 @@ https://github.com/504ensicsLabs</br>
 <table style="width: 100%" cellspacing="0" cellpadding="0">
 <thead>
   <tr>
-    <th></th>
   </tr>
 </thead>
 <tbody> 
@@ -240,19 +235,15 @@ https://github.com/504ensicsLabs</br>
 <table style="width: 100%" cellspacing="0" cellpadding="0">
 <thead>
   <tr>
-    <th></th>
-    <th></th>
-    <th></th>
-    <th></th>
   </tr>
 </thead>
 <tbody valign="top">
   <tr>
-    <td>PRODUCT KNOWN AS</td>
-    <td>• DevilsTongue</br>
+    <td style="width: 10%;">PRODUCT KNOWN AS</td>
+    <td style="width: 30%;">• DevilsTongue</br>
     • Sourgum</br></td>
-    <td>• Pegasus</td>
-    <td>• Drive Badger</br>
+    <td style="width: 30%;">• Pegasus</td>
+    <td style="width: 30%;">• Drive Badger</br>
     • Funkcjonariusz</br></td>
   </tr>
   <tr>
