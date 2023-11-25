@@ -277,50 +277,50 @@ https://github.com/504ensicsLabs</br>
   <tr>
     <td width="10%">HOW IT WORKS</td>
     <td width="30%">- remote installation</br>
-    - remote data interception</br></td>
+    &#x2011; remote data interception</br></td>
     <td width="30%">- remote installation</br>
-    - remote data interception</br></td>
+    &#x2011; remote data interception</br></td>
     <td width="30%">- local one-time usage via USB device</br>
-    - local data interception</br>
-    - integration with 3rd party remote solutions</br></td>
+    &#x2011; local data interception</br>
+    &#x2011; integration with 3rd party remote solutions</br></td>
   </tr>
   <tr>
     <td width="10%">SUPPORTED PLATFORMS</br>(SUMMARY)</td>
     <td width="30%">- Windows</br>
-    - Android</br>
-    - iOS</br>
-    - possibly Mac OS</br></td>
+    &#x2011; Android</br>
+    &#x2011; iOS</br>
+    &#x2011; possibly Mac OS</br></td>
     <td width="30%">- Android</br>
-    - iOS</br>
-    - Symbian</br>
-    - Blackberry</br></td>
+    &#x2011; iOS</br>
+    &#x2011; Symbian</br>
+    &#x2011; Blackberry</br></td>
     <td width="30%">- Windows</br>
-    - Mac OS</br>
-    - Linux</br>
-    - Windows Embedded</br>
-    - Android</br>
-    - iOS, iPadOS</br>
-    - Windows Mobile/Phone</br>
-    - Symbian</br>
-    - Canon/Nikon/HP photo cameras</br>
-    - VMware ESXi</br>
-    - Hyper-V</br></td>
+    &#x2011; Mac OS</br>
+    &#x2011; Linux</br>
+    &#x2011; Windows Embedded</br>
+    &#x2011; Android</br>
+    &#x2011; iOS, iPadOS</br>
+    &#x2011; Windows Mobile/Phone</br>
+    &#x2011; Symbian</br>
+    &#x2011; Canon/Nikon/HP photo cameras</br>
+    &#x2011; VMware ESXi</br>
+    &#x2011; Hyper-V</br></td>
   </tr>
 
   <tr>
     <td width="10%">HOW OPERATORS USE</br>
     THE SYSTEM</td>
     <td width="30%">- web panel for operators</br>
-    - all actions are logged</br>
-    - operators are fully responsible for any abuse attempts</br></td>
+    &#x2011; all actions are logged</br>
+    &#x2011; operators are fully responsible for any abuse attempts</br></td>
     <td width="30%">- web panel for operators</br>
-    - all actions are logged</br>
-    - operators are fully responsible for any abuse attempts</br></td>
+    &#x2011; all actions are logged</br>
+    &#x2011; operators are fully responsible for any abuse attempts</br></td>
     <td width="30%">- all exfiltrated data are stored locally on the USB device (on encrypted partition)</br>
-    - no panel - operator has full access to raw data and can analyze it in preferred way, eg. import into Magnet AXIOM, Paraben E3, FTK Forensic Toolkit, Autopsy, or SANS SIFT for forensic analysis using these tools</br>
-    - basic Linux knowledge is required</br>
-    - both USB device and collected data are in the sole possession of the operator</br>
-    - no operator abuse control</br></td>
+    &#x2011; no panel - operator has full access to raw data and can analyze it in preferred way, eg. import into Magnet AXIOM, Paraben E3, FTK Forensic Toolkit, Autopsy, or SANS SIFT for forensic analysis using these tools</br>
+    &#x2011; basic Linux knowledge is required</br>
+    &#x2011; both USB device and collected data are in the sole possession of the operator</br>
+    &#x2011; no operator abuse control</br></td>
   </tr>
 
   <tr>
@@ -328,42 +328,42 @@ https://github.com/504ensicsLabs</br>
    <td width="30%"><b>WINDOWS (PC)</b></br>
 
    • Supported versions</br>
-   - 7</br>
-   - 10 (documentation states that only 64-bit)</br>
-   - not sure about Windows 8 / 8.1</br>
-   - not sure about Windows Server</br>
+   &#x2011; 7</br>
+   &#x2011; 10 (documentation states that only 64-bit)</br>
+   &#x2011; not sure about Windows 8 / 8.1</br>
+   &#x2011; not sure about Windows Server</br>
 
    • Software-only installation method(s)</br>
    ∙ Remote installation using</br>
-   - CVE-2021-31979 and CVE-2021-33771 (attack on Windows)</br>
-   - RCE for Chrome, Firefox or Internet Explorer</br>
-   - RCE on Microsoft Office 2013-2019</br>
+   &#x2011; CVE-2021-31979 and CVE-2021-33771 (attack on Windows)</br>
+   &#x2011; RCE for Chrome, Firefox or Internet Explorer</br>
+   &#x2011; RCE on Microsoft Office 2013-2019</br>
 
    • Post-install remote functionalities</br>
    ∙ Standard package - access to:</br>
-   - Skype</br>
-   - Outlook</br>
-   - Telegram</br>
-   - Facebook</br>
-   - Gmail</br>
-   - device ID</br>
-   - browsing history</br>
-   - geolocation</br>
-   - raw files</br>
-   - passwords</br>
-   - keylogger</br>
-   - webcam</br>
-   - microphone recording</br>
-   - screenshots</br>
-   ∙ Paid separately:</br>
-   - remote shell (Windows-only, 1.5M EUR)</br>
-   - Twitter</br>
-   - Viber</br>
-   - Signal</br>
-   - WeChat</br>
-   - Odnoklassniki</br>
-   - Vkontakte</br>
-   - Mail.ru</br>
+   &#x2011; Skype</br>
+   &#x2011; Outlook</br>
+   &#x2011; Telegram</br>
+   &#x2011; Facebook</br>
+   &#x2011; Gmail</br>
+   &#x2011; device ID</br>
+   &#x2011; browsing history</br>
+   &#x2011; geolocation</br>
+   &#x2011; raw files</br>
+   &#x2011; passwords</br>
+   &#x2011; keylogger</br>
+   &#x2011; webcam</br>
+   &#x2011; microphone recording</br>
+   &#x2011; screenshots</br>
+   &#x2011; Paid separately:</br>
+   &#x2011; remote shell (Windows-only, 1.5M EUR)</br>
+   &#x2011; Twitter</br>
+   &#x2011; Viber</br>
+   &#x2011; Signal</br>
+   &#x2011; WeChat</br>
+   &#x2011; Odnoklassniki</br>
+   &#x2011; Vkontakte</br>
+   &#x2011; Mail.ru</br>
    
    <b>LINUX</b></br>
    • Post-install remote functionalities</br>
@@ -371,173 +371,173 @@ https://github.com/504ensicsLabs</br>
 
    <b>ANDROID</b></br>
    • Installation and tracking method(s)</br>
-   - supported, there is a closed list of supported Android versions (4-9 as for 2020); documentation suggests that </br>
-   - they may have problems with Android forks eg. Xiaomi MIUI, they support Samsung Galaxy S phones (and probably tablets), and agreed list of models/vendors for additional fee</br>
+   &#x2011; supported, there is a closed list of supported Android versions (4-9 as for 2020); documentation suggests that </br>
+   &#x2011; they may have problems with Android forks eg. Xiaomi MIUI, they support Samsung Galaxy S phones (and probably tablets), and agreed list of models/vendors for additional fee</br>
    
    • What information is available after installation</br>
    
    ∙ Standard package - access to:</br>
-   - photos & screenshots</br>
-   - emails, sms</br>
-   - browsing history</br>
-   - contact details</br>
-   - calendar records</br>
-   - GPS location tracking</br>
-   - basic/advanced device info</br>
-   - call history</br>
-   - list directories</br>
-   - Google Drive</br>
-   - Dropbox</br>
-   - WhatsApp</br>
-   - FB Messenger</br>
-   - Skype</br>
-   - Telegram</br>
-   - network details</br>
-   - network change notifications</br>
-   - recording microphone and phone calls</br>
+   &#x2011; photos & screenshots</br>
+   &#x2011; emails, sms</br>
+   &#x2011; browsing history</br>
+   &#x2011; contact details</br>
+   &#x2011; calendar records</br>
+   &#x2011; GPS location tracking</br>
+   &#x2011; basic/advanced device info</br>
+   &#x2011; call history</br>
+   &#x2011; list directories</br>
+   &#x2011; Google Drive</br>
+   &#x2011; Dropbox</br>
+   &#x2011; WhatsApp</br>
+   &#x2011; FB Messenger</br>
+   &#x2011; Skype</br>
+   &#x2011; Telegram</br>
+   &#x2011; network details</br>
+   &#x2011; network change notifications</br>
+   &#x2011; recording microphone and phone calls</br>
    
    ∙ Paid separately:</br>
-   - Twitter</br>
-   - Viber</br>
-   - Signal</br>
-   - WeChat</br>
-   - Odnoklassniki</br>
-   - Vkontakte</br>
-   - Mail.ru</br>
+   &#x2011; Twitter</br>
+   &#x2011; Viber</br>
+   &#x2011; Signal</br>
+   &#x2011; WeChat</br>
+   &#x2011; Odnoklassniki</br>
+   &#x2011; Vkontakte</br>
+   &#x2011; Mail.ru</br>
   
   <b>MAC OS</b></br>
    • Post-install remote functionalities</br>
    ∙ Standard package - access to:</br>
 
    • Installation and tracking method(s)</br>
-   - not sure - depending on each source, supported or not</br>
+   &#x2011; not sure - depending on each source, supported or not</br>
 
   APPLE IOs</br>
   • Installation and tracking method(s)</br>
-  - remote installation using either attack on Safari, or whole iOS (details not revealed)</br>
+  &#x2011; remote installation using either attack on Safari, or whole iOS (details not revealed)</br>
 
   • What information is available after installation</br>
   ∙ Standard package - access to:</br>
-  - photos & screenshots</br>
-  - emails, sms</br>
-  - browsing history</br>
-  - contact details</br>
-  - calendar records</br>
-  - GPS location tracking</br>
-  - basic/advanced device info</br>
-  - call history</br>
-  - list directories</br>
-  - Google Drive</br>
-  - Dropbox</br>
-  - WhatsApp</br>
-  - FB Messenger</br>
-  - Skype</br>
-  - Telegram</br>
-  - network details</br>
-  - network change notifications</br>
-  - recording microphone and phone calls</br>
-  ∙ Paid separately:</br>
-  - Twitter</br>
-  - Viber</br>
-  - Signal</br>
-  - WeChat</br>
-  - Odnoklassniki</br>
-  - Vkontakte</br>
-  - Mail.ru</br>
+  &#x2011; photos & screenshots</br>
+  &#x2011; emails, sms</br>
+  &#x2011; browsing history</br>
+  &#x2011; contact details</br>
+  &#x2011; calendar records</br>
+  &#x2011; GPS location tracking</br>
+  &#x2011; basic/advanced device info</br>
+  &#x2011; call history</br>
+  &#x2011; list directories</br>
+  &#x2011; Google Drive</br>
+  &#x2011; Dropbox</br>
+  &#x2011; WhatsApp</br>
+  &#x2011; FB Messenger</br>
+  &#x2011; Skype</br>
+  &#x2011; Telegram</br>
+  &#x2011; network details</br>
+  &#x2011; network change notifications</br>
+  &#x2011; recording microphone and phone calls</br>
+  &#x2011; Paid separately:</br>
+  &#x2011; Twitter</br>
+  &#x2011; Viber</br>
+  &#x2011; Signal</br>
+  &#x2011; WeChat</br>
+  &#x2011; Odnoklassniki</br>
+  &#x2011; Vkontakte</br>
+  &#x2011; Mail.ru</br>
   </td>
   <td width="30%">
   <b>WINDOWS (PC)</b></br>
   • Supported versions</br>
-  - n/a </br>
+  &#x2011; n/a </br>
   • Software-only installation method(s)</br>
   ∙ Remote installation using</br>
-  - n/a </br>
+  &#x2011; n/a </br>
   • Post-install remote functionalities</br>
-  - n/a </br>
+  &#x2011; n/a </br>
      
    <b>LINUX</b></br>
   • Post-install remote functionalities</br>
-   - n/a </br>
+   &#x2011; n/a </br>
   <b>ANDROID</b></br>
-    • Installation and tracking method(s)</br>
+  • Installation and tracking method(s)</br>
   ∙ Remote:</br>
-  - magic sms/push, non-persistent infection, requiring re-infecting after each reboot</br>
-  - in non-root mode it can ask the user for permissions to access eg. photos, just like normal app</br>
+  &#x2011; magic sms/push, non-persistent infection, requiring re-infecting after each reboot</br>
+  &#x2011; in non-root mode it can ask the user for permissions to access eg. photos, just like normal app</br>
   *supported Android versions: from 2.1, mainly Samsung Galaxy and Sony Xperia devices</br>
   • What information is available after installation</br>
-  - photos & screenshots</br>
-  - emails, sms</br>
-  - browsing history</br>
-  - contact details</br>
-  - calendar records</br>
-  - converations from Skype, WhatsApp, Twitter, Facebook, Viber, KakaoTalk</br>
-  - GPS location tracking</br>
-  - device settings</br>
-  - network details</br>
-  - raw file retrieval</br>
-  - recording microphone and phone calls (Android-only)</br>
+  &#x2011; photos & screenshots</br>
+  &#x2011; emails, sms</br>
+  &#x2011; browsing history</br>
+  &#x2011; contact details</br>
+  &#x2011; calendar records</br>
+  &#x2011; converations from Skype, WhatsApp, Twitter, Facebook, Viber, KakaoTalk</br>
+  &#x2011; GPS location tracking</br>
+  &#x2011; device settings</br>
+  &#x2011; network details</br>
+  &#x2011; raw file retrieval</br>
+  &#x2011; recording microphone and phone calls (Android-only)</br>
     
   <b>MAC OS</b></br>
   • Post-install remote functionalities</br>
   ∙ Standard package - access to:</br>
   • Installation and tracking method(s)</br>
-  - n/a</br>
+  &#x2011; n/a</br>
   <b>Apple IOS</b></br>
   • Installation and tracking method(s)</br>
   ∙ Remote, using:</br>
-  - magic sms/push</br>
-  - Trident exploit (CVE-2016-4655, CVE-2016-4656, CVE-2016-4657)</br>
-  - Kismet exploit (2020)</br>
-  - ForcedDentry (2021) previously known as Megalodon (2019)</br>
-  - existing jailbreak</br>
-  - emulation of clicking on important apps (eg. iMessage) non-persistent infection, requiring re-infecting after each reboot; supported iOS versions: from 4.x (iPhone 4)</br>
+  &#x2011; magic sms/push</br>
+  &#x2011; Trident exploit (CVE-2016-4655, CVE-2016-4656, CVE-2016-4657)</br>
+  &#x2011; Kismet exploit (2020)</br>
+  &#x2011; ForcedDentry (2021) previously known as Megalodon (2019)</br>
+  &#x2011; existing jailbreak</br>
+  &#x2011; emulation of clicking on important apps (eg. iMessage) non-persistent infection, requiring re-infecting after each reboot; supported iOS versions: from 4.x (iPhone 4)</br>
   • What information is available after installation</br>
-  - photos & screenshots</br>
-  - emails, sms</br>
-  - browsing history</br>
-  - contact details</br>
-  - calendar records</br>
-  - converations from Skype, WhatsApp, Twitter, Facebook, Viber, KakaoTalk</br>
-  - GPS location tracking</br>
-  - device settings</br>
-  - network details</br>
-  - raw file retrieval</br>
+  &#x2011; photos & screenshots</br>
+  &#x2011; emails, sms</br>
+  &#x2011; browsing history</br>
+  &#x2011; contact details</br>
+  &#x2011; calendar records</br>
+  &#x2011; converations from Skype, WhatsApp, Twitter, Facebook, Viber, KakaoTalk</br>
+  &#x2011; GPS location tracking</br>
+  &#x2011; device settings</br>
+  &#x2011; network details</br>
+  &#x2011; raw file retrieval</br>
   </td>
 
   <td width="30%">
   <b>WINDOWS (PC)</b></br>
 
    • Supported versions</br>
-   - from XP SP2 to 11 (including "S")</br>
-   - Server 2003-2022</br>
-   - Embedded Standard 7 and 2009</br>
+   &#x2011; from XP SP2 to 11 (including "S")</br>
+   &#x2011; Server 2003-2022</br>
+   &#x2011; Embedded Standard 7 and 2009</br>
 
    • Software-only installation method(s)</br>
-   1. local data exfiltration, via plugged-in USB device, support for Bitlocker / LUKS / VeraCrypt drive encryption</br>
-   2. local injection of 3rd party exploits (possibly remotely exploitable), straight from USB device, without disconnecting the hard drive</br>
+   1.local data exfiltration, via plugged-in USB device, support for Bitlocker / LUKS / VeraCrypt drive encryption</br>
+   2.local injection of 3rd party exploits (possibly remotely exploitable), straight from USB device, without disconnecting the hard drive</br>
 
    • Post-install remote functionalities</br>
-   - Only exploitation of locally injected 3rd party exploit(s).</br>
+   &#x2011; Only exploitation of locally injected 3rd party exploit(s).</br>
 
    <b>LINUX</b></br>
 
    • Software-only installation method(s)</br>
    ∙ Remote installation using</br>
-   - n/a</br>
+   &#x2011; n/a</br>
 
    • Post-install remote functionalities</br>
-   1. local data exfiltration, via USB, support for Bitlocker / LUKS / VeraCrypt drive encryption</br>
-   2. local injection of 3rd party exploits (possibly remotely exploitable), straight from USB, without disconnecting the hard drive</br>
+   1.local data exfiltration, via USB, support for Bitlocker / LUKS / VeraCrypt drive encryption</br>
+   2.local injection of 3rd party exploits (possibly remotely exploitable), straight from USB, without disconnecting the hard drive</br>
 
    <b>ANDROID</b></br>
 
    • Installation and tracking method(s)</br>
-   - local data exfiltration only, through MTP, PTP or Mass Storage (depending onAndroid version and security settings), requires already unlocked
+   &#x2011; local data exfiltration only, through MTP, PTP or Mass Storage (depending onAndroid version and security settings), requires already unlocked
    device</br>
 
    • What information is available after installation</br>
-   - photos & screenshots</br>
-   - in MTP/MSC mode, everything that is remotely visible (access to raw files)</br>
+   &#x2011; photos & screenshots</br>
+   &#x2011; in MTP/MSC mode, everything that is remotely visible (access to raw files)</br>
 
    <b>MAC OS</b></br>
 
@@ -545,17 +545,17 @@ https://github.com/504ensicsLabs</br>
    ∙ Remote installation </br>
 
    • Post-install remote functionalities</br>
-   - local data exfiltration only, via USB, support for APFS FileVault encryption, on T2-based models requires the device to already unlocked</br>
+   &#x2011; local data exfiltration only, via USB, support for APFS FileVault encryption, on T2-based models requires the device to already unlocked</br>
   
    • Installation and tracking method(s)</br>
-   - local data exfiltration only, via USB, support for APFS FileVault encryption, on T2-based models requires the device to already unlocked</br>
+   &#x2011; local data exfiltration only, via USB, support for APFS FileVault encryption, on T2-based models requires the device to already unlocked</br>
 
  <b>Apple IOS</b></br>
    
    • Installation and tracking method(s)</br>
    ∙ Remote, using:</br>
-   - magic sms/push</br>
-   - Cydia Substrate’s hooking functionality (iOS11 and below, only jailbroken devices)</br>
+   &#x2011; magic sms/push</br>
+   &#x2011; Cydia Substrate's hooking functionality (iOS11 and below, only jailbroken devices)</br>
    
    • What information is available after installation</br>
    - everything that is remotely visible according to phone/tablet security settings (access to raw files)</br>
