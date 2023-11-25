@@ -5,26 +5,6 @@
 
   <meta charset='UTF-8'>
 
-  <title>My-Forensics</title>
-
-  <meta name="robots" content="noindex">
-
-  <link rel="shortcut icon" type="image/x-icon" href="">
-  <link rel="mask-icon" href="" color="">
-  <link rel="canonical" href="">
-  <link rel="stylesheet" href="">
-
-  <style id="INLINE_PEN_STYLESHEET_ID">
-   table {
-        width: 100%;
-    }
-  
-   table td {padding: 1px;}
- #canvas_container {  
- width: 830px;  
-}  
-  </style>
-
 <body>
 
 <!-- ############################TAKE#OUT#MDFK#;D##################################### -->
