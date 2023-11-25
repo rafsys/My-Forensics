@@ -232,69 +232,69 @@ https://github.com/504ensicsLabs</br>
 
 <p>Comparison between Drive Badger with other lawful interception platforms. Visit: <a href="https://docs.google.com/spreadsheets/d/1Ux0WeL-K4NOZTEQgJXuRzHPcG_ewKmcMNADuFhamytg/edit#gid=1460165261" target="_blank" rel="noopener noreferrer">Official Sheet Updated</a> or <a href="3.GUIDES_&_PAPERS/Drive_Bagder_-_Comparison_of_lawful_interception_platforms.pdf" target="_blank" rel="noopener noreferrer">PDF in our Repo</a>.</p>
 
-<table width="100%" cellspacing="0" cellpadding="0">
+<table style="width:100%" cellspacing="0" cellpadding="0">
 <thead>
   <tr>
   </tr>
 </thead>
 <tbody valign="top">
   <tr>
-    <td width="10%">PRODUCT KNOWN AS</td>
-    <td width="30%">• DevilsTongue</br>• Sourgum</br></td>
-    <td width="30%">• Pegasus</td>
-    <td width="30%">• Drive Badger</br>• Funkcjonariusz</br></td>
+    <td style="width:10%">PRODUCT KNOWN AS</td>
+    <td style="width:30%">• DevilsTongue</br>• Sourgum</br></td>
+    <td style="width:30%">• Pegasus</td>
+    <td style="width:30%">• Drive Badger</br>• Funkcjonariusz</br></td>
   </tr>
   <tr>
-    <td width="10%">DETAILS LAST UPDATED</td>
-    <td width="30%">2022-06-19</td>
-    <td width="30%">2021-12-15</td>
-    <td width="30%">2022-06-18</td>
+    <td style="width:10%">DETAILS LAST UPDATED</td>
+    <td style="width:30%">2022-06-19</td>
+    <td style="width:30%">2021-12-15</td>
+    <td style="width:30%">2022-06-18</td>
   </tr>
   <tr>
-    <td width="10%">AVAILABILITY</td>
-    <td width="30%">COMMERCIAL</td>
-    <td width="30%">COMMERCIAL</td>
-    <td width="30%">OPEN SOURCE</td>
+    <td style="width:10%">AVAILABILITY</td>
+    <td style="width:30%">COMMERCIAL</td>
+    <td style="width:30%">COMMERCIAL</td>
+    <td style="width:30%">OPEN SOURCE</td>
   </tr>
   <tr>
-    <td width="10%">YEARS OF ACTIVITY</td>
-    <td width="30%">2014-current</td>
-    <td width="30%">2010-current</td>
-    <td width="30%">2017-current</td>
+    <td style="width:10%">YEARS OF ACTIVITY</td>
+    <td style="width:30%">2014-current</td>
+    <td style="width:30%">2010-current</td>
+    <td style="width:30%">2017-current</td>
   </tr>
   <tr>
-    <td width="10%">COMPANY</td>
-    <td width="30%">Candori - https://citizenlab.ca/2021/07/hooking-candiru-another-mercenary-spyware-vendor-comes-into-focus/</td>
-    <td width="30%">NSO Group</td>
-    <td width="30%"> - </td>
+    <td style="width:10%">COMPANY</td>
+    <td style="width:30%">Candori - https://citizenlab.ca/2021/07/hooking-candiru-another-mercenary-spyware-vendor-comes-into-focus/</td>
+    <td style="width:30%">NSO Group</td>
+    <td style="width:30%"> - </td>
   </tr>
   <tr>
-    <td width="10%">COUNTRY</td>
-    <td width="30%">Israel</td>
-    <td width="30%">Israel</td>
-    <td width="30%">Poland</td>
+    <td style="width:10%">COUNTRY</td>
+    <td style="width:30%">Israel</td>
+    <td style="width:30%">Israel</td>
+    <td style="width:30%">Poland</td>
   </tr>
   <tr>
-    <td width="10%">HOW IT WORKS</td>
-    <td width="30%">- remote installation</br>
+    <td style="width:10%">HOW IT WORKS</td>
+    <td style="width:30%">- remote installation</br>
     &#x2011; remote data interception</br></td>
-    <td width="30%">- remote installation</br>
+    <td style="width:30%">- remote installation</br>
     &#x2011; remote data interception</br></td>
-    <td width="30%">- local one-time usage via USB device</br>
+    <td style="width:30%">- local one-time usage via USB device</br>
     &#x2011; local data interception</br>
     &#x2011; integration with 3rd party remote solutions</br></td>
   </tr>
   <tr>
-    <td width="10%">SUPPORTED PLATFORMS</br>(SUMMARY)</td>
-    <td width="30%">- Windows</br>
+    <td style="width:10%">SUPPORTED PLATFORMS</br>(SUMMARY)</td>
+    <td style="width:30%">- Windows</br>
     &#x2011; Android</br>
     &#x2011; iOS</br>
     &#x2011; possibly Mac OS</br></td>
-    <td width="30%">- Android</br>
+    <td style="width:30%">- Android</br>
     &#x2011; iOS</br>
     &#x2011; Symbian</br>
     &#x2011; Blackberry</br></td>
-    <td width="30%">- Windows</br>
+    <td style="width:30%">- Windows</br>
     &#x2011; Mac OS</br>
     &#x2011; Linux</br>
     &#x2011; Windows Embedded</br>
@@ -308,15 +308,15 @@ https://github.com/504ensicsLabs</br>
   </tr>
 
   <tr>
-    <td width="10%">HOW OPERATORS USE</br>
+    <td style="width:10%">HOW OPERATORS USE</br>
     THE SYSTEM</td>
-    <td width="30%">- web panel for operators</br>
+    <td style="width:30%">- web panel for operators</br>
     &#x2011; all actions are logged</br>
     &#x2011; operators are fully responsible for any abuse attempts</br></td>
-    <td width="30%">- web panel for operators</br>
+    <td style="width:30%">- web panel for operators</br>
     &#x2011; all actions are logged</br>
     &#x2011; operators are fully responsible for any abuse attempts</br></td>
-    <td width="30%">- all exfiltrated data are stored locally on the USB device (on encrypted partition)</br>
+    <td style="width:30%">- all exfiltrated data are stored locally on the USB device (on encrypted partition)</br>
     &#x2011; no panel - operator has full access to raw data and can analyze it in preferred way, eg. import into Magnet AXIOM, Paraben E3, FTK Forensic Toolkit, Autopsy, or SANS SIFT for forensic analysis using these tools</br>
     &#x2011; basic Linux knowledge is required</br>
     &#x2011; both USB device and collected data are in the sole possession of the operator</br>
@@ -324,8 +324,8 @@ https://github.com/504ensicsLabs</br>
   </tr>
 
   <tr>
-   <td width="10%">SOME FUNCTIONALITIES AND TRACKING METHODS</td>
-   <td width="30%"><b>WINDOWS (PC)</b></br>
+   <td style="width:10%">SOME FUNCTIONALITIES AND TRACKING METHODS</td>
+   <td style="width:30%"><b>WINDOWS (PC)</b></br>
 
    • Supported versions</br>
    &#x2011; 7</br>
@@ -445,7 +445,7 @@ https://github.com/504ensicsLabs</br>
   &#x2011; Vkontakte</br>
   &#x2011; Mail.ru</br>
   </td>
-  <td width="30%">
+  <td style="width:30%">
   <b>WINDOWS (PC)</b></br>
   • Supported versions</br>
   &#x2011; n/a </br>
@@ -504,7 +504,7 @@ https://github.com/504ensicsLabs</br>
   &#x2011; raw file retrieval</br>
   </td>
 
-  <td width="30%">
+  <td style="width:30%">
   <b>WINDOWS (PC)</b></br>
 
    • Supported versions</br>
@@ -562,49 +562,49 @@ https://github.com/504ensicsLabs</br>
   </td>  
   </tr>
   <tr>
-    <td width="10%">Annual cost per tracked user license (for first 10 users)</td>
+    <td style="width:10%">Annual cost per tracked user license (for first 10 users)</td>
     <td>0</td>
     <td>$65 000</td>
     <td>free</td>
   </tr>
   <tr>
-    <td width="10%">Annual cost per tracked user license (above first 10 users, up to next limit)</td>
+    <td style="width:10%">Annual cost per tracked user license (above first 10 users, up to next limit)</td>
     <td>$ 100.000</td>
     <td>$ 10.000</td>
     <td>free</td>
   </tr>
   <tr>
-    <td width="10%">Annual cost per operator</td>
+    <td style="width:10%">Annual cost per operator</td>
     <td>3 included + € 20 000 for each another</td>
     <td>?</td>
     <td>free</td>
   </tr>
   <tr>
-    <td width="10%">One time entry cost - excluding trainings</td>
+    <td style="width:10%">One time entry cost - excluding trainings</td>
     <td>€ 16.850.000</td>
     <td>€ 3.500.000</td>
     <td>only hardware cost</td>
   </tr>
   <tr>
-    <td width="10%">Trainings</td>
+    <td style="width:10%">Trainings</td>
     <td>?</td>
     <td>€ 750.000</td>
     <td>depends on training company, all documentation freely available</td>
   </tr>
   <tr>
-    <td width="10%">Source code status</td>
+    <td style="width:10%">Source code status</td>
     <td>closed source</td>
     <td>decompiled samples only, mainly from Android agents</td>
     <td>open source</td>
   </tr>
   <tr>
-    <td width="10%">Source code link</td>
+    <td style="width:10%">Source code link</td>
     <td>-</td>
     <td>https://github.com/jonathandata1/pegasus_spyware</td>
     <td></td>
   </tr>
   <tr>
-    <td width="10%">C &amp; C infrastructure</td>
+    <td style="width:10%">C &amp; C infrastructure</td>
     <td> ? </td>
     <td>Pegasus Anonymizing Transmission Network, up to 500 domains, DNS servers and others, to hide easy detection of traffic; on most platforms ability to self-destruct after 60 days of no connection, or after detecting non-target SIM card</td>
     <td>No remote infrastructure is required, unless Drive Badger is weaponized using 3rd party exploit(s). As for local infrastructure:</br>
@@ -612,7 +612,7 @@ https://github.com/504ensicsLabs</br>
     https://drivebadger.com/mobile-recommended-hardware.html</br></td>
   </tr>
   <tr>
-    <td width="10%">Indicators of Compromise</td>
+    <td style="width:10%">Indicators of Compromise</td>
     <td>https://citizenlab.ca/2021/07/hooking-candiru-another-mercenary-spyware-vendor-comes-into-focus/</br></td>
     <td>https://github.com/AmnestyTech/investigations/tree/master/2021-07-18_nso</br>
     https://arkadiyt.com/2021/07/25/scanning-your-iphone-for-nso-group-pegasus-malware</br>
@@ -621,13 +621,13 @@ https://github.com/504ensicsLabs</br>
     https://securelist.com/new-finspy-ios-and-android-implants-revealed-itw/91685</br></td>
   </tr>
   <tr>
-    <td width="10%">More photos</td>
+    <td style="width:10%">More photos</td>
     <td>https://sekurak.pl/devilstongue-czyli-lepszy-pegasus-od-izraelskiej-firmy-candiru/#comment-96837</td>
     <td>https://niebezpiecznik.pl/post/jak-wyglada-rzadowy-trojan-pegasus-od-srodka</td>
     <td>https://drivebadger.com/history.html</td>
   </tr>
   <tr>
-    <td width="10%">Other materials</td>
+    <td style="width:10%">Other materials</td>
     <td>
     <a href="https://wiadomosci.radiozet.pl/Polska/Polityka/Pegasus-w-Polsce.-CBA-kupilo-potezne-oprogramowanie-szpiegowskie" target="_blank" rel="noopener noreferrer">https://wiadomosci.radiozet.pl/Polska/Polityka/Pegasus-w-Polsce.-CBA-kupilo-potezne-oprogramowanie-szpiegowskie</a></br>
     <a href="https://s3.documentcloud.org/documents/4599753/NSO-Pegasus.pdf" target="_blank" rel="noopener noreferrer">https://s3.documentcloud.org/documents/4599753/NSO-Pegasus.pdf</a></br>
