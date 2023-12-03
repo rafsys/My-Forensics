@@ -11,9 +11,11 @@
 
 <img src="https://latex.codecogs.com/svg.image?\huge&space;\mathbf{\texttt{DIGITAL&space;FORENSICS&space;AND&space;INCIDENT&space;RESPONSE&space;{\color{Orchid}(DFIR)}}}" title="\mathbf{\texttt{DIGITAL FORENSICS AND INCIDENT RESPONSE&space;{\color{Orchid}(DFIR)}}}" />
 
-<blockquote><h4>"These programs were never about terrorism: they're about economic spying, social control and diplomatic manipulation. They're about power." (Edward Snowden)</h4></blockquote>
+<blockquote><h3>"These programs were never about terrorism: they're about economic spying, social control and diplomatic manipulation. They're about power." (Edward Snowden)</h3></blockquote>
 
-<img style="float: center;" src=".data/ceci_nest_pas_une_pipe_1929_-_rene_magritte_830px.png">
+<div id="header" align="center">
+  <img src=".data/ceci_nest_pas_une_pipe_1929_-_rene_magritte_830px.png" width="830"/>
+</div>
 
 <!-- ################################################################################# -->
 <br>
@@ -42,6 +44,7 @@ https://github.com/ail-project/ail-training<br>
 https://isc2.org/Certifications/CISSP<br>
 https://github.com/connectans/awesome-CISSP-CCSP<br>
 https://github.com/jefferywmoore/CISSP-Study-Resources<br>
+https://github.com/Syslifters/OffSec-Reporting<br>
 https://attack.mitre.org<br>
 https://forensicfocus.com<br>
 https://ecrimeresearch.org<br>
@@ -69,6 +72,7 @@ https://github.com/504ensicsLabs<br>
 <!-- ################################################################################# -->
 <br>
 <hr>
+
 <h3>BASIC STRATEGY</h3>
 
 <table style="width: 100%" cellspacing="0" cellpadding="0">
@@ -102,11 +106,12 @@ https://github.com/504ensicsLabs<br>
 </tr>
 </tbody>
 </table>
+
 <!-- ################################################################################# -->
 <br>
 <hr>
-<h3>FORENSIC SUITES</h3>
 
+<h3>FORENSIC SUITES</h3>
 
 <table style="width: 100%" cellspacing="0" cellpadding="0">
 <thead>
@@ -321,6 +326,7 @@ https://github.com/504ensicsLabs<br>
  <b>LINUX</b><br>
  • Post-install remote functionalities<br>
  &#x2011; n/a <br>
+
  <b>ANDROID</b><br>
  • Installation and tracking method(s)<br>
  &#x2011; supported, there is a closed list of supported Android versions (4-9 as for 2020); documentation suggests that <br>
@@ -713,6 +719,7 @@ https://z3x-team.com<br>
 
 <h3>CRYPTOCURRENCIES ANALYSIS</h3>
 https://www.chainalysis.com<br>
+https://www.elliptic.co<br>
 https://www.blocksherlock.com/home/blockchain-explorers<br>
 https://github.com/demining/CryptoDeepTools<br>
 https://github.com/demining/bitcoindigger<br>
@@ -732,6 +739,8 @@ https://github.com/demining/Dao-Exploit<br>
 <h3>POLICE HACKING</h3>
 
 Visit our repo tree: <a href="https://github.com/RENANZG/My-Forensics/tree/main/4.POLICE_HACKING">4.POLICE_HACKING</a>
+
+![the_cyber_kill_chain](.data/the_cyber_kill_chain.png)
 
 <h3>LAW ENFORCEMENT AGENCY (LEA)</h3>
 
@@ -919,6 +928,42 @@ Visit our repo tree: <a href="https://github.com/RENANZG/My-Forensics/tree/main/
 </tbody>
 </table>
 
+
+<!-- ################################# -->
+
+<h4>• Private Agents and LEA</h4>
+
+<ul>
+<li><a href="https://www.nakedcapitalism.com/2019/02/reverse-location-search-warrant-a-new-personal-data-hoovering-exercise-brought-to-you-by-google.html">“Reverse Location Search Warrant”: A New Personal Data Hoovering Exercise Brought to You by Google (2019)</a></li>
+<li><a href="https://www.nakedcapitalism.com/2021/07/as-un-human-rights-chief-urges-stricter-rules-snowden-calls-for-end-to-spyware-trade.html">As UN Human Rights Chief Urges Stricter Rules, Snowden Calls for End to Spyware Trade (2021)</a></li>
+</ul>
+
+<!-- ################################# -->
+
+<h4>• Liability for Contents</h4>
+
+<ul>
+<li><a href="https://startyourownisp.com/">How to start your own ISP</a></li>
+<li><a href="https://i.imgur.com/3fHyG2S.png">Where are torrents permitted?</a></li>
+<li><a href="http://www.ukispcourtorders.co.uk/">UK ISP Court Orders</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Web_Sheriff">Web Sheriff</a></li>
+<li><a href="https://www.theverge.com/2020/1/31/21116788/earn-it-act-section-230-lindsey-graham-draft-bill-encryption">A new bill could punish web platforms for using end-to-end encryption</a></li>
+<li><a href="https://www.polygon.com/2019/9/19/20874384/french-court-steam-valve-used-games-eu-law">French court rules that Steam’s ban on reselling used games is contrary to European law</a></li>
+<li><a href="https://www.theguardian.com/media/2019/mar/26/meps-approve-sweeping-changes-to-copyright-law-european-copyright-directive">MEPs approve sweeping changes to copyright law</a></li>
+<li><a href="https://www.lifewire.com/legalities-of-linking-3468972">The Legalities of Linking</a></li>
+<li><a href="https://klarislaw.com/wp-content/uploads/klarislaw-copyright-liability-for-linking-and-embedding.pdf">COPYRIGHT LIABILITY FOR LINKING AND EMBEDDING &#x2011; Klaris Law (.PDF)</a></li>
+<li><a href="https://www.engadget.com/2016/04/08/eu-court-linking-copyrighted-content-is-legal/">EU court says linking to copyrighted material isn&#39;t illegal</a></li>
+<li><a href="https://torrentfreak.com/ip-address-is-not-enough-to-identify-pirate-us-court-of-appeals-rules-180828/">IP Address is Not Enough to Identify Pirate, US Court of Appeals Rules</a> &#x2011; (<a href="https://cdn.ca9.uscourts.gov/datastore/opinions/2018/08/27/17-35041.pdf">.PDF</a>)</li>
+<li><a href="https://torrentfreak.com/new-eu-piracy-watchlist-targets-key-pirate-sites-and-cloudflare-181210/">New EU Piracy Watchlist Targets Key Pirate Sites and Cloudflare</a> &#x2011; (<a href="https://torrentfreak.com/images/tradoc_157564.pdf">.PDF</a>)</li>
+<li><a href="https://torrentfreak.com/domain-registrar-can-be-held-liable-for-pirate-site-court-rules-181224/">Domain Registrar Can be Held Liable for Pirate Site, Court Rules</a></li>
+<li><a href="https://torrentfreak.com/reporting-when-pirate-releases-hit-the-internet-is-apparently-illegal-now-190101/">Reporting When Pirate Releases Hit The Internet is Apparently Illegal Now</a></li>
+<li><a href="https://torrentfreak.com/swiss-copyright-law-downloading-stays-legal-no-site-blocking/">Swiss Copyright Law: Downloading Stays Legal, No Site Blocking</a></li>
+<li><a href="https://en.wikipedia.org/wiki/List_of_websites_blocked_in_the_United_Kingdom">List of websites blocked in the United Kingdom</a></li>
+<li><a href="https://torrentfreak.com/major-us-isps-refuse-to-discuss-repeat-infringer-policies-190912/">Major US ISPs Refuse to Discuss Repeat Infringer Policies</a></li>
+<li><a href="https://arxiv.org/abs/1902.05796">Who Watches the Watchmen: Exploring Complaints on the Web</a></li>
+<li><a href="https://www.theregister.co.uk/2019/07/20/creative_content_piracy/">British ISPs throw in the towel, give up sending out toothless copyright infringement warnings</a></li>
+</ul>
+
 <!-- ################################# -->
 <hr>
 
@@ -945,7 +990,7 @@ https://attack.mitre.org/techniques/enterprise/<br>
 
 <h4>• Some Cases</h4>
 
-![1_dRthFvGk3zqARHOPzAymQQ](https://github.com/RENANZG/My-Forensics/assets/53377291/b347418d-dd76-4e0f-b075-e95db4817340)<br>
+![phones](.data/phones.png)<br>
 
 ∙ Omerta Digital (FBI Honey Pot?)<br>
 https://www.omertadigital.com/<br>
@@ -987,6 +1032,9 @@ https://www.youtube.com/watch?v=sNYsfUNegEA<br>
 https://www.youtube.com/watch?v=6JJo8qCYE8M<br>
 <br>
 
+<!-- ############################################################################### -->
+<hr>
+
 <h4>• Tor Browser Fingerprint</h4>
 ∙ TOR Fingerprinting &#x2011; https://blog.torproject.org/browser-fingerprinting-introduction-and-challenges-ahead<br>
 ∙ Attacks on Tor &#x2011; https://github.com/Attacks-on-Tor/Attacks-on-Tor<br>
@@ -1011,42 +1059,6 @@ https://www.youtube.com/watch?v=6JJo8qCYE8M<br>
 ∙ https://github.com/andreafortuna/MITMInjector<br>
 ∙ https://github.com/jakev/mitm-helper-wifi<br>
 ∙ https://github.com/jakev/mitm-helper-vpn<br>
-
-<!-- ################################# -->
-
-<h4>• Private Agents and LEA</h4>
-
-<ul>
-<li><a href="https://www.nakedcapitalism.com/2019/02/reverse-location-search-warrant-a-new-personal-data-hoovering-exercise-brought-to-you-by-google.html">“Reverse Location Search Warrant”: A New Personal Data Hoovering Exercise Brought to You by Google (2019)</a></li>
-<li><a href="https://www.nakedcapitalism.com/2021/07/as-un-human-rights-chief-urges-stricter-rules-snowden-calls-for-end-to-spyware-trade.html">As UN Human Rights Chief Urges Stricter Rules, Snowden Calls for End to Spyware Trade (2021)</a></li>
-</ul>
-
-<!-- ################################# -->
-
-<h4>• Liability for Contents</h4>
-
-<ul>
-<li><a href="https://startyourownisp.com/">How to start your own ISP</a></li>
-<li><a href="https://i.imgur.com/3fHyG2S.png">Where are torrents permitted?</a></li>
-<li><a href="http://www.ukispcourtorders.co.uk/">UK ISP Court Orders</a></li>
-<li><a href="https://en.wikipedia.org/wiki/Web_Sheriff">Web Sheriff</a></li>
-<li><a href="https://www.theverge.com/2020/1/31/21116788/earn-it-act-section-230-lindsey-graham-draft-bill-encryption">A new bill could punish web platforms for using end-to-end encryption</a></li>
-<li><a href="https://www.polygon.com/2019/9/19/20874384/french-court-steam-valve-used-games-eu-law">French court rules that Steam’s ban on reselling used games is contrary to European law</a></li>
-<li><a href="https://www.theguardian.com/media/2019/mar/26/meps-approve-sweeping-changes-to-copyright-law-european-copyright-directive">MEPs approve sweeping changes to copyright law</a></li>
-<li><a href="https://www.lifewire.com/legalities-of-linking-3468972">The Legalities of Linking</a></li>
-<li><a href="https://klarislaw.com/wp-content/uploads/klarislaw-copyright-liability-for-linking-and-embedding.pdf">COPYRIGHT LIABILITY FOR LINKING AND EMBEDDING &#x2011; Klaris Law (.PDF)</a></li>
-<li><a href="https://www.engadget.com/2016/04/08/eu-court-linking-copyrighted-content-is-legal/">EU court says linking to copyrighted material isn&#39;t illegal</a></li>
-<li><a href="https://torrentfreak.com/ip-address-is-not-enough-to-identify-pirate-us-court-of-appeals-rules-180828/">IP Address is Not Enough to Identify Pirate, US Court of Appeals Rules</a> &#x2011; (<a href="https://cdn.ca9.uscourts.gov/datastore/opinions/2018/08/27/17-35041.pdf">.PDF</a>)</li>
-<li><a href="https://torrentfreak.com/new-eu-piracy-watchlist-targets-key-pirate-sites-and-cloudflare-181210/">New EU Piracy Watchlist Targets Key Pirate Sites and Cloudflare</a> &#x2011; (<a href="https://torrentfreak.com/images/tradoc_157564.pdf">.PDF</a>)</li>
-<li><a href="https://torrentfreak.com/domain-registrar-can-be-held-liable-for-pirate-site-court-rules-181224/">Domain Registrar Can be Held Liable for Pirate Site, Court Rules</a></li>
-<li><a href="https://torrentfreak.com/reporting-when-pirate-releases-hit-the-internet-is-apparently-illegal-now-190101/">Reporting When Pirate Releases Hit The Internet is Apparently Illegal Now</a></li>
-<li><a href="https://torrentfreak.com/swiss-copyright-law-downloading-stays-legal-no-site-blocking/">Swiss Copyright Law: Downloading Stays Legal, No Site Blocking</a></li>
-<li><a href="https://en.wikipedia.org/wiki/List_of_websites_blocked_in_the_United_Kingdom">List of websites blocked in the United Kingdom</a></li>
-<li><a href="https://torrentfreak.com/major-us-isps-refuse-to-discuss-repeat-infringer-policies-190912/">Major US ISPs Refuse to Discuss Repeat Infringer Policies</a></li>
-<li><a href="https://arxiv.org/abs/1902.05796">Who Watches the Watchmen: Exploring Complaints on the Web</a></li>
-<li><a href="https://www.theregister.co.uk/2019/07/20/creative_content_piracy/">British ISPs throw in the towel, give up sending out toothless copyright infringement warnings</a></li>
-</ul>
-
 
 <!-- ################################# -->
 
@@ -1461,8 +1473,8 @@ Security Payload (ESP) and Authentication Header (AH)</a></li>
 <li><a href="https://www.forensicscijournal.com">https://www.forensicscijournal.com</a></li>
 <li><a href="https://www.hackthebox.com">https://www.hackthebox.com</a></li>
 <li><a href="https://www.hackerone">https://www.hackerone</a></li>
-<li><a href="https://www.htcia.org">https://www.htcia.org</a></li>
 <li><a href="https://www.hackread.com">https://www.hackread.com</a></li>
+<li><a href="https://www.htcia.org">https://www.htcia.org</a></li>
 <li><a href="https://www.osforensics.com">https://www.osforensics.com</a></li>
 <li><a href="https://www.magnetforensics.com">https://www.magnetforensics.com</a></li>
 <li><a href="https://www.exterro.com/ftk-product-downloads/how-to-run-ftk-imager-from-a-flash-drive-imager-lite">FTK Lite</a><br>
@@ -1470,11 +1482,12 @@ Security Payload (ESP) and Authentication Header (AH)</a></li>
 <li><a href="http://www.cert.org/archive/pdf/Botnets.pdf">Botnets as a Vehicle for Online Crime</a> &#x2011; CERT </li>
 <li><a href="https://www.security-audit.com/">Security Audit</a></li>
 <li><a href="http://www.sans.org/">SANS Institute</a></li>
-<li><a href="http://www.cerias.purdue.edu">COAST Hotlist: Computer Security, Law and Privacy</a> &#x2011; CERIAS, Purdue University</li>
 <li><a href="http://isc.sans.org/">Internet Storm Center</a> &#x2011; SANS Institute</li>
+<li><a href="http://www.cerias.purdue.edu">COAST Hotlist: Computer Security, Law and Privacy</a> &#x2011; CERIAS, Purdue University</li>
 </ul>
 </ul>
 </details>
+
 <!-- ************************************************************ -->
 
 <details>
@@ -1494,9 +1507,9 @@ https://www.necessaryandproportionate.org<br>
 https://www.nowsecure.com<br>
 https://www.reddit.com/r/InfoSecNews<br>
 https://www.reddit.com/r/digitalforensics<br>
-https://www.reddit.com/r/computerforensics/
-https://www.reddit.com/r/antiforensics/
-https://www.reddit.com/r/Smartphoneforensics/
+https://www.reddit.com/r/computerforensics<br>
+https://www.reddit.com/r/antiforensics<br>
+https://www.reddit.com/r/Smartphoneforensics<br>
 https://github.com/yeahhub/Hacking-Security-Ebooks<br>
 https://github.com/InfoSecIITR/reading-material<br>
 </details>
@@ -1523,11 +1536,18 @@ https://scholar.google.com/scholar_alerts?view_op=list_alerts&hl=en-US<br>
 <details>
 <summary><b>Papers (open acess journals)</b></summary>
 <br>
-• Make a Google Scholar search from an interesting subject that you want to follow up on.<br>
-• Search paramters example: <br>
+<p>• Make a Google Scholar search from an interesting subject that you want to follow up on.</p>
+
+<p>• Search paramters example:</p>
+
 <pre>police hacking intext:ilegal intext:abusive intext:law</pre>
-• You could set keywords alerts: https://scholar.google.com/scholar_alerts?view_op=list_alerts<br>
-/• Science Direct &#x2011; Forensic Science International: Digital Investigation<br><hr>https://www.sciencedirect.com/journal/forensic-science-international-digital-investigation<br>
+
+<p>• You could set keywords alerts: https://scholar.google.com/scholar_alerts?view_op=list_alerts</p>
+
+<hr>
+
+• Science Direct &#x2011; Forensic Science International: Digital Investigation<br>
+https://www.sciencedirect.com/journal/forensic-science-international-digital-investigation<br>
 • Science Direct &#x2011; Computer Law & Security Review<br>
 https://www.sciencedirect.com/journal/computer-law-and-security-review<br>
 • Forensic Science &#x2011; Application of science to criminal and civil laws<br>
