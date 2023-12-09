@@ -1269,7 +1269,7 @@ $ sudo grgsm_livemon    # Live radio scanning.
 <hr>
 
 <details>
-<summary>${\color{Yellow}\textbf{BRUTE FORCE ATTACKS}}$</summary>
+<summary>${\color{Green}\textbf{BRUTE FORCE ATTACKS}}$</summary>
 <br>
 
 <p>The speed at which your password is cracked depends on the entropy of your password and the power of the computer.
