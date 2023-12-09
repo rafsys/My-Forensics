@@ -1280,11 +1280,11 @@ $ sudo grgsm_livemon    # Live radio scanning.
 
 <p>Complex sheet:</p>
 
-<img src="/.data/Password_Brute_Foce_Strenght_Table.png" align="center"/>
+<img src="https://github.com/RENANZG/My-Forensics/blob/main/.data/Password_Brute_Foce_Strenght_Table.png" align="center"/>
 
 <p>Simplified sheet:</p>
 
-<img src=".data/Password_Brute_Foce_Strenght_Table_(2023).png" align="center"/>
+<img src="https://github.com/RENANZG/My-Forensics/blob/main/.data/Password_Brute_Foce_Strenght_Table_(2023).png" align="center"/>
 
 
 <p>Types of brute force attacks</p>
