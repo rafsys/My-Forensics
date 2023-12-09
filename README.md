@@ -17,7 +17,8 @@
   <img src=".data/ceci_nest_pas_une_pipe_1929_-_rene_magritte_830px.png" width="830"/>
 </div>
 
-<!-- ################################################################################# -->
+<!-- ################################## -->
+
 <br>
 <hr>
 
@@ -69,7 +70,8 @@ https://github.com/504ensicsLabs<br>
 </tbody>
 </table>
 
-<!-- ################################################################################# -->
+<!-- ################################## -->
+
 <br>
 <hr>
 
@@ -107,7 +109,7 @@ https://github.com/504ensicsLabs<br>
 </tbody>
 </table>
 
-<!-- ################################################################################# -->
+<!-- ################################## -->
 <br>
 <hr>
 
@@ -136,29 +138,30 @@ https://github.com/504ensicsLabs<br>
 • Eric Zimmerman's tools<br><a href="https://ericzimmerman.github.io/#!index.md">https://ericzimmerman.github.io/#!index.md</a><br>
 • Mobile Verification Toolkit (MVT)<br><a href="https://docs.mvt.re/en/latest">https://docs.mvt.re/en/latest</a><br>
 • Drive Badger<br><a href="https://drivebadger.com">https://drivebadger.com</a><br>
-• Paladin ® (Freeware)<br><a href="https://sumuri.com/product/paladin-lts/">https://sumuri.com/software/paladin/</a><br>
-• NirSoft ® (Freeware)<br><a href="https://www.nirsoft.net/computer_forensic_software.html">https://www.nirsoft.net</a><br>
-• MiTeC ® (Freeware)<br><a href="https://www.mitec.cz">https://www.mitec.cz</a><br>
-• Medusa Box ® (Easy J-TAG)<br> <a href="https://medusabox.com/">https://medusabox.com</a><br> ╰┈➤<a href="https://medusabox.com/eng/features/features">Models Features</a><br> ╰┈➤<a href="https://aliexpress.com/w/wholesale-medusa-box.html">Aliexpress</a><br>
-• Octoplus Box ® (Easy J-TAG)<br><a href="https://octoplusbox.com">https://octoplusbox.com</a><br> ╰┈➤<a href="https://octoplusbox.com/en/features/models/">Models Features</a><br> ╰┈➤<a href="https://www.aliexpress.com/w/wholesale-octoplus-box.html">Aliexpress</a><br>
+• Paladin® (Freeware)<br><a href="https://sumuri.com/product/paladin-lts/">https://sumuri.com/software/paladin/</a><br>
+• NirSoft® (Freeware)<br><a href="https://www.nirsoft.net/computer_forensic_software.html">https://www.nirsoft.net</a><br>
+• MiTeC® (Freeware)<br><a href="https://www.mitec.cz">https://www.mitec.cz</a><br>
+• Medusa Box® (Easy J-TAG)<br> <a href="https://medusabox.com/">https://medusabox.com</a><br> ╰┈➤<a href="https://medusabox.com/eng/features/features">Models Features</a><br> ╰┈➤<a href="https://aliexpress.com/w/wholesale-medusa-box.html">Aliexpress</a><br>
+• Octoplus Box® (Easy J-TAG)<br><a href="https://octoplusbox.com">https://octoplusbox.com</a><br> ╰┈➤<a href="https://octoplusbox.com/en/features/models/">Models Features</a><br> ╰┈➤<a href="https://www.aliexpress.com/w/wholesale-octoplus-box.html">Aliexpress</a><br>
 </td>
 <td align="left" valign="top" style="width: 50%;">
-• Cellebrite ®<br><a href="https://cellebrite.com/" target="_blank" rel="noopener noreferrer">https://cellebrite.com</a><br>
-• NSO Group ®<br><a href="https://www.nsogroup.com/" target="_blank" rel="noopener noreferrer">https://www.nsogroup.com</a><br>
-• Cognyte ®<br><a href="https://www.cognyte.com/" target="_blank" rel="noopener noreferrer">https://www.cognyte.com</a><br>
-• Oxygen Forensic ®<br><a href="https://oxygen-forensic.wedatasolution.com/" target="_blank" rel="noopener noreferrer">https://oxygen-forensic.wedatasolution.com</a><br>
-• MSAB ®<br><a href="https://www.msab.com/" target="_blank" rel="noopener noreferrer">https://www.msab.com</a><br>
-• GMDSOFT ®<br><a href="https://www.gmdsoft.com/" target="_blank" rel="noopener noreferrer">https://www.gmdsoft.com</a><br>• Forensic Toolkit (FTK) ® <br><a href="https://www.exterro.com/forensic-toolkit" target="_blank" rel="noopener noreferrer">https://www.exterro.com/forensic-toolkit</a><br>
-• Verint Systems ®<br><a href="https://www.verint.com/" target="_blank" rel="noopener noreferrer">https://www.verint.com</a><br>
-• Cyber Arm ®<br><a href="https://cyber-arm.com/services" target="_blank" rel="noopener noreferrer">https://cyber-arm.com/services</a><br>
-• Cobalt Strike ®<br><a href="https://www.cobaltstrike.com" target="_blank" rel="noopener noreferrer">https://www.cobaltstrike.com</a><br>
-• Lumi Networks ®<br><a href="https://www.lumi.network" target="_blank" rel="noopener noreferrer">https://www.lumi.network</a><br>
-• Lockheed Martin ®<br><a href="https://www.lockheedmartin.com" target="_blank" rel="noopener noreferrer">https://www.lockheedmartin.com/</a><br>
-• MOBILedit ®<br><a href="https://www.mobiledit.com/mobiledit-forensic" target="_blank" rel="noopener noreferrer">https://www.mobiledit.com</a><br>
-• Magnet Forensic ®<br><a href="https://www.magnetforensics.com/" target="_blank" rel="noopener noreferrer">https://www.magnetforensics.com</a><br>
-• Crowd Strike ®<br><a href="https://www.crowdstrike.com" target="_blank" rel="noopener noreferrer">https://www.crowdstrike.com</a><br>
-• Binalyze ®<br><a href="https://www.binalyze.com" target="_blank" rel="noopener noreferrer">https://www.binalyze.com</a><br>
-• Thorn's Safer ®<br><a href="https://www.thorn.org/" target="_blank" rel="noopener noreferrer">https://www.thorn.org</a><br>
+• Cellebrite®<br><a href="https://cellebrite.com/" target="_blank" rel="noopener noreferrer">https://cellebrite.com</a><br>
+• NSO Group®<br><a href="https://www.nsogroup.com/" target="_blank" rel="noopener noreferrer">https://www.nsogroup.com</a><br>
+• Cognyte®<br><a href="https://www.cognyte.com/" target="_blank" rel="noopener noreferrer">https://www.cognyte.com</a><br>
+• BriefCam®<br><a href="https://www.briefcam.com/" target="_blank" rel="noopener noreferrer">https://www.briefcam.com/</a><br>
+• Oxygen Forensic®<br><a href="https://oxygen-forensic.wedatasolution.com/" target="_blank" rel="noopener noreferrer">https://oxygen-forensic.wedatasolution.com</a><br>
+• MSAB®<br><a href="https://www.msab.com/" target="_blank" rel="noopener noreferrer">https://www.msab.com</a><br>
+• GMDSOFT®<br><a href="https://www.gmdsoft.com/" target="_blank" rel="noopener noreferrer">https://www.gmdsoft.com</a><br>• Forensic Toolkit (FTK)® <br><a href="https://www.exterro.com/forensic-toolkit" target="_blank" rel="noopener noreferrer">https://www.exterro.com/forensic-toolkit</a><br>
+• Verint Systems®<br><a href="https://www.verint.com/" target="_blank" rel="noopener noreferrer">https://www.verint.com</a><br>
+• Cyber Arm®<br><a href="https://cyber-arm.com/services" target="_blank" rel="noopener noreferrer">https://cyber-arm.com/services</a><br>
+• Cobalt Strike®<br><a href="https://www.cobaltstrike.com" target="_blank" rel="noopener noreferrer">https://www.cobaltstrike.com</a><br>
+• Lumi Networks®<br><a href="https://www.lumi.network" target="_blank" rel="noopener noreferrer">https://www.lumi.network</a><br>
+• Lockheed Martin®<br><a href="https://www.lockheedmartin.com" target="_blank" rel="noopener noreferrer">https://www.lockheedmartin.com/</a><br>
+• MOBILedit®<br><a href="https://www.mobiledit.com/mobiledit-forensic" target="_blank" rel="noopener noreferrer">https://www.mobiledit.com</a><br>
+• Magnet Forensic®<br><a href="https://www.magnetforensics.com/" target="_blank" rel="noopener noreferrer">https://www.magnetforensics.com</a><br>
+• Crowd Strike®<br><a href="https://www.crowdstrike.com" target="_blank" rel="noopener noreferrer">https://www.crowdstrike.com</a><br>
+• Binalyze®<br><a href="https://www.binalyze.com" target="_blank" rel="noopener noreferrer">https://www.binalyze.com</a><br>
+• Thorn's Safer®<br><a href="https://www.thorn.org/" target="_blank" rel="noopener noreferrer">https://www.thorn.org</a><br>
 </td>
 </tr>
 </tbody>
@@ -191,7 +194,8 @@ https://github.com/504ensicsLabs<br>
 <p>https://ppee.unb.br/wp-content/uploads/2020/12/Artigo_Claudinei-Morim.pdf</p>
 </sub>
 
-<!-- ################################################################################# -->
+<!-- ################################## -->
+
 <br>
 <hr>
 
@@ -203,8 +207,8 @@ https://github.com/504ensicsLabs<br>
 <tbody valign="top">
 <tr>
  <td style="width:7%"><b>PRODUCT KNOWN AS</b></td>
- <td style="width:31%">• DevilsTongue<br>• Sourgum<br></td>
- <td style="width:31%">• Pegasus</td>
+ <td style="width:31%">• Devils Tongue<br>• Sourgum<br></td>
+ <td style="width:31%">• Pegasus Spyware</td>
  <td style="width:31%">• Drive Badger<br>• Funkcjonariusz<br></td>
 </tr>
 <tr>
@@ -586,7 +590,8 @@ https://github.com/504ensicsLabs<br>
 </tbody>
 </table>
 
-<!-- ################################################################################# -->
+<!-- ################################## -->
+
 <br>
 <hr>
 
@@ -630,7 +635,8 @@ https://github.com/504ensicsLabs<br>
 </tbody>
 </table>
 
-<!-- ################################################################################# -->
+<!-- ################################## -->
+
 <br>
 <hr>
 
@@ -714,13 +720,14 @@ https://www.gillware.com/phone-data-recovery-services/chip-off-forensics-service
 https://octoplusbox.com<br>
 https://medusabox.com<br>
 https://www.riffbox.org<br>
-https://easy-jtag.com <br>
+https://easy-jtag.com<br>
 https://z3x-team.com<br>
 
 <h3>CRYPTOCURRENCIES ANALYSIS</h3>
 https://www.chainalysis.com<br>
 https://www.elliptic.co<br>
 https://www.blocksherlock.com/home/blockchain-explorers<br>
+https://github.com/immunefi-team/Web3-Security-Library<br>
 https://github.com/demining/CryptoDeepTools<br>
 https://github.com/demining/bitcoindigger<br>
 https://github.com/demining/Dao-Exploit<br>
@@ -728,7 +735,8 @@ https://github.com/demining/Dao-Exploit<br>
 
 </details>
 
-<!-- ################################################################################# -->
+<!-- ################################## -->
+
 <hr>
 
 <details>
@@ -1057,6 +1065,7 @@ https://www.youtube.com/watch?v=6JJo8qCYE8M<br>
 
 <h4>• Man-In-The-Middle</h4>
 ∙ https://github.com/andreafortuna/MITMInjector<br>
+∙ https://github.com/KoreLogicSecurity/wmkick<br>
 ∙ https://github.com/jakev/mitm-helper-wifi<br>
 ∙ https://github.com/jakev/mitm-helper-vpn<br>
 
@@ -1256,7 +1265,57 @@ $ sudo grgsm_livemon    # Live radio scanning.
 <br>
 </details>
 
-<!-- ################################################################################# -->
+<!-- ############################################################################### -->
+<hr>
+
+<details>
+<summary>${\color{Yellow}\textbf{BRUTE FORCE ATTACKS}}$</summary>
+<br>
+
+<p>The speed at which your password is cracked depends on the entropy of your password and the power of the computer.
+</p>
+
+<p>Computer programs used for brute force attacks can check anywhere from 10,000 to 1 billion passwords per second. A Pentium 100 can try 10.000 passwords a second. A supercomputer can try 1.000.000.000 per second.
+
+
+<p>Complex sheet:</p>
+
+<img src=".data/1_Password_Brute_Foce_Strenght_Table.png" width="100%" align="center"/>
+
+<p>Simplified sheet:</p>
+
+<img src=".data/2_Password_Brute_Foce_Strenght_Table_(2023).png" width="100%" align="center"/>
+
+
+<p>Types of brute force attacks</p>
+
+
+<h5>Simple Brute Force Attack</h5>
+<p>The attacker relies on trying out commonly used, weak passwords such as 123456, qwerty, admin, changeme, qazwsxedc etc.</p>
+
+<h5>Dictionary attack</h5>
+<p>Software that can make thousands of guesses every second using dictionary databases, hence the name of the attack.</p>
+
+<h5>Hybrid Brute Force Attack</h5>
+<p>A hybrid attack is utilized once the attacker already knows the username of its prey.</p>
+
+<h5>Reverse Brute Force Attack</h5>
+<p>A reverse brute force attack requires the attacker to know the password beforehand and then attempt to guess the username.</p>
+
+<h5>Credential stuffing</h5>
+<p>Hackers can get entire databases of stolen login credentials and then try to apply them to the account they’re trying to access. This kind of attack can be especially devastating if the attacked user reuses passwords across multiple accounts.</p>
+
+<h5>Rainbow Table Attack</h5>
+<p>A rainbow table attack is a method of password cracking that employs rainbow tables to break the password hashes in a database. Websites or apps don’t store passwords in plain text; instead, they encrypt passwords with hashes. Once the password is used for logging in, it is immediately converted to a hash. The next time the user logs in using their passwords, the server checks whether the password matches the previously created hash. If the two hashes match, the user is then authenticated. The tables used to store password hashes are known as rainbow tables.</p>
+
+
+<p>Set up MFA whenever possible, It's an extra layer of security that requires additional steps to verify the user's identity.</p>
+
+<br>
+</details>
+
+<!-- ################################## -->
+
 <hr>
 
 <details>
@@ -1487,6 +1546,7 @@ Security Payload (ESP) and Authentication Header (AH)</a></li>
 </ul>
 </ul>
 </details>
+
 
 <!-- ************************************************************ -->
 
