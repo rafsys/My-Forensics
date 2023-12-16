@@ -713,7 +713,7 @@ https://github.com/demining/Dao-Exploit<br>
 
 Visit our repo tree: <a href="https://github.com/RENANZG/My-Forensics/tree/main/4.POLICE_HACKING">4.POLICE_HACKING</a>
 
-<img src=".data/the_cyber_kill_chain.png" title="The Cyber Kill Chain">
+<img src="https://github.com/RENANZG/My-Forensics/blob/main/.data/the_cyber_kill_chain.png" title="The Cyber Kill Chain" style="width:100%">
 
 <h3>LAW ENFORCEMENT AGENCY (LEA)</h3>
 
@@ -1244,11 +1244,11 @@ $ sudo grgsm_livemon    # Live radio scanning.
 
 <p>Complex sheet:</p>
 
-<img src="https://github.com/RENANZG/My-Forensics/blob/main/.data/Password_Brute_Force_Strenght_Table.png" title="Password Brute Force Strenght">
+<img src="https://github.com/RENANZG/My-Forensics/blob/main/.data/Password_Brute_Force_Strenght_Table.png" title="Password Brute Force Strenght" style="width:100%">
 
 <p>Simplified sheet:</p>
 
-<img src="https://github.com/RENANZG/My-Forensics/blob/main/.data/Password_Brute_Force_Strenght_Table_2023.png" title="Password Brute Force Strenght">
+<img src="https://github.com/RENANZG/My-Forensics/blob/main/.data/Password_Brute_Force_Strenght_Table_2023.png" title="Password Brute Force Strenght" style="width:100%">
 
 <p>Types of brute force attacks</p>
 
@@ -1282,7 +1282,7 @@ $ sudo grgsm_livemon    # Live radio scanning.
 <hr>
 
 <details>
-<summary><b>Forensic Standards</b></summary>
+<summary><b>Standards</b></summary>
 <br>
 
 <p><b>NIST &#x2011; National Institute of Standards and Technology</b></p>
@@ -1482,7 +1482,7 @@ Security Payload (ESP) and Authentication Header (AH)</a></li>
 </details>
 
 <details>
-<summary><b>Resources and Sites of Interest</b></summary>
+<summary><b>Sites of Interest</b></summary>
 <br>
 <ul>
 <li><a href="https://www.cve.org">https://www.cve.org</a></li>
@@ -1533,7 +1533,7 @@ https://www.crime-research.org Computer Crime Research Center
 <!-- ################################# -->
 
 <details>
-<summary><b>Security publications</b></summary>
+<summary><b>Publications</b></summary>
 <br>
 • CVE Alerting Platform<br>
 https://github.com/opencve/opencve<br>
@@ -1670,7 +1670,7 @@ https://github.com/InfoSecIITR/reading-material<br>
 <!-- ################################ -->
 
 <details>
-<summary><b>YouTube Channels &#x2011; Conferences</b></summary>
+<summary><b>YouTube &#x2011; Conferences</b></summary>
 https://www.youtube.com/@BlackHatOfficialYT<br>
 https://www.youtube.com/@DEFCONConference<br>
 https://www.youtube.com/@DFRWS<br>
