@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang='en' class=''>
+<html lang='en'>
 
 <head>
 
@@ -7,68 +7,25 @@
 
 <body>
 
-<!-- ############################TAKE#OUT#MDFK#;D##################################### -->
+<div id="header">
 
 <img src="https://latex.codecogs.com/svg.image?\huge&space;\mathbf{\texttt{DIGITAL&space;FORENSICS&space;AND&space;INCIDENT&space;RESPONSE&space;{\color{Orchid}(DFIR)}}}" title="\mathbf{\texttt{DIGITAL FORENSICS AND INCIDENT RESPONSE&space;{\color{Orchid}(DFIR)}}}" />
 
 <blockquote><h3>"These programs were never about terrorism: they're about economic spying, social control and diplomatic manipulation. They're about power." (Edward Snowden)</h3></blockquote>
 
-<div id="header" align="center">
-  <img src=".data/ceci_nest_pas_une_pipe_1929_-_rene_magritte_830px.png" width="830"/>
+<img src=".data/the_treachery_of_images_1929_-_rene_magritte_830px.png" title="The Treachery of Images (1929) - René Magritte"/>
+
 </div>
+
+<hr>
 
 <!-- ################################## -->
 
 <br>
-<hr>
 
 ```diff
 - UNDER WORK -
 ```
-
-<h3>REFERENCES</h3>
-
-<table style="width:100%" cellspacing="0" cellpadding="0">
-<thead>
-  <tr>
-  </tr>
-</thead>
-<tbody> 
-<tr>
-<td valign="top" style="width:50%">
-https://dfrws.org/presentation<br>
-https://issworldtraining.com<br>
-https://sciencedirect.com/journal/forensic-science-international-digital-investigation<br>
-https://sciencedirect.com/journal/computer-law-and-security-review<br>
-https://github.com/MISP/misp-training<br>
-https://github.com/ail-project/ail-training<br>
-https://isc2.org/Certifications/CISSP<br>
-https://github.com/connectans/awesome-CISSP-CCSP<br>
-https://github.com/jefferywmoore/CISSP-Study-Resources<br>
-https://github.com/Syslifters/OffSec-Reporting<br>
-https://attack.mitre.org<br>
-https://forensicfocus.com<br>
-https://ecrimeresearch.org<br>
-https://drivebadger.com<br>
-https://cellebritelearningcenter.com<br>
-</td>
-<td valign="top" style="width:50%">
-https://github.com/Cugu/awesome-forensics<br>
-https://github.com/shadawck/awesome-anti-forensic<br>
-https://github.com/Ignitetechnologies/Mindmap<br>
-https://github.com/asiamina/A-Course-on-Digital-Forensics<br>
-https://github.com/mikeroyal/Digital-Forensics-Guide<br>
-https://github.com/forensicswiki/wiki<br>
-https://github.com/Digital-Forensics-Discord-Server/LawEnforcementResources<br>
-https://github.com/Digital-Forensics-Discord-Server/TheHitchhikersGuidetoDFIRExperiencesFromBeginnersandExperts<br>
-https://github.com/Hack-with-Github/Awesome-Hacking<br>
-https://github.com/enaqx/awesome-pentest<br>
-https://github.com/onlurking/awesome-infosec<br>
-https://github.com/504ensicsLabs<br>
-</td>
-</tr>
-</tbody>
-</table>
 
 <!-- ################################## -->
 
@@ -89,7 +46,7 @@ https://github.com/504ensicsLabs<br>
 </tr>
 <tr>
   <td align="center" valign="top">
-    <img src=".data/crime_triangle.png" alt="Image">
+    <img src=".data/crime_triangle.png" title="Crime Triangle">
   </td>
   <td align="left" valign="top">
     <p>
@@ -135,10 +92,12 @@ https://github.com/504ensicsLabs<br>
 • Avilla Forensics<br><a href="https://github.com/AvillaDaniel/AvillaForensics">https://github.com/AvillaDaniel/AvillaForensics</a><br>
 • IPED<br><a href="https://github.com/sepinf-inc/IPED">https://github.com/sepinf-inc/IPED</a><br>
 • Debian Forensics Package<br><a href="https://packages.debian.org/unstable/forensics-all">https://packages.debian.org/unstable/forensics-all</a><br>
-• Eric Zimmerman's tools<br><a href="https://ericzimmerman.github.io/#!index.md">https://ericzimmerman.github.io/#!index.md</a><br>
 • Mobile Verification Toolkit (MVT)<br><a href="https://docs.mvt.re/en/latest">https://docs.mvt.re/en/latest</a><br>
 • Drive Badger<br><a href="https://drivebadger.com">https://drivebadger.com</a><br>
+• Eric Zimmerman's tools (Freeware)<br><a href="https://ericzimmerman.github.io/#!index.md">https://ericzimmerman.github.io/#!index.md</a><br>
 • Paladin® (Freeware)<br><a href="https://sumuri.com/product/paladin-lts/">https://sumuri.com/software/paladin/</a><br>
+• Forensic Toolkit (FTK)® - Lite (Freeware) <br><a href="https://www.exterro.com/ftk-product-downloads/how-to-run-ftk-imager-from-a-flash-drive-imager-lite" target="_blank" rel="noopener noreferrer">https://www.exterro.com/forensic-toolkit</a><br>
+• Magnet Forensic® - Mobile Extractor (Freeware)<br><a href="https://www.magnetforensics.com/" target="_blank" rel="noopener noreferrer">https://www.magnetforensics.com</a><br>
 • NirSoft® (Freeware)<br><a href="https://www.nirsoft.net/computer_forensic_software.html">https://www.nirsoft.net</a><br>
 • MiTeC® (Freeware)<br><a href="https://www.mitec.cz">https://www.mitec.cz</a><br>
 • Medusa Box® (Easy J-TAG)<br> <a href="https://medusabox.com/">https://medusabox.com</a><br> ╰┈➤<a href="https://medusabox.com/eng/features/features">Models Features</a><br> ╰┈➤<a href="https://aliexpress.com/w/wholesale-medusa-box.html">Aliexpress</a><br>
@@ -149,16 +108,19 @@ https://github.com/504ensicsLabs<br>
 • NSO Group®<br><a href="https://www.nsogroup.com/" target="_blank" rel="noopener noreferrer">https://www.nsogroup.com</a><br>
 • Cognyte®<br><a href="https://www.cognyte.com/" target="_blank" rel="noopener noreferrer">https://www.cognyte.com</a><br>
 • BriefCam®<br><a href="https://www.briefcam.com/" target="_blank" rel="noopener noreferrer">https://www.briefcam.com/</a><br>
+• Forensic Toolkit (FTK)® <br><a href="https://www.exterro.com/forensic-toolkit" target="_blank" rel="noopener noreferrer">https://www.exterro.com/forensic-toolkit</a><br>
+• Magnet Forensic®<br><a href="https://www.magnetforensics.com/" target="_blank" rel="noopener noreferrer">https://www.magnetforensics.com</a><br>
+• Harpia Tech®<br><a href="https://harpia.tech/english.html" target="_blank" rel="noopener noreferrer">https://harpia.tech</a><br>
+• Visual Cortex®<br><a href="https://visualcortex.com/" target="_blank" rel="noopener noreferrer">https://visualcortex.com</a><br>
 • Oxygen Forensic®<br><a href="https://oxygen-forensic.wedatasolution.com/" target="_blank" rel="noopener noreferrer">https://oxygen-forensic.wedatasolution.com</a><br>
 • MSAB®<br><a href="https://www.msab.com/" target="_blank" rel="noopener noreferrer">https://www.msab.com</a><br>
-• GMDSOFT®<br><a href="https://www.gmdsoft.com/" target="_blank" rel="noopener noreferrer">https://www.gmdsoft.com</a><br>• Forensic Toolkit (FTK)® <br><a href="https://www.exterro.com/forensic-toolkit" target="_blank" rel="noopener noreferrer">https://www.exterro.com/forensic-toolkit</a><br>
+• GMDSOFT®<br><a href="https://www.gmdsoft.com/" target="_blank" rel="noopener noreferrer">https://www.gmdsoft.com</a><br>
 • Verint Systems®<br><a href="https://www.verint.com/" target="_blank" rel="noopener noreferrer">https://www.verint.com</a><br>
 • Cyber Arm®<br><a href="https://cyber-arm.com/services" target="_blank" rel="noopener noreferrer">https://cyber-arm.com/services</a><br>
 • Cobalt Strike®<br><a href="https://www.cobaltstrike.com" target="_blank" rel="noopener noreferrer">https://www.cobaltstrike.com</a><br>
 • Lumi Networks®<br><a href="https://www.lumi.network" target="_blank" rel="noopener noreferrer">https://www.lumi.network</a><br>
 • Lockheed Martin®<br><a href="https://www.lockheedmartin.com" target="_blank" rel="noopener noreferrer">https://www.lockheedmartin.com/</a><br>
 • MOBILedit®<br><a href="https://www.mobiledit.com/mobiledit-forensic" target="_blank" rel="noopener noreferrer">https://www.mobiledit.com</a><br>
-• Magnet Forensic®<br><a href="https://www.magnetforensics.com/" target="_blank" rel="noopener noreferrer">https://www.magnetforensics.com</a><br>
 • Crowd Strike®<br><a href="https://www.crowdstrike.com" target="_blank" rel="noopener noreferrer">https://www.crowdstrike.com</a><br>
 • Binalyze®<br><a href="https://www.binalyze.com" target="_blank" rel="noopener noreferrer">https://www.binalyze.com</a><br>
 • Thorn's Safer®<br><a href="https://www.thorn.org/" target="_blank" rel="noopener noreferrer">https://www.thorn.org</a><br>
@@ -177,6 +139,8 @@ https://github.com/504ensicsLabs<br>
 <p>https://www.zdnet.com/article/burn-drown-or-smash-your-phone-forensics-can-extract-data-anyway</p>
 <p>• How law enforcement gets around your smartphone’s encryption</p>
 <p>https://arstechnica.com/information-technology/2021/01/how-law-enforcement-gets-around-your-smartphones-encryption/</p>
+<p>• Researchers Find Way to Steal Encrypted Data - NYT</p>
+<p>https://www.nytimes.com/2008/02/22/technology/22chip.html</p>
 <p>• Cellphone data used to solve murder case from 2 years ago, police say</p>
 <p>https://www.youtube.com/watch?v=EmWsW_p_ta4</p>
 <p>• The Stingray: How Law Enforcement Can Track Your Every Move</p>
@@ -682,7 +646,7 @@ Visit our repo tree: <a href="https://github.com/RENANZG/My-Forensics/tree/main/
 <h4>Forensics</h4>
 
 <ul>
-<li><a href="http://www.sleuthkit.org/sleuthkit/">The Sleuth Kit (TSK)</a> &#x2011; collection of UNIX-based command line tools that allow you to investigate a computer.</li>
+<li><a href="https://www.sleuthkit.org/sleuthkit/">The Sleuth Kit (TSK)</a> &#x2011; collection of UNIX-based command line tools that allow you to investigate a computer.</li>
 <li><a href="https://github.com/sleuthkit/sleuthkit">The Sleuth Kit (TSK)</a>&#x2011; GitHub </li>
 <li><a href="https://www.autopsy.com">The Autopsy Forensic Browser</a></li>
 <li><a href="https://github.com/WerWolv/ImHex">ImHex</a>&#x2011; </li>
@@ -726,6 +690,7 @@ https://z3x-team.com<br>
 <h3>CRYPTOCURRENCIES ANALYSIS</h3>
 https://www.chainalysis.com<br>
 https://www.elliptic.co<br>
+https://ciphertrace.com<br>
 https://www.blocksherlock.com/home/blockchain-explorers<br>
 https://github.com/immunefi-team/Web3-Security-Library<br>
 https://github.com/demining/CryptoDeepTools<br>
@@ -748,7 +713,7 @@ https://github.com/demining/Dao-Exploit<br>
 
 Visit our repo tree: <a href="https://github.com/RENANZG/My-Forensics/tree/main/4.POLICE_HACKING">4.POLICE_HACKING</a>
 
-![the_cyber_kill_chain](.data/the_cyber_kill_chain.png)
+<img src=".data/the_cyber_kill_chain.png" width="830px"/>
 
 <h3>LAW ENFORCEMENT AGENCY (LEA)</h3>
 
@@ -953,7 +918,7 @@ Visit our repo tree: <a href="https://github.com/RENANZG/My-Forensics/tree/main/
 <ul>
 <li><a href="https://startyourownisp.com/">How to start your own ISP</a></li>
 <li><a href="https://i.imgur.com/3fHyG2S.png">Where are torrents permitted?</a></li>
-<li><a href="http://www.ukispcourtorders.co.uk/">UK ISP Court Orders</a></li>
+<li><a href="https://www.ukispcourtorders.co.uk/">UK ISP Court Orders</a></li>
 <li><a href="https://en.wikipedia.org/wiki/Web_Sheriff">Web Sheriff</a></li>
 <li><a href="https://www.theverge.com/2020/1/31/21116788/earn-it-act-section-230-lindsey-graham-draft-bill-encryption">A new bill could punish web platforms for using end-to-end encryption</a></li>
 <li><a href="https://www.polygon.com/2019/9/19/20874384/french-court-steam-valve-used-games-eu-law">French court rules that Steam’s ban on reselling used games is contrary to European law</a></li>
@@ -1096,8 +1061,8 @@ https://github.com/alphaSeclab/awesome-reverse-engineering<br>
 <h4>Social Engineering</h4>
 
 <ul>
-<li><a href="http://www.symantec.com/connect/articles/social-engineering-fundamentals-part-i-hacker-tactics"> Social Engineering Fundamentals, Part I: Hacker Tactics</a>, SecurityFocus</li>
-<li><a href="http://www.symantec.com/connect/articles/social-engineering-fundamentals-part-ii-combat-strategies"> Social Engineering Fundamentals, Part II: Combat Strategies</a>, SecurityFocus</li>
+<li><a href="https://www.symantec.com/connect/articles/social-engineering-fundamentals-part-i-hacker-tactics"> Social Engineering Fundamentals, Part I: Hacker Tactics</a>, SecurityFocus</li>
+<li><a href="https://www.symantec.com/connect/articles/social-engineering-fundamentals-part-ii-combat-strategies"> Social Engineering Fundamentals, Part II: Combat Strategies</a>, SecurityFocus</li>
 <li><a href="https://github.com/giuliacassara/awesome-social-engineering">Awesome Social Engineering &#x2011; GitHub</a></li>
 <li><a href="https://github.com/trustedsec/social-engineer-toolkit"> </a>Social Engineer Toolkit &#x2011; GitHub</li>
 
@@ -1182,7 +1147,7 @@ https://github.com/alphaSeclab/awesome-reverse-engineering<br>
 <h3>Useful Websites</h3>
 
 &#x2011; OpenCellID &#x2011; [Link](https://opencellid.org/)
-&#x2011; Cell Tower Locator (Cell2GPS) &#x2011; [Link](http://www.cell2gps.com/)
+&#x2011; Cell Tower Locator (Cell2GPS) &#x2011; [Link](https://www.cell2gps.com/)
 &#x2011; Cell Phone Trackers &#x2011; [Link](https://cellphonetrackers.org/)
 &#x2011; International Numbering Plans &#x2011; [Link](https://www.numberingplans.com/)
 &#x2011; GSM World Coverage Map and GSM Country List &#x2011; [Link](https://www.worldtimezone.com/gsm.html)
@@ -1280,11 +1245,11 @@ $ sudo grgsm_livemon    # Live radio scanning.
 
 <p>Complex sheet:</p>
 
-<img src="https://github.com/RENANZG/My-Forensics/blob/main/.data/Password_Brute_Foce_Strenght_Table.png" align="center"/>
+<img src=".data/Password_Brute_Foce_Strenght_Table.png" width="830px" align="center"/>
 
 <p>Simplified sheet:</p>
 
-<img src="https://github.com/RENANZG/My-Forensics/blob/main/.data/Password_Brute_Foce_Strenght_Table_(2023).png" align="center"/>
+<img src=".data/Password_Brute_Foce_Strenght_Table_(2023).png" width="830px" align="center"/>
 
 
 <p>Types of brute force attacks</p>
@@ -1393,127 +1358,127 @@ Information security, cybersecurity and privacy protection &#x2011; https://www.
 <p><b>Best Current Practices (BCP)</b></p>
 
 <ul>
- <li><a href="http://www.ietf.org/rfc/rfc1918.txt"> RFC 1918 / BCP 5: Address Allocation for Private Internets</a></li>
- <li><a href="http://www.ietf.org/rfc/rfc2350.txt"> RFC 2350 / BCP 21: Expectations for Computer Security Incident Response</a></li>
- <li><a href="http://www.ietf.org/rfc/rfc2505.txt"> RFC 2505 / BCP 30: Anti-Spam Recommendations for SMTP MTAs</a></li>
- <li><a href="http://www.ietf.org/rfc/rfc2644.txt"> RFC 2644 / BCP 34: Changing the Default for Directed Broadcasts in Routers</a></li>
- <li><a href="http://www.ietf.org/rfc/rfc2827.txt"> RFC 2827 / BCP 38: Network Ingress Filtering: Defeating Denial of Service Attacks which employ IP Source Address Spoofing</a></li>
- <li><a href="http://www.ietf.org/rfc/rfc3013.txt"> RFC 3013 / BCP 46: Recommended Internet Service Provider Security Services and Procedures</a></li>
- <li><a href="http://www.ietf.org/rfc/rfc3227.txt"> RFC 3227 / BCP 55: Guidelines for Evidence Collection and Archiving</a></li>
- <li><a href="http://www.ietf.org/rfc/rfc3360.txt"> RFC 3360 / BCP 60: Inappropriate TCP Resets Considered Harmful</a></li>
- <li><a href="http://www.ietf.org/rfc/rfc3365.txt"> RFC 3365 / BCP 61: Strong Security Requirements for Internet Engineering Task Force Standard Protocols</a></li>
- <li><a href="http://www.ietf.org/rfc/rfc4086.txt"> RFC 4086 / BCP 106: Randomness Requirements for Security</a></li>
- <li><a href="http://www.ietf.org/rfc/rfc4107.txt"> RFC 4107 / BCP 107: Guidelines for Cryptographic Key Management</a></li>
- <li><a href="http://www.ietf.org/rfc/rfc5068.txt"> RFC 5068 / BCP 134: Email Submission Operations: Access and
+ <li><a href="https://www.ietf.org/rfc/rfc1918.txt"> RFC 1918 / BCP 5: Address Allocation for Private Internets</a></li>
+ <li><a href="https://www.ietf.org/rfc/rfc2350.txt"> RFC 2350 / BCP 21: Expectations for Computer Security Incident Response</a></li>
+ <li><a href="https://www.ietf.org/rfc/rfc2505.txt"> RFC 2505 / BCP 30: Anti-Spam Recommendations for SMTP MTAs</a></li>
+ <li><a href="https://www.ietf.org/rfc/rfc2644.txt"> RFC 2644 / BCP 34: Changing the Default for Directed Broadcasts in Routers</a></li>
+ <li><a href="https://www.ietf.org/rfc/rfc2827.txt"> RFC 2827 / BCP 38: Network Ingress Filtering: Defeating Denial of Service Attacks which employ IP Source Address Spoofing</a></li>
+ <li><a href="https://www.ietf.org/rfc/rfc3013.txt"> RFC 3013 / BCP 46: Recommended Internet Service Provider Security Services and Procedures</a></li>
+ <li><a href="https://www.ietf.org/rfc/rfc3227.txt"> RFC 3227 / BCP 55: Guidelines for Evidence Collection and Archiving</a></li>
+ <li><a href="https://www.ietf.org/rfc/rfc3360.txt"> RFC 3360 / BCP 60: Inappropriate TCP Resets Considered Harmful</a></li>
+ <li><a href="https://www.ietf.org/rfc/rfc3365.txt"> RFC 3365 / BCP 61: Strong Security Requirements for Internet Engineering Task Force Standard Protocols</a></li>
+ <li><a href="https://www.ietf.org/rfc/rfc4086.txt"> RFC 4086 / BCP 106: Randomness Requirements for Security</a></li>
+ <li><a href="https://www.ietf.org/rfc/rfc4107.txt"> RFC 4107 / BCP 107: Guidelines for Cryptographic Key Management</a></li>
+ <li><a href="https://www.ietf.org/rfc/rfc5068.txt"> RFC 5068 / BCP 134: Email Submission Operations: Access and
 Accountability Requirements</a></li>
-<li><a href="http://www.ietf.org/rfc/rfc5358.txt">RFC 5358 / BCP 140: Preventing Use of Recursive Nameservers in Reflector Attacks</a></li>
-<li><a href="http://www.ietf.org/rfc/rfc5406.txt">RFC 5406 / BCP 146: Guidelines for Specifying the Use of IPsec Version 2</a></li>
+<li><a href="https://www.ietf.org/rfc/rfc5358.txt">RFC 5358 / BCP 140: Preventing Use of Recursive Nameservers in Reflector Attacks</a></li>
+<li><a href="https://www.ietf.org/rfc/rfc5406.txt">RFC 5406 / BCP 146: Guidelines for Specifying the Use of IPsec Version 2</a></li>
 </ul>
 
 <p><b>Standards</b></p>
 
 <ul>
-<li><a href="http://www.ietf.org/rfc/rfc2142.txt"> RFC 2142: Mailbox Names for Common Services, Roles and Functions</a></li>
-<li><a href="http://www.ietf.org/rfc/rfc2246.txt"> RFC 2246: The TLS Protocol  Version 1.0</a></li>
-<li><a href="http://www.ietf.org/rfc/rfc2554.txt"> RFC 2554: SMTP Service Extension for Authentication</a></li>
-<li><a href="http://www.ietf.org/rfc/rfc3168.txt"> RFC 3168: The Addition of Explicit Congestion Notification (ECN) to IP</a></li>
-<li><a href="http://www.ietf.org/rfc/rfc3207.txt"> RFC 3207: SMTP Service Extension for Secure SMTP over Transport Layer Security</a></li>
-<li><a href="http://www.ietf.org/rfc/rfc3369.txt"> RFC 3369: Cryptographic Message Syntax (CMS)</a></li>
-<li><a href="http://www.ietf.org/rfc/rfc3370.txt"> RFC 3370: Cryptographic Message Syntax (CMS) Algorithms</a></li>
-<li><a href="http://www.ietf.org/rfc/rfc3834.txt"> RFC 3834: Recommendations for Automatic Responses to Electronic Mail</a></li>
-<li><a href="http://www.ietf.org/rfc/rfc4033.txt"> RFC 4033: DNS Security Introduction and Requirements</a></li>
-<li><a href="http://www.ietf.org/rfc/rfc4034.txt"> RFC 4034: Resource Records for the DNS Security Extensions</a></li>
-<li><a href="http://www.ietf.org/rfc/rfc4035.txt"> RFC 4035: Protocol Modifications for the DNS Security Extensions</a></li>
-<li><a href="http://www.ietf.org/rfc/rfc4051.txt"> RFC 4051: Additional XML Security Uniform Resource Identifiers (URIs)</a></li>
-<li><a href="http://www.ietf.org/rfc/rfc4055.txt">RFC 4055: Additional Algorithms and Identifiers for RSA Cryptography for use in the Internet X.509 Public Key Infrastructure Certificate and Certificate Revocation List (CRL) Profile</a></li>
-<li><a href="http://www.ietf.org/rfc/rfc4056.txt">RFC 4056: Use of the RSASSA-PSS Signature Algorithm in Cryptographic Message Syntax (CMS)</a></li>
-<li><a href="http://www.ietf.org/rfc/rfc4109.txt">RFC 4109: Algorithms for Internet Key Exchange version 1 (IKEv1)</a></li>
-<li><a href="http://www.ietf.org/rfc/rfc4217.txt">RFC 4217: Securing FTP with TLS</a></li>
-<li><a href="http://www.ietf.org/rfc/rfc4250.txt">RFC 4250: The Secure Shell (SSH) Protocol Assigned Numbers</a></li>
-<li><a href="http://www.ietf.org/rfc/rfc4251.txt">RFC 4251: The Secure Shell (SSH) Protocol Architecture</a></li>
-<li><a href="http://www.ietf.org/rfc/rfc4252.txt">RFC 4252: The Secure Shell (SSH) Authentication Protocol</a></li>
-<li><a href="http://www.ietf.org/rfc/rfc4253.txt">RFC 4253: The Secure Shell (SSH) Transport Layer Protocol</a></li>
-<li><a href="http://www.ietf.org/rfc/rfc4254.txt">RFC 4254: The Secure Shell (SSH) Connection Protocol</a></li>
-<li><a href="http://www.ietf.org/rfc/rfc4255.txt">RFC 4255: Using DNS to Securely Publish Secure Shell (SSH) Key Fingerprints</a></li>
-<li><a href="http://www.ietf.org/rfc/rfc4256.txt">RFC 4256: Generic Message Exchange Authentication for the Secure Shell Protocol (SSH)</a></li>
-<li><a href="http://www.ietf.org/rfc/rfc4301.txt">RFC 4301: Security Architecture for the Internet Protocol</a></li>
-<li><a href="http://www.ietf.org/rfc/rfc4302.txt">RFC 4302: IP Authentication Header</a></li>
-<li><a href="http://www.ietf.org/rfc/rfc4303.txt">RFC 4303: IP Encapsulating Security Payload (ESP)</a></li>
-<li><a href="http://www.ietf.org/rfc/rfc4308.txt">RFC 4308: Cryptographic Suites for IPsec</a></li>
-<li><a href="http://www.ietf.org/rfc/rfc4344.txt">RFC 4344: The Secure Shell (SSH) Transport Layer Encryption Modes</a></li>
-<li><a href="http://www.ietf.org/rfc/rfc4346.txt">RFC 4346: The Transport Layer Security (TLS) Protocol Version 1.1</a></li>
-<li><a href="http://www.ietf.org/rfc/rfc4359.txt">RFC 4359: The Use of RSA/SHA-1 Signatures within Encapsulating
+<li><a href="https://www.ietf.org/rfc/rfc2142.txt"> RFC 2142: Mailbox Names for Common Services, Roles and Functions</a></li>
+<li><a href="https://www.ietf.org/rfc/rfc2246.txt"> RFC 2246: The TLS Protocol  Version 1.0</a></li>
+<li><a href="https://www.ietf.org/rfc/rfc2554.txt"> RFC 2554: SMTP Service Extension for Authentication</a></li>
+<li><a href="https://www.ietf.org/rfc/rfc3168.txt"> RFC 3168: The Addition of Explicit Congestion Notification (ECN) to IP</a></li>
+<li><a href="https://www.ietf.org/rfc/rfc3207.txt"> RFC 3207: SMTP Service Extension for Secure SMTP over Transport Layer Security</a></li>
+<li><a href="https://www.ietf.org/rfc/rfc3369.txt"> RFC 3369: Cryptographic Message Syntax (CMS)</a></li>
+<li><a href="https://www.ietf.org/rfc/rfc3370.txt"> RFC 3370: Cryptographic Message Syntax (CMS) Algorithms</a></li>
+<li><a href="https://www.ietf.org/rfc/rfc3834.txt"> RFC 3834: Recommendations for Automatic Responses to Electronic Mail</a></li>
+<li><a href="https://www.ietf.org/rfc/rfc4033.txt"> RFC 4033: DNS Security Introduction and Requirements</a></li>
+<li><a href="https://www.ietf.org/rfc/rfc4034.txt"> RFC 4034: Resource Records for the DNS Security Extensions</a></li>
+<li><a href="https://www.ietf.org/rfc/rfc4035.txt"> RFC 4035: Protocol Modifications for the DNS Security Extensions</a></li>
+<li><a href="https://www.ietf.org/rfc/rfc4051.txt"> RFC 4051: Additional XML Security Uniform Resource Identifiers (URIs)</a></li>
+<li><a href="https://www.ietf.org/rfc/rfc4055.txt">RFC 4055: Additional Algorithms and Identifiers for RSA Cryptography for use in the Internet X.509 Public Key Infrastructure Certificate and Certificate Revocation List (CRL) Profile</a></li>
+<li><a href="https://www.ietf.org/rfc/rfc4056.txt">RFC 4056: Use of the RSASSA-PSS Signature Algorithm in Cryptographic Message Syntax (CMS)</a></li>
+<li><a href="https://www.ietf.org/rfc/rfc4109.txt">RFC 4109: Algorithms for Internet Key Exchange version 1 (IKEv1)</a></li>
+<li><a href="https://www.ietf.org/rfc/rfc4217.txt">RFC 4217: Securing FTP with TLS</a></li>
+<li><a href="https://www.ietf.org/rfc/rfc4250.txt">RFC 4250: The Secure Shell (SSH) Protocol Assigned Numbers</a></li>
+<li><a href="https://www.ietf.org/rfc/rfc4251.txt">RFC 4251: The Secure Shell (SSH) Protocol Architecture</a></li>
+<li><a href="https://www.ietf.org/rfc/rfc4252.txt">RFC 4252: The Secure Shell (SSH) Authentication Protocol</a></li>
+<li><a href="https://www.ietf.org/rfc/rfc4253.txt">RFC 4253: The Secure Shell (SSH) Transport Layer Protocol</a></li>
+<li><a href="https://www.ietf.org/rfc/rfc4254.txt">RFC 4254: The Secure Shell (SSH) Connection Protocol</a></li>
+<li><a href="https://www.ietf.org/rfc/rfc4255.txt">RFC 4255: Using DNS to Securely Publish Secure Shell (SSH) Key Fingerprints</a></li>
+<li><a href="https://www.ietf.org/rfc/rfc4256.txt">RFC 4256: Generic Message Exchange Authentication for the Secure Shell Protocol (SSH)</a></li>
+<li><a href="https://www.ietf.org/rfc/rfc4301.txt">RFC 4301: Security Architecture for the Internet Protocol</a></li>
+<li><a href="https://www.ietf.org/rfc/rfc4302.txt">RFC 4302: IP Authentication Header</a></li>
+<li><a href="https://www.ietf.org/rfc/rfc4303.txt">RFC 4303: IP Encapsulating Security Payload (ESP)</a></li>
+<li><a href="https://www.ietf.org/rfc/rfc4308.txt">RFC 4308: Cryptographic Suites for IPsec</a></li>
+<li><a href="https://www.ietf.org/rfc/rfc4344.txt">RFC 4344: The Secure Shell (SSH) Transport Layer Encryption Modes</a></li>
+<li><a href="https://www.ietf.org/rfc/rfc4346.txt">RFC 4346: The Transport Layer Security (TLS) Protocol Version 1.1</a></li>
+<li><a href="https://www.ietf.org/rfc/rfc4359.txt">RFC 4359: The Use of RSA/SHA-1 Signatures within Encapsulating
 Security Payload (ESP) and Authentication Header (AH)</a></li>
-<li><a href="http://www.ietf.org/rfc/rfc4366.txt">RFC 4366: Transport Layer Security (TLS) Extensions</a></li>
-<li><a href="http://www.ietf.org/rfc/rfc4513.txt">RFC 4513: Lightweight Directory Access Protocol (LDAP): Authentication Methods and Security Mechanisms</a></li>
-<li><a href="http://www.ietf.org/rfc/rfc4871.txt">RFC 4871: DomainKeys Identified Mail (DKIM) Signatures</a></li>
-<li><a href="http://www.ietf.org/rfc/rfc4959.txt">RFC 4959: IMAP Extension for Simple Authentication and Security Layer (SASL) Initial Client Response</a></li>
-<li><a href="http://www.ietf.org/rfc/rfc4985.txt">RFC 4985: Internet X.509 Public Key Infrastructure Subject Alternative Name for Expression of Service Name</a></li>
-<li><a href="http://www.ietf.org/rfc/rfc5070.txt">RFC 5070: The Incident Object Description Exchange Format</a></li>
-<li><a href="http://www.ietf.org/rfc/rfc5321.txt">RFC 5321: Simple Mail Transfer Protocol</a></li>
-<li><a href="http://www.ietf.org/rfc/rfc5322.txt">RFC 5322: Internet Message Format</a></li>
-<li><a href="http://www.ietf.org/rfc/rfc5901.txt">RFC 5901: Extensions to the IODEF-Document Class for Reporting Phishing</a></li>
-<li><a href="http://www.ietf.org/rfc/rfc6045.txt">RFC 6045: Real-time Inter-network Defense (RID)</a></li>
-<li><a href="http://www.ietf.org/rfc/rfc6409.txt">RFC 6409: Message Submission for Mail</a></li>
-<li><a href="http://www.ietf.org/rfc/rfc6528.txt">RFC 6528: Defending against Sequence Number Attacks</a></li>
+<li><a href="https://www.ietf.org/rfc/rfc4366.txt">RFC 4366: Transport Layer Security (TLS) Extensions</a></li>
+<li><a href="https://www.ietf.org/rfc/rfc4513.txt">RFC 4513: Lightweight Directory Access Protocol (LDAP): Authentication Methods and Security Mechanisms</a></li>
+<li><a href="https://www.ietf.org/rfc/rfc4871.txt">RFC 4871: DomainKeys Identified Mail (DKIM) Signatures</a></li>
+<li><a href="https://www.ietf.org/rfc/rfc4959.txt">RFC 4959: IMAP Extension for Simple Authentication and Security Layer (SASL) Initial Client Response</a></li>
+<li><a href="https://www.ietf.org/rfc/rfc4985.txt">RFC 4985: Internet X.509 Public Key Infrastructure Subject Alternative Name for Expression of Service Name</a></li>
+<li><a href="https://www.ietf.org/rfc/rfc5070.txt">RFC 5070: The Incident Object Description Exchange Format</a></li>
+<li><a href="https://www.ietf.org/rfc/rfc5321.txt">RFC 5321: Simple Mail Transfer Protocol</a></li>
+<li><a href="https://www.ietf.org/rfc/rfc5322.txt">RFC 5322: Internet Message Format</a></li>
+<li><a href="https://www.ietf.org/rfc/rfc5901.txt">RFC 5901: Extensions to the IODEF-Document Class for Reporting Phishing</a></li>
+<li><a href="https://www.ietf.org/rfc/rfc6045.txt">RFC 6045: Real-time Inter-network Defense (RID)</a></li>
+<li><a href="https://www.ietf.org/rfc/rfc6409.txt">RFC 6409: Message Submission for Mail</a></li>
+<li><a href="https://www.ietf.org/rfc/rfc6528.txt">RFC 6528: Defending against Sequence Number Attacks</a></li>
 </ul>
 
 <p><b>Informational</b></p>
 
 <ul>
- <li><a href="http://www.ietf.org/rfc/rfc1281.txt"> RFC 1281: Guidelines for the Secure Operation of the Internet</a></li>
- <li><a href="http://www.ietf.org/rfc/rfc1321.txt"> RFC 1321: The MD5 Message-Digest Algorithm</a></li>
- <li><a href="http://www.ietf.org/rfc/rfc1470.txt"> RFC 1470: Tools for Monitoring and Debugging TCP/IP Internets and Interconnected Devices</a></li>
- <li><a href="http://www.ietf.org/rfc/rfc1750.txt"> RFC 1750: Randomness Recommendations for Security</a></li>
- <li><a href="http://www.ietf.org/rfc/rfc2076.txt"> RFC 2076: Common Internet Message Headers</a></li>
- <li><a href="http://www.ietf.org/rfc/rfc2196.txt"> RFC 2196: Site Security Handbook</a></li>
- <li><a href="http://www.ietf.org/rfc/rfc2411.txt"> RFC 2411: IP Security Document Roadmap</a></li>
- <li><a href="http://www.ietf.org/rfc/rfc2504.txt"> RFC 2504: Users Security Handbook</a></li>
- <li><a href="http://www.ietf.org/rfc/rfc2577.txt"> RFC 2577: FTP Security Considerations</a></li>
- <li><a href="http://www.ietf.org/rfc/rfc2979.txt"> RFC 2979: Behavior of and Requirements for Internet Firewalls</a></li>
- <li><a href="http://www.ietf.org/rfc/rfc3067.txt"> RFC 3067: TERENA's Incident Object Description and Exchange Format Requirements</a></li>
- <li><a href="http://www.ietf.org/rfc/rfc3098.txt"> RFC 3098: How to Advertise Responsibly Using E-Mail and Newsgroups or &#x2011; how NOT to $$$$$  MAKE ENEMIES FAST!  $$$$$</a></li>
+ <li><a href="https://www.ietf.org/rfc/rfc1281.txt"> RFC 1281: Guidelines for the Secure Operation of the Internet</a></li>
+ <li><a href="https://www.ietf.org/rfc/rfc1321.txt"> RFC 1321: The MD5 Message-Digest Algorithm</a></li>
+ <li><a href="https://www.ietf.org/rfc/rfc1470.txt"> RFC 1470: Tools for Monitoring and Debugging TCP/IP Internets and Interconnected Devices</a></li>
+ <li><a href="https://www.ietf.org/rfc/rfc1750.txt"> RFC 1750: Randomness Recommendations for Security</a></li>
+ <li><a href="https://www.ietf.org/rfc/rfc2076.txt"> RFC 2076: Common Internet Message Headers</a></li>
+ <li><a href="https://www.ietf.org/rfc/rfc2196.txt"> RFC 2196: Site Security Handbook</a></li>
+ <li><a href="https://www.ietf.org/rfc/rfc2411.txt"> RFC 2411: IP Security Document Roadmap</a></li>
+ <li><a href="https://www.ietf.org/rfc/rfc2504.txt"> RFC 2504: Users Security Handbook</a></li>
+ <li><a href="https://www.ietf.org/rfc/rfc2577.txt"> RFC 2577: FTP Security Considerations</a></li>
+ <li><a href="https://www.ietf.org/rfc/rfc2979.txt"> RFC 2979: Behavior of and Requirements for Internet Firewalls</a></li>
+ <li><a href="https://www.ietf.org/rfc/rfc3067.txt"> RFC 3067: TERENA's Incident Object Description and Exchange Format Requirements</a></li>
+ <li><a href="https://www.ietf.org/rfc/rfc3098.txt"> RFC 3098: How to Advertise Responsibly Using E-Mail and Newsgroups or &#x2011; how NOT to $$$$$  MAKE ENEMIES FAST!  $$$$$</a></li>
 
-<li><a href="http://www.ietf.org/rfc/rfc3164.txt">RFC 3164: The BSD syslog Protocol</a></li>
-<li><a href="http://www.ietf.org/rfc/rfc3174.txt">RFC 3174: US Secure Hash Algorithm 1 (SHA1)</a></li>
-<li><a href="http://www.ietf.org/rfc/rfc3330.txt">RFC 3330: Special-Use IPv4 Addresses</a></li>
-<li><a href="http://www.ietf.org/rfc/rfc3511.txt">RFC 3511: Benchmarking Methodology for Firewall Performance</a></li>
-<li><a href="http://www.ietf.org/rfc/rfc3631.txt">RFC 3631: Security Mechanisms for the Internet</a></li>
-<li><a href="http://www.ietf.org/rfc/rfc3833.txt">RFC 3833: Threat Analysis of the Domain Name System (DNS)</a></li>
-<li><a href="http://www.ietf.org/rfc/rfc3871.txt">RFC 3871: Operational Security Requirements for Large Internet Service Provider (ISP) IP Network Infrastructure</a></li>
-<li><a href="http://www.ietf.org/rfc/rfc3964.txt">RFC 3964: Security Considerations for 6to4</a></li>
-<li><a href="http://www.ietf.org/rfc/rfc4096.txt">RFC 4096: Policy-Mandated Labels Such as "Adv:" in Email Subject Headers Considered Ineffective At Best</a></li>
-<li><a href="http://www.ietf.org/rfc/rfc4270.txt">RFC 4270: Attacks on Cryptographic Hashes in Internet Protocols</a></li>
-<li><a href="http://www.ietf.org/rfc/rfc4272.txt">RFC 4272: BGP Security Vulnerabilities Analysis</a></li>
-<li><a href="http://www.ietf.org/rfc/rfc4381.txt">RFC 4381: Analysis of the Security of BGP/MPLS IP Virtual Private Networks (VPNs)</a></li>
-<li><a href="http://www.ietf.org/rfc/rfc4641.txt">RFC 4641: DNSSEC Operational Practices</a></li>
-<li><a href="http://www.ietf.org/rfc/rfc4686.txt">RFC 4686: Analysis of Threats Motivating DomainKeys Identified Mail (DKIM)</a></li>
-<li><a href="http://www.ietf.org/rfc/rfc4766.txt">RFC 4766: Intrusion Detection Message Exchange Requirements</a></li>
-<li><a href="http://www.ietf.org/rfc/rfc4772.txt">RFC 4772: Security Implications of Using the Data Encryption Standard (DES)</a></li>
-<li><a href="http://www.ietf.org/rfc/rfc4778.txt">RFC 4778: Current Operational Security Practices in Internet Service Provider Environments</a></li>
-<li><a href="http://www.ietf.org/rfc/rfc4890.txt">RFC 4890: Recommendations for Filtering ICMPv6 Messages in Firewalls</a></li>
-<li><a href="http://www.ietf.org/rfc/rfc4891.txt">RFC 4891: Using IPsec to Secure IPv6-in-IPv4 Tunnels</a></li>
-<li><a href="http://www.ietf.org/rfc/rfc4942.txt">RFC 4942: IPv6 Transition/Coexistence Security Considerations</a></li>
-<li><a href="http://www.ietf.org/rfc/rfc4986.txt">RFC 4986: Requirements Related to DNS Security (DNSSEC) Trust Anchor Rollover</a></li>
-<li><a href="http://www.ietf.org/rfc/rfc4949.txt">RFC 4949: Internet Security Glossary, Version 2</a></li>
-<li><a href="http://www.ietf.org/rfc/rfc6092.txt">RFC 6092: Recommended Simple Security Capabilities in Customer Premises Equipment (CPE) for Providing Residential IPv6 Internet Service</a></li>
-<li><a href="http://www.ietf.org/rfc/rfc6274.txt">RFC 6274: Security Assessment of the Internet Protocol Version 4</a></li>
-<li><a href="http://www.ietf.org/rfc/rfc6305.txt">RFC 6305: I'm Being Attacked by PRISONER.IANA.ORG!</a></li>
-<li><a href="http://www.ietf.org/rfc/rfc6471.txt">RFC 6471: Overview of Best Email DNS-Based List (DNSBL) Operational Practices</a></li>
-<li><a href="http://www.ietf.org/rfc/rfc6480.txt">RFC 6480: An Infrastructure to Support Secure Internet Routing</a></li>
-<li><a href="http://www.ietf.org/rfc/rfc6561.txt">RFC 6561: Recommendations for the Remediation of Bots in ISP Networks</a></li>
-<li><a href="http://www.ietf.org/rfc/rfc7123.txt">RFC 7123: Security Implications of IPv6 on IPv4 Networks</a></li>
+<li><a href="https://www.ietf.org/rfc/rfc3164.txt">RFC 3164: The BSD syslog Protocol</a></li>
+<li><a href="https://www.ietf.org/rfc/rfc3174.txt">RFC 3174: US Secure Hash Algorithm 1 (SHA1)</a></li>
+<li><a href="https://www.ietf.org/rfc/rfc3330.txt">RFC 3330: Special-Use IPv4 Addresses</a></li>
+<li><a href="https://www.ietf.org/rfc/rfc3511.txt">RFC 3511: Benchmarking Methodology for Firewall Performance</a></li>
+<li><a href="https://www.ietf.org/rfc/rfc3631.txt">RFC 3631: Security Mechanisms for the Internet</a></li>
+<li><a href="https://www.ietf.org/rfc/rfc3833.txt">RFC 3833: Threat Analysis of the Domain Name System (DNS)</a></li>
+<li><a href="https://www.ietf.org/rfc/rfc3871.txt">RFC 3871: Operational Security Requirements for Large Internet Service Provider (ISP) IP Network Infrastructure</a></li>
+<li><a href="https://www.ietf.org/rfc/rfc3964.txt">RFC 3964: Security Considerations for 6to4</a></li>
+<li><a href="https://www.ietf.org/rfc/rfc4096.txt">RFC 4096: Policy-Mandated Labels Such as "Adv:" in Email Subject Headers Considered Ineffective At Best</a></li>
+<li><a href="https://www.ietf.org/rfc/rfc4270.txt">RFC 4270: Attacks on Cryptographic Hashes in Internet Protocols</a></li>
+<li><a href="https://www.ietf.org/rfc/rfc4272.txt">RFC 4272: BGP Security Vulnerabilities Analysis</a></li>
+<li><a href="https://www.ietf.org/rfc/rfc4381.txt">RFC 4381: Analysis of the Security of BGP/MPLS IP Virtual Private Networks (VPNs)</a></li>
+<li><a href="https://www.ietf.org/rfc/rfc4641.txt">RFC 4641: DNSSEC Operational Practices</a></li>
+<li><a href="https://www.ietf.org/rfc/rfc4686.txt">RFC 4686: Analysis of Threats Motivating DomainKeys Identified Mail (DKIM)</a></li>
+<li><a href="https://www.ietf.org/rfc/rfc4766.txt">RFC 4766: Intrusion Detection Message Exchange Requirements</a></li>
+<li><a href="https://www.ietf.org/rfc/rfc4772.txt">RFC 4772: Security Implications of Using the Data Encryption Standard (DES)</a></li>
+<li><a href="https://www.ietf.org/rfc/rfc4778.txt">RFC 4778: Current Operational Security Practices in Internet Service Provider Environments</a></li>
+<li><a href="https://www.ietf.org/rfc/rfc4890.txt">RFC 4890: Recommendations for Filtering ICMPv6 Messages in Firewalls</a></li>
+<li><a href="https://www.ietf.org/rfc/rfc4891.txt">RFC 4891: Using IPsec to Secure IPv6-in-IPv4 Tunnels</a></li>
+<li><a href="https://www.ietf.org/rfc/rfc4942.txt">RFC 4942: IPv6 Transition/Coexistence Security Considerations</a></li>
+<li><a href="https://www.ietf.org/rfc/rfc4986.txt">RFC 4986: Requirements Related to DNS Security (DNSSEC) Trust Anchor Rollover</a></li>
+<li><a href="https://www.ietf.org/rfc/rfc4949.txt">RFC 4949: Internet Security Glossary, Version 2</a></li>
+<li><a href="https://www.ietf.org/rfc/rfc6092.txt">RFC 6092: Recommended Simple Security Capabilities in Customer Premises Equipment (CPE) for Providing Residential IPv6 Internet Service</a></li>
+<li><a href="https://www.ietf.org/rfc/rfc6274.txt">RFC 6274: Security Assessment of the Internet Protocol Version 4</a></li>
+<li><a href="https://www.ietf.org/rfc/rfc6305.txt">RFC 6305: I'm Being Attacked by PRISONER.IANA.ORG!</a></li>
+<li><a href="https://www.ietf.org/rfc/rfc6471.txt">RFC 6471: Overview of Best Email DNS-Based List (DNSBL) Operational Practices</a></li>
+<li><a href="https://www.ietf.org/rfc/rfc6480.txt">RFC 6480: An Infrastructure to Support Secure Internet Routing</a></li>
+<li><a href="https://www.ietf.org/rfc/rfc6561.txt">RFC 6561: Recommendations for the Remediation of Bots in ISP Networks</a></li>
+<li><a href="https://www.ietf.org/rfc/rfc7123.txt">RFC 7123: Security Implications of IPv6 on IPv4 Networks</a></li>
 </ul>
 
 <p><b>Experimental / Historic</b></p>
 
 <ul>
-<li><a href="http://www.ietf.org/rfc/rfc4406.txt"> RFC 4406: Sender ID: Authenticating E-Mail</a></li>
-<li><a href="http://www.ietf.org/rfc/rfc4408.txt"> RFC 4408: Sender Policy Framework (SPF) for Authorizing Use of Domains in E-Mail, Version 1</a></li>
-<li><a href="http://www.ietf.org/rfc/rfc4765.txt"> RFC 4765: The Intrusion Detection Message Exchange Format (IDMEF)</a></li>
-<li><a href="http://www.ietf.org/rfc/rfc4767.txt"> RFC 4767: The Intrusion Detection Exchange Protocol (IDXP)</a></li>
-<li><a href="http://www.ietf.org/rfc/rfc6541.txt"> RFC 6541: DomainKeys Identified Mail (DKIM) Authorized Third-Party Signatures</a></li>
-<li><a href="http://www.ietf.org/rfc/rfc6587.txt"> RFC 6587: Transmission of Syslog Messages over TCP </a></li>
+<li><a href="https://www.ietf.org/rfc/rfc4406.txt"> RFC 4406: Sender ID: Authenticating E-Mail</a></li>
+<li><a href="https://www.ietf.org/rfc/rfc4408.txt"> RFC 4408: Sender Policy Framework (SPF) for Authorizing Use of Domains in E-Mail, Version 1</a></li>
+<li><a href="https://www.ietf.org/rfc/rfc4765.txt"> RFC 4765: The Intrusion Detection Message Exchange Format (IDMEF)</a></li>
+<li><a href="https://www.ietf.org/rfc/rfc4767.txt"> RFC 4767: The Intrusion Detection Exchange Protocol (IDXP)</a></li>
+<li><a href="https://www.ietf.org/rfc/rfc6541.txt"> RFC 6541: DomainKeys Identified Mail (DKIM) Authorized Third-Party Signatures</a></li>
+<li><a href="https://www.ietf.org/rfc/rfc6587.txt"> RFC 6587: Transmission of Syslog Messages over TCP </a></li>
 
 </ul>
 </details>
@@ -1538,11 +1503,11 @@ Security Payload (ESP) and Authentication Header (AH)</a></li>
 <li><a href="https://www.magnetforensics.com">https://www.magnetforensics.com</a></li>
 <li><a href="https://www.exterro.com/ftk-product-downloads/how-to-run-ftk-imager-from-a-flash-drive-imager-lite">FTK Lite</a><br>
 <li><a href="https://www.icann.org/en/ssac/publications">SSAC Publications</a></li>
-<li><a href="http://www.cert.org/archive/pdf/Botnets.pdf">Botnets as a Vehicle for Online Crime</a> &#x2011; CERT </li>
+<li><a href="https://www.cert.org/archive/pdf/Botnets.pdf">Botnets as a Vehicle for Online Crime</a> &#x2011; CERT </li>
 <li><a href="https://www.security-audit.com/">Security Audit</a></li>
-<li><a href="http://www.sans.org/">SANS Institute</a></li>
-<li><a href="http://isc.sans.org/">Internet Storm Center</a> &#x2011; SANS Institute</li>
-<li><a href="http://www.cerias.purdue.edu">COAST Hotlist: Computer Security, Law and Privacy</a> &#x2011; CERIAS, Purdue University</li>
+<li><a href="https://www.sans.org/">SANS Institute</a></li>
+<li><a href="https://isc.sans.org/">Internet Storm Center</a> &#x2011; SANS Institute</li>
+<li><a href="https://www.cerias.purdue.edu">COAST Hotlist: Computer Security, Law and Privacy</a> &#x2011; CERIAS, Purdue University</li>
 </ul>
 </ul>
 </details>
@@ -1553,31 +1518,24 @@ Security Payload (ESP) and Authentication Header (AH)</a></li>
 <details>
 <summary><b>Law</b></summary>
 <br>
+https://www.necessaryandproportionate.org<br>
 https://www.fbi.gov<br>
 https://www.justice.gov/news<br>
+https://www.justice.gov/criminal/cybercrime
+https://www.ic3.gov/default.aspx
 https://www.coe.int/en/web/cybercrime<br>
 https://www.sherloc.unodc.org<br>
 https://www.enisa.europa.eu<br>
-https://www.necessaryandproportionate.org<br>
+https://csrc.nist.gov
+https://www.crime-research.org Computer Crime Research Center
+
 </details>
 
-<details>
-<summary><b>Others</b></summary>
-<br>
-https://www.nowsecure.com<br>
-https://www.reddit.com/r/InfoSecNews<br>
-https://www.reddit.com/r/digitalforensics<br>
-https://www.reddit.com/r/computerforensics<br>
-https://www.reddit.com/r/antiforensics<br>
-https://www.reddit.com/r/Smartphoneforensics<br>
-https://github.com/yeahhub/Hacking-Security-Ebooks<br>
-https://github.com/InfoSecIITR/reading-material<br>
-</details>
 
 <!-- ################################# -->
 
 <details>
-<summary><b>Security feeds & alerts</b></summary>
+<summary><b>Security publications</b></summary>
 <br>
 • CVE Alerting Platform<br>
 https://github.com/opencve/opencve<br>
@@ -1586,15 +1544,66 @@ https://thehackernews.com/#email-outer<br>
 • Forensic Focus &#x2011; Newsletter<br>
 https://www.forensicfocus.com<br>
 SANS Institute &#x2011; Newsletter<br>
-http://www.sans.org> <br>
+https://www.sans.org> <br>
 • Google Scholar &#x2011; Alerts<br>
 https://scholar.google.com/scholar_alerts?view_op=list_alerts&hl=en-US<br>
-</details>
+• Wired News<br>
+https://www.wired.com<br>
+• Cert Coordination Center<br>
+https://www.cert.org<br>
+• DoD Instructions Cybersecurity - DODi 8500.01<br>
+https://www.dtic.mil/whs/directives/corres/pdf/850001_2014.pdf<br>
+• Computer World<br>
+https://computerworld.com<br>
+• InfoWorld<br>
+https://www.infoworld.com<br>
+• InformationWeek<br>
+https://www.informationweek.com<br>
+• Sophos<br>
+https://sophos.com<br>
+• TechWorld<br>
+https://www.techworld.com<br>
+• Government Executive Magazine<br>
+https://govexec.com<br>
+• E Security Planet<br>
+https://www.esecurityplanet.com<br>
+• Help Net Security<br>
+https://www.helpnetsecurity.com<br>
+• Information Security Magazine<br>
+https://searchsecurity.techtarget.com<br>
+• Network World Fusion<br>
+https://www.nwfusion.com<br>
+• Federal Computer Week Security News<br>
+https://fcw.com/Home.aspx<br>
+• Government Computer News IT Security<br>
+https://gcn.com/Home.aspx<br>
+• IA Technology Analysis Center<br>
+https://iac.dtic.mil/csiac<br>
+• Overseas Security Advisory Council<br>
+https://www.osac.gov<br>
+• SANS Internet Storm Center<br>
+https://isc.sans.edu<br>
+• Search Security<br>
+https://searchsecurity.techtarget.com<br>
+• News Factor<br>
+https://www.newsfactor.com<br>
+• Security Focus<br>
+https://www.securityfocus.com/news<br>
+• New Scientist<br>
+https://www.newscientist.com/section/news<br>
+• Silicon Valley<br>
+https://www.siliconvalley.com<br>
+• USA Today<br>
+https://www.usatoday.com/tech<br>
+• Reuters<br>
+https://www.reuters.com/news/technology<br>
+• TechWeb<br>
+https://www.techweb.com<br>
 
 <!-- ################################# -->
 
 <details>
-<summary><b>Papers (open acess journals)</b></summary>
+<summary><b>Papers</b></summary>
 <br>
 <p>• Make a Google Scholar search from an interesting subject that you want to follow up on.</p>
 
@@ -1642,9 +1651,30 @@ https://ieee-isi.org/<br>
 <!-- ################################ -->
 
 <details>
+<summary><b>Others</b></summary>
+<br>
+https://0x00sec.org<br>
+https://csrc.nist.gov/projects<br>
+https://malware.lu<br>
+https://www.nsa.gov/ia/mitigation_guidance/security_configuration_guides/index.shtml<br>
+https://oval.mitre.org<br>
+https://www.w3.org/Security/Faq/www-security-faq.html<br>
+https://www.nowsecure.com<br>
+https://www.reddit.com/r/InfoSecNews<br>
+https://www.reddit.com/r/digitalforensics<br>
+https://www.reddit.com/r/computerforensics<br>
+https://www.reddit.com/r/antiforensics<br>
+https://www.reddit.com/r/Smartphoneforensics<br>
+https://github.com/yeahhub/Hacking-Security-Ebooks<br>
+https://github.com/InfoSecIITR/reading-material<br>
+</details>
+
+<!-- ################################ -->
+
+<details>
 <summary><b>YouTube Channels &#x2011; Conferences</b></summary>
-https://www.youtube.com/@DEFCONConference<br>
 https://www.youtube.com/@BlackHatOfficialYT<br>
+https://www.youtube.com/@DEFCONConference<br>
 https://www.youtube.com/@DFRWS<br>
 https://www.youtube.com/@SANSForensics<br>
 https://www.youtube.com/@SANSOffensiveOperations<br>
@@ -1660,6 +1690,53 @@ https://www.youtube.com/@reconmtl<br>
 https://www.youtube.com/@TROOPERScon<br>
 https://www.youtube.com/@MCH2022NL<br>
 </details>
+
+<!-- ################################ -->
+
+<h3>REFERENCES</h3>
+
+<table style="width:100%" cellspacing="0" cellpadding="0">
+<thead>
+  <tr>
+  </tr>
+</thead>
+<tbody> 
+<tr>
+<td valign="top" style="width:50%">
+https://dfrws.org/presentation<br>
+https://issworldtraining.com<br>
+https://sciencedirect.com/journal/forensic-science-international-digital-investigation<br>
+https://sciencedirect.com/journal/computer-law-and-security-review<br>
+https://github.com/MISP/misp-training<br>
+https://github.com/ail-project/ail-training<br>
+https://isc2.org/Certifications/CISSP<br>
+https://github.com/connectans/awesome-CISSP-CCSP<br>
+https://github.com/jefferywmoore/CISSP-Study-Resources<br>
+https://github.com/Syslifters/OffSec-Reporting<br>
+https://attack.mitre.org<br>
+https://forensicfocus.com<br>
+https://ecrimeresearch.org<br>
+https://drivebadger.com<br>
+https://cellebritelearningcenter.com<br>
+https://public.cyber.mil<br>
+</td>
+<td valign="top" style="width:50%">
+https://github.com/Cugu/awesome-forensics<br>
+https://github.com/shadawck/awesome-anti-forensic<br>
+https://github.com/Ignitetechnologies/Mindmap<br>
+https://github.com/asiamina/A-Course-on-Digital-Forensics<br>
+https://github.com/mikeroyal/Digital-Forensics-Guide<br>
+https://github.com/forensicswiki/wiki<br>
+https://github.com/Digital-Forensics-Discord-Server/LawEnforcementResources<br>
+https://github.com/Digital-Forensics-Discord-Server/TheHitchhikersGuidetoDFIRExperiencesFromBeginnersandExperts<br>
+https://github.com/Hack-with-Github/Awesome-Hacking<br>
+https://github.com/enaqx/awesome-pentest<br>
+https://github.com/onlurking/awesome-infosec<br>
+https://github.com/504ensicsLabs<br>
+</td>
+</tr>
+</tbody>
+</table>
 
 </body>
 </html>
