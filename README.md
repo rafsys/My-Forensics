@@ -713,7 +713,7 @@ https://github.com/demining/Dao-Exploit<br>
 
 Visit our repo tree: <a href="https://github.com/RENANZG/My-Forensics/tree/main/4.POLICE_HACKING">4.POLICE_HACKING</a>
 
-<img src=".data/the_cyber_kill_chain.png"/>
+<img src=".data/the_cyber_kill_chain.png" title="The Cyber Kill Chain">
 
 <h3>LAW ENFORCEMENT AGENCY (LEA)</h3>
 
@@ -1141,7 +1141,7 @@ https://github.com/alphaSeclab/awesome-reverse-engineering<br>
 </tbody>
 </table>
 
-<img src="https://user-images.githubusercontent.com/53458032/209445888-a0b016ee-0b05-49d6-a4ab-d14d72f632f7.png">
+<img src="https://user-images.githubusercontent.com/53458032/209445888-a0b016ee-0b05-49d6-a4ab-d14d72f632f7.png" title="IMSI">
 
 <h3>Useful Websites</h3>
 
@@ -1239,16 +1239,16 @@ $ sudo grgsm_livemon    # Live radio scanning.
 <p>The speed at which your password is cracked depends on the entropy of your password and the power of the computer.
 </p>
 
-<p>Computer programs used for brute force attacks can check anywhere from 10,000 to 1 billion passwords per second. A Pentium 100 can try 10.000 passwords a second. A supercomputer can try 1.000.000.000 per second.
+<p>Computer programs used for brute force attacks can check anywhere from 10,000 to 1 billion passwords per second. A Pentium 100 can try 10.000 passwords a second. A supercomputer can try 1.000.000.000 per second.</p>
 
 
 <p>Complex sheet:</p>
 
-<img src=".data/Password_Brute_Foce_Strenght_Table.png">
+<img src=".data/Password_Brute_Foce_Strenght_Table.png" title="Password Brute Foce Strenght">
 
 <p>Simplified sheet:</p>
 
-<img src=".data/Password_Brute_Foce_Strenght_Table_(2023).png">
+<img src=".data/Password_Brute_Foce_Strenght_Table_(2023).png" title="Password Brute Foce Strenght">
 
 
 <p>Types of brute force attacks</p>
