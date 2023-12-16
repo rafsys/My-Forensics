@@ -1244,7 +1244,7 @@ $ sudo grgsm_livemon    # Live radio scanning.
 
 <p>Complex sheet:</p>
 
-<img src="https://github.com/RENANZG/My-Forensics/blob/main/.data/Password_Brute_Force_Strenght_Table.png.png" title="Password Brute Force Strenght">
+<img src="https://github.com/RENANZG/My-Forensics/blob/main/.data/Password_Brute_Force_Strenght_Table.png" title="Password Brute Force Strenght">
 
 <p>Simplified sheet:</p>
 
