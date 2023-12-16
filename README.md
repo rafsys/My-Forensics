@@ -1141,8 +1141,7 @@ https://github.com/alphaSeclab/awesome-reverse-engineering<br>
 </tbody>
 </table>
 
-![image](https://user-images.githubusercontent.com/53458032/209445888-a0b016ee-0b05-49d6-a4ab-d14d72f632f7.png)
-
+<img src="https://user-images.githubusercontent.com/53458032/209445888-a0b016ee-0b05-49d6-a4ab-d14d72f632f7.png">
 
 <h3>Useful Websites</h3>
 
@@ -1245,11 +1244,11 @@ $ sudo grgsm_livemon    # Live radio scanning.
 
 <p>Complex sheet:</p>
 
-<img src=".data/Password_Brute_Foce_Strenght_Table.png"/>
+<img src=".data/Password_Brute_Foce_Strenght_Table.png">
 
 <p>Simplified sheet:</p>
 
-<img src=".data/Password_Brute_Foce_Strenght_Table_(2023).png"/>
+<img src=".data/Password_Brute_Foce_Strenght_Table_(2023).png">
 
 
 <p>Types of brute force attacks</p>
