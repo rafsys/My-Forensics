@@ -1244,12 +1244,11 @@ $ sudo grgsm_livemon    # Live radio scanning.
 
 <p>Complex sheet:</p>
 
-<img src="https://github.com/RENANZG/My-Forensics/blob/main/.data/Password_Brute_Force_Strenght_Table_2023.png" title="Password Brute Force Strenght">
+<img src="https://github.com/RENANZG/My-Forensics/blob/main/.data/Password_Brute_Force_Strenght_Table.png.png" title="Password Brute Force Strenght">
 
 <p>Simplified sheet:</p>
 
-<img src="https://github.com/RENANZG/My-Forensics/blob/main/.data/Password_Brute_Foce_Strenght_Table_(2023).png" title="Password Brute Force Strenght">
-
+<img src="https://github.com/RENANZG/My-Forensics/blob/main/.data/Password_Brute_Force_Strenght_Table_2023.png" title="Password Brute Force Strenght">
 
 <p>Types of brute force attacks</p>
 
