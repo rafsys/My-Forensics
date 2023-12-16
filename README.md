@@ -713,7 +713,7 @@ https://github.com/demining/Dao-Exploit<br>
 
 Visit our repo tree: <a href="https://github.com/RENANZG/My-Forensics/tree/main/4.POLICE_HACKING">4.POLICE_HACKING</a>
 
-<img src=".data/the_cyber_kill_chain.png" width="830px"/>
+<img src=".data/the_cyber_kill_chain.png"/>
 
 <h3>LAW ENFORCEMENT AGENCY (LEA)</h3>
 
@@ -1245,11 +1245,11 @@ $ sudo grgsm_livemon    # Live radio scanning.
 
 <p>Complex sheet:</p>
 
-<img src=".data/Password_Brute_Foce_Strenght_Table.png" width="830px"/>
+<img src=".data/Password_Brute_Foce_Strenght_Table.png"/>
 
 <p>Simplified sheet:</p>
 
-<img src=".data/Password_Brute_Foce_Strenght_Table_(2023).png" width="830px"/>
+<img src=".data/Password_Brute_Foce_Strenght_Table_(2023).png"/>
 
 
 <p>Types of brute force attacks</p>
