@@ -53,12 +53,12 @@
     <b>• 5W:</b> Who, What, When, Where and Why<br> 
     <b>• PDCA Cycle:</b> Plan, Do, Check and Act<br>
     <b>• Root Cause Analysis (RCA):</b><br>
-    &emsp; &#x2011; Identify and describe the problem clearly<br>
-    &emsp; &#x2011; Establish a timeline from the normal situation<br>
+    &emsp; — Identify and describe the problem clearly<br>
+    &emsp; — Establish a timeline from the normal situation<br>
     &emsp;   until the problem occurs<br> 
-    &emsp; &#x2011; Distinguish between the root cause and other<br>
+    &emsp; — Distinguish between the root cause and other<br>
     &emsp;   causal factors (e.g., using event correlation)<br>
-    &emsp; &#x2011; Establish a causal graph between the root<br>
+    &emsp; — Establish a causal graph between the root<br>
     &emsp;   cause and the problem<br>
     </p>
   </td>
@@ -149,8 +149,10 @@
 <p>https://www.youtube.com/watch?v=DH7edXaZS0A</p>
 <p>• SCOTUS: Police Need Search Warrant to Ping cell Phones</p>
 <p>https://www.youtube.com/watch?v=ASYm-3NJ-GA&t=40s</p>
-<p>• EFF to Michigan Court: Governments Shouldn’t Be Allowed to Use a Drone to Spy on You Without a Warrant
-<p>https://www.eff.org/deeplinks/2023/09/eff-michigan-court-governments-shouldnt-be-allowed-use-drone-spy-you-without
+<p>• EFF to Michigan Court: Governments Shouldn’t Be Allowed to Use a Drone to Spy on You Without a Warrant</p>
+<p>https://www.eff.org/deeplinks/2023/09/eff-michigan-court-governments-shouldnt-be-allowed-use-drone-spy-you-without</p>
+<p>• Motion to Suppress Aerial Surveillance Evidence in U.S. vs Muhammed Momtaz Alazhari</p>
+<p>https://theintercept.com/document/motion-to-suppress-aerial-surveillance-evidence-in-u-s-vs-muhammed-momtaz-alazhari</p>
 <p>• Forensics Journal Comparative analysis of mobile forensic proprietary tools: an application in forensic investigation (2022)</p>
 <p>https://www.forensicscijournal.com/articles/jfsr-aid1039.pdf</p>
 <p>• Methodology for Forensics Data Reconstruction on Mobile Devices with Android Operating System Applying In-System</p>
@@ -165,7 +167,10 @@
 
 <h3>LAWFUL INTERCEPTION PLATFORMS</h3>
 
-<p>Comparison between Drive Badger with other lawful interception platforms. Visit: <a href="https://docs.google.com/spreadsheets/d/1Ux0WeL-K4NOZTEQgJXuRzHPcG_ewKmcMNADuFhamytg/edit#gid=1460165261" target="_blank" rel="noopener noreferrer">Official Sheet Updated</a> or <a href="3.GUIDES_&_PAPERS/Drive_Bagder_-_Comparison_of_lawful_interception_platforms.pdf" target="_blank" rel="noopener noreferrer">PDF in our Repo</a>.</p>
+<p>Comparison between Drive Badger with other lawful interception platforms. Visit: <a href="https://docs.google.com/spreadsheets/d/1Ux0WeL-K4NOZTEQgJXuRzHPcG_ewKmcMNADuFhamytg/edit#gid=1460165261" target="_blank" rel="noopener noreferrer">Official online sheet complete and updated</a> or <a href="3.GUIDES_&_PAPERS/Drive_Bagder_-_Comparison_of_lawful_interception_platforms.pdf" target="_blank" rel="noopener noreferrer">PDF in our repo</a>.</p>
+
+<h5>News: https://thehackernews.com/2023/12/multi-million-dollar-predator-spyware.html</h5>
+<h5>News: https://thehackernews.com/2023/12/urgent-new-chrome-zero-day.html</h5>
 
 <table style="width:830px" cellspacing="0" cellpadding="0">
 <tbody valign="top">
@@ -197,7 +202,7 @@
  <td style="width:7%">COMPANY</td>
  <td style="width:31%"><a href="https://citizenlab.ca/2021/07/hooking-candiru-another-mercenary-spyware-vendor-comes-into-focus">Candori</a></td>
  <td style="width:31%">NSO Group</td>
- <td style="width:31%"> &#x2011; </td>
+ <td style="width:31%"> — </td>
 </tr>
 <tr>
  <td style="width:7%">COUNTRY</td>
@@ -207,266 +212,266 @@
 </tr>
 <tr>
  <td style="width:7%">HOW IT WORKS</td>
- <td style="width:31%">&#x2011; remote installation<br>
- &#x2011; remote data interception<br></td>
- <td style="width:31%">&#x2011; remote installation<br>
- &#x2011; remote data interception<br></td>
- <td style="width:31%">&#x2011; local one-time usage via USB device<br>
- &#x2011; local data interception<br>
- &#x2011; integration with 3rd party remote solutions<br></td>
+ <td style="width:31%">— remote installation<br>
+ — remote data interception<br></td>
+ <td style="width:31%">— remote installation<br>
+ — remote data interception<br></td>
+ <td style="width:31%">— local one-time usage via USB device<br>
+ — local data interception<br>
+ — integration with 3rd party remote solutions<br></td>
 </tr>
 <tr>
  <td style="width:7%">SUPPORTED PLATFORMS<br>(SUMMARY)</td>
- <td style="width:31%">&#x2011; Windows<br>
- &#x2011; Android<br>
- &#x2011; iOS<br>
- &#x2011; possibly Mac OS<br></td>
- <td style="width:31%">&#x2011; Android<br>
- &#x2011; iOS<br>
- &#x2011; Symbian<br>
- &#x2011; Blackberry<br></td>
- <td style="width:31%">&#x2011; Windows<br>
- &#x2011; Mac OS<br>
- &#x2011; Linux<br>
- &#x2011; Windows Embedded<br>
- &#x2011; Android<br>
- &#x2011; iOS, iPadOS<br>
- &#x2011; Windows Mobile/Phone<br>
- &#x2011; Symbian<br>
- &#x2011; Canon/Nikon/HP photo cameras<br>
- &#x2011; VMware ESXi<br>
- &#x2011; Hyper-V<br></td>
+ <td style="width:31%">— Windows<br>
+ — Android<br>
+ — iOS<br>
+ — possibly Mac OS<br></td>
+ <td style="width:31%">— Android<br>
+ — iOS<br>
+ — Symbian<br>
+ — Blackberry<br></td>
+ <td style="width:31%">— Windows<br>
+ — Mac OS<br>
+ — Linux<br>
+ — Windows Embedded<br>
+ — Android<br>
+ — iOS, iPadOS<br>
+ — Windows Mobile/Phone<br>
+ — Symbian<br>
+ — Canon/Nikon/HP photo cameras<br>
+ — VMware ESXi<br>
+ — Hyper-V<br></td>
 </tr>
 <tr>
  <td style="width:7%">HOW OPERATORS USE<br>
  THE SYSTEM</td>
- <td style="width:31%">&#x2011; web panel for operators<br>
- &#x2011; all actions are logged<br>
- &#x2011; operators are fully responsible for any abuse attempts<br></td>
- <td style="width:31%">&#x2011; web panel for operators<br>
- &#x2011; all actions are logged<br>
- &#x2011; operators are fully responsible for any abuse attempts<br></td>
- <td style="width:31%">&#x2011; all exfiltrated data are stored locally on the USB device (on encrypted partition)<br>
- &#x2011; no panel &#x2011; operator has full access to raw data and can analyze it in preferred way, eg. import into Magnet AXIOM, Paraben E3, FTK Forensic Toolkit, Autopsy, or SANS SIFT for forensic analysis using these tools<br>
- &#x2011; basic Linux knowledge is required<br>
- &#x2011; both USB device and collected data are in the sole possession of the operator<br>
- &#x2011; no operator abuse control<br></td>
+ <td style="width:31%">— web panel for operators<br>
+ — all actions are logged<br>
+ — operators are fully responsible for any abuse attempts<br></td>
+ <td style="width:31%">— web panel for operators<br>
+ — all actions are logged<br>
+ — operators are fully responsible for any abuse attempts<br></td>
+ <td style="width:31%">— all exfiltrated data are stored locally on the USB device (on encrypted partition)<br>
+ — no panel — operator has full access to raw data and can analyze it in preferred way, eg. import into Magnet AXIOM, Paraben E3, FTK Forensic Toolkit, Autopsy, or SANS SIFT for forensic analysis using these tools<br>
+ — basic Linux knowledge is required<br>
+ — both USB device and collected data are in the sole possession of the operator<br>
+ — no operator abuse control<br></td>
 </tr>
 <tr>
  <td style="width:7%">SOME FUNCTIONALITIES AND TRACKING METHODS</td>
  <td style="width:31%"><b>WINDOWS (PC)</b><br>
  • Supported versions<br>
- &#x2011; 7<br>
- &#x2011; 10 (documentation states that only 64-bit)<br>
- &#x2011; not sure about Windows 8 / 8.1<br>
- &#x2011; not sure about Windows Server<br>
+ — 7<br>
+ — 10 (documentation states that only 64-bit)<br>
+ — not sure about Windows 8 / 8.1<br>
+ — not sure about Windows Server<br>
  • Software-only installation method(s)<br>
  ∙ Remote installation using<br>
- &#x2011; CVE-2021-31979 and CVE-2021-33771 (attack on Windows)<br>
- &#x2011; RCE for Chrome, Firefox or Internet Explorer<br>
- &#x2011; RCE on Microsoft Office 2013-2019<br>
+ — CVE-2021-31979 and CVE-2021-33771 (attack on Windows)<br>
+ — RCE for Chrome, Firefox or Internet Explorer<br>
+ — RCE on Microsoft Office 2013-2019<br>
  • Post-install remote functionalities<br>
- ∙ Standard package &#x2011; access to:<br>
- &#x2011; Skype<br>
- &#x2011; Outlook<br>
- &#x2011; Telegram<br>
- &#x2011; Facebook<br>
- &#x2011; Gmail<br>
- &#x2011; device ID<br>
- &#x2011; browsing history<br>
- &#x2011; geolocation<br>
- &#x2011; raw files<br>
- &#x2011; passwords<br>
- &#x2011; keylogger<br>
- &#x2011; webcam<br>
- &#x2011; microphone recording<br>
- &#x2011; screenshots<br>
- &#x2011; Paid separately:<br>
- &#x2011; remote shell (Windows-only, 1.5M EUR)<br>
- &#x2011; Twitter<br>
- &#x2011; Viber<br>
- &#x2011; Signal<br>
- &#x2011; WeChat<br>
- &#x2011; Odnoklassniki<br>
- &#x2011; Vkontakte<br>
- &#x2011; Mail.ru<br>
+ ∙ Standard package — access to:<br>
+ — Skype<br>
+ — Outlook<br>
+ — Telegram<br>
+ — Facebook<br>
+ — Gmail<br>
+ — device ID<br>
+ — browsing history<br>
+ — geolocation<br>
+ — raw files<br>
+ — passwords<br>
+ — keylogger<br>
+ — webcam<br>
+ — microphone recording<br>
+ — screenshots<br>
+ — Paid separately:<br>
+ — remote shell (Windows-only, 1.5M EUR)<br>
+ — Twitter<br>
+ — Viber<br>
+ — Signal<br>
+ — WeChat<br>
+ — Odnoklassniki<br>
+ — Vkontakte<br>
+ — Mail.ru<br>
  
  <b>LINUX</b><br>
  • Post-install remote functionalities<br>
- &#x2011; n/a <br>
+ — n/a <br>
 
  <b>ANDROID</b><br>
  • Installation and tracking method(s)<br>
- &#x2011; supported, there is a closed list of supported Android versions (4-9 as for 2020); documentation suggests that <br>
- &#x2011; they may have problems with Android forks eg. Xiaomi MIUI, they support Samsung Galaxy S phones (and probably tablets), and agreed list of models/vendors for additional fee<br>
+ — supported, there is a closed list of supported Android versions (4-9 as for 2020); documentation suggests that <br>
+ — they may have problems with Android forks eg. Xiaomi MIUI, they support Samsung Galaxy S phones (and probably tablets), and agreed list of models/vendors for additional fee<br>
  
  • What information is available after installation<br>
- ∙ Standard package &#x2011; access to:<br>
- &#x2011; photos & screenshots<br>
- &#x2011; emails, sms<br>
- &#x2011; browsing history<br>
- &#x2011; contact details<br>
- &#x2011; calendar records<br>
- &#x2011; GPS location tracking<br>
- &#x2011; basic/advanced device info<br>
- &#x2011; call history<br>
- &#x2011; list directories<br>
- &#x2011; Google Drive<br>
- &#x2011; Dropbox<br>
- &#x2011; WhatsApp<br>
- &#x2011; FB Messenger<br>
- &#x2011; Skype<br>
- &#x2011; Telegram<br>
- &#x2011; network details<br>
- &#x2011; network change notifications<br>
- &#x2011; recording microphone and phone calls<br>
+ ∙ Standard package — access to:<br>
+ — photos & screenshots<br>
+ — emails, sms<br>
+ — browsing history<br>
+ — contact details<br>
+ — calendar records<br>
+ — GPS location tracking<br>
+ — basic/advanced device info<br>
+ — call history<br>
+ — list directories<br>
+ — Google Drive<br>
+ — Dropbox<br>
+ — WhatsApp<br>
+ — FB Messenger<br>
+ — Skype<br>
+ — Telegram<br>
+ — network details<br>
+ — network change notifications<br>
+ — recording microphone and phone calls<br>
  
  ∙ Paid separately:<br>
- &#x2011; Twitter<br>
- &#x2011; Viber<br>
- &#x2011; Signal<br>
- &#x2011; WeChat<br>
- &#x2011; Odnoklassniki<br>
- &#x2011; Vkontakte<br>
- &#x2011; Mail.ru<br>
+ — Twitter<br>
+ — Viber<br>
+ — Signal<br>
+ — WeChat<br>
+ — Odnoklassniki<br>
+ — Vkontakte<br>
+ — Mail.ru<br>
 
 <b>MAC OS</b><br>
  • Post-install remote functionalities<br>
- ∙ Standard package &#x2011; access to:<br>
+ ∙ Standard package — access to:<br>
  • Installation and tracking method(s)<br>
- &#x2011; not sure &#x2011; depending on each source, supported or not<br>
+ — not sure — depending on each source, supported or not<br>
 
 <b>APPLE IOs</b><br>
  • Installation and tracking method(s)<br>
- &#x2011; remote installation using either attack on Safari, or whole iOS (details not revealed)<br>
+ — remote installation using either attack on Safari, or whole iOS (details not revealed)<br>
  • What information is available after installation<br>
- ∙ Standard package &#x2011; access to:<br>
- &#x2011; photos & screenshots<br>
- &#x2011; emails, sms<br>
- &#x2011; browsing history<br>
- &#x2011; contact details<br>
- &#x2011; calendar records<br>
- &#x2011; GPS location tracking<br>
- &#x2011; basic/advanced device info<br>
- &#x2011; call history<br>
- &#x2011; list directories<br>
- &#x2011; Google Drive<br>
- &#x2011; Dropbox<br>
- &#x2011; WhatsApp<br>
- &#x2011; FB Messenger<br>
- &#x2011; Skype<br>
- &#x2011; Telegram<br>
- &#x2011; network details<br>
- &#x2011; network change notifications<br>
- &#x2011; recording microphone and phone calls<br>
- &#x2011; Paid separately:<br>
- &#x2011; Twitter<br>
- &#x2011; Viber<br>
- &#x2011; Signal<br>
- &#x2011; WeChat<br>
- &#x2011; Odnoklassniki<br>
- &#x2011; Vkontakte<br>
- &#x2011; Mail.ru<br>
+ ∙ Standard package — access to:<br>
+ — photos & screenshots<br>
+ — emails, sms<br>
+ — browsing history<br>
+ — contact details<br>
+ — calendar records<br>
+ — GPS location tracking<br>
+ — basic/advanced device info<br>
+ — call history<br>
+ — list directories<br>
+ — Google Drive<br>
+ — Dropbox<br>
+ — WhatsApp<br>
+ — FB Messenger<br>
+ — Skype<br>
+ — Telegram<br>
+ — network details<br>
+ — network change notifications<br>
+ — recording microphone and phone calls<br>
+ — Paid separately:<br>
+ — Twitter<br>
+ — Viber<br>
+ — Signal<br>
+ — WeChat<br>
+ — Odnoklassniki<br>
+ — Vkontakte<br>
+ — Mail.ru<br>
  </td>
  <td style="width:31%">
  <b>WINDOWS (PC)</b><br>
  • Supported versions<br>
- &#x2011; n/a <br>
+ — n/a <br>
  • Software-only installation method(s)<br>
  ∙ Remote installation using<br>
- &#x2011; n/a <br>
+ — n/a <br>
  • Post-install remote functionalities<br>
- &#x2011; n/a <br>
+ — n/a <br>
     
 <b>LINUX</b><br>
  • Post-install remote functionalities<br>
-&#x2011; n/a <br>
+— n/a <br>
 <b>ANDROID</b><br>
 • Installation and tracking method(s)<br>
 ∙ Remote:<br>
-&#x2011; magic sms/push, non-persistent infection, requiring re-infecting after each reboot<br>
-&#x2011; in non-root mode it can ask the user for permissions to access eg. photos, just like normal app<br>
+— magic sms/push, non-persistent infection, requiring re-infecting after each reboot<br>
+— in non-root mode it can ask the user for permissions to access eg. photos, just like normal app<br>
 *supported Android versions: from 2.1, mainly Samsung Galaxy and Sony Xperia devices<br>
 • What information is available after installation<br>
-&#x2011; photos & screenshots<br>
-&#x2011; emails, sms<br>
-&#x2011; browsing history<br>
-&#x2011; contact details<br>
-&#x2011; calendar records<br>
-&#x2011; converations from Skype, WhatsApp, Twitter, Facebook, Viber, KakaoTalk<br>
-&#x2011; GPS location tracking<br>
-&#x2011; device settings<br>
-&#x2011; network details<br>
-&#x2011; raw file retrieval<br>
-&#x2011; recording microphone and phone calls (Android-only)<br>
+— photos & screenshots<br>
+— emails, sms<br>
+— browsing history<br>
+— contact details<br>
+— calendar records<br>
+— converations from Skype, WhatsApp, Twitter, Facebook, Viber, KakaoTalk<br>
+— GPS location tracking<br>
+— device settings<br>
+— network details<br>
+— raw file retrieval<br>
+— recording microphone and phone calls (Android-only)<br>
   
 <b>MAC OS</b><br>
 • Post-install remote functionalities<br>
-∙ Standard package &#x2011; access to:<br>
+∙ Standard package — access to:<br>
 • Installation and tracking method(s)<br>
-&#x2011; n/a<br>
+— n/a<br>
 <b>Apple IOS</b><br>
 • Installation and tracking method(s)<br>
 ∙ Remote, using:<br>
-&#x2011; magic sms/push<br>
-&#x2011; Trident exploit (CVE-2016-4655, CVE-2016-4656, CVE-2016-4657)<br>
-&#x2011; Kismet exploit (2020)<br>
-&#x2011; ForcedDentry (2021) previously known as Megalodon (2019)<br>
-&#x2011; existing jailbreak<br>
-&#x2011; emulation of clicking on important apps (eg. iMessage) non-persistent infection, requiring re-infecting after each reboot; supported iOS versions: from 4.x (iPhone 4)<br>
+— magic sms/push<br>
+— Trident exploit (CVE-2016-4655, CVE-2016-4656, CVE-2016-4657)<br>
+— Kismet exploit (2020)<br>
+— ForcedDentry (2021) previously known as Megalodon (2019)<br>
+— existing jailbreak<br>
+— emulation of clicking on important apps (eg. iMessage) non-persistent infection, requiring re-infecting after each reboot; supported iOS versions: from 4.x (iPhone 4)<br>
 • What information is available after installation<br>
-&#x2011; photos & screenshots<br>
-&#x2011; emails, sms<br>
-&#x2011; browsing history<br>
-&#x2011; contact details<br>
-&#x2011; calendar records<br>
-&#x2011; converations from Skype, WhatsApp, Twitter, Facebook, Viber, KakaoTalk<br>
-&#x2011; GPS location tracking<br>
-&#x2011; device settings<br>
-&#x2011; network details<br>
-&#x2011; raw file retrieval<br>
+— photos & screenshots<br>
+— emails, sms<br>
+— browsing history<br>
+— contact details<br>
+— calendar records<br>
+— converations from Skype, WhatsApp, Twitter, Facebook, Viber, KakaoTalk<br>
+— GPS location tracking<br>
+— device settings<br>
+— network details<br>
+— raw file retrieval<br>
 </td>
 <td style="width:31%">
 <b>WINDOWS (PC)</b><br>
 • Supported versions<br>
-&#x2011; from XP SP2 to 11 (including "S")<br>
-&#x2011; Server 2003-2022<br>
-&#x2011; Embedded Standard 7 and 2009<br>
+— from XP SP2 to 11 (including "S")<br>
+— Server 2003-2022<br>
+— Embedded Standard 7 and 2009<br>
 • Software-only installation method(s)<br>
 1.local data exfiltration, via plugged-in USB device, support for Bitlocker / LUKS / VeraCrypt drive encryption<br>
 2.local injection of 3rd party exploits (possibly remotely exploitable), straight from USB device, without disconnecting the hard drive<br>
 • Post-install remote functionalities<br>
-&#x2011; Only exploitation of locally injected 3rd party exploit(s).<br>
+— Only exploitation of locally injected 3rd party exploit(s).<br>
 <b>LINUX</b><br>
 • Software-only installation method(s)<br>
 ∙ Remote installation using<br>
-&#x2011; n/a<br>
+— n/a<br>
 • Post-install remote functionalities<br>
 1.local data exfiltration, via USB, support for Bitlocker / LUKS / VeraCrypt drive encryption<br>
 2.local injection of 3rd party exploits (possibly remotely exploitable), straight from USB, without disconnecting the hard drive<br>
 <b>ANDROID</b><br>
 • Installation and tracking method(s)<br>
-&#x2011; local data exfiltration only, through MTP, PTP or Mass Storage (depending onAndroid version and security settings), requires already unlocked device<br>
+— local data exfiltration only, through MTP, PTP or Mass Storage (depending onAndroid version and security settings), requires already unlocked device<br>
 • What information is available after installation<br>
-&#x2011; photos & screenshots<br>
-&#x2011; in MTP/MSC mode, everything that is remotely visible (access to raw files)<br>
+— photos & screenshots<br>
+— in MTP/MSC mode, everything that is remotely visible (access to raw files)<br>
 <b>MAC OS</b><br>
 • Software-only installation method(s)<br>
 ∙ Remote installation <br>
 • Post-install remote functionalities<br>
-&#x2011; local data exfiltration only, via USB, support for APFS FileVault encryption, on T2-based models requires the device to already unlocked<br>
+— local data exfiltration only, via USB, support for APFS FileVault encryption, on T2-based models requires the device to already unlocked<br>
 
 • Installation and tracking method(s)<br>
-&#x2011; local data exfiltration only, via USB, support for APFS FileVault encryption, on T2-based models requires the device to already unlocked<br>
+— local data exfiltration only, via USB, support for APFS FileVault encryption, on T2-based models requires the device to already unlocked<br>
 <b>Apple IOS</b><br>
  
 • Installation and tracking method(s)<br>
 ∙ Remote, using:<br>
-&#x2011; magic sms/push<br>
-&#x2011; Cydia Substrate's hooking functionality (iOS11 and below, only jailbroken devices)<br>
+— magic sms/push<br>
+— Cydia Substrate's hooking functionality (iOS11 and below, only jailbroken devices)<br>
 
 • What information is available after installation<br>
-&#x2011; everything that is remotely visible according to phone/tablet security settings (access to raw files)<br>
+— everything that is remotely visible according to phone/tablet security settings (access to raw files)<br>
 </td>  
 </tr>
 <tr>
@@ -488,7 +493,7 @@
  <td>free</td>
 </tr>
 <tr>
- <td style="width:7%">One time entry cost &#x2011; excluding trainings</td>
+ <td style="width:7%">One time entry cost — excluding trainings</td>
  <td>€ 16.850.000</td>
  <td>€ 3.500.000</td>
  <td>only hardware cost</td>
@@ -569,31 +574,32 @@
 <tbody> 
 <tr>
 <td valign="top" style="width:25%">
-<a href="https://www.cisa.gov/">US &#x2011; CISA</a><br>
-<a href="https://www.cyber.gc.ca/en">CA &#x2011; Cyber</a><br>
-<a href="https://csirtamericas.org/en">Americas &#x2011; CSIRT</a><br>
+<a href="https://www.cisa.gov/">US — CISA</a><br>
+<a href="https://www.cyber.gc.ca/en">CA — Cyber</a><br>
+<a href="https://csirtamericas.org/en">Americas — CSIRT</a><br>
 </td>
 <td valign="top" style="width:25%">
-<a href="https://www.enisa.europa.eu">EU &#x2011; ENISA</a><br>
-<a href="https://www.ncsc.gov.uk">UK &#x2011; NCSC</a><br>
-<a href="https://english.ncsc.nl">NL &#x2011; NCSC</a><br>
-<a href="https://www.bsi.bund.de/EN">DE &#x2011; BSI</a><br>
-<a href="https://www.incibe.es">ES &#x2011; INCIBE</a><br>
-<a href="https://www.nki.gov.hu/en">HU &#x2011; NKI</a><br>
-<a href="https://www.nukib.cz/en">CZ &#x2011; NUKIB</a><br>
-<a href="https://nsm.no/areas-of-expertise/cyber-securitynorwegian-national-cyber-security-centre-ncsc">NO &#x2011; NCSC</a><br>
+<a href="https://www.enisa.europa.eu">EU — ENISA</a><br>
+<a href="https://www.ncsc.gov.uk">UK — NCSC</a><br>
+<a href="https://english.ncsc.nl">NL — NCSC</a><br>
+<a href="https://www.bsi.bund.de/EN">DE — BSI</a><br>
+<a href="https://www.ccn-cert.cni.es/es/">ES —CCN-CERT</a><br>
+<a href="https://www.acn.gov.it/en">IT —ACN</a><br>
+<a href="https://www.nki.gov.hu/en">HU — NKI</a><br>
+<a href="https://www.nukib.cz/en">CZ — NUKIB</a><br>
+<a href="https://nsm.no/areas-of-expertise/cyber-securitynorwegian-national-cyber-security-centre-ncsc">NO — NCSC</a><br>
 </td>
 <td valign="top" style="width:25%">
-<a href="https://www.gov.il/en/departments/israel_national_cyber_directorate/govil-landing-page">IS &#x2011; INCD</a><br>
-<a href="https://www.cyber.gov.au">AU &#x2011; Cyber</a><br>
-<a href="https://www.cert.govt.nz">NZ &#x2011; CERT</a><br>
-<a href="https://www.ncsc.govt.nz">NZ &#x2011; NCSC</a><br>
+<a href="https://www.gov.il/en/departments/israel_national_cyber_directorate/govil-landing-page">IS — INCD</a><br>
+<a href="https://www.cyber.gov.au">AU — Cyber</a><br>
+<a href="https://www.cert.govt.nz">NZ — CERT</a><br>
+<a href="https://www.ncsc.govt.nz">NZ — NCSC</a><br>
 </td>
 <td valign="top" style="width:25%">
-<a href="https://www.kisa.or.kr/EN">KR &#x2011; KISA</a><br>
-<a href="https://www.jpcert.or.jp/english">JP &#x2011; Cert</a><br>
-<a href="https://www.nisc.go.jp/eng/index.html">JP &#x2011; NISC</a><br>
-<a href="https://www.csa.gov.sg">SG &#x2011; CSA</a><br>
+<a href="https://www.kisa.or.kr/EN">KR — KISA</a><br>
+<a href="https://www.jpcert.or.jp/english">JP — Cert</a><br>
+<a href="https://www.nisc.go.jp/eng/index.html">JP — NISC</a><br>
+<a href="https://www.csa.gov.sg">SG — CSA</a><br>
 </td>
 </tr>
 </tbody>
@@ -615,28 +621,28 @@ Visit our repo tree: <a href="https://github.com/RENANZG/My-Forensics/tree/main/
 <h3>FORENSIC TOOLS</h3>
 
 <h4>ONLINE</h4>
-• Virus Total &#x2011; https://www.virustotal.com<br>
-• Binvis &#x2011; https://binvis.io<br>
-• Hybrid &#x2011; https://hybrid-analysis.com<br>
-• Any Run &#x2011; https://app.any.run<br>
-• IP Logger &#x2011; https://iplogger.org<br>
-• IP Tracker &#x2011; https://iplogger.org/ip-tracker<br>
-• Location Tracker &#x2011; https://iplogger.org/location-tracker<br>
-• URL checker &#x2011;  https://iplogger.org/url_checker<br>
-• MAC address lookup &#x2011; https://iplogger.org/mac-checker<br>
+• Virus Total — https://www.virustotal.com<br>
+• Binvis — https://binvis.io<br>
+• Hybrid — https://hybrid-analysis.com<br>
+• Any Run — https://app.any.run<br>
+• IP Logger — https://iplogger.org<br>
+• IP Tracker — https://iplogger.org/ip-tracker<br>
+• Location Tracker — https://iplogger.org/location-tracker<br>
+• URL checker —  https://iplogger.org/url_checker<br>
+• MAC address lookup — https://iplogger.org/mac-checker<br>
 • IP API<br>
-&emsp; &#x2011; ip-api &#x2011; https://ip-api.com<br>
-&emsp; &#x2011; ipify &#x2011; https://www.ipify.org<br>
-&emsp; &#x2011; ipapi &#x2011; https://ipapi.co<br>
-&emsp; &#x2011; vpnapi &#x2011; https://vpnapi.io<br>
-&emsp; &#x2011; ipapi &#x2011; https://ipapi.com<br>
-• Name OSINT &#x2011; https://namechk.com<br>
-• Awesome Osint &#x2011; https://github.com/jivoi/awesome-osint<br>
-• Sherlock Project &#x2011; https://github.com/sherlock-project/sherlock<br>
-• Message Header Analyzer &#x2011; https://mha.azurewebsites.net/  |  https://github.com/microsoft/MHA<br>
-• Reverse Shell Generator &#x2011; https://www.revshells.com<br>
-• Magic Numbers &#x2011; https://en.wikipedia.org/wiki/Magic_number_(programming)<br>
-• Rainbow Tables (Hashes) &#x2011; https://hashes.com/en/decrypt/hash<br>
+&emsp; — ip-api — https://ip-api.com<br>
+&emsp; — ipify — https://www.ipify.org<br>
+&emsp; — ipapi — https://ipapi.co<br>
+&emsp; — vpnapi — https://vpnapi.io<br>
+&emsp; — ipapi — https://ipapi.com<br>
+• Name OSINT — https://namechk.com<br>
+• Awesome Osint — https://github.com/jivoi/awesome-osint<br>
+• Sherlock Project — https://github.com/sherlock-project/sherlock<br>
+• Message Header Analyzer — https://mha.azurewebsites.net/  |  https://github.com/microsoft/MHA<br>
+• Reverse Shell Generator — https://www.revshells.com<br>
+• Magic Numbers — https://en.wikipedia.org/wiki/Magic_number_(programming)<br>
+• Rainbow Tables (Hashes) — https://hashes.com/en/decrypt/hash<br>
 
 
 <!-- ************************************************************ -->
@@ -646,22 +652,22 @@ Visit our repo tree: <a href="https://github.com/RENANZG/My-Forensics/tree/main/
 <h4>Forensics</h4>
 
 <ul>
-<li><a href="https://www.sleuthkit.org/sleuthkit/">The Sleuth Kit (TSK)</a> &#x2011; collection of UNIX-based command line tools that allow you to investigate a computer.</li>
-<li><a href="https://github.com/sleuthkit/sleuthkit">The Sleuth Kit (TSK)</a>&#x2011; GitHub </li>
+<li><a href="https://www.sleuthkit.org/sleuthkit/">The Sleuth Kit (TSK)</a> — collection of UNIX-based command line tools that allow you to investigate a computer.</li>
+<li><a href="https://github.com/sleuthkit/sleuthkit">The Sleuth Kit (TSK)</a>— GitHub </li>
 <li><a href="https://www.autopsy.com">The Autopsy Forensic Browser</a></li>
-<li><a href="https://github.com/WerWolv/ImHex">ImHex</a>&#x2011; </li>
-<li><a href="https://github.com/imagej/ImageJ">ImageJ</a>&#x2011; </li>
+<li><a href="https://github.com/WerWolv/ImHex">ImHex</a>— </li>
+<li><a href="https://github.com/imagej/ImageJ">ImageJ</a>— </li>
 
-<li><a href=""></a>&#x2011; </li>
+<li><a href=""></a>— </li>
 </ul>
-• Drive Badger &#x2011; Covert Data Exfiltration Operations &#x2011; https://github.com/drivebadger/drivebadger<br>
-• Making Maps for Investigators &#x2011; https://github.com/northloopforensics/Fetch<br>
-• Offensive Google framework &#x2011; https://github.com/mxrch/GHunt<br>
-• Bitlocker Key Finder &#x2011; https://github.com/northloopforensics/Bitlocker_Key_Finder<br>
-• SIFT &#x2011; https://github.com/teamdfir/sift<br>
-• RegRipper &#x2011; https://github.com/keydet89/RegRipper3.0<br>
+• Drive Badger — Covert Data Exfiltration Operations — https://github.com/drivebadger/drivebadger<br>
+• Making Maps for Investigators — https://github.com/northloopforensics/Fetch<br>
+• Offensive Google framework — https://github.com/mxrch/GHunt<br>
+• Bitlocker Key Finder — https://github.com/northloopforensics/Bitlocker_Key_Finder<br>
+• SIFT — https://github.com/teamdfir/sift<br>
+• RegRipper — https://github.com/keydet89/RegRipper3.0<br>
 • <br>
-• nomoreransom &#x2011; https://www.nomoreransom.org/en/index.html<br>
+• nomoreransom — https://www.nomoreransom.org/en/index.html<br>
 • https://docs.microsoft.com/en-us/sysinternals/downloads<br>
 • https://www.hirensbootcd.org/download<br>
 
@@ -691,6 +697,8 @@ https://z3x-team.com<br>
 https://www.chainalysis.com<br>
 https://www.elliptic.co<br>
 https://ciphertrace.com<br>
+https://coinmetrics.io<br>
+https://elementus.io<br>
 https://www.blocksherlock.com/home/blockchain-explorers<br>
 https://github.com/immunefi-team/Web3-Security-Library<br>
 https://github.com/demining/CryptoDeepTools<br>
@@ -719,34 +727,34 @@ Visit our repo tree: <a href="https://github.com/RENANZG/My-Forensics/tree/main/
 
 <h4>• Rule of Law Benchmarks</h4>
 
-<h5>Always remember that the law in books is different from the law in action.</h5>
+<img src=".data/law_in_books_22.png" title="lways remember that the law in books is different from the law in action." style="width:100%">
 
 <h4>• International Convention</h4>
-∙ UNO &#x2011; Library of Resources &#x2011; https://www.unodc.org/e4j/en/resdb/index.html<br>
-∙ Budapest Convention &#x2011; Cybercrime &#x2011; https://www.coe.int/en/web/cybercrime/the-budapest-convention<br>
-∙ Octopus Project &#x2011; https://coe.int/en/web/cybercrime/octopus-project<br>
-∙ Five Eyes &#x2011; https://en.wikipedia.org/wiki/Five_Eyes<br>
+∙ UNO — Library of Resources — https://www.unodc.org/e4j/en/resdb/index.html<br>
+∙ Budapest Convention — Cybercrime — https://www.coe.int/en/web/cybercrime/the-budapest-convention<br>
+∙ Octopus Project — https://coe.int/en/web/cybercrime/octopus-project<br>
+∙ Five Eyes — https://en.wikipedia.org/wiki/Five_Eyes<br>
 
-<h4>• Council of Europe &#x2011; Cybercrime</h4>
-∙ Cybercrime &#x2011; https://www.coe.int/cybercrime<br>
-∙ GLACY+ &#x2011; https://coe.int/en/web/cybercrime/glacyplus<br>
-∙ iPROCEEDS-2 &#x2011; https://coe.int/en/web/cybercrime/iproceeds-2<br>
-∙ Octopus Project &#x2011; https://coe.int/en/web/cybercrime/octopus-project<br>
-∙ CyberSouth &#x2011; https://coe.int/en/web/cybercrime/cybersouth<br>
-∙ CyberEast &#x2011; https://coe.int/en/web/cybercrime/cybereast<br>
+<h4>• Council of Europe — Cybercrime</h4>
+∙ Cybercrime — https://www.coe.int/cybercrime<br>
+∙ GLACY+ — https://coe.int/en/web/cybercrime/glacyplus<br>
+∙ iPROCEEDS-2 — https://coe.int/en/web/cybercrime/iproceeds-2<br>
+∙ Octopus Project — https://coe.int/en/web/cybercrime/octopus-project<br>
+∙ CyberSouth — https://coe.int/en/web/cybercrime/cybersouth<br>
+∙ CyberEast — https://coe.int/en/web/cybercrime/cybereast<br>
 
-<h4>• Investigatory Powers &#x2011; Criminal Law</h4>
+<h4>• Investigatory Powers — Criminal Law</h4>
 
 <h6>Americas</h6> 
-∙ US &#x2011; Federal Rules &#x2011; Criminal Procedure &#x2011; Overview &#x2011; <a href="https://www.law.cornell.edu/wex/criminal_procedure" target="_blank">Link</a><br>
-∙ US &#x2011; Federal Rules &#x2011; Criminal Procedure &#x2011; Rule 41 &#x2011; Search and Seizure &#x2011; <a href="https://www.law.cornell.edu/rules/frcrmp/rule_41" target="_blank">Link</a><br>
+∙ US — Federal Rules — Criminal Procedure — Overview — <a href="https://www.law.cornell.edu/wex/criminal_procedure" target="_blank">Link</a><br>
+∙ US — Federal Rules — Criminal Procedure — Rule 41 — Search and Seizure — <a href="https://www.law.cornell.edu/rules/frcrmp/rule_41" target="_blank">Link</a><br>
 
 <h6>Union European</h6>
-∙ UE &#x2011; Criminal procedural laws across the European Union – A comparative analysis &#x2011; <a href="https://www.europarl.europa.eu/RegData/etudes/STUD/2018/604977/IPOL_STU(2018)604977(ANN01)_EN.pdf" target="_blank">Link</a><br>
-∙ UK &#x2011; Crime, justice and law &#x2011; Law and practice &#x2011; <a href="https://www.gov.uk/guidance/rules-and-practice-directions-2020" target="_blank">Link</a><br>
-∙ UK &#x2011; Public General Acts &#x2011; Investigatory Powers Act 2016 &#x2011; <a href="https://www.legislation.gov.uk/ukpga/2016/25/contents" target="_blank">Link</a><br>
-∙ GE &#x2011; German Criminal Code (Strafgesetzbuch – StGB) &#x2011; <a href="https://www.gesetze-im-internet.de/englisch_stgb" target="_blank">Link</a><br>
-∙ GE &#x2011; German Code of Criminal Procedure (Strafprozeßordnung – StPO) &#x2011; <a href="https://www.gesetze-im-internet.de/englisch_stpo/index.html" target="_blank">Link</a><br>
+∙ UE — Criminal procedural laws across the European Union – A comparative analysis — <a href="https://www.europarl.europa.eu/RegData/etudes/STUD/2018/604977/IPOL_STU(2018)604977(ANN01)_EN.pdf" target="_blank">Link</a><br>
+∙ UK — Crime, justice and law — Law and practice — <a href="https://www.gov.uk/guidance/rules-and-practice-directions-2020" target="_blank">Link</a><br>
+∙ UK — Public General Acts — Investigatory Powers Act 2016 — <a href="https://www.legislation.gov.uk/ukpga/2016/25/contents" target="_blank">Link</a><br>
+∙ GE — German Criminal Code (Strafgesetzbuch – StGB) — <a href="https://www.gesetze-im-internet.de/englisch_stgb" target="_blank">Link</a><br>
+∙ GE — German Code of Criminal Procedure (Strafprozeßordnung – StPO) — <a href="https://www.gesetze-im-internet.de/englisch_stpo/index.html" target="_blank">Link</a><br>
 
 ![architecture](https://github.com/RENANZG/My-Forensics/assets/53377291/f92b0055-29fe-40de-9a45-da845d0f3f4b)
 
@@ -924,10 +932,10 @@ Visit our repo tree: <a href="https://github.com/RENANZG/My-Forensics/tree/main/
 <li><a href="https://www.polygon.com/2019/9/19/20874384/french-court-steam-valve-used-games-eu-law">French court rules that Steam’s ban on reselling used games is contrary to European law</a></li>
 <li><a href="https://www.theguardian.com/media/2019/mar/26/meps-approve-sweeping-changes-to-copyright-law-european-copyright-directive">MEPs approve sweeping changes to copyright law</a></li>
 <li><a href="https://www.lifewire.com/legalities-of-linking-3468972">The Legalities of Linking</a></li>
-<li><a href="https://klarislaw.com/wp-content/uploads/klarislaw-copyright-liability-for-linking-and-embedding.pdf">COPYRIGHT LIABILITY FOR LINKING AND EMBEDDING &#x2011; Klaris Law (.PDF)</a></li>
+<li><a href="https://klarislaw.com/wp-content/uploads/klarislaw-copyright-liability-for-linking-and-embedding.pdf">COPYRIGHT LIABILITY FOR LINKING AND EMBEDDING — Klaris Law (.PDF)</a></li>
 <li><a href="https://www.engadget.com/2016/04/08/eu-court-linking-copyrighted-content-is-legal/">EU court says linking to copyrighted material isn&#39;t illegal</a></li>
-<li><a href="https://torrentfreak.com/ip-address-is-not-enough-to-identify-pirate-us-court-of-appeals-rules-180828/">IP Address is Not Enough to Identify Pirate, US Court of Appeals Rules</a> &#x2011; (<a href="https://cdn.ca9.uscourts.gov/datastore/opinions/2018/08/27/17-35041.pdf">.PDF</a>)</li>
-<li><a href="https://torrentfreak.com/new-eu-piracy-watchlist-targets-key-pirate-sites-and-cloudflare-181210/">New EU Piracy Watchlist Targets Key Pirate Sites and Cloudflare</a> &#x2011; (<a href="https://torrentfreak.com/images/tradoc_157564.pdf">.PDF</a>)</li>
+<li><a href="https://torrentfreak.com/ip-address-is-not-enough-to-identify-pirate-us-court-of-appeals-rules-180828/">IP Address is Not Enough to Identify Pirate, US Court of Appeals Rules</a> — (<a href="https://cdn.ca9.uscourts.gov/datastore/opinions/2018/08/27/17-35041.pdf">.PDF</a>)</li>
+<li><a href="https://torrentfreak.com/new-eu-piracy-watchlist-targets-key-pirate-sites-and-cloudflare-181210/">New EU Piracy Watchlist Targets Key Pirate Sites and Cloudflare</a> — (<a href="https://torrentfreak.com/images/tradoc_157564.pdf">.PDF</a>)</li>
 <li><a href="https://torrentfreak.com/domain-registrar-can-be-held-liable-for-pirate-site-court-rules-181224/">Domain Registrar Can be Held Liable for Pirate Site, Court Rules</a></li>
 <li><a href="https://torrentfreak.com/reporting-when-pirate-releases-hit-the-internet-is-apparently-illegal-now-190101/">Reporting When Pirate Releases Hit The Internet is Apparently Illegal Now</a></li>
 <li><a href="https://torrentfreak.com/swiss-copyright-law-downloading-stays-legal-no-site-blocking/">Swiss Copyright Law: Downloading Stays Legal, No Site Blocking</a></li>
@@ -942,23 +950,23 @@ Visit our repo tree: <a href="https://github.com/RENANZG/My-Forensics/tree/main/
 
 <h3> MALWARES, BACKDOORS, ZERO-DAYS, DATA POISONING, SUPPLY CHAIN ATTACK, MAN-IN-THE-MIDDLE (MITM), HONEY POTS, AND SOCIAL ENGINEERING ATTACK</h3>
 
-• MITRE ATT&CK &#x2011; ICS Techniques<br>
+• MITRE ATT&CK — ICS Techniques<br>
 https://attack.mitre.org/techniques/ics<br>
 
-• MITRE ATT&CK &#x2011; Mobile Techniques<br>
+• MITRE ATT&CK — Mobile Techniques<br>
 https://attack.mitre.org/techniques/mobile/<br>
 
-• MITRE ATT&CK &#x2011; Enterprise Techniques<br>
+• MITRE ATT&CK — Enterprise Techniques<br>
 https://attack.mitre.org/techniques/enterprise/<br>
 
 
 <h4>• Training</h4>
 
-∙ Rootme &#x2011; https://www.root-me.org<br>
-∙ Vulnhub &#x2011; https://www.vulnhub.com<br>
-∙ Hacker101 &#x2011; https://www.hacker101.com<br>
-∙ Crackmes &#x2011; https://crackmes.one<br>
-∙ Attack Defense &#x2011; https://attackdefense.com<br>
+∙ Rootme — https://www.root-me.org<br>
+∙ Vulnhub — https://www.vulnhub.com<br>
+∙ Hacker101 — https://www.hacker101.com<br>
+∙ Crackmes — https://crackmes.one<br>
+∙ Attack Defense — https://attackdefense.com<br>
 
 
 <h4>• Some Cases</h4>
@@ -1009,9 +1017,9 @@ https://www.youtube.com/watch?v=6JJo8qCYE8M<br>
 <hr>
 
 <h4>• Tor Browser Fingerprint</h4>
-∙ TOR Fingerprinting &#x2011; https://blog.torproject.org/browser-fingerprinting-introduction-and-challenges-ahead<br>
-∙ Attacks on Tor &#x2011; https://github.com/Attacks-on-Tor/Attacks-on-Tor<br>
-∙ EFF Test &#x2011; https://coveryourtracks.eff.org/learn<br>
+∙ TOR Fingerprinting — https://blog.torproject.org/browser-fingerprinting-introduction-and-challenges-ahead<br>
+∙ Attacks on Tor — https://github.com/Attacks-on-Tor/Attacks-on-Tor<br>
+∙ EFF Test — https://coveryourtracks.eff.org/learn<br>
 <br>
 
 <h4>• Forensics Footprints</h4>
@@ -1037,16 +1045,16 @@ https://www.youtube.com/watch?v=6JJo8qCYE8M<br>
 <!-- ################################# -->
 
 <h3>NETWORK ANALYSIS</h3>
-∙ Snort &#x2011; https://github.com/snort3<br>
-∙ NMAP &#x2011; https://nmap.org<br>
-∙ Wireshark &#x2011; https://www.wireshark.org<br>
+∙ Snort — https://github.com/snort3<br>
+∙ NMAP — https://nmap.org<br>
+∙ Wireshark — https://www.wireshark.org<br>
 <br>
 
 <!-- ################################# -->
 
 <h3>METADATA</h3>
-∙ ExifTool &#x2011; https://github.com/exiftool/exiftool<br>
-∙ PhotoDNA &#x2011; https://anishathalye.com/inverting-photodna<br>
+∙ ExifTool — https://github.com/exiftool/exiftool<br>
+∙ PhotoDNA — https://anishathalye.com/inverting-photodna<br>
 ∙ Geo-tags<br>
 <br>
 
@@ -1063,8 +1071,8 @@ https://github.com/alphaSeclab/awesome-reverse-engineering<br>
 <ul>
 <li><a href="https://www.symantec.com/connect/articles/social-engineering-fundamentals-part-i-hacker-tactics"> Social Engineering Fundamentals, Part I: Hacker Tactics</a>, SecurityFocus</li>
 <li><a href="https://www.symantec.com/connect/articles/social-engineering-fundamentals-part-ii-combat-strategies"> Social Engineering Fundamentals, Part II: Combat Strategies</a>, SecurityFocus</li>
-<li><a href="https://github.com/giuliacassara/awesome-social-engineering">Awesome Social Engineering &#x2011; GitHub</a></li>
-<li><a href="https://github.com/trustedsec/social-engineer-toolkit"> </a>Social Engineer Toolkit &#x2011; GitHub</li>
+<li><a href="https://github.com/giuliacassara/awesome-social-engineering">Awesome Social Engineering — GitHub</a></li>
+<li><a href="https://github.com/trustedsec/social-engineer-toolkit"> </a>Social Engineer Toolkit — GitHub</li>
 
 <li><a href=""> </a></li>
 </ul>
@@ -1145,29 +1153,29 @@ https://github.com/alphaSeclab/awesome-reverse-engineering<br>
 
 <h3>Useful Websites</h3>
 
-&#x2011; OpenCellID &#x2011; [Link](https://opencellid.org/)
-&#x2011; Cell Tower Locator (Cell2GPS) &#x2011; [Link](https://www.cell2gps.com/)
-&#x2011; Cell Phone Trackers &#x2011; [Link](https://cellphonetrackers.org/)
-&#x2011; International Numbering Plans &#x2011; [Link](https://www.numberingplans.com/)
-&#x2011; GSM World Coverage Map and GSM Country List &#x2011; [Link](https://www.worldtimezone.com/gsm.html)
-&#x2011; Imei Info &#x2011; https://www.imei.info
-&#x2011; Phones &#x2011; https://www.gsmarena.com
-&#x2011; Cell Towers &#x2011; https://opencellid.org
+— OpenCellID — [Link](https://opencellid.org/)
+— Cell Tower Locator (Cell2GPS) — [Link](https://www.cell2gps.com/)
+— Cell Phone Trackers — [Link](https://cellphonetrackers.org/)
+— International Numbering Plans — [Link](https://www.numberingplans.com/)
+— GSM World Coverage Map and GSM Country List — [Link](https://www.worldtimezone.com/gsm.html)
+— Imei Info — https://www.imei.info
+— Phones — https://www.gsmarena.com
+— Cell Towers — https://opencellid.org
 
 <h3>Information & Explanations</h3>
 
-&#x2011; IMSI-catcher &#x2011; [Link](https://en.wikipedia.org/wiki/IMSI-catcher)
-&#x2011; GSM frequency bands &#x2011; [Link](https://en.wikipedia.org/wiki/GSM_frequency_bands)
-&#x2011; List of software-defined radios &#x2011; [Link](https://en.wikipedia.org/wiki/List_of_software-defined_radios)
+— IMSI-catcher — [Link](https://en.wikipedia.org/wiki/IMSI-catcher)
+— GSM frequency bands — [Link](https://en.wikipedia.org/wiki/GSM_frequency_bands)
+— List of software-defined radios — [Link](https://en.wikipedia.org/wiki/List_of_software-defined_radios)
 
 <h3>Useful Apps</h3>
 
-&#x2011; Mobile Software
-  &#x2011; AIMSICD &#x2011; [Link](https://github.com/CellularPrivacy/Android-IMSI-Catcher-Detector)
-  &#x2011; SnoopSnitch &#x2011; [Link](https://f-droid.org/en/packages/de.srlabs.snoopsnitch/)
-&#x2011; Desktop Software
-  &#x2011; GsmEvil 2 &#x2011; [Link](https://github.com/ninjhacks/gsmevil2)
-  &#x2011; IMSI-catcher &#x2011; [Link](https://github.com/Oros42/IMSI-catcher)
+— Mobile Software
+  — AIMSICD — [Link](https://github.com/CellularPrivacy/Android-IMSI-Catcher-Detector)
+  — SnoopSnitch — [Link](https://f-droid.org/en/packages/de.srlabs.snoopsnitch/)
+— Desktop Software
+  — GsmEvil 2 — [Link](https://github.com/ninjhacks/gsmevil2)
+  — IMSI-catcher — [Link](https://github.com/Oros42/IMSI-catcher)
 
 <h3>Equipment</h3>
 
@@ -1176,14 +1184,14 @@ GSM 900 / GSM 1800 MHz are used in most parts of the world: Europe, Asia, Austra
 GSM 850 / GSM 1900 MHz are used in the United States, Canada, Mexico and most countries of S. America.
 </pre>
 
-&#x2011; SDR
-  &#x2011; RTL-SDR (65MHz-2.3GHz) &#x2011; [Link](https://www.amazon.com/dp/B06Y1HKLHY)
-&#x2011; Antenna
-  &#x2011; Antenna &#x2011; [Link](https://www.amazon.com/dp/B07HQJKMBD)
+— SDR
+  — RTL-SDR (65MHz-2.3GHz) — [Link](https://www.amazon.com/dp/B06Y1HKLHY)
+— Antenna
+  — Antenna — [Link](https://www.amazon.com/dp/B07HQJKMBD)
 
 <h3>Equipment</h3>
 
-&#x2011; Catching IMSI Catchers &#x2011; [Link](https://youtu.be/eivHO1OzF5E)
+— Catching IMSI Catchers — [Link](https://youtu.be/eivHO1OzF5E)
 
 <h3>GSM Sniffing Install/Setup Guide</h3>
 
@@ -1250,27 +1258,33 @@ $ sudo grgsm_livemon    # Live radio scanning.
 
 <img src="https://github.com/RENANZG/My-Forensics/blob/main/.data/Password_Brute_Force_Strenght_Table_2023.png" title="Password Brute Force Strenght" style="width:100%">
 
-<p>Types of brute force attacks</p>
-
+<h4>Types of brute force attacks</h4>
 
 <h5>Simple Brute Force Attack</h5>
+
 <p>The attacker relies on trying out commonly used, weak passwords such as 123456, qwerty, admin, changeme, qazwsxedc etc.</p>
 
 <h5>Dictionary attack</h5>
+
 <p>Software that can make thousands of guesses every second using dictionary databases, hence the name of the attack.</p>
 
 <h5>Hybrid Brute Force Attack</h5>
+
 <p>A hybrid attack is utilized once the attacker already knows the username of its prey.</p>
 
 <h5>Reverse Brute Force Attack</h5>
+
 <p>A reverse brute force attack requires the attacker to know the password beforehand and then attempt to guess the username.</p>
 
 <h5>Credential stuffing</h5>
+
 <p>Hackers can get entire databases of stolen login credentials and then try to apply them to the account they’re trying to access. This kind of attack can be especially devastating if the attacked user reuses passwords across multiple accounts.</p>
 
 <h5>Rainbow Table Attack</h5>
+
 <p>A rainbow table attack is a method of password cracking that employs rainbow tables to break the password hashes in a database. Websites or apps don’t store passwords in plain text; instead, they encrypt passwords with hashes. Once the password is used for logging in, it is immediately converted to a hash. The next time the user logs in using their passwords, the server checks whether the password matches the previously created hash. If the two hashes match, the user is then authenticated. The tables used to store password hashes are known as rainbow tables.</p>
 
+<h4>Multi Factor Authenticator (MFA) or Two-factor Authenticator (2FA)</h4>
 
 <p>Set up MFA whenever possible, It's an extra layer of security that requires additional steps to verify the user's identity.</p>
 
@@ -1285,70 +1299,70 @@ $ sudo grgsm_livemon    # Live radio scanning.
 <summary><b>Standards</b></summary>
 <br>
 
-<p><b>NIST &#x2011; National Institute of Standards and Technology</b></p>
+<p><b>NIST — National Institute of Standards and Technology</b></p>
 
 <h6>Visit: https://www.nist.gov/standards</h6>
 
-<p><b>ISO/IEC &#x2011; International Electrotechnical Commission</b></p>
+<p><b>ISO/IEC — International Electrotechnical Commission</b></p>
 
 <h6>Visit: https://www.iso27001security.com</h6>
 
-Information security, cybersecurity and privacy protection &#x2011; https://www.iso.org/standard/27001 <br>
+Information security, cybersecurity and privacy protection — https://www.iso.org/standard/27001 <br>
 
 <ul>
-<li><A HREF="https://www.iso27001security.com/html/27000.html">ISO/IEC 27000 &#x2011; ISO27k overview &amp; glossary</a></li>
-<li><A HREF="https://www.iso27001security.com/html/27001.html">ISO/IEC 27001 &#x2011; formal ISMS specification</a></li>
-<li><A HREF="https://www.iso27001security.com/html/27002.html">ISO/IEC 27002 &#x2011; infosec controls catalogue</a></li>
-<li><A HREF="https://www.iso27001security.com/html/27003.html">ISO/IEC 27003 &#x2011; ISMS implementation guide</a></li>
-<li><A HREF="https://www.iso27001security.com/html/27004.html">ISO/IEC 27004 &#x2011; infosec measurement [metrics]</a></li>
-<li><A HREF="https://www.iso27001security.com/html/27005.html">ISO/IEC 27005 &#x2011; info[sec] risk management</a></li>
-<li><A HREF="https://www.iso27001security.com/html/27006.html">ISO/IEC 27006-n &#x2011; ISMS &amp; PIMS certification </a></li>
-<li><A HREF="https://www.iso27001security.com/html/27007.html">ISO/IEC 27007 &#x2011; <I>management system</I> auditing</a></li>
-<li><A HREF="https://www.iso27001security.com/html/27008.html">ISO/IEC TS 27008 &#x2011; <I>security controls</I> auditing</a></li>
-<li><A HREF="https://www.iso27001security.com/html/27009.html">ISO/IEC 27009 &#x2011; sector variants of ISO27k</a></li>
-<li><A HREF="https://www.iso27001security.com/html/27010.html">ISO/IEC 27010 &#x2011; for inter-org comms</a></li>
-<li><A HREF="https://www.iso27001security.com/html/27011.html">ISO/IEC 27011 &#x2011; ISMS for telecoms</a></li>
-<li><A HREF="https://www.iso27001security.com/html/27013.html">ISO/IEC 27013 &#x2011; ISMS &amp; ITIL/service mgmt</a></li>
-<li><A HREF="https://www.iso27001security.com/html/27014.html">ISO/IEC 27014 &#x2011; infosec governance</a></li>
-<li><A HREF="https://www.iso27001security.com/html/27016.html">ISO/IEC TR 27016 &#x2011; infosec economics</a></li>
-<li><A HREF="https://www.iso27001security.com/html/27017.html">ISO/IEC 27017 &#x2011; cloud security controls</a></li>
-<li><A HREF="https://www.iso27001security.com/html/27018.html">ISO/IEC 27018 &#x2011; cloud privacy</a></li>
-<li><A HREF="https://www.iso27001security.com/html/27019.html">ISO/IEC 27019 &#x2011; process control in energy industry</a></li>
-<li><A HREF="https://www.iso27001security.com/html/27021.html">ISO/IEC 27021 &#x2011; competences for ISMS pro&#8217;s</a></li>
-<li><A HREF="https://www.iso27001security.com/html/27022.html">ISO/IEC TS 27022 &#x2011; ISMS processes</a></li>
-<li><A HREF="https://www.iso27001security.com/html/27031.html">ISO/IEC 27031 &#x2011; ICT element of business continuity</a></li>
-<li><A HREF="https://www.iso27001security.com/html/27032.html">ISO/IEC 27032 &#x2011; Internet security</a></li>
-<li><A HREF="https://www.iso27001security.com/html/27033.html">ISO/IEC 27033-n &#x2011; network security</a></li>
-<li><A HREF="https://www.iso27001security.com/html/27034.html">ISO/IEC 27034-n &#x2011; application security</a></li>
-<li><A HREF="https://www.iso27001security.com/html/27035.html">ISO/IEC 27035-n &#x2011; incident management</a></li>
-<li><A HREF="https://www.iso27001security.com/html/27036.html">ISO/IEC 27036-n &#x2011; ICT supply chain &amp; cloud</a></li>
-<li><A HREF="https://www.iso27001security.com/html/27037.html">ISO/IEC 27037 &#x2011; digital evidence [eForensics]</a></li>
-<li><A HREF="https://www.iso27001security.com/html/27038.html">ISO/IEC 27038 &#x2011; document redaction</a></li>
-<li><A HREF="https://www.iso27001security.com/html/27039.html">ISO/IEC 27039 &#x2011; intrusion prevention</a></li>
-<li><A HREF="https://www.iso27001security.com/html/27040.html">ISO/IEC 27040 &#x2011; storage security</a></li>
-<li><A HREF="https://www.iso27001security.com/html/27041.html">ISO/IEC 27041 &#x2011; incident investigation assurance</a></li>
-<li><A HREF="https://www.iso27001security.com/html/27042.html">ISO/IEC 27042 &#x2011; analysing digital evidence</a></li>
-<li><A HREF="https://www.iso27001security.com/html/27043.html">ISO/IEC 27043 &#x2011; incident investigation</a></li>
-<li><A HREF="https://www.iso27001security.com/html/27050.html">ISO/IEC 27050-n &#x2011; digital forensics</a></li>
-<li><A HREF="https://www.iso27001security.com/html/27070.html">ISO/IEC 27070 &#x2011; virtual roots of trust</a></li>
-<li><A HREF="https://www.iso27001security.com/html/27071.html">ISO/IEC 27071 &#x2011; trusted connections</a></li>
-<li><A HREF="https://www.iso27001security.com/html/27099.html">ISO/IEC 27099 &#x2011; ISMS for PKI</a></li>
-<li><A HREF="https://www.iso27001security.com/html/27100.html">ISO/IEC TS 27100 &#x2011; cybersecurity overview/concepts</a></li>
-<li><A HREF="https://www.iso27001security.com/html/27102.html">ISO/IEC 27102 &#x2011; cyber-insurance</a></li>
-<li><A HREF="https://www.iso27001security.com/html/27103.html">ISO/IEC 27103 &#x2011;  ISMS for cybersecurity</a></li>
-<li><A HREF="https://www.iso27001security.com/html/27110.html">ISO/IEC TS 27110 &#x2011; cybersecurity frameworks</a></li>
-<li><A HREF="https://www.iso27001security.com/html/27400.html">ISO/IEC 27400 &#x2011; IoT security and privacy</a></li>
-<li><A HREF="https://www.iso27001security.com/html/27550.html">ISO/IEC TR 27550 &#x2011; privacy engineering</a></li>
-<li><A HREF="https://www.iso27001security.com/html/27553.html">ISO/IEC 27553-n &#x2011; mobile device biometrics</a></li>
-<li><A HREF="https://www.iso27001security.com/html/27555.html">ISO/IEC 27555 &#x2011; deleting PII/personal data</a></li>
-<li><A HREF="https://www.iso27001security.com/html/27556.html">ISO/IEC 27556 &#x2011; privacy preferences</a></li>
-<li><A HREF="https://www.iso27001security.com/html/27557.html">ISO/IEC 27557 &#x2011; privacy risk management</a></li>
-<li><A HREF="https://www.iso27001security.com/html/27559.html">ISO/IEC 27559 &#x2011; de-identification of personal data</a></li>
-<li><A HREF="https://www.iso27001security.com/html/27560.html">ISO/IEC TS 27560 &#x2011; privacy consent record structure</a></li>
-<li><A HREF="https://www.iso27001security.com/html/27563.html">ISO/IEC TR 27563 &#x2011; AI use case security &amp; privacy</a></li>
-<li><A HREF="https://www.iso27001security.com/html/27570.html">ISO/IEC TS 27570 &#x2011; smart city privacy</a></li>
-<li><A HREF="https://www.iso27001security.com/html/27701.html">ISO/IEC 27701 &#x2011; managing privacy with an ISMS</li>
-<li><A HREF="https://www.iso27001security.com/html/27799.html">ISO 27799 &#x2011; information security in healthcare</a></li>
+<li><A HREF="https://www.iso27001security.com/html/27000.html">ISO/IEC 27000 — ISO27k overview &amp; glossary</a></li>
+<li><A HREF="https://www.iso27001security.com/html/27001.html">ISO/IEC 27001 — formal ISMS specification</a></li>
+<li><A HREF="https://www.iso27001security.com/html/27002.html">ISO/IEC 27002 — infosec controls catalogue</a></li>
+<li><A HREF="https://www.iso27001security.com/html/27003.html">ISO/IEC 27003 — ISMS implementation guide</a></li>
+<li><A HREF="https://www.iso27001security.com/html/27004.html">ISO/IEC 27004 — infosec measurement [metrics]</a></li>
+<li><A HREF="https://www.iso27001security.com/html/27005.html">ISO/IEC 27005 — info[sec] risk management</a></li>
+<li><A HREF="https://www.iso27001security.com/html/27006.html">ISO/IEC 27006-n — ISMS &amp; PIMS certification </a></li>
+<li><A HREF="https://www.iso27001security.com/html/27007.html">ISO/IEC 27007 — <I>management system</I> auditing</a></li>
+<li><A HREF="https://www.iso27001security.com/html/27008.html">ISO/IEC TS 27008 — <I>security controls</I> auditing</a></li>
+<li><A HREF="https://www.iso27001security.com/html/27009.html">ISO/IEC 27009 — sector variants of ISO27k</a></li>
+<li><A HREF="https://www.iso27001security.com/html/27010.html">ISO/IEC 27010 — for inter-org comms</a></li>
+<li><A HREF="https://www.iso27001security.com/html/27011.html">ISO/IEC 27011 — ISMS for telecoms</a></li>
+<li><A HREF="https://www.iso27001security.com/html/27013.html">ISO/IEC 27013 — ISMS &amp; ITIL/service mgmt</a></li>
+<li><A HREF="https://www.iso27001security.com/html/27014.html">ISO/IEC 27014 — infosec governance</a></li>
+<li><A HREF="https://www.iso27001security.com/html/27016.html">ISO/IEC TR 27016 — infosec economics</a></li>
+<li><A HREF="https://www.iso27001security.com/html/27017.html">ISO/IEC 27017 — cloud security controls</a></li>
+<li><A HREF="https://www.iso27001security.com/html/27018.html">ISO/IEC 27018 — cloud privacy</a></li>
+<li><A HREF="https://www.iso27001security.com/html/27019.html">ISO/IEC 27019 — process control in energy industry</a></li>
+<li><A HREF="https://www.iso27001security.com/html/27021.html">ISO/IEC 27021 — competences for ISMS pro&#8217;s</a></li>
+<li><A HREF="https://www.iso27001security.com/html/27022.html">ISO/IEC TS 27022 — ISMS processes</a></li>
+<li><A HREF="https://www.iso27001security.com/html/27031.html">ISO/IEC 27031 — ICT element of business continuity</a></li>
+<li><A HREF="https://www.iso27001security.com/html/27032.html">ISO/IEC 27032 — Internet security</a></li>
+<li><A HREF="https://www.iso27001security.com/html/27033.html">ISO/IEC 27033-n — network security</a></li>
+<li><A HREF="https://www.iso27001security.com/html/27034.html">ISO/IEC 27034-n — application security</a></li>
+<li><A HREF="https://www.iso27001security.com/html/27035.html">ISO/IEC 27035-n — incident management</a></li>
+<li><A HREF="https://www.iso27001security.com/html/27036.html">ISO/IEC 27036-n — ICT supply chain &amp; cloud</a></li>
+<li><A HREF="https://www.iso27001security.com/html/27037.html">ISO/IEC 27037 — digital evidence [eForensics]</a></li>
+<li><A HREF="https://www.iso27001security.com/html/27038.html">ISO/IEC 27038 — document redaction</a></li>
+<li><A HREF="https://www.iso27001security.com/html/27039.html">ISO/IEC 27039 — intrusion prevention</a></li>
+<li><A HREF="https://www.iso27001security.com/html/27040.html">ISO/IEC 27040 — storage security</a></li>
+<li><A HREF="https://www.iso27001security.com/html/27041.html">ISO/IEC 27041 — incident investigation assurance</a></li>
+<li><A HREF="https://www.iso27001security.com/html/27042.html">ISO/IEC 27042 — analysing digital evidence</a></li>
+<li><A HREF="https://www.iso27001security.com/html/27043.html">ISO/IEC 27043 — incident investigation</a></li>
+<li><A HREF="https://www.iso27001security.com/html/27050.html">ISO/IEC 27050-n — digital forensics</a></li>
+<li><A HREF="https://www.iso27001security.com/html/27070.html">ISO/IEC 27070 — virtual roots of trust</a></li>
+<li><A HREF="https://www.iso27001security.com/html/27071.html">ISO/IEC 27071 — trusted connections</a></li>
+<li><A HREF="https://www.iso27001security.com/html/27099.html">ISO/IEC 27099 — ISMS for PKI</a></li>
+<li><A HREF="https://www.iso27001security.com/html/27100.html">ISO/IEC TS 27100 — cybersecurity overview/concepts</a></li>
+<li><A HREF="https://www.iso27001security.com/html/27102.html">ISO/IEC 27102 — cyber-insurance</a></li>
+<li><A HREF="https://www.iso27001security.com/html/27103.html">ISO/IEC 27103 —  ISMS for cybersecurity</a></li>
+<li><A HREF="https://www.iso27001security.com/html/27110.html">ISO/IEC TS 27110 — cybersecurity frameworks</a></li>
+<li><A HREF="https://www.iso27001security.com/html/27400.html">ISO/IEC 27400 — IoT security and privacy</a></li>
+<li><A HREF="https://www.iso27001security.com/html/27550.html">ISO/IEC TR 27550 — privacy engineering</a></li>
+<li><A HREF="https://www.iso27001security.com/html/27553.html">ISO/IEC 27553-n — mobile device biometrics</a></li>
+<li><A HREF="https://www.iso27001security.com/html/27555.html">ISO/IEC 27555 — deleting PII/personal data</a></li>
+<li><A HREF="https://www.iso27001security.com/html/27556.html">ISO/IEC 27556 — privacy preferences</a></li>
+<li><A HREF="https://www.iso27001security.com/html/27557.html">ISO/IEC 27557 — privacy risk management</a></li>
+<li><A HREF="https://www.iso27001security.com/html/27559.html">ISO/IEC 27559 — de-identification of personal data</a></li>
+<li><A HREF="https://www.iso27001security.com/html/27560.html">ISO/IEC TS 27560 — privacy consent record structure</a></li>
+<li><A HREF="https://www.iso27001security.com/html/27563.html">ISO/IEC TR 27563 — AI use case security &amp; privacy</a></li>
+<li><A HREF="https://www.iso27001security.com/html/27570.html">ISO/IEC TS 27570 — smart city privacy</a></li>
+<li><A HREF="https://www.iso27001security.com/html/27701.html">ISO/IEC 27701 — managing privacy with an ISMS</li>
+<li><A HREF="https://www.iso27001security.com/html/27799.html">ISO 27799 — information security in healthcare</a></li>
 </ul>
 
 <p><b>RFC</b></p>
@@ -1435,7 +1449,7 @@ Security Payload (ESP) and Authentication Header (AH)</a></li>
  <li><a href="https://www.ietf.org/rfc/rfc2577.txt"> RFC 2577: FTP Security Considerations</a></li>
  <li><a href="https://www.ietf.org/rfc/rfc2979.txt"> RFC 2979: Behavior of and Requirements for Internet Firewalls</a></li>
  <li><a href="https://www.ietf.org/rfc/rfc3067.txt"> RFC 3067: TERENA's Incident Object Description and Exchange Format Requirements</a></li>
- <li><a href="https://www.ietf.org/rfc/rfc3098.txt"> RFC 3098: How to Advertise Responsibly Using E-Mail and Newsgroups or &#x2011; how NOT to $$$$$  MAKE ENEMIES FAST!  $$$$$</a></li>
+ <li><a href="https://www.ietf.org/rfc/rfc3098.txt"> RFC 3098: How to Advertise Responsibly Using E-Mail and Newsgroups or — how NOT to $$$$$  MAKE ENEMIES FAST!  $$$$$</a></li>
 
 <li><a href="https://www.ietf.org/rfc/rfc3164.txt">RFC 3164: The BSD syslog Protocol</a></li>
 <li><a href="https://www.ietf.org/rfc/rfc3174.txt">RFC 3174: US Secure Hash Algorithm 1 (SHA1)</a></li>
@@ -1501,11 +1515,11 @@ Security Payload (ESP) and Authentication Header (AH)</a></li>
 <li><a href="https://www.magnetforensics.com">https://www.magnetforensics.com</a></li>
 <li><a href="https://www.exterro.com/ftk-product-downloads/how-to-run-ftk-imager-from-a-flash-drive-imager-lite">FTK Lite</a><br>
 <li><a href="https://www.icann.org/en/ssac/publications">SSAC Publications</a></li>
-<li><a href="https://www.cert.org/archive/pdf/Botnets.pdf">Botnets as a Vehicle for Online Crime</a> &#x2011; CERT </li>
+<li><a href="https://www.cert.org/archive/pdf/Botnets.pdf">Botnets as a Vehicle for Online Crime</a> — CERT </li>
 <li><a href="https://www.security-audit.com/">Security Audit</a></li>
 <li><a href="https://www.sans.org/">SANS Institute</a></li>
-<li><a href="https://isc.sans.org/">Internet Storm Center</a> &#x2011; SANS Institute</li>
-<li><a href="https://www.cerias.purdue.edu">COAST Hotlist: Computer Security, Law and Privacy</a> &#x2011; CERIAS, Purdue University</li>
+<li><a href="https://isc.sans.org/">Internet Storm Center</a> — SANS Institute</li>
+<li><a href="https://www.cerias.purdue.edu">COAST Hotlist: Computer Security, Law and Privacy</a> — CERIAS, Purdue University</li>
 </ul>
 </ul>
 </details>
@@ -1537,20 +1551,20 @@ https://www.crime-research.org Computer Crime Research Center
 <br>
 • CVE Alerting Platform<br>
 https://github.com/opencve/opencve<br>
-• The Hacker News &#x2011; Newsletter<br>
+• The Hacker News — Newsletter<br>
 https://thehackernews.com/#email-outer<br>
-• Forensic Focus &#x2011; Newsletter<br>
+• Forensic Focus — Newsletter<br>
 https://www.forensicfocus.com<br>
-SANS Institute &#x2011; Newsletter<br>
+SANS Institute — Newsletter<br>
 https://www.sans.org> <br>
-• Google Scholar &#x2011; Alerts<br>
+• Google Scholar — Alerts<br>
 https://scholar.google.com/scholar_alerts?view_op=list_alerts&hl=en-US<br>
 • Wired News<br>
 https://www.wired.com<br>
 • Cert Coordination Center<br>
 https://www.cert.org<br>
-• DoD Instructions Cybersecurity - DODi 8500.01<br>
-https://www.dtic.mil/whs/directives/corres/pdf/850001_2014.pdf<br>
+• DoD Instructions Cybersecurity<br>
+https://www.esd.whs.mil/dd/<br>
 • Computer World<br>
 https://computerworld.com<br>
 • InfoWorld<br>
@@ -1613,19 +1627,19 @@ https://www.techweb.com<br>
 
 <hr>
 
-• Science Direct &#x2011; Forensic Science International: Digital Investigation<br>
+• Science Direct — Forensic Science International: Digital Investigation<br>
 https://www.sciencedirect.com/journal/forensic-science-international-digital-investigation<br>
-• Science Direct &#x2011; Computer Law & Security Review<br>
+• Science Direct — Computer Law & Security Review<br>
 https://www.sciencedirect.com/journal/computer-law-and-security-review<br>
-• Forensic Science &#x2011; Application of science to criminal and civil laws<br>
+• Forensic Science — Application of science to criminal and civil laws<br>
 https://www.forensicscijournal.com<br>
 • International Journal of Intelligence and CounterIntelligence<br>
 https://www.tandfonline.com/journals/ujic20<br>
 • Information Security Journal: A Global Perspective<br>
 https://www.tandfonline.com/journals/uiss20<br>
-• Policing and Society &#x2011; An International Journal of Research and Policy<br>
+• Policing and Society — An International Journal of Research and Policy<br>
 https://www.tandfonline.com/journals/gpas20<br>
-• Police Practice and Research &#x2011; An International Journal<br>
+• Police Practice and Research — An International Journal<br>
 https://www.tandfonline.com/journals/gppr20<br>
 • Journal of Applied Security Research<br>
 https://www.tandfonline.com/journals/wasr20<br>
@@ -1639,7 +1653,7 @@ https://www.tandfonline.com/journals/tajf20<br>
 https://www.acm.org/conferences<br>
 • The APWG Symposium on Electronic Crime Research (APWG eCrime)<br>
 https://ecrimeresearch.org<br>
-• Communications in Computer and Information Science &#x2011; Springer<br>
+• Communications in Computer and Information Science — Springer<br>
 https://www.springer.com/series/7899<br>
 • IEEE Intelligence and Security Informatics (ISI)<br>
 https://ieee-isi.org/<br>
@@ -1670,7 +1684,7 @@ https://github.com/InfoSecIITR/reading-material<br>
 <!-- ################################ -->
 
 <details>
-<summary><b>YouTube &#x2011; Conferences</b></summary>
+<summary><b>YouTube — Conferences</b></summary>
 https://www.youtube.com/@BlackHatOfficialYT<br>
 https://www.youtube.com/@DEFCONConference<br>
 https://www.youtube.com/@DFRWS<br>
@@ -1735,6 +1749,8 @@ https://github.com/504ensicsLabs<br>
 </tr>
 </tbody>
 </table>
+
+<a href="#top"><p align="right">Back to Top</p> </a>
 
 </body>
 </html>
