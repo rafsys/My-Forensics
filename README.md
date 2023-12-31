@@ -1913,7 +1913,20 @@ https://github.com/504ensicsLabs<br>
 </tbody>
 </table>
 
-<a href="https://github.com/RENANZG/My-Forensics#basic-strategy"> <p align="right">Back to Top</p> </a>
+<a href="https://github.com/RENANZG/My-Forensics#digital-forensics-and-incident-response-dfir">Back to Top ⬆</a>
+
+<!--################################### -->
+
+<div id="footer">
+
+<br>
+<br>
+<br>
+
+<p align="center">Made with ♥</p>
+</div>
+
+<!--################################### -->
 
 </body>
 </html>
