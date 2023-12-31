@@ -9,7 +9,7 @@
 
 <div id="header">
 
-<img src="https://latex.codecogs.com/svg.image?\huge&space;\mathbf{\texttt{DIGITAL&space;FORENSICS&space;AND&space;INCIDENT&space;RESPONSE&space;{\color{Orchid}(DFIR)}}}" title="\mathbf{\texttt{DIGITAL FORENSICS AND INCIDENT RESPONSE&space;{\color{Orchid}(DFIR)}}}" />
+<h1>DIGITAL FORENSICS AND INCIDENT RESPONSE (DFIR)</h1>
 
 <blockquote><h3>"These programs were never about terrorism: they're about economic spying, social control and diplomatic manipulation. They're about power." (Edward Snowden)</h3></blockquote>
 
@@ -18,14 +18,6 @@
 </div>
 
 <hr>
-
-<!-- ################################## -->
-
-<br>
-
-```diff
-- UNDER WORK -
-```
 
 <!-- ################################## -->
 
@@ -123,6 +115,7 @@
 • MOBILedit®<br><a href="https://www.mobiledit.com/mobiledit-forensic" target="_blank" rel="noopener noreferrer">https://www.mobiledit.com</a><br>
 • Crowd Strike®<br><a href="https://www.crowdstrike.com" target="_blank" rel="noopener noreferrer">https://www.crowdstrike.com</a><br>
 • Binalyze®<br><a href="https://www.binalyze.com" target="_blank" rel="noopener noreferrer">https://www.binalyze.com</a><br>
+• LexisNexis®<br><a href="https://risk.lexisnexis.com" target="_blank" rel="noopener noreferrer">https://risk.lexisnexis.com</a><br>
 • Thorn's Safer®<br><a href="https://www.thorn.org/" target="_blank" rel="noopener noreferrer">https://www.thorn.org</a><br>
 </td>
 </tr>
@@ -133,31 +126,35 @@
 
 <sub>
 <p><b>Interesting information</b></p>
-<p>• Beyond the Veil of Surveillance: Private Sector Offensive Actors (PSOAs)</p>
-<p>https://socradar.io/beyond-the-veil-of-surveillance-private-sector-offensive-actors-psoas</p>
-<p>• Burn, drown, or smash your phone: Forensics can extract data anyway</p>
-<p>https://www.zdnet.com/article/burn-drown-or-smash-your-phone-forensics-can-extract-data-anyway</p>
-<p>• How law enforcement gets around your smartphone’s encryption</p>
-<p>https://arstechnica.com/information-technology/2021/01/how-law-enforcement-gets-around-your-smartphones-encryption/</p>
-<p>• Researchers Find Way to Steal Encrypted Data - NYT</p>
-<p>https://www.nytimes.com/2008/02/22/technology/22chip.html</p>
-<p>• Cellphone data used to solve murder case from 2 years ago, police say</p>
-<p>https://www.youtube.com/watch?v=EmWsW_p_ta4</p>
-<p>• The Stingray: How Law Enforcement Can Track Your Every Move</p>
-<p>https://www.youtube.com/watch?v=wzSgLpNrr2E</p>
-<p>• Police are tracking you and your license plates</p>
-<p>https://www.youtube.com/watch?v=DH7edXaZS0A</p>
-<p>• SCOTUS: Police Need Search Warrant to Ping cell Phones</p>
-<p>https://www.youtube.com/watch?v=ASYm-3NJ-GA&t=40s</p>
-<p>• EFF to Michigan Court: Governments Shouldn’t Be Allowed to Use a Drone to Spy on You Without a Warrant</p>
-<p>https://www.eff.org/deeplinks/2023/09/eff-michigan-court-governments-shouldnt-be-allowed-use-drone-spy-you-without</p>
-<p>• Motion to Suppress Aerial Surveillance Evidence in U.S. vs Muhammed Momtaz Alazhari</p>
-<p>https://theintercept.com/document/motion-to-suppress-aerial-surveillance-evidence-in-u-s-vs-muhammed-momtaz-alazhari</p>
-<p>• Forensics Journal Comparative analysis of mobile forensic proprietary tools: an application in forensic investigation (2022)</p>
-<p>https://www.forensicscijournal.com/articles/jfsr-aid1039.pdf</p>
-<p>• Methodology for Forensics Data Reconstruction on Mobile Devices with Android Operating System Applying In-System</p>
-<p>Programming and Combination Firmware (2020)</p>
-<p>https://ppee.unb.br/wp-content/uploads/2020/12/Artigo_Claudinei-Morim.pdf</p>
+
+<a href="https://socradar.io/beyond-the-veil-of-surveillance-private-sector-offensive-actors-psoas">• Beyond the Veil of Surveillance: Private Sector Offensive Actors (PSOAs)</a>
+
+<a href="https://www.zdnet.com/article/burn-drown-or-smash-your-phone-forensics-can-extract-data-anyway">• Burn, drown, or smash your phone: Forensics can extract data anyway</a>
+
+<a href="https://arstechnica.com/information-technology/2021/01/how-law-enforcement-gets-around-your-smartphones-encryption">• How law enforcement gets around your smartphone’s encryption</a>
+
+<a href="https://www.youtube.com/watch?v=EmWsW_p_ta4">• Cellphone data used to solve murder case from 2 years ago, police say</a>
+
+<a href="https://www.youtube.com/watch?v=wzSgLpNrr2E">• The Stingray: How Law Enforcement Can Track Your Every Move</a>
+
+<a href="https://www.youtube.com/watch?v=DH7edXaZS0A">• Police are tracking you and your license plates</a>
+
+<a href="https://www.youtube.com/watch?v=ASYm-3NJ-GA&t=40s">• SCOTUS: Police Need Search Warrant to Ping cell Phones</a>
+
+<a href="https://www.eff.org/deeplinks/2023/09/eff-michigan-court-governments-shouldnt-be-allowed-use-drone-spy-you-without">• EFF to Michigan Court: Governments Shouldn’t Be Allowed to Use a Drone to Spy on You Without a Warrant</a>
+
+<a href="https://theintercept.com/document/motion-to-suppress-aerial-surveillance-evidence-in-u-s-vs-muhammed-momtaz-alazhari">• Motion to Suppress Aerial Surveillance Evidence in U.S. vs Muhammed Momtaz Alazhari</a>
+
+<a href="https://www.nytimes.com/2008/02/22/technology/22chip.html">• Researchers Find Way to Steal Encrypted Data - NYT (2008)</a>
+
+<a href="https://www.nakedcapitalism.com/2019/02/reverse-location-search-warrant-a-new-personal-data-hoovering-exercise-brought-to-you-by-google.html">• “Reverse Location Search Warrant”: A New Personal Data Hoovering Exercise Brought to You by Google (2019)</a>
+
+<a href="https://www.nakedcapitalism.com/2021/07/as-un-human-rights-chief-urges-stricter-rules-snowden-calls-for-end-to-spyware-trade.html">• As UN Human Rights Chief Urges Stricter Rules, Snowden Calls for End to Spyware Trade (2021)</a>
+
+<a href="https://www.forensicscijournal.com/articles/jfsr-aid1039.pdf">• Forensics Journal Comparative analysis of mobile forensic proprietary tools: an application in forensic investigation (2022)</a>
+
+<a href="https://ppee.unb.br/wp-content/uploads/2020/12/Artigo_Claudinei-Morim.pdf">• Methodology for Forensics Data Reconstruction on Mobile Devices with Android Operating System Applying In-System Programming and Combination Firmware (2020)</a>
+
 </sub>
 
 <!-- ################################## -->
@@ -605,22 +602,30 @@
 </tbody>
 </table>
 
-<!-- ################################## -->
+<!-- ############################## -->
 
 <br>
 <hr>
 
+${\color{Blue}\textbf{1.PASSIVE FORENSICS}}$
+
+👷🛠️UNDER CONSTRUCTION🚧🏗<br>
+
 <details>
-<summary>${\color{Blue}\textbf{PASSIVE FORENSICS}}$</summary>
+<summary>1.01 Forensic standards</summary>
 <br>
 
-<h3>FORENSIC STANDARDS</h3>
+<p>Visit our repo tree: <a href="https://github.com/RENANZG/My-Forensics/tree/main/2.FORENSIC_STANDARDS">2.FORENSIC_STANDARDS</a></p>
 
-Visit our repo tree: <a href="https://github.com/RENANZG/My-Forensics/tree/main/2.FORENSIC_STANDARDS">2.FORENSIC_STANDARDS</a>
+<br>
+</details>
 
-<h3>FORENSIC TOOLS</h3>
+<!-- ########## -->
 
-<h4>ONLINE</h4>
+<details>
+<summary>1.02 Forensic online tools</summary>
+<br>
+
 • Virus Total — https://www.virustotal.com<br>
 • Binvis — https://binvis.io<br>
 • Hybrid — https://hybrid-analysis.com<br>
@@ -637,41 +642,80 @@ Visit our repo tree: <a href="https://github.com/RENANZG/My-Forensics/tree/main/
 &emsp; — vpnapi — https://vpnapi.io<br>
 &emsp; — ipapi — https://ipapi.com<br>
 • Name OSINT — https://namechk.com<br>
-• Awesome Osint — https://github.com/jivoi/awesome-osint<br>
-• Sherlock Project — https://github.com/sherlock-project/sherlock<br>
 • Message Header Analyzer — https://mha.azurewebsites.net/  |  https://github.com/microsoft/MHA<br>
 • Reverse Shell Generator — https://www.revshells.com<br>
-• Magic Numbers — https://en.wikipedia.org/wiki/Magic_number_(programming)<br>
 • Rainbow Tables (Hashes) — https://hashes.com/en/decrypt/hash<br>
+• MD5 Decrypt - https://md5decrypt.net/en/Sha1<br>
+• Magic Numbers — https://en.wikipedia.org/wiki/Magic_number_(programming)<br>
+• Verexif - https://www.verexif.com/en/<br>
+• Web Cache - https://archive.org<br>
 
+<br>
+</details>
 
-<!-- ************************************************************ -->
+<!-- ########## -->
 
-<h4>OFFLINE</h4>
-
-<h4>Forensics</h4>
+<details>
+<summary>1.03 Forensic offline tools</summary>
+<br>
 
 <ul>
-<li><a href="https://www.sleuthkit.org/sleuthkit/">The Sleuth Kit (TSK)</a> — collection of UNIX-based command line tools that allow you to investigate a computer.</li>
-<li><a href="https://github.com/sleuthkit/sleuthkit">The Sleuth Kit (TSK)</a>— GitHub </li>
+<li><a href="https://www.sleuthkit.org/sleuthkit/">The Sleuth Kit (TSK)</a><a href="https://github.com/sleuthkit/sleuthkit">(GitHub)</a> — collection of UNIX-based command line tools that allow you to investigate a computer.</li>
 <li><a href="https://www.autopsy.com">The Autopsy Forensic Browser</a></li>
 <li><a href="https://github.com/WerWolv/ImHex">ImHex</a>— </li>
 <li><a href="https://github.com/imagej/ImageJ">ImageJ</a>— </li>
-
 <li><a href=""></a>— </li>
 </ul>
+
 • Drive Badger — Covert Data Exfiltration Operations — https://github.com/drivebadger/drivebadger<br>
 • Making Maps for Investigators — https://github.com/northloopforensics/Fetch<br>
 • Offensive Google framework — https://github.com/mxrch/GHunt<br>
 • Bitlocker Key Finder — https://github.com/northloopforensics/Bitlocker_Key_Finder<br>
 • SIFT — https://github.com/teamdfir/sift<br>
 • RegRipper — https://github.com/keydet89/RegRipper3.0<br>
-• <br>
-• nomoreransom — https://www.nomoreransom.org/en/index.html<br>
-• https://docs.microsoft.com/en-us/sysinternals/downloads<br>
-• https://www.hirensbootcd.org/download<br>
+• No More Ransom — https://www.nomoreransom.org/en/index.html<br>
+• MS Sysinternals - https://docs.microsoft.com/en-us/sysinternals/downloads<br>
+• Hiren - https://www.hirensbootcd.org/download<br>
 
-<h3>VOLATILE MEMORY ANALYSIS</h3>
+<h4>Hardware Extractors</h4>
+
+• <br>
+
+<br>
+</details>
+
+<!-- ########## -->
+
+<details>
+<summary>1.04 Cryptography</summary>
+<br>
+
+<h4>Cryptanalysis</h4>
+
+<p>Visit our repo tree: 3.PAPERS_&_GUIDES/Cryptanalysis</p>
+
+<h4>Bruteforce</h4>
+
+<p>Read the "Brute Force" thread below.</p>
+
+<h4>Workrounds</h4>
+
+<p>Visit our repo tree: 3.PAPERS_&_GUIDES/Encryption</p>
+
+<h4>Steganography</h4>
+
+
+<br>
+</details>
+
+<!-- ########## -->
+
+<details>
+<summary>1.05 Memory analysis</summary>
+<br>
+
+<h4>Volatile memory analysis</h4>
+
 • Volatility<br>
 https://www.volatilityfoundation.org/releases<br>
 • Linux Memory Extractor (LiME)<br>
@@ -679,7 +723,7 @@ https://github.com/504ensicsLabs/LiME<br>
 • Cobalt Strike in memory<br>
 https://andreafortuna.org/2020/11/22/how-to-detect-cobalt-strike-activity-in-memory-forensics/<br>
 
-<h3>JTAG, CHIP-OFF AND ISP FORENSICS</h3>
+<h3>JTag, Chip-off and ISP forensics</h3>
 https://www.teeltech.com/ufaqs/what-is-jtag-chip-off-and-isp<br>
 https://www.cellebritelearningcenter.com/mod/page/view.php?id=11903<br>
 https://www.fletc.gov/jtag-chipoff-smartphones-training-program<br>
@@ -693,18 +737,44 @@ https://www.riffbox.org<br>
 https://easy-jtag.com<br>
 https://z3x-team.com<br>
 
-<h3>CRYPTOCURRENCIES ANALYSIS</h3>
-https://www.chainalysis.com<br>
-https://www.elliptic.co<br>
-https://ciphertrace.com<br>
-https://coinmetrics.io<br>
-https://elementus.io<br>
-https://www.blocksherlock.com/home/blockchain-explorers<br>
-https://github.com/immunefi-team/Web3-Security-Library<br>
+<br>
+</details>
+
+<!-- ########## -->
+
+<details>
+<summary>1.06 Cryptocurrencies analysis</summary>
+<br>
+
+<h4>Cryptocurrencies analysis</h4>
+
+https://blocksherlock.com/home/blockchain-explorers<br>
+https://tronscan.org<br>
+https://etherscan.io<br>
+https://algoexplorer.io<br>
+https://explorer.solana.com<br>
+https://stellar.expert<br>
+https://snowtrace.io<br>
+https://flowscan.org<br>
+https://polygonscan.com<br>
+
+<h4>Some tools</h4>
+
 https://github.com/demining/CryptoDeepTools<br>
 https://github.com/demining/bitcoindigger<br>
 https://github.com/demining/Dao-Exploit<br>
+https://github.com/immunefi-team/Web3-Security-Library/blob/main/Tools/README.md#blockchain-analysis<br>
 
+<h4>Private sector</h4>
+
+https://chainalysis.com<br>
+https://elliptic.co<br>
+https://ciphertrace.com<br>
+https://coinmetrics.io<br>
+https://ciphertrace.com<br>
+https://elementus.io<br>
+https://trmlabs.com<br>
+https://bitok.org/investigations<br>
 
 </details>
 
@@ -712,22 +782,95 @@ https://github.com/demining/Dao-Exploit<br>
 
 <hr>
 
+${\color{Red}\textbf{2.ACTIVE FORENSICS}}$
+
+👷🛠️UNDER CONSTRUCTION🚧🏗<br>
+
 <details>
-<summary>${\color{Red}\textbf{ACTIVE FORENSICS}}$</summary>
+<summary>2.01 Police hacking</summary>
+<br>
 
-<!-- ################################# -->
+<p>Visit our repo tree: <a href="https://github.com/RENANZG/My-Forensics/tree/main/4.POLICE_HACKING">4.POLICE_HACKING</a></p>
 
-<h3>POLICE HACKING</h3>
 
-Visit our repo tree: <a href="https://github.com/RENANZG/My-Forensics/tree/main/4.POLICE_HACKING">4.POLICE_HACKING</a>
+<h4>The Cyber Kill Chain</h4>
 
 <img src="https://github.com/RENANZG/My-Forensics/blob/main/.data/the_cyber_kill_chain.png" title="The Cyber Kill Chain" style="width:100%">
 
-<h3>LAW ENFORCEMENT AGENCY (LEA)</h3>
+• MITRE ATT&CK — ICS Techniques<br>
+https://attack.mitre.org/techniques/ics<br>
+
+• MITRE ATT&CK — Mobile Techniques<br>
+https://attack.mitre.org/techniques/mobile/<br>
+
+• MITRE ATT&CK — Enterprise Techniques<br>
+https://attack.mitre.org/techniques/enterprise/<br>
+
+<h4>• Training</h4>
+
+∙ Rootme — https://www.root-me.org<br>
+∙ Vulnhub — https://www.vulnhub.com<br>
+∙ Hacker101 — https://www.hacker101.com<br>
+∙ Crackmes — https://crackmes.one<br>
+∙ Attack Defense — https://attackdefense.com<br>
+
+
+<h4>• Some Cases</h4>
+
+<img src="https://github.com/RENANZG/My-Forensics/blob/main/.data/phones.png" title="Police Hack"/><br>
+
+∙ Omerta Digital (FBI Honey Pot?)<br>
+https://www.omertadigital.com/<br>
+∙ Case: ANON (also stylized as AN0M or ΛNØM)<br>
+https://en.wikipedia.org/wiki/ANOM<br>
+https://www.vice.com/en/article/n7b4gg/anom-phone-arcaneos-fbi-backdoor<br>
+∙ Case: EncroChat<br>
+https://en.wikipedia.org/wiki/EncroChat<br>
+https://eucrim.eu/news/germany-federal-court-of-justice-confirms-use-of-evidence-in-encrochat-cases<br>
+https://xperylab.medium.com/the-dark-phones-encrochat-criminals-are-building-their-own-communication-system-474f3aeef759<br>
+∙ Case: Pegasus Spyware (NSO Group)<br>
+https://theintercept.com/2021/07/27/pegasus-nso-spyware-security<br>
+∙ Case: Verint<br>
+https://wikileaks.org/spyfiles/docs/VERINT_2012_AvneTurn_en.html<br>
+https://www.reddit.com/r/InfoSecNews/comments/sxxzju/leaktheanalyst_group_leak_critical_data_from/<br>
+∙ Case: Phantom Secure<br>
+https://en.wikipedia.org/wiki/Phantom_Secure<br>
+https://www.vice.com/en/article/v7m4pj/the-network-vincent-ramos-phantom-secure<br>
+∙ Case: Sky Global<br>
+https://en.wikipedia.org/wiki/Shutdown_of_Sky_Global<br>
+∙ Case: Bundestrojaner  <br>
+https://en.wikipedia.org/wiki/Bundestrojaner<br>
+∙ Case: Magic Lantern<br>
+https://en.wikipedia.org/wiki/Magic_Lantern_(software)<br>
+https://github.com/bibanon/bibanon/blob/0b84bb23794c91c238a5601403898b61b5d193fc/Encyclopedia/History/Events/Pifts.md?<br>plain=1#L125
+∙ Case: Cryptophon<br>
+https://en.wikipedia.org/wiki/Tron_(hacker)#Cryptophon<br>
+∙ Planting Tiny Spy Chips in Hardware Can Cost as Little as $200<br>
+https://www.wired.com/story/plant-spy-chips-hardware-supermicro-cheap-proof-of-concept<br>
+∙ Installation of beacon implants<br>
+https://arstechnica.com/tech-policy/2014/05/photos-of-an-nsa-upgrade-factory-show-cisco-router-getting-implant  <br>
+∙ The tricky issue of spyware with a badge: meet ‘policeware’<br>
+https://arstechnica.com/information-technology/2007/07/will-security-firms-avoid-detecting-government-spyware<br>
+∙ Analisi della normativa e della giurisprudenza sul captatore informatico e la spiegazione del Caso Exodus<br>
+https://www.dirittoconsenso.it/2021/11/11/captatore-informatico-trojan-di-stato<br>
+∙ LightEater Demo: Stealing GPG keys/emails in Tails via remote firmware infection<br>
+https://www.youtube.com/watch?v=sNYsfUNegEA<br>
+∙ KeyGrabber Forensic Keylogger<br>
+https://www.youtube.com/watch?v=6JJo8qCYE8M<br>
+
+<br>
+</details>
+
+<!-- ########## -->
+
+<details>
+<summary>2.02 Law enforcement agency (LEA)</summary>
 
 <h4>• Rule of Law Benchmarks</h4>
 
-<img src=".data/law_in_books_22.png" title="lways remember that the law in books is different from the law in action." style="width:100%">
+<img src="https://github.com/RENANZG/My-Forensics/blob/main/.data/law_in_books_22.png" title="lways remember that the law in books is different from the law in action." style="width:100%">
+
+<p>* A dictionary is not reality.</p>
 
 <h4>• International Convention</h4>
 ∙ UNO — Library of Resources — https://www.unodc.org/e4j/en/resdb/index.html<br>
@@ -758,7 +901,7 @@ Visit our repo tree: <a href="https://github.com/RENANZG/My-Forensics/tree/main/
 
 ![architecture](https://github.com/RENANZG/My-Forensics/assets/53377291/f92b0055-29fe-40de-9a45-da845d0f3f4b)
 
-<!-- ################################# -->
+<!-- ########## -->
 
 <h2>The Five, Nine, & Fourteen Eyes surveillance alliance includes the following countries:</h2>
 
@@ -909,19 +1052,14 @@ Visit our repo tree: <a href="https://github.com/RENANZG/My-Forensics/tree/main/
 </tbody>
 </table>
 
+<br>
+</details>
 
-<!-- ################################# -->
+<!-- ########## -->
 
-<h4>• Private Agents and LEA</h4>
-
-<ul>
-<li><a href="https://www.nakedcapitalism.com/2019/02/reverse-location-search-warrant-a-new-personal-data-hoovering-exercise-brought-to-you-by-google.html">“Reverse Location Search Warrant”: A New Personal Data Hoovering Exercise Brought to You by Google (2019)</a></li>
-<li><a href="https://www.nakedcapitalism.com/2021/07/as-un-human-rights-chief-urges-stricter-rules-snowden-calls-for-end-to-spyware-trade.html">As UN Human Rights Chief Urges Stricter Rules, Snowden Calls for End to Spyware Trade (2021)</a></li>
-</ul>
-
-<!-- ################################# -->
-
-<h4>• Liability for Contents</h4>
+<details>
+<summary>2.03 Liability for Contents</summary>
+<br>
 
 <ul>
 <li><a href="https://startyourownisp.com/">How to start your own ISP</a></li>
@@ -945,138 +1083,146 @@ Visit our repo tree: <a href="https://github.com/RENANZG/My-Forensics/tree/main/
 <li><a href="https://www.theregister.co.uk/2019/07/20/creative_content_piracy/">British ISPs throw in the towel, give up sending out toothless copyright infringement warnings</a></li>
 </ul>
 
-<!-- ################################# -->
-<hr>
+<br>
+</details>
 
-<h3> MALWARES, BACKDOORS, ZERO-DAYS, DATA POISONING, SUPPLY CHAIN ATTACK, MAN-IN-THE-MIDDLE (MITM), HONEY POTS, AND SOCIAL ENGINEERING ATTACK</h3>
+<!-- ########## -->
 
-• MITRE ATT&CK — ICS Techniques<br>
-https://attack.mitre.org/techniques/ics<br>
-
-• MITRE ATT&CK — Mobile Techniques<br>
-https://attack.mitre.org/techniques/mobile/<br>
-
-• MITRE ATT&CK — Enterprise Techniques<br>
-https://attack.mitre.org/techniques/enterprise/<br>
-
-
-<h4>• Training</h4>
-
-∙ Rootme — https://www.root-me.org<br>
-∙ Vulnhub — https://www.vulnhub.com<br>
-∙ Hacker101 — https://www.hacker101.com<br>
-∙ Crackmes — https://crackmes.one<br>
-∙ Attack Defense — https://attackdefense.com<br>
-
-
-<h4>• Some Cases</h4>
-
-![phones](.data/phones.png)<br>
-
-∙ Omerta Digital (FBI Honey Pot?)<br>
-https://www.omertadigital.com/<br>
-∙ Case: ANON (also stylized as AN0M or ΛNØM)<br>
-https://en.wikipedia.org/wiki/ANOM<br>
-https://www.vice.com/en/article/n7b4gg/anom-phone-arcaneos-fbi-backdoor<br>
-∙ Case: EncroChat<br>
-https://en.wikipedia.org/wiki/EncroChat<br>
-https://eucrim.eu/news/germany-federal-court-of-justice-confirms-use-of-evidence-in-encrochat-cases<br>
-https://xperylab.medium.com/the-dark-phones-encrochat-criminals-are-building-their-own-communication-system-474f3aeef759<br>
-∙ Case: Pegasus Spyware (NSO Group)<br>
-https://theintercept.com/2021/07/27/pegasus-nso-spyware-security<br>
-∙ Case: Verint<br>
-https://wikileaks.org/spyfiles/docs/VERINT_2012_AvneTurn_en.html<br>
-https://www.reddit.com/r/InfoSecNews/comments/sxxzju/leaktheanalyst_group_leak_critical_data_from/<br>
-∙ Case: Phantom Secure<br>
-https://en.wikipedia.org/wiki/Phantom_Secure<br>
-https://www.vice.com/en/article/v7m4pj/the-network-vincent-ramos-phantom-secure<br>
-∙ Case: Sky Global<br>
-https://en.wikipedia.org/wiki/Shutdown_of_Sky_Global<br>
-∙ Case: Bundestrojaner  <br>
-https://en.wikipedia.org/wiki/Bundestrojaner<br>
-∙ Case: Magic Lantern<br>
-https://en.wikipedia.org/wiki/Magic_Lantern_(software)<br>
-https://github.com/bibanon/bibanon/blob/0b84bb23794c91c238a5601403898b61b5d193fc/Encyclopedia/History/Events/Pifts.md?<br>plain=1#L125
-∙ Case: Cryptophon<br>
-https://en.wikipedia.org/wiki/Tron_(hacker)#Cryptophon<br>
-∙ Planting Tiny Spy Chips in Hardware Can Cost as Little as $200<br>
-https://www.wired.com/story/plant-spy-chips-hardware-supermicro-cheap-proof-of-concept<br>
-∙ Installation of beacon implants<br>
-https://arstechnica.com/tech-policy/2014/05/photos-of-an-nsa-upgrade-factory-show-cisco-router-getting-implant  <br>
-∙ The tricky issue of spyware with a badge: meet ‘policeware’<br>
-https://arstechnica.com/information-technology/2007/07/will-security-firms-avoid-detecting-government-spyware<br>
-∙ Analisi della normativa e della giurisprudenza sul captatore informatico e la spiegazione del Caso Exodus<br>
-https://www.dirittoconsenso.it/2021/11/11/captatore-informatico-trojan-di-stato<br>
-∙ LightEater Demo: Stealing GPG keys/emails in Tails via remote firmware infection<br>
-https://www.youtube.com/watch?v=sNYsfUNegEA<br>
-∙ KeyGrabber Forensic Keylogger<br>
-https://www.youtube.com/watch?v=6JJo8qCYE8M<br>
+<details>
+<summary>2.04 Tor Fingerprint</summary>
 <br>
 
-<!-- ############################################################################### -->
-<hr>
+<h4>Tor Fingerprint</h4>
 
-<h4>• Tor Browser Fingerprint</h4>
 ∙ TOR Fingerprinting — https://blog.torproject.org/browser-fingerprinting-introduction-and-challenges-ahead<br>
 ∙ Attacks on Tor — https://github.com/Attacks-on-Tor/Attacks-on-Tor<br>
 ∙ EFF Test — https://coveryourtracks.eff.org/learn<br>
+
+<h4>Hacker Cases</h4>
+
 <br>
 
-<h4>• Forensics Footprints</h4>
-∙ https://github.com/PaulNorman01/Forensia<br>
+<br>
+</details>
+
+<!-- ########## -->
+
+<details>
+<summary>2.05 Forensics Footprints</summary>
 <br>
 
-<h4>• Supply Chain Attack</h4>
-∙ https://reproducible-builds.org<br>
-∙ https://github.com/SAP/risk-explorer-for-software-supply-chains<br>
-∙ https://github.com/ossillate-inc/packj<br>
+<h4>Forensics Footprints</h4>
+
+• https://github.com/PaulNorman01/Forensia<br>
+
+<br>
+</details>
+
+<!-- ########## -->
+
+<details>
+<summary>2.06 Supply Chain Attack</summary>
 <br>
 
-<h4>• APT & Cybercriminal Campagin Collections</h4>
-∙ https://github.com/CyberMonitor/APT_CyberCriminal_Campagin_Collections<br>
+<h4>Supply Chain Attack</h4>
+• https://reproducible-builds.org<br>
+• https://github.com/SAP/risk-explorer-for-software-supply-chains<br>
+• https://github.com/ossillate-inc/packj<br>
+
+<br>
+</details>
+
+<!-- ########## -->
+
+<details>
+<summary>2.07 APT & Cybercriminal Campagin Collections</summary>
 <br>
 
-<h4>• Man-In-The-Middle</h4>
-∙ https://github.com/andreafortuna/MITMInjector<br>
-∙ https://github.com/KoreLogicSecurity/wmkick<br>
-∙ https://github.com/jakev/mitm-helper-wifi<br>
-∙ https://github.com/jakev/mitm-helper-vpn<br>
+<h4>APT & Cybercriminal Campagin Collections</h4>
+• https://github.com/CyberMonitor/APT_CyberCriminal_Campagin_Collections<br>
 
-<!-- ################################# -->
+<br>
+</details>
 
-<h3>NETWORK ANALYSIS</h3>
-∙ Snort — https://github.com/snort3<br>
-∙ NMAP — https://nmap.org<br>
-∙ Wireshark — https://www.wireshark.org<br>
+<!-- ########## -->
+
+<details>
+<summary>2.08 Man In The Middle (MitM)</summary>
 <br>
 
-<!-- ################################# -->
+<h4>Man In The Middle (MitM)</h4>
+• https://github.com/andreafortuna/MITMInjector<br>
+• https://github.com/KoreLogicSecurity/wmkick<br>
+• https://github.com/jakev/mitm-helper-wifi<br>
+• https://github.com/jakev/mitm-helper-vpn<br>
 
-<h3>METADATA</h3>
+<br>
+</details>
+
+<!-- ########## -->
+
+<details>
+<summary>2.09 Network Analysis</summary>
+<br>
+
+<h4>Network Analysis</h4>
+
+• Snort — https://github.com/snort3<br>
+• Wireshark — https://www.wireshark.org<br>
+• NMAP — https://nmap.org<br>
+
+<br>
+</details>
+
+<!-- ########## -->
+
+<details>
+<summary>2.10 Metadata</summary>
+<br>
+
+<h4>Metadata</h4>
+
 ∙ ExifTool — https://github.com/exiftool/exiftool<br>
 ∙ PhotoDNA — https://anishathalye.com/inverting-photodna<br>
-∙ Geo-tags<br>
+∙ Geo-tags — https://tool.geoimgr.com<br>
+
+<br>
+</details>
+
+<!-- ########## -->
+
+<details>
+<summary>2.11 Reverse Engineering</summary>
 <br>
 
-<!-- ################################# -->
+<h4>Reverse Engineering</h4>
 
-<h3>REVERSE ENGINEERING</h3>
 https://github.com/alphaSeclab/awesome-reverse-engineering<br>
-<br>
 
-<!-- ################################# -->
+<h4>Ghidra</h4>
+
+https://ghidra-sre.org<br>
+
+<br>
+</details>
+
+<!-- ########## -->
+
+<details>
+<summary>2.12 Social Engineeringg</summary>
+<br>
 
 <h4>Social Engineering</h4>
 
 <ul>
-<li><a href="https://www.symantec.com/connect/articles/social-engineering-fundamentals-part-i-hacker-tactics"> Social Engineering Fundamentals, Part I: Hacker Tactics</a>, SecurityFocus</li>
-<li><a href="https://www.symantec.com/connect/articles/social-engineering-fundamentals-part-ii-combat-strategies"> Social Engineering Fundamentals, Part II: Combat Strategies</a>, SecurityFocus</li>
+<li><a href="https://www.symantec.com/connect/articles/social-engineering-fundamentals-part-i-hacker-tactics"> Social Engineering Fundamentals, Part I: Hacker Tactics, SecurityFocus</a></li>
+<li><a href="https://www.symantec.com/connect/articles/social-engineering-fundamentals-part-ii-combat-strategies">Social Engineering Fundamentals, Part II: Combat Strategies, SecurityFocus</a></li>
 <li><a href="https://github.com/giuliacassara/awesome-social-engineering">Awesome Social Engineering — GitHub</a></li>
-<li><a href="https://github.com/trustedsec/social-engineer-toolkit"> </a>Social Engineer Toolkit — GitHub</li>
-
+<li><a href="https://github.com/trustedsec/social-engineer-toolkit">Social Engineer Toolkit — GitHub</a></li>
 <li><a href=""> </a></li>
 </ul>
 
+<br>
 </details>
 
 <!-- ############################################################################### -->
@@ -1153,29 +1299,29 @@ https://github.com/alphaSeclab/awesome-reverse-engineering<br>
 
 <h3>Useful Websites</h3>
 
-— OpenCellID — [Link](https://opencellid.org/)
-— Cell Tower Locator (Cell2GPS) — [Link](https://www.cell2gps.com/)
-— Cell Phone Trackers — [Link](https://cellphonetrackers.org/)
-— International Numbering Plans — [Link](https://www.numberingplans.com/)
-— GSM World Coverage Map and GSM Country List — [Link](https://www.worldtimezone.com/gsm.html)
-— Imei Info — https://www.imei.info
-— Phones — https://www.gsmarena.com
-— Cell Towers — https://opencellid.org
+— OpenCellID — [Link](https://opencellid.org/)<br>
+— Cell Tower Locator (Cell2GPS) — [Link](https://www.cell2gps.com/)<br>
+— Cell Phone Trackers — [Link](https://cellphonetrackers.org/)<br>
+— International Numbering Plans — [Link](https://www.numberingplans.com/)<br>
+— GSM World Coverage Map and GSM Country List — [Link](https://www.worldtimezone.com/gsm.html)<br>
+— Imei Info — https://www.imei.info<br>
+— Phones — https://www.gsmarena.com<br>
+— Cell Towers — https://opencellid.org<br>
 
 <h3>Information & Explanations</h3>
 
-— IMSI-catcher — [Link](https://en.wikipedia.org/wiki/IMSI-catcher)
-— GSM frequency bands — [Link](https://en.wikipedia.org/wiki/GSM_frequency_bands)
-— List of software-defined radios — [Link](https://en.wikipedia.org/wiki/List_of_software-defined_radios)
+— IMSI-catcher — [Link](https://en.wikipedia.org/wiki/IMSI-catcher)<br>
+— GSM frequency bands — [Link](https://en.wikipedia.org/wiki/GSM_frequency_bands)<br>
+— List of software-defined radios — [Link](https://en.wikipedia.org/wiki/List_of_software-defined_radios)<br>
 
 <h3>Useful Apps</h3>
 
-— Mobile Software
-  — AIMSICD — [Link](https://github.com/CellularPrivacy/Android-IMSI-Catcher-Detector)
-  — SnoopSnitch — [Link](https://f-droid.org/en/packages/de.srlabs.snoopsnitch/)
-— Desktop Software
-  — GsmEvil 2 — [Link](https://github.com/ninjhacks/gsmevil2)
-  — IMSI-catcher — [Link](https://github.com/Oros42/IMSI-catcher)
+— Mobile Software<br>
+  — AIMSICD — [Link](https://github.com/CellularPrivacy/Android-IMSI-Catcher-Detector)<br>
+  — SnoopSnitch — [Link](https://f-droid.org/en/packages/de.srlabs.snoopsnitch/)<br>
+— Desktop Software<br>
+  — GsmEvil 2 — [Link](https://github.com/ninjhacks/gsmevil2)<br>
+  — IMSI-catcher — [Link](https://github.com/Oros42/IMSI-catcher)<br>
 
 <h3>Equipment</h3>
 
@@ -1184,14 +1330,14 @@ GSM 900 / GSM 1800 MHz are used in most parts of the world: Europe, Asia, Austra
 GSM 850 / GSM 1900 MHz are used in the United States, Canada, Mexico and most countries of S. America.
 </pre>
 
-— SDR
-  — RTL-SDR (65MHz-2.3GHz) — [Link](https://www.amazon.com/dp/B06Y1HKLHY)
-— Antenna
-  — Antenna — [Link](https://www.amazon.com/dp/B07HQJKMBD)
+— SDR<br>
+  — RTL-SDR (65MHz-2.3GHz) — [Link](https://www.amazon.com/dp/B06Y1HKLHY)<br>
+— Antenna<br>
+  — Antenna — [Link](https://www.amazon.com/dp/B07HQJKMBD)<br>
 
 <h3>Equipment</h3>
 
-— Catching IMSI Catchers — [Link](https://youtu.be/eivHO1OzF5E)
+— Catching IMSI Catchers — [Link](https://youtu.be/eivHO1OzF5E)<br>
 
 <h3>GSM Sniffing Install/Setup Guide</h3>
 
@@ -1229,9 +1375,9 @@ $ gnuradio-config-info -v
 <h4>Tips</h4>
 
 <pre>
-$ sudo grgsm_scanner -l # List your SDR connected.
-$ sudo grgsm_scanner    # Scan for cell towers near you.
-$ sudo grgsm_livemon    # Live radio scanning.
+$ sudo grgsm_scanner -l  # List your SDR connected.
+$ sudo grgsm_scanner     # Scan for cell towers near you.
+$ sudo grgsm_livemon     # Live radio scanning.
 </pre>
 
 <br>
@@ -1491,13 +1637,17 @@ Security Payload (ESP) and Authentication Header (AH)</a></li>
 <li><a href="https://www.ietf.org/rfc/rfc4767.txt"> RFC 4767: The Intrusion Detection Exchange Protocol (IDXP)</a></li>
 <li><a href="https://www.ietf.org/rfc/rfc6541.txt"> RFC 6541: DomainKeys Identified Mail (DKIM) Authorized Third-Party Signatures</a></li>
 <li><a href="https://www.ietf.org/rfc/rfc6587.txt"> RFC 6587: Transmission of Syslog Messages over TCP </a></li>
-
 </ul>
+
+<br>
 </details>
+
+<!-- ################################# -->
 
 <details>
 <summary><b>Sites of Interest</b></summary>
 <br>
+
 <ul>
 <li><a href="https://www.cve.org">https://www.cve.org</a></li>
 <li><a href="https://www.cvedetails.com">https://www.cvedetails.com</a></li>
@@ -1522,33 +1672,16 @@ Security Payload (ESP) and Authentication Header (AH)</a></li>
 <li><a href="https://www.cerias.purdue.edu">COAST Hotlist: Computer Security, Law and Privacy</a> — CERIAS, Purdue University</li>
 </ul>
 </ul>
-</details>
 
-
-<!-- ************************************************************ -->
-
-<details>
-<summary><b>Law</b></summary>
 <br>
-https://www.necessaryandproportionate.org<br>
-https://www.fbi.gov<br>
-https://www.justice.gov/news<br>
-https://www.justice.gov/criminal/cybercrime
-https://www.ic3.gov/default.aspx
-https://www.coe.int/en/web/cybercrime<br>
-https://www.sherloc.unodc.org<br>
-https://www.enisa.europa.eu<br>
-https://csrc.nist.gov
-https://www.crime-research.org Computer Crime Research Center
-
 </details>
-
 
 <!-- ################################# -->
 
 <details>
-<summary><b>Publications</b></summary>
+<summary><b>General Publications</b></summary>
 <br>
+
 • CVE Alerting Platform<br>
 https://github.com/opencve/opencve<br>
 • The Hacker News — Newsletter<br>
@@ -1612,10 +1745,13 @@ https://www.reuters.com/news/technology<br>
 • TechWeb<br>
 https://www.techweb.com<br>
 
+<br>
+</details>
+
 <!-- ################################# -->
 
 <details>
-<summary><b>Papers</b></summary>
+<summary><b>Forensic Publications</b></summary>
 <br>
 <p>• Make a Google Scholar search from an interesting subject that you want to follow up on.</p>
 
@@ -1658,7 +1794,54 @@ https://www.springer.com/series/7899<br>
 • IEEE Intelligence and Security Informatics (ISI)<br>
 https://ieee-isi.org/<br>
 
+<br>
 </details>
+
+<details>
+<summary><b>Law Publications</b></summary>
+<br>
+https://www.necessaryandproportionate.org<br>
+https://www.fbi.gov<br>
+https://www.justice.gov/news<br>
+https://www.justice.gov/criminal/cybercrime
+https://www.ic3.gov/default.aspx
+https://www.coe.int/en/web/cybercrime<br>
+https://www.sherloc.unodc.org<br>
+https://www.enisa.europa.eu<br>
+https://csrc.nist.gov
+• Computer Crime Research Center
+https://www.crime-research.org<br>
+https://openyls.law.yale.edu<br>
+https://scholarship.law.duke.edu<br>
+https://law.utexas.edu/transnational/foreign-law-translations/<br>
+
+<br>
+</details>
+
+<!-- ################################ -->
+
+<details>
+<summary><b>YouTube Conferences</b></summary>
+https://www.youtube.com/@BlackHatOfficialYT<br>
+https://www.youtube.com/@DEFCONConference<br>
+https://www.youtube.com/@DFRWS<br>
+https://www.youtube.com/@SANSForensics<br>
+https://www.youtube.com/@SANSOffensiveOperations<br>
+https://www.youtube.com/@RSAConference<br>
+https://www.youtube.com/@USENIXEnigmaConference<br>
+https://www.youtube.com/@DebConfVideos<br>
+https://www.youtube.com/@hitbsecconf<br>
+https://www.youtube.com/@44contv<br>
+https://www.youtube.com/@OffensiveCon<br>
+https://www.youtube.com/@secwestnet<br>
+https://www.youtube.com/@EkopartyConference<br>
+https://www.youtube.com/@reconmtl<br>
+https://www.youtube.com/@TROOPERScon<br>
+https://www.youtube.com/@MCH2022NL<br>
+
+<br>
+</details>
+
 
 <!-- ################################ -->
 
@@ -1679,28 +1862,8 @@ https://www.reddit.com/r/antiforensics<br>
 https://www.reddit.com/r/Smartphoneforensics<br>
 https://github.com/yeahhub/Hacking-Security-Ebooks<br>
 https://github.com/InfoSecIITR/reading-material<br>
-</details>
 
-<!-- ################################ -->
-
-<details>
-<summary><b>YouTube — Conferences</b></summary>
-https://www.youtube.com/@BlackHatOfficialYT<br>
-https://www.youtube.com/@DEFCONConference<br>
-https://www.youtube.com/@DFRWS<br>
-https://www.youtube.com/@SANSForensics<br>
-https://www.youtube.com/@SANSOffensiveOperations<br>
-https://www.youtube.com/@RSAConference<br>
-https://www.youtube.com/@USENIXEnigmaConference<br>
-https://www.youtube.com/@DebConfVideos<br>
-https://www.youtube.com/@hitbsecconf<br>
-https://www.youtube.com/@44contv<br>
-https://www.youtube.com/@OffensiveCon<br>
-https://www.youtube.com/@secwestnet<br>
-https://www.youtube.com/@EkopartyConference<br>
-https://www.youtube.com/@reconmtl<br>
-https://www.youtube.com/@TROOPERScon<br>
-https://www.youtube.com/@MCH2022NL<br>
+<br>
 </details>
 
 <!-- ################################ -->
@@ -1750,7 +1913,7 @@ https://github.com/504ensicsLabs<br>
 </tbody>
 </table>
 
-<a href="#top"><p align="right">Back to Top</p> </a>
+<a href="https://github.com/RENANZG/My-Forensics#basic-strategy"> <p align="right">Back to Top</p> </a>
 
 </body>
 </html>
