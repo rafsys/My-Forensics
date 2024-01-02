@@ -13,7 +13,7 @@
 
 <blockquote><h3>"These programs were never about terrorism: they're about economic spying, social control and diplomatic manipulation. They're about power." (Edward Snowden)</h3></blockquote>
 
-<img src=".data/the_treachery_of_images_1929_-_rene_magritte_830px.png" title="The Treachery of Images (1929) - René Magritte"/>
+<img src=".data/the_treachery_of_images_1929_-_rene_magritte_830px.png" title="The Treachery of Images (1929) - René Magritte" align="center"/>
 
 </div>
 
@@ -1913,7 +1913,10 @@ https://github.com/504ensicsLabs<br>
 </tbody>
 </table>
 
-<a href="https://github.com/RENANZG/My-Forensics#digital-forensics-and-incident-response-dfir">Back to Top ⬆</a>
+<!--################################### -->
+<br>
+
+<p align="right"> <a href="https://github.com/RENANZG/My-Forensics?tab=readme-ov-file#">Back to Top ⬆</a> </p>
 
 <!--################################### -->
 
