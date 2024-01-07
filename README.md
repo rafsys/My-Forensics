@@ -868,9 +868,9 @@ https://www.youtube.com/watch?v=6JJo8qCYE8M<br>
 
 <h4>• Rule of Law Benchmarks</h4>
 
-<img src="https://github.com/RENANZG/My-Forensics/blob/main/.data/law_in_books_22.png" title="lways remember that the law in books is different from the law in action." style="width:100%">
+<img src="https://github.com/RENANZG/My-Forensics/blob/main/.data/law_in_books_22.png" title="Always remember that the law in books is different from the law in action." style="width:100%">
 
-<p>* A dictionary is not reality.</p>
+<p>*First of all, consult court cases to see how laws are (mis)applied.</p>
 
 <h4>• International Convention</h4>
 ∙ UNO — Library of Resources — https://www.unodc.org/e4j/en/resdb/index.html<br>
@@ -900,6 +900,11 @@ https://www.youtube.com/watch?v=6JJo8qCYE8M<br>
 ∙ GE — German Code of Criminal Procedure (Strafprozeßordnung – StPO) — <a href="https://www.gesetze-im-internet.de/englisch_stpo/index.html" target="_blank">Link</a><br>
 
 ![architecture](https://github.com/RENANZG/My-Forensics/assets/53377291/f92b0055-29fe-40de-9a45-da845d0f3f4b)
+
+<h4>Court Cases</h4>
+
+∙ US Federal Cases — https://pacer.uscourts.gov/find-case<br>
+∙ EU Common Portal of Case Law — https://network-presidents.eu/cpcl<br>
 
 <!-- ########## -->
 
@@ -1807,8 +1812,8 @@ https://ieee-isi.org/<br>
 https://www.necessaryandproportionate.org<br>
 https://www.fbi.gov<br>
 https://www.justice.gov/news<br>
-https://www.justice.gov/criminal/cybercrime
-https://www.ic3.gov/default.aspx
+https://www.justice.gov/criminal/cybercrime<br>
+https://www.ic3.gov/default.aspx<br>
 https://www.coe.int/en/web/cybercrime<br>
 https://www.sherloc.unodc.org<br>
 https://www.enisa.europa.eu<br>
