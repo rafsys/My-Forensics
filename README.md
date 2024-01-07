@@ -13,7 +13,7 @@
 
 <blockquote><h3>"These programs were never about terrorism: they're about economic spying, social control and diplomatic manipulation. They're about power." (Edward Snowden)</h3></blockquote>
 
-<img src=".data/the_treachery_of_images_1929_-_rene_magritte_830px.png" title="The Treachery of Images (1929) - René Magritte" align="center"/>
+<p align="center"><img src=".data/the_treachery_of_images_1929_-_rene_magritte_830px.png" title="The Treachery of Images (1929) - René Magritte"/></p>
 
 </div>
 
@@ -1231,6 +1231,10 @@ https://ghidra-sre.org<br>
 <details>
 <summary>${\color{Yellow}\textbf{PHONE SNIFFING}}$</summary>
 <br>
+
+<a href="https://youtu.be/VonHAsY4-VA">
+  <img src="https://markdown-videos-api.jorgenkh.no/url?url=https%3A%2F%2Fyoutu.be%2FVonHAsY4-VA" alt="Phone Surveillance Exposed" title="Phone Surveillance Exposed"/>
+</a>
 
 <table>
 <thead>
