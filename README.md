@@ -15,11 +15,8 @@
 
 <p align="center"><img src="https://github.com/RENANZG/My-Forensics/assets/53377291/a4ef4137-7b20-4df0-8678-1f48be665386" title="The Treachery of Images (1929) - René Magritte"/></p>
 
-<hr>
-
 <!-- ################################## -->
 
-<br>
 <hr>
 
 <h3>BASIC STRATEGY</h3>
