@@ -13,9 +13,7 @@
 
 <blockquote><h3>"These programs were never about terrorism: they're about economic spying, social control and diplomatic manipulation. They're about power." (Edward Snowden)</h3></blockquote>
 
-<p align="center"><img src=".data/the_treachery_of_images_1929_-_rene_magritte_830px.png" title="The Treachery of Images (1929) - René Magritte"/></p>
-
-</div>
+<p align="center"><img src="https://github.com/RENANZG/My-Forensics/assets/53377291/a4ef4137-7b20-4df0-8678-1f48be665386" title="The Treachery of Images (1929) - René Magritte"/></p>
 
 <hr>
 
