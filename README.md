@@ -86,10 +86,14 @@
 • Debian Forensics Package<br><a href="https://packages.debian.org/unstable/forensics-all">https://packages.debian.org/unstable/forensics-all</a><br>
 • Mobile Verification Toolkit (MVT)<br><a href="https://docs.mvt.re/en/latest">https://docs.mvt.re/en/latest</a><br>
 • Drive Badger<br><a href="https://drivebadger.com">https://drivebadger.com</a><br>
+• Tsurugi Linux<a href="https://tsurugi-linux.org/"><br>https://tsurugi-linux.org/</a><br>
+• REMnux<a href="https://remnux.org/"><br>https://remnux.org</a><br>
+• Bitscout<a href="https://github.com/vitaly-kamluk/bitscout"><br>https://github.com/vitaly-kamluk/bitscout</a><br>
 • Eric Zimmerman's tools (Freeware)<br><a href="https://ericzimmerman.github.io/#!index.md">https://ericzimmerman.github.io/#!index.md</a><br>
 • Paladin® (Freeware)<br><a href="https://sumuri.com/product/paladin-lts/">https://sumuri.com/software/paladin/</a><br>
 • Forensic Toolkit (FTK)® - Lite (Freeware) <br><a href="https://www.exterro.com/ftk-product-downloads/how-to-run-ftk-imager-from-a-flash-drive-imager-lite" target="_blank" rel="noopener noreferrer">https://www.exterro.com/forensic-toolkit</a><br>
 • Magnet Forensic® - Mobile Extractor (Freeware)<br><a href="https://www.magnetforensics.com/" target="_blank" rel="noopener noreferrer">https://www.magnetforensics.com</a><br>
+• Windows Forensic Environment WinFE (Freeware)<br><a href="https://www.winfe.net/home" target="_blank" rel="noopener noreferrer">https://www.winfe.net</a><br>
 • NirSoft® (Freeware)<br><a href="https://www.nirsoft.net/computer_forensic_software.html">https://www.nirsoft.net</a><br>
 • MiTeC® (Freeware)<br><a href="https://www.mitec.cz">https://www.mitec.cz</a><br>
 • Medusa Box® (Easy J-TAG)<br> <a href="https://medusabox.com/">https://medusabox.com</a><br> ╰┈➤<a href="https://medusabox.com/eng/features/features">Models Features</a><br> ╰┈➤<a href="https://aliexpress.com/w/wholesale-medusa-box.html">Aliexpress</a><br>
@@ -123,7 +127,22 @@
 </tbody>
 </table>
 
+
+<!-- ################################## -->
 <br>
+<hr>
+
+<h3>FORENSIC TOOLS</h3>
+
+<h4>• Evidence ProjectForensics Tools Catalogue - <a href="https://www.dftoolscatalogue.eu/dftc.home.php">https://www.dftoolscatalogue.eu</a></h4>
+
+<h4>• NIST - Forensics Tools Catalogue - <a href="https://toolcatalog.nist.gov/search/">https://toolcatalog.nist.gov</a></h4>
+
+<h4>• S&T partners and NIST - Computer Forensic Tool Testing (CFTT) - <a href="https://www.dhs.gov/science-and-technology/nist-cftt-reports">https://www.dhs.gov/science-and-technology/nist-cftt-reports</a>
+
+<!-- ################################## -->
+<br>
+<hr>
 
 <sub>
 <p><b>Interesting information</b></p>
@@ -154,21 +173,20 @@
 
 <a href="https://www.forensicscijournal.com/articles/jfsr-aid1039.pdf">• Forensics Journal Comparative analysis of mobile forensic proprietary tools: an application in forensic investigation (2022)</a>
 
-<a href="https://ppee.unb.br/wp-content/uploads/2020/12/Artigo_Claudinei-Morim.pdf">• Methodology for Forensics Data Reconstruction on Mobile Devices with Android Operating System Applying In-System Programming and Combination Firmware (2020)</a>
+<a href="https://ppee.unb.br/wp-content/uploads/2020/12/Artigo_Claudinei-Morim.pdf">• Methodology for Forensics Data Reconstruction on Mobile Devices with Android<br> Operating System Applying In-System Programming and Combination Firmware (2020)</a>
 
 </sub>
 
 <!-- ################################## -->
-
 <br>
 <hr>
 
-<h3>LAWFUL INTERCEPTION PLATFORMS</h3>
+<h3>INTERCEPTION PLATFORMS</h3>
 
 <p>Comparison between Drive Badger with other lawful interception platforms. Visit: <a href="https://docs.google.com/spreadsheets/d/1Ux0WeL-K4NOZTEQgJXuRzHPcG_ewKmcMNADuFhamytg/edit#gid=1460165261" target="_blank" rel="noopener noreferrer">Official online sheet complete and updated</a> or <a href="3.GUIDES_&_PAPERS/Drive_Bagder_-_Comparison_of_lawful_interception_platforms.pdf" target="_blank" rel="noopener noreferrer">PDF in our repo</a>.</p>
 
-<h5>News: https://thehackernews.com/2023/12/multi-million-dollar-predator-spyware.html</h5>
-<h5>News: https://thehackernews.com/2023/12/urgent-new-chrome-zero-day.html</h5>
+<p>News: https://thehackernews.com/2023/12/multi-million-dollar-predator-spyware.html</p>
+<p>News: https://thehackernews.com/2023/12/urgent-new-chrome-zero-day.html</p>
 
 <table style="width:830px" cellspacing="0" cellpadding="0">
 <tbody valign="top">
@@ -624,7 +642,96 @@ ${\color{Blue}\textbf{1.PASSIVE FORENSICS}}$
 <!-- ########## -->
 
 <details>
-<summary>1.02 Forensic online tools</summary>
+<summary>1.02 Forensic certs & training</summary>
+<br>
+
+<ul>
+<li>
+<p><a href="https://aboutdfir.com/education/certifications-training/">About DFIR - Certifications Training</a></p>
+</li>
+<li>
+<p><a href="https://github.com/mikeroyal/Digital-Forensics-Guide">Mikeroyal - Digital Forensics Guide (Github)</a></p>
+</li>
+<li>
+<p><a href="https://www.enisa.europa.eu/topics/training-and-exercises/trainings-for-cybersecurity-specialists/online-training-material">Enisa EU - Online Training Material</a></p>
+</li>
+<li>
+<p><a href=""></a></p>
+</li>
+<li>
+<p><a href=""></a></p>
+</li>
+</ul>
+
+<!-- ########## -->
+
+
+<br>
+</details>
+<details>
+<summary>1.03 Forensic tools</summary>
+<br>
+
+<h4>Evidence ProjectForensics Tools Catalogue - <a href="https://www.dftoolscatalogue.eu/dftc.home.php">https://www.dftoolscatalogue.eu</a></h4>
+
+<h4>NIST - Forensics Tools Catalogue - <a href="https://toolcatalog.nist.gov/search/">https://toolcatalog.nist.gov</a></h4>
+
+<h4>S&T partners and NIST - Computer Forensic Tool Testing (CFTT) - <a href="https://www.dhs.gov/science-and-technology/nist-cftt-reports">https://www.dhs.gov/science-and-technology/nist-cftt-reports</a>
+
+<h4>Some tools</h4>
+
+<ul>
+<li><a href="https://www.sleuthkit.org/sleuthkit/">The Sleuth Kit (TSK)</a><a href="https://github.com/sleuthkit/sleuthkit">(GitHub)</a></li>
+<li><a href="https://www.autopsy.com">Autopsy</a></li>
+<li><a href="https://github.com/WerWolv/ImHex">ImHex</a></li>
+<li><a href="https://hashcat.net">Hashcat</a></li>
+<li><a href="https://www.openwall.com/john/">John the Ripper</a></li>
+<li><a href="https://github.com/drivebadger/drivebadger">Drive Badger — Covert Data Exfiltration Operations</a></li>
+<li><a href="https://github.com/northloopforensics/Fetch">Making Maps for Investigators</a></li>
+<li><a href="https://github.com/mxrch/GHunt">Offensive Google framework</a></li>
+<li><a href="https://github.com/northloopforensics/Bitlocker_Key_Finder">Bitlocker Key Finder</a></li>
+<li><a href="https://github.com/teamdfir/sift">SIFT</a></li>
+<li><a href="https://github.com/keydet89/RegRipper3.0">RegRipper</a></li>
+<li><a href="https://www.nomoreransom.org/en/index.html">No More Ransom</a></li>
+<li><a href="https://docs.microsoft.com/en-us/sysinternals/downloads">MS Sysinternals</a></li>
+<li><a href="https://www.winfe.net/download">WinFE</a></li>
+</ul>
+
+Image and video upscaling programs<br>
+
+• <a href="https://github.com/imagej/ImageJ">ImageJ</a><br>
+• Upscalers - https://github.com/hollowaykeanho/Upscaler<br>
+
+<h4>Extraction Methods</h4>
+
+<table>
+<tbody>
+<tr>
+<td>Encryption:</td>
+<td><p>Seize the encrypted files and decrypt them using a password or key and the appropriate decryption software. <br> OR<br> Seize the data while it is in an unencrypted state.</p></td>
+</tr>
+<tr>
+<td>Virtualization:</td>
+<td>Seize the virtual image file and open it with the correct password.<br>
+ OR<br>
+ Log into the virtual machine and seize the data while the virtual machine is turned on and in an unencrypted state.</td>
+</tr>
+<tr>
+<td>Relational Database:</td>
+<td>Seize all the files containing records. Obtain a copy of the database software and rebuild the database.<br>
+OR<br>
+Log into the database while it is live and employ the application used to create and manage the database as a search tool. Download the data using the method allowed by the application, either in the form of printouts or data files.</td>
+</tr>
+</tbody>
+</table>
+
+<br>
+</details>
+
+<!-- ########## -->
+
+<details>
+<summary>1.04 Forensic online tools</summary>
 <br>
 
 • Virus Total — https://www.virustotal.com<br>
@@ -660,43 +767,7 @@ ${\color{Blue}\textbf{1.PASSIVE FORENSICS}}$
 <!-- ########## -->
 
 <details>
-<summary>1.03 Forensic offline tools</summary>
-<br>
-
-<ul>
-<li><a href="https://www.sleuthkit.org/sleuthkit/">The Sleuth Kit (TSK)</a><a href="https://github.com/sleuthkit/sleuthkit">(GitHub)</a> — collection of UNIX-based command line tools that allow you to investigate a computer.</li>
-<li><a href="https://www.autopsy.com">The Autopsy Forensic Browser</a></li>
-<li><a href="https://github.com/WerWolv/ImHex">ImHex</a>— </li>
-
-<li><a href=""></a>— </li>
-</ul>
-
-• Drive Badger — Covert Data Exfiltration Operations — https://github.com/drivebadger/drivebadger<br>
-• Making Maps for Investigators — https://github.com/northloopforensics/Fetch<br>
-• Offensive Google framework — https://github.com/mxrch/GHunt<br>
-• Bitlocker Key Finder — https://github.com/northloopforensics/Bitlocker_Key_Finder<br>
-• SIFT — https://github.com/teamdfir/sift<br>
-• RegRipper — https://github.com/keydet89/RegRipper3.0<br>
-• No More Ransom — https://www.nomoreransom.org/en/index.html<br>
-• MS Sysinternals - https://docs.microsoft.com/en-us/sysinternals/downloads<br>
-• Hiren - https://www.hirensbootcd.org/download<br>
-
-Image and video upscaling programs<br>
-
-• <a href="https://github.com/imagej/ImageJ">ImageJ</a><br>
-• Upscalers - https://github.com/hollowaykeanho/Upscaler<br>
-
-<h4>Hardware Extractors</h4>
-
-• <br>
-
-<br>
-</details>
-
-<!-- ########## -->
-
-<details>
-<summary>1.04 Cryptography</summary>
+<summary>1.05 Cryptography</summary>
 <br>
 
 <h4>Cryptanalysis</h4>
@@ -720,7 +791,7 @@ Image and video upscaling programs<br>
 <!-- ########## -->
 
 <details>
-<summary>1.05 Memory analysis</summary>
+<summary>1.06 Memory analysis</summary>
 <br>
 
 <h4>Volatile memory analysis</h4>
@@ -752,11 +823,13 @@ https://z3x-team.com<br>
 <!-- ########## -->
 
 <details>
-<summary>1.06 Cryptocurrencies analysis</summary>
+<summary>1.07 Cryptocurrencies analysis</summary>
 <br>
 
 <h4>Cryptocurrencies analysis</h4>
 
+https://github.com/OffcierCia/On-Chain-Investigations-Tools-List<br>
+https://github.com/aaarghhh/awesome_osint_criypto_web3_stuff<br>
 https://blocksherlock.com/home/blockchain-explorers<br>
 https://tronscan.org<br>
 https://etherscan.io<br>
@@ -825,7 +898,6 @@ https://attack.mitre.org/techniques/enterprise/<br>
 ∙ Hacker101 — https://www.hacker101.com<br>
 ∙ Crackmes — https://crackmes.one<br>
 ∙ Attack Defense — https://attackdefense.com<br>
-
 
 <h4>• Some Cases</h4>
 
@@ -899,11 +971,44 @@ https://www.youtube.com/watch?v=6JJo8qCYE8M<br>
 ∙ CyberSouth — https://coe.int/en/web/cybercrime/cybersouth<br>
 ∙ CyberEast — https://coe.int/en/web/cybercrime/cybereast<br>
 
+<h4>• Publications</h4>
+
+<ul>
+<li><a href="https://www.coe.int/en/web/cybercrime/cyber-digests-and-updates" target="_blank" rel="noopener">Council of Europe – Cybercrime Digest and </a><a href="https://www.coe.int/en/web/cybercrime/cyber-digests-and-updates" target="_blank" rel="noopener">Cybercrime@CoE Update</a>: a bi-weekly selection of news relevant to the current areas of interest to the Cybercrime Programme Office of CoE (C-PROC) and&nbsp;a quarterly review of the work carried out by the Cybercrime Convention Committee (T-CY).</li>
+<li><a href="https://b96de5da.sibforms.com/serve/MUIEACLiNKgT7-T6ofXDkIGbYxDLmxvtQd9xqKxFPG247oA-YVJ9-zDJ8qkYykiBK8nVIqzbvEglSSAjqBq9QJXVV7OP586AqR8-Q7kR8OYULBlmUfx6Qx5PpLyqDiVdydk9Kjgb4HDoP9qUr0VzwZOxKsi7oOG2tspyXc6wqOaMH7vd-OgQo8rNXLrLMEgtyn0-tg1DNs7jLuEG" target="_blank" rel="noopener">Council of Europe – Cybercrime Newsletter</a>: subscribe to receive the latest updates on the topic.</li>
+<li><a href="https://cert.europa.eu/publications/threat-intelligence/2023" target="_blank" rel="noopener">CERT-EU</a>: access quarterly Threat Landscape Reports and monthly Cyber Security Briefs from the Computer Emergency Response Team for the EU institutions, bodies and agencies.</li>
+<li><a href="https://www.cepol.europa.eu/publications" target="_blank" rel="noopener">CEPOL – Publications</a>: find the latest documents on trainings for law enforcement officials including the <a href="https://www.cepol.europa.eu/scientific-knowledge-and-research/european-law-enforcement-research-bulletin" target="_blank" rel="noopener">European Law Enforcement Research Bulletin.</a></li>
+<li><a href="https://www.enisa.europa.eu/news/newsletter-subscription" target="_blank" rel="noopener">ENISA Newsroom</a>: follow the most recent news on cybersecurity.</li>
+<li><a href="https://www.enisa.europa.eu/news/newsletter-subscription" target="_blank" rel="noopener">ENISA Publications</a>: sort the latest publications on cybersecurity by topic (and download copies).</li>
+<li><a href="https://ec.europa.eu/newsroom/eurojust/user-subscriptions/2146/create" target="_blank" rel="noopener">EUROJUST Newsletter</a>: news from the European Union Agency for Criminal Justice Cooperation.</li>
+<li><a href="https://ec.europa.eu/newsroom/home/user-subscriptions/2668/create" target="_blank" rel="noopener">European Commission’s DG HOME Newsletter</a>: spotlight on Schengen and borders, internal security and relevant European funds.</li>
+<li><a href="https://www.europol.europa.eu/newsletter/subscriptions" target="_blank" rel="noopener">Europol – Email alerts</a>: ranging from news to upcoming publications and vacancies, choose what alerts to receive.</li>
+<li><a href="https://www.osce.org/subscriptions/signup" target="_blank" rel="noopener">Organisation for Security and Co-operation in Europe (OSCE) Newsletter</a>: hand-picked updates and in-depth information bundles on OSCE activities, with possibility to choose countries of interest.</li>
+<li><a href="https://www.europol.europa.eu/publications-events/publications?q=sirius" target="_blank" rel="noopener">SIRIUS project publications</a>: co-implemented by Europol and&nbsp;<a href="https://www.eurojust.europa.eu/">Eurojust</a>, in close partnership with the&nbsp;<a href="https://www.ejn-crimjust.europa.eu/ejn2021/Home/EN">European Judicial Network</a>, the SIRIUS project is a central reference point in the EU for knowledge sharing on cross-border access to electronic evidence and allows to download, among other publications, the yearly EU Digital Evidence Situation Report.</li>
+</ul>
+
 <h4>• Investigatory Powers — Criminal Law</h4>
 
 <h6>Americas</h6> 
 ∙ US — Federal Rules — Criminal Procedure — Overview — <a href="https://www.law.cornell.edu/wex/criminal_procedure" target="_blank">Link</a><br>
 ∙ US — Federal Rules — Criminal Procedure — Rule 41 — Search and Seizure — <a href="https://www.law.cornell.edu/rules/frcrmp/rule_41" target="_blank">Link</a><br>
+
+<table>
+<tbody>
+<tr>
+<td>On a Network<br>in a Single<br>District</td>
+<td>On a Network in Multiple Districts</td>
+<td>On a Network with Data Stored Internationally</td>
+<td >Unknown Where the Data is Stored (Cloud)</td>
+</tr>
+<tr>
+<td >Search under Rule 41; consider noting in affidavit the possibility of other locations</td>
+<td>Multiple search warrants for each district with data or §2703 Warrant served on service provider</td>
+<td >Use legal process required in country hosting the data, or consider accessing data remotely with a search warrant under Rule 41</td>
+<td >Search under Rule 41 for subject computers, and concurrently search under §2703 served on service provider</td>
+</tr>
+</tbody>
+</table>
 
 <h6>Union European</h6>
 ∙ UE — Criminal procedural laws across the European Union – A comparative analysis — <a href="https://www.europarl.europa.eu/RegData/etudes/STUD/2018/604977/IPOL_STU(2018)604977(ANN01)_EN.pdf" target="_blank">Link</a><br>
@@ -920,6 +1025,12 @@ https://www.youtube.com/watch?v=6JJo8qCYE8M<br>
 ∙ EU Common Portal of Case Law — https://network-presidents.eu/cpcl<br>
 ∙ UNODC — Case Law Database — https://sherloc.unodc.org/cld/v3/sherloc/cldb/index.html?lng=en<br>
 ∙ UNODC — Cyber Organized Crime — https://www.unodc.org/e4j/en/cybercrime/module-13/additional-teaching-tools.html<br>
+∙ Council of Europe - COE Cybercrime - https://www.coe.int/en/web/cybercrime<br>
+∙ Council of Europe - Octopus Cybercrime Community - Materials - https://www.coe.int/en/web/octopus/training<br>
+∙ US Dod - Computer Crime and Intellectual Property Section (CCIPS) - https://www.justice.gov/criminal/criminal-ccips<br>
+∙ US FBI - Internet Crime Complaint Center (IC3) - https://www.ic3.gov<br>
+∙ Computer Crime Research Center - https://www.crime-research.org<br>
+∙ The IT Law Wiki - https://itlaw.fandom.com<br>
 
 <!-- ########## -->
 
@@ -1171,6 +1282,7 @@ https://www.youtube.com/watch?v=6JJo8qCYE8M<br>
 <br>
 
 <h4>Man In The Middle (MitM)</h4>
+• https://github.com/frostbits-security/MITM-cheatsheet<br>
 • https://github.com/andreafortuna/MITMInjector<br>
 • https://github.com/KoreLogicSecurity/wmkick<br>
 • https://github.com/jakev/mitm-helper-wifi<br>
@@ -1844,6 +1956,7 @@ https://www.e-ir.info/publications/
 <details>
 <summary><b>Law Publications</b></summary>
 <br>
+
 https://www.necessaryandproportionate.org<br>
 https://www.fbi.gov<br>
 https://www.justice.gov/news<br>
@@ -1857,14 +1970,10 @@ https://csrc.nist.gov
 https://openyls.law.yale.edu<br>
 https://scholarship.law.duke.edu<br>
 https://law.utexas.edu/transnational/foreign-law-translations<br>
+∙ The IT Law Wiki - https://itlaw.fandom.com<br>
 
 <br>
 </details>
-• Council of Europe - COE Cybercrime - https://www.coe.int/en/web/cybercrime<br>
-• Council of Europe - Octopus Cybercrime Community - Materials - https://www.coe.int/en/web/octopus/training<br>
-• US Dod - Computer Crime and Intellectual Property Section (CCIPS) - https://www.justice.gov/criminal/criminal-ccips<br>
-• US FBI - Internet Crime Complaint Center (IC3) - https://www.ic3.gov<br>
-• Computer Crime Research Center - https://www.crime-research.org<br>
 
 <!-- ################################ -->
 
@@ -1895,6 +2004,7 @@ https://www.youtube.com/@MCH2022NL<br>
 <details>
 <summary><b>Others</b></summary>
 <br>
+• Computer Incident Response Center for Civil Society - https://www.civicert.org<br>
 https://0x00sec.org<br>
 https://csrc.nist.gov/projects<br>
 https://malware.lu<br>
