@@ -1195,8 +1195,8 @@ https://www.youtube.com/watch?v=6JJo8qCYE8M<br>
 <li><a href="https://www.theverge.com/2020/1/31/21116788/earn-it-act-section-230-lindsey-graham-draft-bill-encryption">A new bill could punish web platforms for using end-to-end encryption</a></li>
 <li><a href="https://www.polygon.com/2019/9/19/20874384/french-court-steam-valve-used-games-eu-law">French court rules that Steam’s ban on reselling used games is contrary to European law</a></li>
 <li><a href="https://www.theguardian.com/media/2019/mar/26/meps-approve-sweeping-changes-to-copyright-law-european-copyright-directive">MEPs approve sweeping changes to copyright law</a></li>
-<li><a href="https://www.lifewire.com/legalities-of-linking-3468972">The Legalities of Linking</a></li>
-<li><a href="https://klarislaw.com/wp-content/uploads/klarislaw-copyright-liability-for-linking-and-embedding.pdf">COPYRIGHT LIABILITY FOR LINKING AND EMBEDDING — Klaris Law (.PDF)</a></li>
+<li><a href="https://web.archive.org/web/20201111235605/https://www.lifewire.com/legalities-of-linking-3468972">The Legalities of Linking</a></li>
+<li><a href="https://web.archive.org/web/20220422223639/https://klarislaw.com/wp-content/uploads/klarislaw-copyright-liability-for-linking-and-embedding.pdf">COPYRIGHT LIABILITY FOR LINKING AND EMBEDDING — Klaris Law (.PDF)</a></li>
 <li><a href="https://www.engadget.com/2016/04/08/eu-court-linking-copyrighted-content-is-legal/">EU court says linking to copyrighted material isn&#39;t illegal</a></li>
 <li><a href="https://torrentfreak.com/ip-address-is-not-enough-to-identify-pirate-us-court-of-appeals-rules-180828/">IP Address is Not Enough to Identify Pirate, US Court of Appeals Rules</a> — (<a href="https://cdn.ca9.uscourts.gov/datastore/opinions/2018/08/27/17-35041.pdf">.PDF</a>)</li>
 <li><a href="https://torrentfreak.com/new-eu-piracy-watchlist-targets-key-pirate-sites-and-cloudflare-181210/">New EU Piracy Watchlist Targets Key Pirate Sites and Cloudflare</a> — (<a href="https://torrentfreak.com/images/tradoc_157564.pdf">.PDF</a>)</li>
