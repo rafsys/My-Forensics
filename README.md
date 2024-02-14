@@ -180,392 +180,131 @@
 
 <p>Comparison between Drive Badger with other lawful interception platforms. Visit: <a href="https://docs.google.com/spreadsheets/d/1Ux0WeL-K4NOZTEQgJXuRzHPcG_ewKmcMNADuFhamytg/edit#gid=1460165261" target="_blank" rel="noopener noreferrer">Official online sheet complete and updated</a> or <a href="3.GUIDES_&_PAPERS/Drive_Bagder_-_Comparison_of_lawful_interception_platforms.pdf" target="_blank" rel="noopener noreferrer">PDF in our repo</a>.</p>
 
-<p>News: https://thehackernews.com/2023/12/multi-million-dollar-predator-spyware.html</p>
-<p>News: https://thehackernews.com/2023/12/urgent-new-chrome-zero-day.html</p>
+<img src=".data/Drive_Bagder1_-_Comparison_Of_Lawful_Interception_Platforms-1.png
+" title="Drive Bagder 1 - Comparison Of Lawful Interception Platforms" style="width:100%">
 
-<table style="width:830px" cellspacing="0" cellpadding="0">
-<tbody valign="top">
-<tr>
- <td style="width:7%"><b>PRODUCT KNOWN AS</b></td>
- <td style="width:31%">• Devils Tongue<br>• Sourgum<br></td>
- <td style="width:31%">• Pegasus Spyware</td>
- <td style="width:31%">• Drive Badger<br>• Funkcjonariusz<br></td>
-</tr>
-<tr>
- <td style="width:7%">DETAILS LAST UPDATED</td>
- <td style="width:31%">2022-06-19</td>
- <td style="width:31%">2021-12-15</td>
- <td style="width:31%">2022-06-18</td>
-</tr>
-<tr>
- <td style="width:7%">AVAILABILITY</td>
- <td style="width:31%">COMMERCIAL</td>
- <td style="width:31%">COMMERCIAL</td>
- <td style="width:31%">OPEN SOURCE</td>
-</tr>
-<tr>
- <td style="width:7%">YEARS OF ACTIVITY</td>
- <td style="width:31%">2014-current</td>
- <td style="width:31%">2010-current</td>
- <td style="width:31%">2017-current</td>
-</tr>
-<tr>
- <td style="width:7%">COMPANY</td>
- <td style="width:31%"><a href="https://citizenlab.ca/2021/07/hooking-candiru-another-mercenary-spyware-vendor-comes-into-focus">Candori</a></td>
- <td style="width:31%">NSO Group</td>
- <td style="width:31%"> — </td>
-</tr>
-<tr>
- <td style="width:7%">COUNTRY</td>
- <td style="width:31%">Israel</td>
- <td style="width:31%">Israel</td>
- <td style="width:31%">Poland</td>
-</tr>
-<tr>
- <td style="width:7%">HOW IT WORKS</td>
- <td style="width:31%">— remote installation<br>
- — remote data interception<br></td>
- <td style="width:31%">— remote installation<br>
- — remote data interception<br></td>
- <td style="width:31%">— local one-time usage via USB device<br>
- — local data interception<br>
- — integration with 3rd party remote solutions<br></td>
-</tr>
-<tr>
- <td style="width:7%">SUPPORTED PLATFORMS<br>(SUMMARY)</td>
- <td style="width:31%">— Windows<br>
- — Android<br>
- — iOS<br>
- — possibly Mac OS<br></td>
- <td style="width:31%">— Android<br>
- — iOS<br>
- — Symbian<br>
- — Blackberry<br></td>
- <td style="width:31%">— Windows<br>
- — Mac OS<br>
- — Linux<br>
- — Windows Embedded<br>
- — Android<br>
- — iOS, iPadOS<br>
- — Windows Mobile/Phone<br>
- — Symbian<br>
- — Canon/Nikon/HP photo cameras<br>
- — VMware ESXi<br>
- — Hyper-V<br></td>
-</tr>
-<tr>
- <td style="width:7%">HOW OPERATORS USE<br>
- THE SYSTEM</td>
- <td style="width:31%">— web panel for operators<br>
- — all actions are logged<br>
- — operators are fully responsible for any abuse attempts<br></td>
- <td style="width:31%">— web panel for operators<br>
- — all actions are logged<br>
- — operators are fully responsible for any abuse attempts<br></td>
- <td style="width:31%">— all exfiltrated data are stored locally on the USB device (on encrypted partition)<br>
- — no panel — operator has full access to raw data and can analyze it in preferred way, eg. import into Magnet AXIOM, Paraben E3, FTK Forensic Toolkit, Autopsy, or SANS SIFT for forensic analysis using these tools<br>
- — basic Linux knowledge is required<br>
- — both USB device and collected data are in the sole possession of the operator<br>
- — no operator abuse control<br></td>
-</tr>
-<tr>
- <td style="width:7%">SOME FUNCTIONALITIES AND TRACKING METHODS</td>
- <td style="width:31%"><b>WINDOWS (PC)</b><br>
- • Supported versions<br>
- — 7<br>
- — 10 (documentation states that only 64-bit)<br>
- — not sure about Windows 8 / 8.1<br>
- — not sure about Windows Server<br>
- • Software-only installation method(s)<br>
- ∙ Remote installation using<br>
- — CVE-2021-31979 and CVE-2021-33771 (attack on Windows)<br>
- — RCE for Chrome, Firefox or Internet Explorer<br>
- — RCE on Microsoft Office 2013-2019<br>
- • Post-install remote functionalities<br>
- ∙ Standard package — access to:<br>
- — Skype<br>
- — Outlook<br>
- — Telegram<br>
- — Facebook<br>
- — Gmail<br>
- — device ID<br>
- — browsing history<br>
- — geolocation<br>
- — raw files<br>
- — passwords<br>
- — keylogger<br>
- — webcam<br>
- — microphone recording<br>
- — screenshots<br>
- — Paid separately:<br>
- — remote shell (Windows-only, 1.5M EUR)<br>
- — Twitter<br>
- — Viber<br>
- — Signal<br>
- — WeChat<br>
- — Odnoklassniki<br>
- — Vkontakte<br>
- — Mail.ru<br>
- 
- <b>LINUX</b><br>
- • Post-install remote functionalities<br>
- — n/a <br>
 
- <b>ANDROID</b><br>
- • Installation and tracking method(s)<br>
- — supported, there is a closed list of supported Android versions (4-9 as for 2020); documentation suggests that <br>
- — they may have problems with Android forks eg. Xiaomi MIUI, they support Samsung Galaxy S phones (and probably tablets), and agreed list of models/vendors for additional fee<br>
- 
- • What information is available after installation<br>
- ∙ Standard package — access to:<br>
- — photos & screenshots<br>
- — emails, sms<br>
- — browsing history<br>
- — contact details<br>
- — calendar records<br>
- — GPS location tracking<br>
- — basic/advanced device info<br>
- — call history<br>
- — list directories<br>
- — Google Drive<br>
- — Dropbox<br>
- — WhatsApp<br>
- — FB Messenger<br>
- — Skype<br>
- — Telegram<br>
- — network details<br>
- — network change notifications<br>
- — recording microphone and phone calls<br>
- 
- ∙ Paid separately:<br>
- — Twitter<br>
- — Viber<br>
- — Signal<br>
- — WeChat<br>
- — Odnoklassniki<br>
- — Vkontakte<br>
- — Mail.ru<br>
+<!-- ################################## -->
 
-<b>MAC OS</b><br>
- • Post-install remote functionalities<br>
- ∙ Standard package — access to:<br>
- • Installation and tracking method(s)<br>
- — not sure — depending on each source, supported or not<br>
+<br>
+<hr>
 
-<b>APPLE IOs</b><br>
- • Installation and tracking method(s)<br>
- — remote installation using either attack on Safari, or whole iOS (details not revealed)<br>
- • What information is available after installation<br>
- ∙ Standard package — access to:<br>
- — photos & screenshots<br>
- — emails, sms<br>
- — browsing history<br>
- — contact details<br>
- — calendar records<br>
- — GPS location tracking<br>
- — basic/advanced device info<br>
- — call history<br>
- — list directories<br>
- — Google Drive<br>
- — Dropbox<br>
- — WhatsApp<br>
- — FB Messenger<br>
- — Skype<br>
- — Telegram<br>
- — network details<br>
- — network change notifications<br>
- — recording microphone and phone calls<br>
- — Paid separately:<br>
- — Twitter<br>
- — Viber<br>
- — Signal<br>
- — WeChat<br>
- — Odnoklassniki<br>
- — Vkontakte<br>
- — Mail.ru<br>
- </td>
- <td style="width:31%">
- <b>WINDOWS (PC)</b><br>
- • Supported versions<br>
- — n/a <br>
- • Software-only installation method(s)<br>
- ∙ Remote installation using<br>
- — n/a <br>
- • Post-install remote functionalities<br>
- — n/a <br>
-    
-<b>LINUX</b><br>
- • Post-install remote functionalities<br>
-— n/a <br>
-<b>ANDROID</b><br>
-• Installation and tracking method(s)<br>
-∙ Remote:<br>
-— magic sms/push, non-persistent infection, requiring re-infecting after each reboot<br>
-— in non-root mode it can ask the user for permissions to access eg. photos, just like normal app<br>
-*supported Android versions: from 2.1, mainly Samsung Galaxy and Sony Xperia devices<br>
-• What information is available after installation<br>
-— photos & screenshots<br>
-— emails, sms<br>
-— browsing history<br>
-— contact details<br>
-— calendar records<br>
-— converations from Skype, WhatsApp, Twitter, Facebook, Viber, KakaoTalk<br>
-— GPS location tracking<br>
-— device settings<br>
-— network details<br>
-— raw file retrieval<br>
-— recording microphone and phone calls (Android-only)<br>
-  
-<b>MAC OS</b><br>
-• Post-install remote functionalities<br>
-∙ Standard package — access to:<br>
-• Installation and tracking method(s)<br>
-— n/a<br>
-<b>Apple IOS</b><br>
-• Installation and tracking method(s)<br>
-∙ Remote, using:<br>
-— magic sms/push<br>
-— Trident exploit (CVE-2016-4655, CVE-2016-4656, CVE-2016-4657)<br>
-— Kismet exploit (2020)<br>
-— ForcedDentry (2021) previously known as Megalodon (2019)<br>
-— existing jailbreak<br>
-— emulation of clicking on important apps (eg. iMessage) non-persistent infection, requiring re-infecting after each reboot; supported iOS versions: from 4.x (iPhone 4)<br>
-• What information is available after installation<br>
-— photos & screenshots<br>
-— emails, sms<br>
-— browsing history<br>
-— contact details<br>
-— calendar records<br>
-— converations from Skype, WhatsApp, Twitter, Facebook, Viber, KakaoTalk<br>
-— GPS location tracking<br>
-— device settings<br>
-— network details<br>
-— raw file retrieval<br>
+
+<h3>Exploit and Spyware Vendor</h3>
+
+<table>
+<tbody>
+<tr>
+<td>
+<strong>Zero-day Exploit</strong>
 </td>
-<td style="width:31%">
-<b>WINDOWS (PC)</b><br>
-• Supported versions<br>
-— from XP SP2 to 11 (including "S")<br>
-— Server 2003-2022<br>
-— Embedded Standard 7 and 2009<br>
-• Software-only installation method(s)<br>
-1.local data exfiltration, via plugged-in USB device, support for Bitlocker / LUKS / VeraCrypt drive encryption<br>
-2.local injection of 3rd party exploits (possibly remotely exploitable), straight from USB device, without disconnecting the hard drive<br>
-• Post-install remote functionalities<br>
-— Only exploitation of locally injected 3rd party exploit(s).<br>
-<b>LINUX</b><br>
-• Software-only installation method(s)<br>
-∙ Remote installation using<br>
-— n/a<br>
-• Post-install remote functionalities<br>
-1.local data exfiltration, via USB, support for Bitlocker / LUKS / VeraCrypt drive encryption<br>
-2.local injection of 3rd party exploits (possibly remotely exploitable), straight from USB, without disconnecting the hard drive<br>
-<b>ANDROID</b><br>
-• Installation and tracking method(s)<br>
-— local data exfiltration only, through MTP, PTP or Mass Storage (depending onAndroid version and security settings), requires already unlocked device<br>
-• What information is available after installation<br>
-— photos & screenshots<br>
-— in MTP/MSC mode, everything that is remotely visible (access to raw files)<br>
-<b>MAC OS</b><br>
-• Software-only installation method(s)<br>
-∙ Remote installation <br>
-• Post-install remote functionalities<br>
-— local data exfiltration only, via USB, support for APFS FileVault encryption, on T2-based models requires the device to already unlocked<br>
-
-• Installation and tracking method(s)<br>
-— local data exfiltration only, via USB, support for APFS FileVault encryption, on T2-based models requires the device to already unlocked<br>
-<b>Apple IOS</b><br>
- 
-• Installation and tracking method(s)<br>
-∙ Remote, using:<br>
-— magic sms/push<br>
-— Cydia Substrate's hooking functionality (iOS11 and below, only jailbroken devices)<br>
-
-• What information is available after installation<br>
-— everything that is remotely visible according to phone/tablet security settings (access to raw files)<br>
-</td>  
+<td>
+<strong>Associated Spyware Vendor</strong>
+</td>
 </tr>
 <tr>
- <td style="width:7%">Annual cost per tracked user license (for first 10 users)</td>
- <td>0</td>
- <td>$65 000</td>
- <td>free</td>
+<td>
+<a href="https://thehackernews.com/2023/04/apple-releases-updates-to-address-zero.html">CVE-2023-28205 and CVE-2023-28206</a> (Apple iOS)
+</td>
+<td>
+Variston (BridgeHead)
+</td>
 </tr>
 <tr>
- <td style="width:7%">Annual cost per tracked user license (above first 10 users, up to next limit)</td>
- <td>$ 100.000</td>
- <td>$ 10.000</td>
- <td>free</td>
+<td>
+<a href="https://thehackernews.com/2023/04/google-releases-urgent-chrome-update-to.html">CVE-2023-2033</a> (Google Chrome)
+</td>
+<td>
+Intellexa/Cytrox (Predator)
+</td>
 </tr>
 <tr>
- <td style="width:7%">Annual cost per operator</td>
- <td>3 included + € 20 000 for each another</td>
- <td>?</td>
- <td>free</td>
+<td>
+<a href="https://thehackernews.com/2023/04/google-chrome-hit-by-second-zero-day.html">CVE-2023-2136</a> (Google Chrome)
+</td>
+<td>
+Intellexa/Cytrox (Predator)
+</td>
 </tr>
 <tr>
- <td style="width:7%">One time entry cost — excluding trainings</td>
- <td>€ 16.850.000</td>
- <td>€ 3.500.000</td>
- <td>only hardware cost</td>
+<td>
+<a href="https://thehackernews.com/2023/05/webkit-under-attack-apple-issues.html">CVE-2023-32409</a> (Apple iOS)
+</td>
+<td>
+Variston (BridgeHead)
+</td>
 </tr>
 <tr>
- <td style="width:7%">Trainings</td>
- <td>?</td>
- <td>€ 750.000</td>
- <td>depends on training company, all documentation freely available</td>
+<td>
+<a href="https://thehackernews.com/2023/06/zero-day-alert-google-issues-patch-for.html">CVE-2023-3079</a> (Google Chrome)
+</td>
+<td>
+Intellexa/Cytrox (Predator)
+</td>
 </tr>
 <tr>
- <td style="width:7%">Source code status</td>
- <td>closed source</td>
- <td>decompiled samples only, mainly from Android agents</td>
- <td>open source</td>
+<td>
+<a href="https://thehackernews.com/2023/09/apple-rushes-to-patch-zero-day-flaws.html">CVE-2023-41061 and CVE-2023-41064</a> (Apple iOS)
+</td>
+<td>
+NSO Group (Pegasus)
+</td>
 </tr>
 <tr>
- <td style="width:7%">Source code link</td>
- <td>-</td>
- <td>https://github.com/jonathandata1/pegasus_spyware</td>
- <td></td>
+<td>
+<a href="https://thehackernews.com/2023/09/apple-rushes-to-patch-3-new-zero-day.html">CVE-2023-41991, CVE-2023-41992, and CVE-2023-41993</a> (Apple iOS)
+</td>
+<td>
+Intellexa/Cytrox (Predator)
+</td>
 </tr>
 <tr>
- <td style="width:7%">C &amp; C infrastructure</td>
- <td> ? </td>
- <td>Pegasus Anonymizing Transmission Network, up to 500 domains, DNS servers and others, to hide easy detection of traffic; on most platforms ability to self-destruct after 60 days of no connection, or after detecting non-target SIM card</td>
- <td>No remote infrastructure is required, unless Drive Badger is weaponized using 3rd party exploit(s). As for local infrastructure:<br>
- https://drivebadger.com/recommended-hardware.html<br>
- https://drivebadger.com/mobile-recommended-hardware.html<br></td>
+<td>
+<a href="https://thehackernews.com/2023/09/update-chrome-now-google-releases-patch.html">CVE-2023-5217</a> (Google Chrome)
+</td>
+<td>
+Candiru (DevilsTongue)
+</td>
 </tr>
 <tr>
- <td style="width:7%">Indicators of Compromise</td>
- <td>https://citizenlab.ca/2021/07/hooking-candiru-another-mercenary-spyware-vendor-comes-into-focus/<br></td>
- <td>https://github.com/AmnestyTech/investigations/tree/master/2021-07-18_nso<br>
- https://arkadiyt.com/2021/07/25/scanning-your-iphone-for-nso-group-pegasus-malware<br>
- https://sekurak.pl/czym-jest-oprogramowanie-szpiegowskie-pegasus-analiza-zagrozenia-oraz-metody-jego-wykrywania/<br></td>
- <td>regarding 2018+ FinSpy mobile:<br>
- https://securelist.com/new-finspy-ios-and-android-implants-revealed-itw/91685<br></td>
+<td>
+<a href="https://thehackernews.com/2023/10/arm-issues-patch-for-mali-gpu-kernel.html">CVE-2023-4211</a> (Arm Mali GPU)
+</td>
+<td>
+Cy4Gate (Epeius)
+</td>
 </tr>
 <tr>
- <td style="width:7%">More photos</td>
- <td>https://sekurak.pl/devilstongue-czyli-lepszy-pegasus-od-izraelskiej-firmy-candiru/#comment-96837</td>
- <td>https://niebezpiecznik.pl/post/jak-wyglada-rzadowy-trojan-pegasus-od-srodka</td>
- <td>https://drivebadger.com/history.html</td>
+<td>
+<a href="https://thehackernews.com/2023/10/qualcomm-releases-patch-for-3-new-zero.html">CVE-2023-33063</a> (Qualcomm Adreno GPU)
+</td>
+<td>
+Variston (BridgeHead)
+</td>
 </tr>
 <tr>
- <td style="width:7%">Other materials</td>
- <td>
- <a href="https://wiadomosci.radiozet.pl/Polska/Polityka/Pegasus-w-Polsce.-CBA-kupilo-potezne-oprogramowanie-szpiegowskie" target="_blank" rel="noopener noreferrer">https://wiadomosci.radiozet.pl/Polska/Polityka/Pegasus-w-Polsce.-CBA-kupilo-potezne-oprogramowanie-szpiegowskie</a><br>
- <a href="https://s3.documentcloud.org/documents/4599753/NSO-Pegasus.pdf" target="_blank" rel="noopener noreferrer">https://s3.documentcloud.org/documents/4599753/NSO-Pegasus.pdf</a><br>
- <a href="https://s3.documentcloud.org/documents/4599753/NSO-Pegasus.pdf" target="_blank" rel="noopener noreferrer">https://googleprojectzero.blogspot.com/2021/12/a-deep-dive-into-nso-zero-click.html</a><br>
- </td>
- <td>
- <a href="https://wiadomosci.radiozet.pl/Polska/Polityka/Pegasus-w-Polsce.-CBA-kupilo-potezne-oprogramowanie-szpiegowskie" target="_blank" rel="noopener noreferrer">https://wiadomosci.radiozet.pl/Polska/Polityka/Pegasus-w-Polsce.-CBA-kupilo-potezne-oprogramowanie-szpiegowskie</a><br>
- <a href="https://s3.documentcloud.org/documents/4599753/NSO-Pegasus.pdf" target="_blank" rel="noopener noreferrer">https://s3.documentcloud.org/documents/4599753/NSO-Pegasus.pdf</a><br>
- <a href="https://s3.documentcloud.org/documents/4599753/NSO-Pegasus.pdf" target="_blank" rel="noopener noreferrer">https://googleprojectzero.blogspot.com/2021/12/a-deep-dive-into-nso-zero-click.html</a><br>
- </td>
- <td>
- https://drivebadger.com<br>
- https://funkcjonariusz.com<br>
- </td>
+<td>
+<a href="https://thehackernews.com/2023/10/qualcomm-releases-patch-for-3-new-zero.html">CVE-2023-33106 and CVE-2023-33107</a> (Qualcomm Adreno GPU)
+</td>
+<td>
+Cy4Gate (Epeius)
+</td>
+</tr>
+<tr>
+<td>
+<a href="https://thehackernews.com/2023/12/zero-day-alert-apple-rolls-out-ios.html">CVE-2023-42916 and CVE-2023-42917</a> (Apple iOS)
+</td>
+<td>
+PARS Defense
+</td>
+</tr>
+<tr>
+<td>
+<a href="https://thehackernews.com/2023/12/urgent-new-chrome-zero-day.html">CVE-2023-7024</a> (Google Chrome)
+</td>
+<td>
+NSO Group (Pegasus)
+</td>
 </tr>
 </tbody>
 </table>
@@ -1952,11 +1691,12 @@ https://www.e-ir.info/publications/
 <summary><b>Law Publications</b></summary>
 <br>
 
-https://www.necessaryandproportionate.org<br>
-https://www.fbi.gov<br>
-https://www.justice.gov/news<br>
+• Necessary and Proportionate - https://www.necessaryandproportionate.org<br>
 • Computer Crime Research Center - https://www.crime-research.org<br>
 • Internet Crime Complaint Center (IC3) - https://www.ic3.gov/Home/AnnualReports<br>
+• The IT Law Wiki - https://itlaw.fandom.com<br>
+https://www.fbi.gov<br>
+https://www.justice.gov/news<br>
 https://www.justice.gov/criminal/cybercrime<br>
 https://www.coe.int/en/web/cybercrime<br>
 https://www.sherloc.unodc.org<br>
@@ -1965,7 +1705,6 @@ https://csrc.nist.gov
 https://openyls.law.yale.edu<br>
 https://scholarship.law.duke.edu<br>
 https://law.utexas.edu/transnational/foreign-law-translations<br>
-∙ The IT Law Wiki - https://itlaw.fandom.com<br>
 
 <br>
 </details>
@@ -1976,6 +1715,7 @@ https://law.utexas.edu/transnational/foreign-law-translations<br>
 <summary><b>YouTube Conferences</b></summary>
 https://www.youtube.com/@BlackHatOfficialYT<br>
 https://www.youtube.com/@DEFCONConference<br>
+https://www.youtube.com/@mediacccde<br>
 https://www.youtube.com/@DFRWS<br>
 https://www.youtube.com/@SANSForensics<br>
 https://www.youtube.com/@SANSOffensiveOperations<br>
@@ -2000,6 +1740,7 @@ https://www.youtube.com/@MCH2022NL<br>
 <summary><b>Others</b></summary>
 <br>
 • Computer Incident Response Center for Civil Society - https://www.civicert.org<br>
+https://eforensicsmag.com<br>
 https://0x00sec.org<br>
 https://csrc.nist.gov/projects<br>
 https://malware.lu<br>
