@@ -1,6 +1,8 @@
 # The Snowden Archive
 
-https://github.com/iamcryptoki/snowden-archive/blob/master/README.md
+VISIT:
+
+https://github.com/iamcryptoki/snowden-archive
 
 This repository is a complete collection of all documents leaked by former National Security Agency contractor and whistleblower Edward Snowden that have subsequently been published by news media around the world.
 

@@ -98,6 +98,7 @@
 • Cellebrite®<br><a href="https://cellebrite.com/" target="_blank" rel="noopener noreferrer">https://cellebrite.com</a><br>
 • NSO Group®<br><a href="https://www.nsogroup.com/" target="_blank" rel="noopener noreferrer">https://www.nsogroup.com</a><br>
 • Cognyte®<br><a href="https://www.cognyte.com/" target="_blank" rel="noopener noreferrer">https://www.cognyte.com</a><br>
+• Team Cymru®<br><a href="https://www.team-cymru.com" target="_blank" rel="noopener noreferrer">https://www.team-cymru.com</a><br>
 • BriefCam®<br><a href="https://www.briefcam.com/" target="_blank" rel="noopener noreferrer">https://www.briefcam.com/</a><br>
 • Forensic Toolkit (FTK)® <br><a href="https://www.exterro.com/forensic-toolkit" target="_blank" rel="noopener noreferrer">https://www.exterro.com/forensic-toolkit</a><br>
 • Magnet Forensic®<br><a href="https://www.magnetforensics.com/" target="_blank" rel="noopener noreferrer">https://www.magnetforensics.com</a><br>
@@ -116,6 +117,8 @@
 • Crowd Strike®<br><a href="https://www.crowdstrike.com" target="_blank" rel="noopener noreferrer">https://www.crowdstrike.com</a><br>
 • Binalyze®<br><a href="https://www.binalyze.com" target="_blank" rel="noopener noreferrer">https://www.binalyze.com</a><br>
 • LexisNexis®<br><a href="https://risk.lexisnexis.com" target="_blank" rel="noopener noreferrer">https://risk.lexisnexis.com</a><br>
+• Gamma®<br><a href="https://www.gamma.co.uk" target="_blank" rel="noopener noreferrer">https://www.gamma.co.uk</a><br>
+• Memento Labs®<br><a href="https://mem3nt0.com" target="_blank" rel="noopener noreferrer">https://mem3nt0.com</a><br>
 • Thorn's Safer®<br><a href="https://www.thorn.org/" target="_blank" rel="noopener noreferrer">https://www.thorn.org</a><br>
 </td>
 </tr>
@@ -367,7 +370,208 @@ ${\color{Blue}\textbf{1.PASSIVE FORENSICS}}$
 <summary>1.01 Forensic standards</summary>
 <br>
 
-<p>Visit our repo tree: <a href="https://github.com/RENANZG/My-Forensics/tree/main/2.FORENSIC_STANDARDS">2.FORENSIC_STANDARDS</a></p>
+<p>Visit our repo tree: <a href="https://github.com/RENANZG/My-Forensics/tree/main/2.FORENSIC">2.FORENSIC</a></p>
+
+<details>
+<summary><b>Standards</b></summary>
+<br>
+
+<p><b>NIST — National Institute of Standards and Technology</b></p>
+
+<h6>Visit: https://www.nist.gov/standards</h6>
+
+<p><b>ISO/IEC — International Electrotechnical Commission</b></p>
+
+<h6>Visit: https://www.iso27001security.com</h6>
+
+Information security, cybersecurity and privacy protection — https://www.iso.org/standard/27001 <br>
+
+<ul>
+<li><A HREF="https://www.iso27001security.com/html/27000.html">ISO/IEC 27000 — ISO27k overview &amp; glossary</a></li>
+<li><A HREF="https://www.iso27001security.com/html/27001.html">ISO/IEC 27001 — formal ISMS specification</a></li>
+<li><A HREF="https://www.iso27001security.com/html/27002.html">ISO/IEC 27002 — infosec controls catalogue</a></li>
+<li><A HREF="https://www.iso27001security.com/html/27003.html">ISO/IEC 27003 — ISMS implementation guide</a></li>
+<li><A HREF="https://www.iso27001security.com/html/27004.html">ISO/IEC 27004 — infosec measurement [metrics]</a></li>
+<li><A HREF="https://www.iso27001security.com/html/27005.html">ISO/IEC 27005 — info[sec] risk management</a></li>
+<li><A HREF="https://www.iso27001security.com/html/27006.html">ISO/IEC 27006-n — ISMS &amp; PIMS certification </a></li>
+<li><A HREF="https://www.iso27001security.com/html/27007.html">ISO/IEC 27007 — <I>management system</I> auditing</a></li>
+<li><A HREF="https://www.iso27001security.com/html/27008.html">ISO/IEC TS 27008 — <I>security controls</I> auditing</a></li>
+<li><A HREF="https://www.iso27001security.com/html/27009.html">ISO/IEC 27009 — sector variants of ISO27k</a></li>
+<li><A HREF="https://www.iso27001security.com/html/27010.html">ISO/IEC 27010 — for inter-org comms</a></li>
+<li><A HREF="https://www.iso27001security.com/html/27011.html">ISO/IEC 27011 — ISMS for telecoms</a></li>
+<li><A HREF="https://www.iso27001security.com/html/27013.html">ISO/IEC 27013 — ISMS &amp; ITIL/service mgmt</a></li>
+<li><A HREF="https://www.iso27001security.com/html/27014.html">ISO/IEC 27014 — infosec governance</a></li>
+<li><A HREF="https://www.iso27001security.com/html/27016.html">ISO/IEC TR 27016 — infosec economics</a></li>
+<li><A HREF="https://www.iso27001security.com/html/27017.html">ISO/IEC 27017 — cloud security controls</a></li>
+<li><A HREF="https://www.iso27001security.com/html/27018.html">ISO/IEC 27018 — cloud privacy</a></li>
+<li><A HREF="https://www.iso27001security.com/html/27019.html">ISO/IEC 27019 — process control in energy industry</a></li>
+<li><A HREF="https://www.iso27001security.com/html/27021.html">ISO/IEC 27021 — competences for ISMS pro&#8217;s</a></li>
+<li><A HREF="https://www.iso27001security.com/html/27022.html">ISO/IEC TS 27022 — ISMS processes</a></li>
+<li><A HREF="https://www.iso27001security.com/html/27031.html">ISO/IEC 27031 — ICT element of business continuity</a></li>
+<li><A HREF="https://www.iso27001security.com/html/27032.html">ISO/IEC 27032 — Internet security</a></li>
+<li><A HREF="https://www.iso27001security.com/html/27033.html">ISO/IEC 27033-n — network security</a></li>
+<li><A HREF="https://www.iso27001security.com/html/27034.html">ISO/IEC 27034-n — application security</a></li>
+<li><A HREF="https://www.iso27001security.com/html/27035.html">ISO/IEC 27035-n — incident management</a></li>
+<li><A HREF="https://www.iso27001security.com/html/27036.html">ISO/IEC 27036-n — ICT supply chain &amp; cloud</a></li>
+<li><A HREF="https://www.iso27001security.com/html/27037.html">ISO/IEC 27037 — digital evidence [eForensics]</a></li>
+<li><A HREF="https://www.iso27001security.com/html/27038.html">ISO/IEC 27038 — document redaction</a></li>
+<li><A HREF="https://www.iso27001security.com/html/27039.html">ISO/IEC 27039 — intrusion prevention</a></li>
+<li><A HREF="https://www.iso27001security.com/html/27040.html">ISO/IEC 27040 — storage security</a></li>
+<li><A HREF="https://www.iso27001security.com/html/27041.html">ISO/IEC 27041 — incident investigation assurance</a></li>
+<li><A HREF="https://www.iso27001security.com/html/27042.html">ISO/IEC 27042 — analysing digital evidence</a></li>
+<li><A HREF="https://www.iso27001security.com/html/27043.html">ISO/IEC 27043 — incident investigation</a></li>
+<li><A HREF="https://www.iso27001security.com/html/27050.html">ISO/IEC 27050-n — digital forensics</a></li>
+<li><A HREF="https://www.iso27001security.com/html/27070.html">ISO/IEC 27070 — virtual roots of trust</a></li>
+<li><A HREF="https://www.iso27001security.com/html/27071.html">ISO/IEC 27071 — trusted connections</a></li>
+<li><A HREF="https://www.iso27001security.com/html/27099.html">ISO/IEC 27099 — ISMS for PKI</a></li>
+<li><A HREF="https://www.iso27001security.com/html/27100.html">ISO/IEC TS 27100 — cybersecurity overview/concepts</a></li>
+<li><A HREF="https://www.iso27001security.com/html/27102.html">ISO/IEC 27102 — cyber-insurance</a></li>
+<li><A HREF="https://www.iso27001security.com/html/27103.html">ISO/IEC 27103 —  ISMS for cybersecurity</a></li>
+<li><A HREF="https://www.iso27001security.com/html/27110.html">ISO/IEC TS 27110 — cybersecurity frameworks</a></li>
+<li><A HREF="https://www.iso27001security.com/html/27400.html">ISO/IEC 27400 — IoT security and privacy</a></li>
+<li><A HREF="https://www.iso27001security.com/html/27550.html">ISO/IEC TR 27550 — privacy engineering</a></li>
+<li><A HREF="https://www.iso27001security.com/html/27553.html">ISO/IEC 27553-n — mobile device biometrics</a></li>
+<li><A HREF="https://www.iso27001security.com/html/27555.html">ISO/IEC 27555 — deleting PII/personal data</a></li>
+<li><A HREF="https://www.iso27001security.com/html/27556.html">ISO/IEC 27556 — privacy preferences</a></li>
+<li><A HREF="https://www.iso27001security.com/html/27557.html">ISO/IEC 27557 — privacy risk management</a></li>
+<li><A HREF="https://www.iso27001security.com/html/27559.html">ISO/IEC 27559 — de-identification of personal data</a></li>
+<li><A HREF="https://www.iso27001security.com/html/27560.html">ISO/IEC TS 27560 — privacy consent record structure</a></li>
+<li><A HREF="https://www.iso27001security.com/html/27563.html">ISO/IEC TR 27563 — AI use case security &amp; privacy</a></li>
+<li><A HREF="https://www.iso27001security.com/html/27570.html">ISO/IEC TS 27570 — smart city privacy</a></li>
+<li><A HREF="https://www.iso27001security.com/html/27701.html">ISO/IEC 27701 — managing privacy with an ISMS</li>
+<li><A HREF="https://www.iso27001security.com/html/27799.html">ISO 27799 — information security in healthcare</a></li>
+</ul>
+
+<p><b>RFC</b></p>
+
+<p><b>Best Current Practices (BCP)</b></p>
+
+<ul>
+ <li><a href="https://www.ietf.org/rfc/rfc1918.txt"> RFC 1918 / BCP 5: Address Allocation for Private Internets</a></li>
+ <li><a href="https://www.ietf.org/rfc/rfc2350.txt"> RFC 2350 / BCP 21: Expectations for Computer Security Incident Response</a></li>
+ <li><a href="https://www.ietf.org/rfc/rfc2505.txt"> RFC 2505 / BCP 30: Anti-Spam Recommendations for SMTP MTAs</a></li>
+ <li><a href="https://www.ietf.org/rfc/rfc2644.txt"> RFC 2644 / BCP 34: Changing the Default for Directed Broadcasts in Routers</a></li>
+ <li><a href="https://www.ietf.org/rfc/rfc2827.txt"> RFC 2827 / BCP 38: Network Ingress Filtering: Defeating Denial of Service Attacks which employ IP Source Address Spoofing</a></li>
+ <li><a href="https://www.ietf.org/rfc/rfc3013.txt"> RFC 3013 / BCP 46: Recommended Internet Service Provider Security Services and Procedures</a></li>
+ <li><a href="https://www.ietf.org/rfc/rfc3227.txt"> RFC 3227 / BCP 55: Guidelines for Evidence Collection and Archiving</a></li>
+ <li><a href="https://www.ietf.org/rfc/rfc3360.txt"> RFC 3360 / BCP 60: Inappropriate TCP Resets Considered Harmful</a></li>
+ <li><a href="https://www.ietf.org/rfc/rfc3365.txt"> RFC 3365 / BCP 61: Strong Security Requirements for Internet Engineering Task Force Standard Protocols</a></li>
+ <li><a href="https://www.ietf.org/rfc/rfc4086.txt"> RFC 4086 / BCP 106: Randomness Requirements for Security</a></li>
+ <li><a href="https://www.ietf.org/rfc/rfc4107.txt"> RFC 4107 / BCP 107: Guidelines for Cryptographic Key Management</a></li>
+ <li><a href="https://www.ietf.org/rfc/rfc5068.txt"> RFC 5068 / BCP 134: Email Submission Operations: Access and
+Accountability Requirements</a></li>
+<li><a href="https://www.ietf.org/rfc/rfc5358.txt">RFC 5358 / BCP 140: Preventing Use of Recursive Nameservers in Reflector Attacks</a></li>
+<li><a href="https://www.ietf.org/rfc/rfc5406.txt">RFC 5406 / BCP 146: Guidelines for Specifying the Use of IPsec Version 2</a></li>
+</ul>
+
+<p><b>Standards</b></p>
+
+<ul>
+<li><a href="https://www.ietf.org/rfc/rfc2142.txt"> RFC 2142: Mailbox Names for Common Services, Roles and Functions</a></li>
+<li><a href="https://www.ietf.org/rfc/rfc2246.txt"> RFC 2246: The TLS Protocol  Version 1.0</a></li>
+<li><a href="https://www.ietf.org/rfc/rfc2554.txt"> RFC 2554: SMTP Service Extension for Authentication</a></li>
+<li><a href="https://www.ietf.org/rfc/rfc3168.txt"> RFC 3168: The Addition of Explicit Congestion Notification (ECN) to IP</a></li>
+<li><a href="https://www.ietf.org/rfc/rfc3207.txt"> RFC 3207: SMTP Service Extension for Secure SMTP over Transport Layer Security</a></li>
+<li><a href="https://www.ietf.org/rfc/rfc3369.txt"> RFC 3369: Cryptographic Message Syntax (CMS)</a></li>
+<li><a href="https://www.ietf.org/rfc/rfc3370.txt"> RFC 3370: Cryptographic Message Syntax (CMS) Algorithms</a></li>
+<li><a href="https://www.ietf.org/rfc/rfc3834.txt"> RFC 3834: Recommendations for Automatic Responses to Electronic Mail</a></li>
+<li><a href="https://www.ietf.org/rfc/rfc4033.txt"> RFC 4033: DNS Security Introduction and Requirements</a></li>
+<li><a href="https://www.ietf.org/rfc/rfc4034.txt"> RFC 4034: Resource Records for the DNS Security Extensions</a></li>
+<li><a href="https://www.ietf.org/rfc/rfc4035.txt"> RFC 4035: Protocol Modifications for the DNS Security Extensions</a></li>
+<li><a href="https://www.ietf.org/rfc/rfc4051.txt"> RFC 4051: Additional XML Security Uniform Resource Identifiers (URIs)</a></li>
+<li><a href="https://www.ietf.org/rfc/rfc4055.txt">RFC 4055: Additional Algorithms and Identifiers for RSA Cryptography for use in the Internet X.509 Public Key Infrastructure Certificate and Certificate Revocation List (CRL) Profile</a></li>
+<li><a href="https://www.ietf.org/rfc/rfc4056.txt">RFC 4056: Use of the RSASSA-PSS Signature Algorithm in Cryptographic Message Syntax (CMS)</a></li>
+<li><a href="https://www.ietf.org/rfc/rfc4109.txt">RFC 4109: Algorithms for Internet Key Exchange version 1 (IKEv1)</a></li>
+<li><a href="https://www.ietf.org/rfc/rfc4217.txt">RFC 4217: Securing FTP with TLS</a></li>
+<li><a href="https://www.ietf.org/rfc/rfc4250.txt">RFC 4250: The Secure Shell (SSH) Protocol Assigned Numbers</a></li>
+<li><a href="https://www.ietf.org/rfc/rfc4251.txt">RFC 4251: The Secure Shell (SSH) Protocol Architecture</a></li>
+<li><a href="https://www.ietf.org/rfc/rfc4252.txt">RFC 4252: The Secure Shell (SSH) Authentication Protocol</a></li>
+<li><a href="https://www.ietf.org/rfc/rfc4253.txt">RFC 4253: The Secure Shell (SSH) Transport Layer Protocol</a></li>
+<li><a href="https://www.ietf.org/rfc/rfc4254.txt">RFC 4254: The Secure Shell (SSH) Connection Protocol</a></li>
+<li><a href="https://www.ietf.org/rfc/rfc4255.txt">RFC 4255: Using DNS to Securely Publish Secure Shell (SSH) Key Fingerprints</a></li>
+<li><a href="https://www.ietf.org/rfc/rfc4256.txt">RFC 4256: Generic Message Exchange Authentication for the Secure Shell Protocol (SSH)</a></li>
+<li><a href="https://www.ietf.org/rfc/rfc4301.txt">RFC 4301: Security Architecture for the Internet Protocol</a></li>
+<li><a href="https://www.ietf.org/rfc/rfc4302.txt">RFC 4302: IP Authentication Header</a></li>
+<li><a href="https://www.ietf.org/rfc/rfc4303.txt">RFC 4303: IP Encapsulating Security Payload (ESP)</a></li>
+<li><a href="https://www.ietf.org/rfc/rfc4308.txt">RFC 4308: Cryptographic Suites for IPsec</a></li>
+<li><a href="https://www.ietf.org/rfc/rfc4344.txt">RFC 4344: The Secure Shell (SSH) Transport Layer Encryption Modes</a></li>
+<li><a href="https://www.ietf.org/rfc/rfc4346.txt">RFC 4346: The Transport Layer Security (TLS) Protocol Version 1.1</a></li>
+<li><a href="https://www.ietf.org/rfc/rfc4359.txt">RFC 4359: The Use of RSA/SHA-1 Signatures within Encapsulating
+Security Payload (ESP) and Authentication Header (AH)</a></li>
+<li><a href="https://www.ietf.org/rfc/rfc4366.txt">RFC 4366: Transport Layer Security (TLS) Extensions</a></li>
+<li><a href="https://www.ietf.org/rfc/rfc4513.txt">RFC 4513: Lightweight Directory Access Protocol (LDAP): Authentication Methods and Security Mechanisms</a></li>
+<li><a href="https://www.ietf.org/rfc/rfc4871.txt">RFC 4871: DomainKeys Identified Mail (DKIM) Signatures</a></li>
+<li><a href="https://www.ietf.org/rfc/rfc4959.txt">RFC 4959: IMAP Extension for Simple Authentication and Security Layer (SASL) Initial Client Response</a></li>
+<li><a href="https://www.ietf.org/rfc/rfc4985.txt">RFC 4985: Internet X.509 Public Key Infrastructure Subject Alternative Name for Expression of Service Name</a></li>
+<li><a href="https://www.ietf.org/rfc/rfc5070.txt">RFC 5070: The Incident Object Description Exchange Format</a></li>
+<li><a href="https://www.ietf.org/rfc/rfc5321.txt">RFC 5321: Simple Mail Transfer Protocol</a></li>
+<li><a href="https://www.ietf.org/rfc/rfc5322.txt">RFC 5322: Internet Message Format</a></li>
+<li><a href="https://www.ietf.org/rfc/rfc5901.txt">RFC 5901: Extensions to the IODEF-Document Class for Reporting Phishing</a></li>
+<li><a href="https://www.ietf.org/rfc/rfc6045.txt">RFC 6045: Real-time Inter-network Defense (RID)</a></li>
+<li><a href="https://www.ietf.org/rfc/rfc6409.txt">RFC 6409: Message Submission for Mail</a></li>
+<li><a href="https://www.ietf.org/rfc/rfc6528.txt">RFC 6528: Defending against Sequence Number Attacks</a></li>
+</ul>
+
+<p><b>Informational</b></p>
+
+<ul>
+ <li><a href="https://www.ietf.org/rfc/rfc1281.txt"> RFC 1281: Guidelines for the Secure Operation of the Internet</a></li>
+ <li><a href="https://www.ietf.org/rfc/rfc1321.txt"> RFC 1321: The MD5 Message-Digest Algorithm</a></li>
+ <li><a href="https://www.ietf.org/rfc/rfc1470.txt"> RFC 1470: Tools for Monitoring and Debugging TCP/IP Internets and Interconnected Devices</a></li>
+ <li><a href="https://www.ietf.org/rfc/rfc1750.txt"> RFC 1750: Randomness Recommendations for Security</a></li>
+ <li><a href="https://www.ietf.org/rfc/rfc2076.txt"> RFC 2076: Common Internet Message Headers</a></li>
+ <li><a href="https://www.ietf.org/rfc/rfc2196.txt"> RFC 2196: Site Security Handbook</a></li>
+ <li><a href="https://www.ietf.org/rfc/rfc2411.txt"> RFC 2411: IP Security Document Roadmap</a></li>
+ <li><a href="https://www.ietf.org/rfc/rfc2504.txt"> RFC 2504: Users Security Handbook</a></li>
+ <li><a href="https://www.ietf.org/rfc/rfc2577.txt"> RFC 2577: FTP Security Considerations</a></li>
+ <li><a href="https://www.ietf.org/rfc/rfc2979.txt"> RFC 2979: Behavior of and Requirements for Internet Firewalls</a></li>
+ <li><a href="https://www.ietf.org/rfc/rfc3067.txt"> RFC 3067: TERENA's Incident Object Description and Exchange Format Requirements</a></li>
+ <li><a href="https://www.ietf.org/rfc/rfc3098.txt"> RFC 3098: How to Advertise Responsibly Using E-Mail and Newsgroups or — how NOT to $$$$$  MAKE ENEMIES FAST!  $$$$$</a></li>
+
+<li><a href="https://www.ietf.org/rfc/rfc3164.txt">RFC 3164: The BSD syslog Protocol</a></li>
+<li><a href="https://www.ietf.org/rfc/rfc3174.txt">RFC 3174: US Secure Hash Algorithm 1 (SHA1)</a></li>
+<li><a href="https://www.ietf.org/rfc/rfc3330.txt">RFC 3330: Special-Use IPv4 Addresses</a></li>
+<li><a href="https://www.ietf.org/rfc/rfc3511.txt">RFC 3511: Benchmarking Methodology for Firewall Performance</a></li>
+<li><a href="https://www.ietf.org/rfc/rfc3631.txt">RFC 3631: Security Mechanisms for the Internet</a></li>
+<li><a href="https://www.ietf.org/rfc/rfc3833.txt">RFC 3833: Threat Analysis of the Domain Name System (DNS)</a></li>
+<li><a href="https://www.ietf.org/rfc/rfc3871.txt">RFC 3871: Operational Security Requirements for Large Internet Service Provider (ISP) IP Network Infrastructure</a></li>
+<li><a href="https://www.ietf.org/rfc/rfc3964.txt">RFC 3964: Security Considerations for 6to4</a></li>
+<li><a href="https://www.ietf.org/rfc/rfc4096.txt">RFC 4096: Policy-Mandated Labels Such as "Adv:" in Email Subject Headers Considered Ineffective At Best</a></li>
+<li><a href="https://www.ietf.org/rfc/rfc4270.txt">RFC 4270: Attacks on Cryptographic Hashes in Internet Protocols</a></li>
+<li><a href="https://www.ietf.org/rfc/rfc4272.txt">RFC 4272: BGP Security Vulnerabilities Analysis</a></li>
+<li><a href="https://www.ietf.org/rfc/rfc4381.txt">RFC 4381: Analysis of the Security of BGP/MPLS IP Virtual Private Networks (VPNs)</a></li>
+<li><a href="https://www.ietf.org/rfc/rfc4641.txt">RFC 4641: DNSSEC Operational Practices</a></li>
+<li><a href="https://www.ietf.org/rfc/rfc4686.txt">RFC 4686: Analysis of Threats Motivating DomainKeys Identified Mail (DKIM)</a></li>
+<li><a href="https://www.ietf.org/rfc/rfc4766.txt">RFC 4766: Intrusion Detection Message Exchange Requirements</a></li>
+<li><a href="https://www.ietf.org/rfc/rfc4772.txt">RFC 4772: Security Implications of Using the Data Encryption Standard (DES)</a></li>
+<li><a href="https://www.ietf.org/rfc/rfc4778.txt">RFC 4778: Current Operational Security Practices in Internet Service Provider Environments</a></li>
+<li><a href="https://www.ietf.org/rfc/rfc4890.txt">RFC 4890: Recommendations for Filtering ICMPv6 Messages in Firewalls</a></li>
+<li><a href="https://www.ietf.org/rfc/rfc4891.txt">RFC 4891: Using IPsec to Secure IPv6-in-IPv4 Tunnels</a></li>
+<li><a href="https://www.ietf.org/rfc/rfc4942.txt">RFC 4942: IPv6 Transition/Coexistence Security Considerations</a></li>
+<li><a href="https://www.ietf.org/rfc/rfc4986.txt">RFC 4986: Requirements Related to DNS Security (DNSSEC) Trust Anchor Rollover</a></li>
+<li><a href="https://www.ietf.org/rfc/rfc4949.txt">RFC 4949: Internet Security Glossary, Version 2</a></li>
+<li><a href="https://www.ietf.org/rfc/rfc6092.txt">RFC 6092: Recommended Simple Security Capabilities in Customer Premises Equipment (CPE) for Providing Residential IPv6 Internet Service</a></li>
+<li><a href="https://www.ietf.org/rfc/rfc6274.txt">RFC 6274: Security Assessment of the Internet Protocol Version 4</a></li>
+<li><a href="https://www.ietf.org/rfc/rfc6305.txt">RFC 6305: I'm Being Attacked by PRISONER.IANA.ORG!</a></li>
+<li><a href="https://www.ietf.org/rfc/rfc6471.txt">RFC 6471: Overview of Best Email DNS-Based List (DNSBL) Operational Practices</a></li>
+<li><a href="https://www.ietf.org/rfc/rfc6480.txt">RFC 6480: An Infrastructure to Support Secure Internet Routing</a></li>
+<li><a href="https://www.ietf.org/rfc/rfc6561.txt">RFC 6561: Recommendations for the Remediation of Bots in ISP Networks</a></li>
+<li><a href="https://www.ietf.org/rfc/rfc7123.txt">RFC 7123: Security Implications of IPv6 on IPv4 Networks</a></li>
+</ul>
+
+<p><b>Experimental / Historic</b></p>
+
+<ul>
+<li><a href="https://www.ietf.org/rfc/rfc4406.txt"> RFC 4406: Sender ID: Authenticating E-Mail</a></li>
+<li><a href="https://www.ietf.org/rfc/rfc4408.txt"> RFC 4408: Sender Policy Framework (SPF) for Authorizing Use of Domains in E-Mail, Version 1</a></li>
+<li><a href="https://www.ietf.org/rfc/rfc4765.txt"> RFC 4765: The Intrusion Detection Message Exchange Format (IDMEF)</a></li>
+<li><a href="https://www.ietf.org/rfc/rfc4767.txt"> RFC 4767: The Intrusion Detection Exchange Protocol (IDXP)</a></li>
+<li><a href="https://www.ietf.org/rfc/rfc6541.txt"> RFC 6541: DomainKeys Identified Mail (DKIM) Authorized Third-Party Signatures</a></li>
+<li><a href="https://www.ietf.org/rfc/rfc6587.txt"> RFC 6587: Transmission of Syslog Messages over TCP </a></li>
+</ul>
+
+<br>
+</details>
 
 <br>
 </details>
@@ -1249,6 +1453,10 @@ $ sudo grgsm_scanner     # Scan for cell towers near you.
 $ sudo grgsm_livemon     # Live radio scanning.
 </pre>
 
+DEFCON Safe Mode - Cooper Quintin - Detecting Fake 4G Base Stations in Real-Time https://www.youtube.com/watch?v=siCk4pGGcqA <br>
+
+https://github.com/CellularPrivacy/Android-IMSI-Catcher-Detector<br>
+
 <br>
 </details>
 
@@ -1308,211 +1516,6 @@ $ sudo grgsm_livemon     # Live radio scanning.
 
 <!-- ################################## -->
 
-<hr>
-
-<details>
-<summary><b>Standards</b></summary>
-<br>
-
-<p><b>NIST — National Institute of Standards and Technology</b></p>
-
-<h6>Visit: https://www.nist.gov/standards</h6>
-
-<p><b>ISO/IEC — International Electrotechnical Commission</b></p>
-
-<h6>Visit: https://www.iso27001security.com</h6>
-
-Information security, cybersecurity and privacy protection — https://www.iso.org/standard/27001 <br>
-
-<ul>
-<li><A HREF="https://www.iso27001security.com/html/27000.html">ISO/IEC 27000 — ISO27k overview &amp; glossary</a></li>
-<li><A HREF="https://www.iso27001security.com/html/27001.html">ISO/IEC 27001 — formal ISMS specification</a></li>
-<li><A HREF="https://www.iso27001security.com/html/27002.html">ISO/IEC 27002 — infosec controls catalogue</a></li>
-<li><A HREF="https://www.iso27001security.com/html/27003.html">ISO/IEC 27003 — ISMS implementation guide</a></li>
-<li><A HREF="https://www.iso27001security.com/html/27004.html">ISO/IEC 27004 — infosec measurement [metrics]</a></li>
-<li><A HREF="https://www.iso27001security.com/html/27005.html">ISO/IEC 27005 — info[sec] risk management</a></li>
-<li><A HREF="https://www.iso27001security.com/html/27006.html">ISO/IEC 27006-n — ISMS &amp; PIMS certification </a></li>
-<li><A HREF="https://www.iso27001security.com/html/27007.html">ISO/IEC 27007 — <I>management system</I> auditing</a></li>
-<li><A HREF="https://www.iso27001security.com/html/27008.html">ISO/IEC TS 27008 — <I>security controls</I> auditing</a></li>
-<li><A HREF="https://www.iso27001security.com/html/27009.html">ISO/IEC 27009 — sector variants of ISO27k</a></li>
-<li><A HREF="https://www.iso27001security.com/html/27010.html">ISO/IEC 27010 — for inter-org comms</a></li>
-<li><A HREF="https://www.iso27001security.com/html/27011.html">ISO/IEC 27011 — ISMS for telecoms</a></li>
-<li><A HREF="https://www.iso27001security.com/html/27013.html">ISO/IEC 27013 — ISMS &amp; ITIL/service mgmt</a></li>
-<li><A HREF="https://www.iso27001security.com/html/27014.html">ISO/IEC 27014 — infosec governance</a></li>
-<li><A HREF="https://www.iso27001security.com/html/27016.html">ISO/IEC TR 27016 — infosec economics</a></li>
-<li><A HREF="https://www.iso27001security.com/html/27017.html">ISO/IEC 27017 — cloud security controls</a></li>
-<li><A HREF="https://www.iso27001security.com/html/27018.html">ISO/IEC 27018 — cloud privacy</a></li>
-<li><A HREF="https://www.iso27001security.com/html/27019.html">ISO/IEC 27019 — process control in energy industry</a></li>
-<li><A HREF="https://www.iso27001security.com/html/27021.html">ISO/IEC 27021 — competences for ISMS pro&#8217;s</a></li>
-<li><A HREF="https://www.iso27001security.com/html/27022.html">ISO/IEC TS 27022 — ISMS processes</a></li>
-<li><A HREF="https://www.iso27001security.com/html/27031.html">ISO/IEC 27031 — ICT element of business continuity</a></li>
-<li><A HREF="https://www.iso27001security.com/html/27032.html">ISO/IEC 27032 — Internet security</a></li>
-<li><A HREF="https://www.iso27001security.com/html/27033.html">ISO/IEC 27033-n — network security</a></li>
-<li><A HREF="https://www.iso27001security.com/html/27034.html">ISO/IEC 27034-n — application security</a></li>
-<li><A HREF="https://www.iso27001security.com/html/27035.html">ISO/IEC 27035-n — incident management</a></li>
-<li><A HREF="https://www.iso27001security.com/html/27036.html">ISO/IEC 27036-n — ICT supply chain &amp; cloud</a></li>
-<li><A HREF="https://www.iso27001security.com/html/27037.html">ISO/IEC 27037 — digital evidence [eForensics]</a></li>
-<li><A HREF="https://www.iso27001security.com/html/27038.html">ISO/IEC 27038 — document redaction</a></li>
-<li><A HREF="https://www.iso27001security.com/html/27039.html">ISO/IEC 27039 — intrusion prevention</a></li>
-<li><A HREF="https://www.iso27001security.com/html/27040.html">ISO/IEC 27040 — storage security</a></li>
-<li><A HREF="https://www.iso27001security.com/html/27041.html">ISO/IEC 27041 — incident investigation assurance</a></li>
-<li><A HREF="https://www.iso27001security.com/html/27042.html">ISO/IEC 27042 — analysing digital evidence</a></li>
-<li><A HREF="https://www.iso27001security.com/html/27043.html">ISO/IEC 27043 — incident investigation</a></li>
-<li><A HREF="https://www.iso27001security.com/html/27050.html">ISO/IEC 27050-n — digital forensics</a></li>
-<li><A HREF="https://www.iso27001security.com/html/27070.html">ISO/IEC 27070 — virtual roots of trust</a></li>
-<li><A HREF="https://www.iso27001security.com/html/27071.html">ISO/IEC 27071 — trusted connections</a></li>
-<li><A HREF="https://www.iso27001security.com/html/27099.html">ISO/IEC 27099 — ISMS for PKI</a></li>
-<li><A HREF="https://www.iso27001security.com/html/27100.html">ISO/IEC TS 27100 — cybersecurity overview/concepts</a></li>
-<li><A HREF="https://www.iso27001security.com/html/27102.html">ISO/IEC 27102 — cyber-insurance</a></li>
-<li><A HREF="https://www.iso27001security.com/html/27103.html">ISO/IEC 27103 —  ISMS for cybersecurity</a></li>
-<li><A HREF="https://www.iso27001security.com/html/27110.html">ISO/IEC TS 27110 — cybersecurity frameworks</a></li>
-<li><A HREF="https://www.iso27001security.com/html/27400.html">ISO/IEC 27400 — IoT security and privacy</a></li>
-<li><A HREF="https://www.iso27001security.com/html/27550.html">ISO/IEC TR 27550 — privacy engineering</a></li>
-<li><A HREF="https://www.iso27001security.com/html/27553.html">ISO/IEC 27553-n — mobile device biometrics</a></li>
-<li><A HREF="https://www.iso27001security.com/html/27555.html">ISO/IEC 27555 — deleting PII/personal data</a></li>
-<li><A HREF="https://www.iso27001security.com/html/27556.html">ISO/IEC 27556 — privacy preferences</a></li>
-<li><A HREF="https://www.iso27001security.com/html/27557.html">ISO/IEC 27557 — privacy risk management</a></li>
-<li><A HREF="https://www.iso27001security.com/html/27559.html">ISO/IEC 27559 — de-identification of personal data</a></li>
-<li><A HREF="https://www.iso27001security.com/html/27560.html">ISO/IEC TS 27560 — privacy consent record structure</a></li>
-<li><A HREF="https://www.iso27001security.com/html/27563.html">ISO/IEC TR 27563 — AI use case security &amp; privacy</a></li>
-<li><A HREF="https://www.iso27001security.com/html/27570.html">ISO/IEC TS 27570 — smart city privacy</a></li>
-<li><A HREF="https://www.iso27001security.com/html/27701.html">ISO/IEC 27701 — managing privacy with an ISMS</li>
-<li><A HREF="https://www.iso27001security.com/html/27799.html">ISO 27799 — information security in healthcare</a></li>
-</ul>
-
-<p><b>RFC</b></p>
-
-<p><b>Best Current Practices (BCP)</b></p>
-
-<ul>
- <li><a href="https://www.ietf.org/rfc/rfc1918.txt"> RFC 1918 / BCP 5: Address Allocation for Private Internets</a></li>
- <li><a href="https://www.ietf.org/rfc/rfc2350.txt"> RFC 2350 / BCP 21: Expectations for Computer Security Incident Response</a></li>
- <li><a href="https://www.ietf.org/rfc/rfc2505.txt"> RFC 2505 / BCP 30: Anti-Spam Recommendations for SMTP MTAs</a></li>
- <li><a href="https://www.ietf.org/rfc/rfc2644.txt"> RFC 2644 / BCP 34: Changing the Default for Directed Broadcasts in Routers</a></li>
- <li><a href="https://www.ietf.org/rfc/rfc2827.txt"> RFC 2827 / BCP 38: Network Ingress Filtering: Defeating Denial of Service Attacks which employ IP Source Address Spoofing</a></li>
- <li><a href="https://www.ietf.org/rfc/rfc3013.txt"> RFC 3013 / BCP 46: Recommended Internet Service Provider Security Services and Procedures</a></li>
- <li><a href="https://www.ietf.org/rfc/rfc3227.txt"> RFC 3227 / BCP 55: Guidelines for Evidence Collection and Archiving</a></li>
- <li><a href="https://www.ietf.org/rfc/rfc3360.txt"> RFC 3360 / BCP 60: Inappropriate TCP Resets Considered Harmful</a></li>
- <li><a href="https://www.ietf.org/rfc/rfc3365.txt"> RFC 3365 / BCP 61: Strong Security Requirements for Internet Engineering Task Force Standard Protocols</a></li>
- <li><a href="https://www.ietf.org/rfc/rfc4086.txt"> RFC 4086 / BCP 106: Randomness Requirements for Security</a></li>
- <li><a href="https://www.ietf.org/rfc/rfc4107.txt"> RFC 4107 / BCP 107: Guidelines for Cryptographic Key Management</a></li>
- <li><a href="https://www.ietf.org/rfc/rfc5068.txt"> RFC 5068 / BCP 134: Email Submission Operations: Access and
-Accountability Requirements</a></li>
-<li><a href="https://www.ietf.org/rfc/rfc5358.txt">RFC 5358 / BCP 140: Preventing Use of Recursive Nameservers in Reflector Attacks</a></li>
-<li><a href="https://www.ietf.org/rfc/rfc5406.txt">RFC 5406 / BCP 146: Guidelines for Specifying the Use of IPsec Version 2</a></li>
-</ul>
-
-<p><b>Standards</b></p>
-
-<ul>
-<li><a href="https://www.ietf.org/rfc/rfc2142.txt"> RFC 2142: Mailbox Names for Common Services, Roles and Functions</a></li>
-<li><a href="https://www.ietf.org/rfc/rfc2246.txt"> RFC 2246: The TLS Protocol  Version 1.0</a></li>
-<li><a href="https://www.ietf.org/rfc/rfc2554.txt"> RFC 2554: SMTP Service Extension for Authentication</a></li>
-<li><a href="https://www.ietf.org/rfc/rfc3168.txt"> RFC 3168: The Addition of Explicit Congestion Notification (ECN) to IP</a></li>
-<li><a href="https://www.ietf.org/rfc/rfc3207.txt"> RFC 3207: SMTP Service Extension for Secure SMTP over Transport Layer Security</a></li>
-<li><a href="https://www.ietf.org/rfc/rfc3369.txt"> RFC 3369: Cryptographic Message Syntax (CMS)</a></li>
-<li><a href="https://www.ietf.org/rfc/rfc3370.txt"> RFC 3370: Cryptographic Message Syntax (CMS) Algorithms</a></li>
-<li><a href="https://www.ietf.org/rfc/rfc3834.txt"> RFC 3834: Recommendations for Automatic Responses to Electronic Mail</a></li>
-<li><a href="https://www.ietf.org/rfc/rfc4033.txt"> RFC 4033: DNS Security Introduction and Requirements</a></li>
-<li><a href="https://www.ietf.org/rfc/rfc4034.txt"> RFC 4034: Resource Records for the DNS Security Extensions</a></li>
-<li><a href="https://www.ietf.org/rfc/rfc4035.txt"> RFC 4035: Protocol Modifications for the DNS Security Extensions</a></li>
-<li><a href="https://www.ietf.org/rfc/rfc4051.txt"> RFC 4051: Additional XML Security Uniform Resource Identifiers (URIs)</a></li>
-<li><a href="https://www.ietf.org/rfc/rfc4055.txt">RFC 4055: Additional Algorithms and Identifiers for RSA Cryptography for use in the Internet X.509 Public Key Infrastructure Certificate and Certificate Revocation List (CRL) Profile</a></li>
-<li><a href="https://www.ietf.org/rfc/rfc4056.txt">RFC 4056: Use of the RSASSA-PSS Signature Algorithm in Cryptographic Message Syntax (CMS)</a></li>
-<li><a href="https://www.ietf.org/rfc/rfc4109.txt">RFC 4109: Algorithms for Internet Key Exchange version 1 (IKEv1)</a></li>
-<li><a href="https://www.ietf.org/rfc/rfc4217.txt">RFC 4217: Securing FTP with TLS</a></li>
-<li><a href="https://www.ietf.org/rfc/rfc4250.txt">RFC 4250: The Secure Shell (SSH) Protocol Assigned Numbers</a></li>
-<li><a href="https://www.ietf.org/rfc/rfc4251.txt">RFC 4251: The Secure Shell (SSH) Protocol Architecture</a></li>
-<li><a href="https://www.ietf.org/rfc/rfc4252.txt">RFC 4252: The Secure Shell (SSH) Authentication Protocol</a></li>
-<li><a href="https://www.ietf.org/rfc/rfc4253.txt">RFC 4253: The Secure Shell (SSH) Transport Layer Protocol</a></li>
-<li><a href="https://www.ietf.org/rfc/rfc4254.txt">RFC 4254: The Secure Shell (SSH) Connection Protocol</a></li>
-<li><a href="https://www.ietf.org/rfc/rfc4255.txt">RFC 4255: Using DNS to Securely Publish Secure Shell (SSH) Key Fingerprints</a></li>
-<li><a href="https://www.ietf.org/rfc/rfc4256.txt">RFC 4256: Generic Message Exchange Authentication for the Secure Shell Protocol (SSH)</a></li>
-<li><a href="https://www.ietf.org/rfc/rfc4301.txt">RFC 4301: Security Architecture for the Internet Protocol</a></li>
-<li><a href="https://www.ietf.org/rfc/rfc4302.txt">RFC 4302: IP Authentication Header</a></li>
-<li><a href="https://www.ietf.org/rfc/rfc4303.txt">RFC 4303: IP Encapsulating Security Payload (ESP)</a></li>
-<li><a href="https://www.ietf.org/rfc/rfc4308.txt">RFC 4308: Cryptographic Suites for IPsec</a></li>
-<li><a href="https://www.ietf.org/rfc/rfc4344.txt">RFC 4344: The Secure Shell (SSH) Transport Layer Encryption Modes</a></li>
-<li><a href="https://www.ietf.org/rfc/rfc4346.txt">RFC 4346: The Transport Layer Security (TLS) Protocol Version 1.1</a></li>
-<li><a href="https://www.ietf.org/rfc/rfc4359.txt">RFC 4359: The Use of RSA/SHA-1 Signatures within Encapsulating
-Security Payload (ESP) and Authentication Header (AH)</a></li>
-<li><a href="https://www.ietf.org/rfc/rfc4366.txt">RFC 4366: Transport Layer Security (TLS) Extensions</a></li>
-<li><a href="https://www.ietf.org/rfc/rfc4513.txt">RFC 4513: Lightweight Directory Access Protocol (LDAP): Authentication Methods and Security Mechanisms</a></li>
-<li><a href="https://www.ietf.org/rfc/rfc4871.txt">RFC 4871: DomainKeys Identified Mail (DKIM) Signatures</a></li>
-<li><a href="https://www.ietf.org/rfc/rfc4959.txt">RFC 4959: IMAP Extension for Simple Authentication and Security Layer (SASL) Initial Client Response</a></li>
-<li><a href="https://www.ietf.org/rfc/rfc4985.txt">RFC 4985: Internet X.509 Public Key Infrastructure Subject Alternative Name for Expression of Service Name</a></li>
-<li><a href="https://www.ietf.org/rfc/rfc5070.txt">RFC 5070: The Incident Object Description Exchange Format</a></li>
-<li><a href="https://www.ietf.org/rfc/rfc5321.txt">RFC 5321: Simple Mail Transfer Protocol</a></li>
-<li><a href="https://www.ietf.org/rfc/rfc5322.txt">RFC 5322: Internet Message Format</a></li>
-<li><a href="https://www.ietf.org/rfc/rfc5901.txt">RFC 5901: Extensions to the IODEF-Document Class for Reporting Phishing</a></li>
-<li><a href="https://www.ietf.org/rfc/rfc6045.txt">RFC 6045: Real-time Inter-network Defense (RID)</a></li>
-<li><a href="https://www.ietf.org/rfc/rfc6409.txt">RFC 6409: Message Submission for Mail</a></li>
-<li><a href="https://www.ietf.org/rfc/rfc6528.txt">RFC 6528: Defending against Sequence Number Attacks</a></li>
-</ul>
-
-<p><b>Informational</b></p>
-
-<ul>
- <li><a href="https://www.ietf.org/rfc/rfc1281.txt"> RFC 1281: Guidelines for the Secure Operation of the Internet</a></li>
- <li><a href="https://www.ietf.org/rfc/rfc1321.txt"> RFC 1321: The MD5 Message-Digest Algorithm</a></li>
- <li><a href="https://www.ietf.org/rfc/rfc1470.txt"> RFC 1470: Tools for Monitoring and Debugging TCP/IP Internets and Interconnected Devices</a></li>
- <li><a href="https://www.ietf.org/rfc/rfc1750.txt"> RFC 1750: Randomness Recommendations for Security</a></li>
- <li><a href="https://www.ietf.org/rfc/rfc2076.txt"> RFC 2076: Common Internet Message Headers</a></li>
- <li><a href="https://www.ietf.org/rfc/rfc2196.txt"> RFC 2196: Site Security Handbook</a></li>
- <li><a href="https://www.ietf.org/rfc/rfc2411.txt"> RFC 2411: IP Security Document Roadmap</a></li>
- <li><a href="https://www.ietf.org/rfc/rfc2504.txt"> RFC 2504: Users Security Handbook</a></li>
- <li><a href="https://www.ietf.org/rfc/rfc2577.txt"> RFC 2577: FTP Security Considerations</a></li>
- <li><a href="https://www.ietf.org/rfc/rfc2979.txt"> RFC 2979: Behavior of and Requirements for Internet Firewalls</a></li>
- <li><a href="https://www.ietf.org/rfc/rfc3067.txt"> RFC 3067: TERENA's Incident Object Description and Exchange Format Requirements</a></li>
- <li><a href="https://www.ietf.org/rfc/rfc3098.txt"> RFC 3098: How to Advertise Responsibly Using E-Mail and Newsgroups or — how NOT to $$$$$  MAKE ENEMIES FAST!  $$$$$</a></li>
-
-<li><a href="https://www.ietf.org/rfc/rfc3164.txt">RFC 3164: The BSD syslog Protocol</a></li>
-<li><a href="https://www.ietf.org/rfc/rfc3174.txt">RFC 3174: US Secure Hash Algorithm 1 (SHA1)</a></li>
-<li><a href="https://www.ietf.org/rfc/rfc3330.txt">RFC 3330: Special-Use IPv4 Addresses</a></li>
-<li><a href="https://www.ietf.org/rfc/rfc3511.txt">RFC 3511: Benchmarking Methodology for Firewall Performance</a></li>
-<li><a href="https://www.ietf.org/rfc/rfc3631.txt">RFC 3631: Security Mechanisms for the Internet</a></li>
-<li><a href="https://www.ietf.org/rfc/rfc3833.txt">RFC 3833: Threat Analysis of the Domain Name System (DNS)</a></li>
-<li><a href="https://www.ietf.org/rfc/rfc3871.txt">RFC 3871: Operational Security Requirements for Large Internet Service Provider (ISP) IP Network Infrastructure</a></li>
-<li><a href="https://www.ietf.org/rfc/rfc3964.txt">RFC 3964: Security Considerations for 6to4</a></li>
-<li><a href="https://www.ietf.org/rfc/rfc4096.txt">RFC 4096: Policy-Mandated Labels Such as "Adv:" in Email Subject Headers Considered Ineffective At Best</a></li>
-<li><a href="https://www.ietf.org/rfc/rfc4270.txt">RFC 4270: Attacks on Cryptographic Hashes in Internet Protocols</a></li>
-<li><a href="https://www.ietf.org/rfc/rfc4272.txt">RFC 4272: BGP Security Vulnerabilities Analysis</a></li>
-<li><a href="https://www.ietf.org/rfc/rfc4381.txt">RFC 4381: Analysis of the Security of BGP/MPLS IP Virtual Private Networks (VPNs)</a></li>
-<li><a href="https://www.ietf.org/rfc/rfc4641.txt">RFC 4641: DNSSEC Operational Practices</a></li>
-<li><a href="https://www.ietf.org/rfc/rfc4686.txt">RFC 4686: Analysis of Threats Motivating DomainKeys Identified Mail (DKIM)</a></li>
-<li><a href="https://www.ietf.org/rfc/rfc4766.txt">RFC 4766: Intrusion Detection Message Exchange Requirements</a></li>
-<li><a href="https://www.ietf.org/rfc/rfc4772.txt">RFC 4772: Security Implications of Using the Data Encryption Standard (DES)</a></li>
-<li><a href="https://www.ietf.org/rfc/rfc4778.txt">RFC 4778: Current Operational Security Practices in Internet Service Provider Environments</a></li>
-<li><a href="https://www.ietf.org/rfc/rfc4890.txt">RFC 4890: Recommendations for Filtering ICMPv6 Messages in Firewalls</a></li>
-<li><a href="https://www.ietf.org/rfc/rfc4891.txt">RFC 4891: Using IPsec to Secure IPv6-in-IPv4 Tunnels</a></li>
-<li><a href="https://www.ietf.org/rfc/rfc4942.txt">RFC 4942: IPv6 Transition/Coexistence Security Considerations</a></li>
-<li><a href="https://www.ietf.org/rfc/rfc4986.txt">RFC 4986: Requirements Related to DNS Security (DNSSEC) Trust Anchor Rollover</a></li>
-<li><a href="https://www.ietf.org/rfc/rfc4949.txt">RFC 4949: Internet Security Glossary, Version 2</a></li>
-<li><a href="https://www.ietf.org/rfc/rfc6092.txt">RFC 6092: Recommended Simple Security Capabilities in Customer Premises Equipment (CPE) for Providing Residential IPv6 Internet Service</a></li>
-<li><a href="https://www.ietf.org/rfc/rfc6274.txt">RFC 6274: Security Assessment of the Internet Protocol Version 4</a></li>
-<li><a href="https://www.ietf.org/rfc/rfc6305.txt">RFC 6305: I'm Being Attacked by PRISONER.IANA.ORG!</a></li>
-<li><a href="https://www.ietf.org/rfc/rfc6471.txt">RFC 6471: Overview of Best Email DNS-Based List (DNSBL) Operational Practices</a></li>
-<li><a href="https://www.ietf.org/rfc/rfc6480.txt">RFC 6480: An Infrastructure to Support Secure Internet Routing</a></li>
-<li><a href="https://www.ietf.org/rfc/rfc6561.txt">RFC 6561: Recommendations for the Remediation of Bots in ISP Networks</a></li>
-<li><a href="https://www.ietf.org/rfc/rfc7123.txt">RFC 7123: Security Implications of IPv6 on IPv4 Networks</a></li>
-</ul>
-
-<p><b>Experimental / Historic</b></p>
-
-<ul>
-<li><a href="https://www.ietf.org/rfc/rfc4406.txt"> RFC 4406: Sender ID: Authenticating E-Mail</a></li>
-<li><a href="https://www.ietf.org/rfc/rfc4408.txt"> RFC 4408: Sender Policy Framework (SPF) for Authorizing Use of Domains in E-Mail, Version 1</a></li>
-<li><a href="https://www.ietf.org/rfc/rfc4765.txt"> RFC 4765: The Intrusion Detection Message Exchange Format (IDMEF)</a></li>
-<li><a href="https://www.ietf.org/rfc/rfc4767.txt"> RFC 4767: The Intrusion Detection Exchange Protocol (IDXP)</a></li>
-<li><a href="https://www.ietf.org/rfc/rfc6541.txt"> RFC 6541: DomainKeys Identified Mail (DKIM) Authorized Third-Party Signatures</a></li>
-<li><a href="https://www.ietf.org/rfc/rfc6587.txt"> RFC 6587: Transmission of Syslog Messages over TCP </a></li>
-</ul>
-
-<br>
-</details>
-
-<!-- ################################# -->
-
 <details>
 <summary><b>Sites of Interest</b></summary>
 <br>
@@ -1561,8 +1564,14 @@ SANS Institute — Newsletter<br>
 https://www.sans.org> <br>
 • Google Scholar — Alerts<br>
 https://scholar.google.com/scholar_alerts?view_op=list_alerts&hl=en-US<br>
+• Secure List<br>
+https://securelist.com
+• Debian Security Announce<br>
+https://lists.debian.org/debian-security-announce
 • Wired News<br>
 https://www.wired.com<br>
+• ZDnet<br>
+https://www.zdnet.com<br>
 • Cert Coordination Center<br>
 https://www.cert.org<br>
 • DoD Instructions Cybersecurity<br>
@@ -1691,9 +1700,10 @@ https://www.e-ir.info/publications/
 <br>
 
 • Necessary and Proportionate - https://www.necessaryandproportionate.org<br>
+• Bad Internet Bills - https://www.badinternetbills.com<br>
+• The IT Law Wiki - https://itlaw.fandom.com<br>
 • Computer Crime Research Center - https://www.crime-research.org<br>
 • Internet Crime Complaint Center (IC3) - https://www.ic3.gov/Home/AnnualReports<br>
-• The IT Law Wiki - https://itlaw.fandom.com<br>
 https://www.fbi.gov<br>
 https://www.justice.gov/news<br>
 https://www.justice.gov/criminal/cybercrime<br>
@@ -1729,7 +1739,10 @@ https://www.youtube.com/@EkopartyConference<br>
 https://www.youtube.com/@reconmtl<br>
 https://www.youtube.com/@TROOPERScon<br>
 https://www.youtube.com/@MCH2022NL<br>
-
+https://www.youtube.com/c/MentalOutlaw<br>
+https://www.youtube.com/c/Seytonic<br>
+https://www.youtube.com/@DoingFedTime<br>
+https://www.youtube.com/@UsenixOrg<br>
 <br>
 </details>
 
@@ -1742,8 +1755,11 @@ https://www.youtube.com/@MCH2022NL<br>
 https://eforensicsmag.com<br>
 https://0x00sec.org<br>
 https://csrc.nist.gov/projects<br>
-https://malware.lu<br>
+https://www.cisa.gov/news-events/cybersecurity-advisories<br>
+https://www.nsa.gov/Press-Room/Press-Releases-Statements<br>
 https://www.nsa.gov/ia/mitigation_guidance/security_configuration_guides/index.shtml<br>
+https://malware.lu<br>
+https://securelist.com<br>
 https://oval.mitre.org<br>
 https://www.w3.org/Security/Faq/www-security-faq.html<br>
 https://www.nowsecure.com<br>
