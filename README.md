@@ -117,8 +117,10 @@
 • Crowd Strike®<br><a href="https://www.crowdstrike.com" target="_blank" rel="noopener noreferrer">https://www.crowdstrike.com</a><br>
 • Binalyze®<br><a href="https://www.binalyze.com" target="_blank" rel="noopener noreferrer">https://www.binalyze.com</a><br>
 • LexisNexis®<br><a href="https://risk.lexisnexis.com" target="_blank" rel="noopener noreferrer">https://risk.lexisnexis.com</a><br>
+• NetQuest®<br><a href="https://netquestcorp.com" target="_blank" rel="noopener noreferrer">https://netquestcorp.com</a><br>
 • Gamma®<br><a href="https://www.gamma.co.uk" target="_blank" rel="noopener noreferrer">https://www.gamma.co.uk</a><br>
 • Memento Labs®<br><a href="https://mem3nt0.com" target="_blank" rel="noopener noreferrer">https://mem3nt0.com</a><br>
+• CYSource®<br><a href="https://www.cysrc.com" target="_blank" rel="noopener noreferrer">https://www.cysrc.com</a><br>
 • Thorn's Safer®<br><a href="https://www.thorn.org/" target="_blank" rel="noopener noreferrer">https://www.thorn.org</a><br>
 </td>
 </tr>
@@ -180,6 +182,8 @@
 <hr>
 
 <h3>INTERCEPTION PLATFORMS</h3>
+
+
 
 <p>Comparison between Drive Badger with other lawful interception platforms. Visit: <a href="https://docs.google.com/spreadsheets/d/1Ux0WeL-K4NOZTEQgJXuRzHPcG_ewKmcMNADuFhamytg/edit#gid=1460165261" target="_blank" rel="noopener noreferrer">Official online sheet complete and updated</a> or <a href="3.GUIDES_&_PAPERS/Drive_Bagder_-_Comparison_of_lawful_interception_platforms.pdf" target="_blank" rel="noopener noreferrer">PDF in our repo</a>.</p>
 
@@ -960,6 +964,7 @@ https://www.youtube.com/watch?v=6JJo8qCYE8M<br>
 ∙ US Federal Cases — https://pacer.uscourts.gov/find-case<br>
 ∙ EUR-Lex https://eur-lex.europa.eu/homepage.html<br>
 ∙ EU Common Portal of Case Law — https://network-presidents.eu/cpcl<br>
+∙ casetext (Thomson Reuters) - https://casetext.com<br>
 ∙ UNODC — Case Law Database — https://sherloc.unodc.org/cld/v3/sherloc/cldb/index.html?lng=en<br>
 ∙ UNODC — Cyber Organized Crime — https://www.unodc.org/e4j/en/cybercrime/module-13/additional-teaching-tools.html<br>
 ∙ Council of Europe - COE Cybercrime - https://www.coe.int/en/web/cybercrime<br>
@@ -1681,16 +1686,20 @@ https://ieee-isi.org/<br>
 <summary><b>Intelligence, Conflict, and Warfare Publications</b></summary>
 <br>
 
-• Taylor & Francis - Intelligence and National Security - Open access articles
-https://www.tandfonline.com/action/showOpenAccess?journalCode=fint20
-• The Journal of Intelligence, Conflict, and Warfare
-https://journals.lib.sfu.ca/index.php/jicw/issue/archive
-• CIA.gov - Center for the study of intelligence
-https://www.cia.gov/resources/csi/studies-in-intelligence/
-• DCAF - Geneva Centre for Security Sector Governance
-https://www.dcaf.ch/resources?type=publications
-• E-International Relations - Open access scholarly books 
-https://www.e-ir.info/publications/
+• Taylor & Francis - Intelligence and National Security - Open access articles<br>
+https://www.tandfonline.com/action/showOpenAccess?journalCode=fint20<br>
+• The Journal of Intelligence, Conflict, and Warfare<br>
+https://journals.lib.sfu.ca/index.php/jicw/issue/archive<br>
+• CIA.gov - Center for the study of intelligence<br>
+https://www.cia.gov/resources/csi/studies-in-intelligence<br>
+• DCAF - Geneva Centre for Security Sector Governance<br>
+https://www.dcaf.ch/resources?type=publications<br>
+• E-International Relations - Open access scholarly books<br> 
+https://www.e-ir.info/publications<br>
+• Springer Open<br>
+https://www.springeropen.com<br>
+• RIEAS<br>
+https://rieas.gr
 
 <br>
 </details>
@@ -1704,6 +1713,7 @@ https://www.e-ir.info/publications/
 • The IT Law Wiki - https://itlaw.fandom.com<br>
 • Computer Crime Research Center - https://www.crime-research.org<br>
 • Internet Crime Complaint Center (IC3) - https://www.ic3.gov/Home/AnnualReports<br>
+• ETSI - https://www.etsi.org/committees<br>q
 https://www.fbi.gov<br>
 https://www.justice.gov/news<br>
 https://www.justice.gov/criminal/cybercrime<br>
@@ -1770,7 +1780,6 @@ https://www.reddit.com/r/antiforensics<br>
 https://www.reddit.com/r/Smartphoneforensics<br>
 https://github.com/yeahhub/Hacking-Security-Ebooks<br>
 https://github.com/InfoSecIITR/reading-material<br>
-
 <br>
 </details>
 
