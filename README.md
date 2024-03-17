@@ -72,15 +72,15 @@
 <tr>
 <td align="left" valign="top" style="width: 50%">
 • Kali Linux<br><a href="https://www.kali.org">https://www.kali.org</a><br>
-• Parrot Security<br><a href="https://www.parrotsec.org">https://www.parrotsec.org</a><br>
+• Drive Badger<br><a href="https://drivebadger.com">https://drivebadger.com</a><a href="https://github.com/drivebadger/drivebadger">(GitHub)</a><br>
 • SIFT Workstation<br><a href="https://www.sans.org/tools/sift-workstation" target="_blank" rel="noopener noreferrer">https://www.sans.org/tools/sift-workstation</a><br>
+• Parrot Security<br><a href="https://www.parrotsec.org">https://www.parrotsec.org</a><br>
 • CAINE<br><a href="https://www.caine-live.net">https://www.caine-live.net</a><br>
 • CSI Linux<br><a href="https://csilinux.com">https://csilinux.com</a><br>
 • Avilla Forensics<br><a href="https://github.com/AvillaDaniel/AvillaForensics">https://github.com/AvillaDaniel/AvillaForensics</a><br>
 • IPED<br><a href="https://github.com/sepinf-inc/IPED">https://github.com/sepinf-inc/IPED</a><br>
 • Debian Forensics Package<br><a href="https://packages.debian.org/unstable/forensics-all">https://packages.debian.org/unstable/forensics-all</a><br>
 • Mobile Verification Toolkit (MVT)<br><a href="https://docs.mvt.re/en/latest">https://docs.mvt.re/en/latest</a><br>
-• Drive Badger<br><a href="https://drivebadger.com">https://drivebadger.com</a><br>
 • Tsurugi Linux<a href="https://tsurugi-linux.org/"><br>https://tsurugi-linux.org/</a><br>
 • REMnux<a href="https://remnux.org/"><br>https://remnux.org</a><br>
 • Bitscout<a href="https://github.com/vitaly-kamluk/bitscout"><br>https://github.com/vitaly-kamluk/bitscout</a><br>
@@ -184,8 +184,7 @@
 <h3>INTERCEPTION PLATFORMS</h3>
 
 
-
-<p>Comparison between Drive Badger with other lawful interception platforms. Visit: <a href="https://docs.google.com/spreadsheets/d/1Ux0WeL-K4NOZTEQgJXuRzHPcG_ewKmcMNADuFhamytg/edit#gid=1460165261" target="_blank" rel="noopener noreferrer">Official online sheet complete and updated</a> or <a href="3.GUIDES_&_PAPERS/Drive_Bagder_-_Comparison_of_lawful_interception_platforms.pdf" target="_blank" rel="noopener noreferrer">PDF in our repo</a>.</p>
+<p>Comparison between <a href="drivebadger.com">Drive Badger (Open source platform)</a> with other lawful interception platforms. Visit: <a href="https://docs.google.com/spreadsheets/d/1Ux0WeL-K4NOZTEQgJXuRzHPcG_ewKmcMNADuFhamytg/edit#gid=1460165261" target="_blank" rel="noopener noreferrer">Official online sheet complete and updated</a> or <a href="3.GUIDES_&_PAPERS/Drive_Bagder_-_Comparison_of_lawful_interception_platforms.pdf" target="_blank" rel="noopener noreferrer">PDF in our repo</a>.</p>
 
 <img src="https://github.com/RENANZG/My-Forensics/blob/main/.data/Drive_Bagder1_-_Comparison_Of_Lawful_Interception_Platforms-1.png?raw=true" title="Drive Bagder 1 - Comparison Of Lawful Interception Platforms" style="width:100%">
 
@@ -666,6 +665,16 @@ Log into the database while it is live and employ the application used to create
 </tbody>
 </table>
 
+<p>Encryption workarounds:</p>
+<ol>
+<li>Find the key.</li>
+<li>Guess the key.</li>
+<li>Compel the key.</li>
+<li>Exploit a flaw in the encryption software.</li>
+<li>Access plaintext while the device is in use.</li>
+<li>Locate another plaintext copy.</li>
+</ol>
+
 <br>
 </details>
 
@@ -1125,6 +1134,10 @@ https://www.youtube.com/watch?v=6JJo8qCYE8M<br>
 </tbody>
 </table>
 
+<p>"Apart from these methods of cooperation, there are a number of equally secretive bilateral and multilateral agreements in other regions of the globe – such as the Club of Berne (an intelligence-sharing arrangement among the EU intelligence services) and the Shanghai Cooperation Organizations (an affiliation among the People’s Republic of China (‘China’), India, Kazakhstan, Kyrgyzstan, Pakistan, the Russian Federation (‘Russia’), Tajikistan and Uzbekistan) – together with intelligence exchange arrangements within a group of states comprising Russia, Iraq, Iran and Syria to facilitate the fight against the Islamic State."</p>
+
+(Ref.: WATT, Eliza. State Sponsored Cyber Surveillance: The Right to Privacy of Communications and International Law. Edward Elgar Publishing, 2021.)
+
 <br>
 </details>
 
@@ -1245,6 +1258,11 @@ https://www.youtube.com/watch?v=6JJo8qCYE8M<br>
 • Wireshark — https://www.wireshark.org<br>
 • NMAP — https://nmap.org<br>
 
+<p>Live System Based</p>
+
+<a href="https://securityonionsolutions.com">Security Onion</a>
+<a href="https://www.networksecuritytoolkit.org">Network Security Toolkit</a>
+
 <br>
 </details>
 
@@ -1305,6 +1323,17 @@ https://ghidra-sre.org<br>
 <details>
 <summary>${\color{Yellow}\textbf{PHONE SNIFFING}}$</summary>
 <br>
+
+• DEFCON Safe Mode - Cooper Quintin - Detecting Fake 4G Base Stations in Real-Time
+https://www.youtube.com/watch?v=siCk4pGGcqA<br>
+• SRLabs - Warn you about threats like fake base stations (IMSI Catchers)<br>
+https://github.com/srlabs/snoopsnitch<br>
+• Android IMSI-Catcher Detector (suspended)<br>
+https://github.com/CellularPrivacy/Android-IMSI-Catcher-Detector<br>
+• Telecom Exploits - Signalling System 7 (SS7)<br>
+https://github.com/SigPloiter/SigPloit<br>
+• Telecom Exploits - HLR Lookups<br>
+https://github.com/SigPloiter/HLR-Lookups<br>
 
 <a href="https://youtu.be/VonHAsY4-VA">
   <img src="https://markdown-videos-api.jorgenkh.no/url?url=https%3A%2F%2Fyoutu.be%2FVonHAsY4-VA" alt="Phone Surveillance Exposed" title="Phone Surveillance Exposed"/>
@@ -1458,10 +1487,6 @@ $ sudo grgsm_scanner     # Scan for cell towers near you.
 $ sudo grgsm_livemon     # Live radio scanning.
 </pre>
 
-DEFCON Safe Mode - Cooper Quintin - Detecting Fake 4G Base Stations in Real-Time https://www.youtube.com/watch?v=siCk4pGGcqA <br>
-
-https://github.com/CellularPrivacy/Android-IMSI-Catcher-Detector<br>
-
 <br>
 </details>
 
@@ -1472,11 +1497,9 @@ https://github.com/CellularPrivacy/Android-IMSI-Catcher-Detector<br>
 <summary>${\color{Green}\textbf{BRUTE FORCE ATTACKS}}$</summary>
 <br>
 
-<p>The speed at which your password is cracked depends on the entropy of your password and the power of the computer.
-</p>
+<p>The speed at which your password is cracked depends on the entropy of your password and the power of the computer.</p>
 
 <p>Computer programs used for brute force attacks can check anywhere from 10,000 to 1 billion passwords per second. A Pentium 100 can try 10.000 passwords a second. A supercomputer can try 1.000.000.000 per second.</p>
-
 
 <p>Complex sheet:</p>
 
@@ -1515,6 +1538,16 @@ https://github.com/CellularPrivacy/Android-IMSI-Catcher-Detector<br>
 <h4>Multi Factor Authenticator (MFA) or Two-factor Authenticator (2FA)</h4>
 
 <p>Set up MFA whenever possible, It's an extra layer of security that requires additional steps to verify the user's identity.</p>
+
+<p>Encryption workarounds:</p>
+<ol>
+<li>Find the key.</li>
+<li>Guess the key.</li>
+<li>Compel the key.</li>
+<li>Exploit a flaw in the encryption software.</li>
+<li>Access plaintext while the device is in use.</li>
+<li>Locate another plaintext copy.</li>
+</ol>
 
 <br>
 </details>
@@ -1567,7 +1600,7 @@ https://thehackernews.com/#email-outer<br>
 https://www.forensicfocus.com<br>
 SANS Institute — Newsletter<br>
 https://www.sans.org> <br>
-• Google Scholar — Alerts<br>
+• Google Scholar — Alerts<br>osgeolive-doc-readthedocs-io-en-stable
 https://scholar.google.com/scholar_alerts?view_op=list_alerts&hl=en-US<br>
 • Secure List<br>
 https://securelist.com
@@ -1591,6 +1624,8 @@ https://www.informationweek.com<br>
 https://sophos.com<br>
 • TechWorld<br>
 https://www.techworld.com<br>
+• Infosec Institute<br>
+https://resources.infosecinstitute.com<br>
 • Government Executive Magazine<br>
 https://govexec.com<br>
 • E Security Planet<br>
@@ -1654,6 +1689,10 @@ https://www.sciencedirect.com/journal/computer-law-and-security-review<br>
 https://www.forensicscijournal.com<br>
 • University of London - SAS Open Journals - Digital Evidence and Electronic Signature Law Review<br>
 https://journals.sas.ac.uk/deeslr/<br>
+• IEEE Intelligence and Security Informatics (IEEE-ISI)<br>
+https://ieee-isi.org<br>
+• USENIX Conferences<br>
+https://www.usenix.org/conferences<br>
 • International Journal of Intelligence and CounterIntelligence<br>
 https://www.tandfonline.com/journals/ujic20<br>
 • Information Security Journal: A Global Perspective<br>
@@ -1676,8 +1715,7 @@ https://www.acm.org/conferences<br>
 https://ecrimeresearch.org<br>
 • Communications in Computer and Information Science — Springer<br>
 https://www.springer.com/series/7899<br>
-• IEEE Intelligence and Security Informatics (ISI)<br>
-https://ieee-isi.org/<br>
+
 
 <br>
 </details>
@@ -1710,6 +1748,7 @@ https://rieas.gr
 
 • Necessary and Proportionate - https://www.necessaryandproportionate.org<br>
 • Bad Internet Bills - https://www.badinternetbills.com<br>
+• Software Freedom Law Center - https://softwarefreedom.org<br>
 • The IT Law Wiki - https://itlaw.fandom.com<br>
 • Computer Crime Research Center - https://www.crime-research.org<br>
 • Internet Crime Complaint Center (IC3) - https://www.ic3.gov/Home/AnnualReports<br>
@@ -1724,6 +1763,8 @@ https://csrc.nist.gov
 https://openyls.law.yale.edu<br>
 https://scholarship.law.duke.edu<br>
 https://law.utexas.edu/transnational/foreign-law-translations<br>
+https://www.computerweekly.com<br>
+https://www.vice.com/en/section/tech<br>
 
 <br>
 </details>
