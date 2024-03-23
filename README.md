@@ -121,6 +121,7 @@
 • Gamma®<br><a href="https://www.gamma.co.uk" target="_blank" rel="noopener noreferrer">https://www.gamma.co.uk</a><br>
 • Memento Labs®<br><a href="https://mem3nt0.com" target="_blank" rel="noopener noreferrer">https://mem3nt0.com</a><br>
 • CYSource®<br><a href="https://www.cysrc.com" target="_blank" rel="noopener noreferrer">https://www.cysrc.com</a><br>
+• Maltego®<br><a href="https://www.maltego.com" target="_blank" rel="noopener noreferrer">https://www.maltego.com</a><br>
 • Thorn's Safer®<br><a href="https://www.thorn.org/" target="_blank" rel="noopener noreferrer">https://www.thorn.org</a><br>
 </td>
 </tr>
@@ -603,18 +604,20 @@ Security Payload (ESP) and Authentication Header (AH)</a></li>
 </li>
 </ul>
 
-<!-- ########## -->
-
-
 <br>
 </details>
+
+<!-- ########## -->
+
 <details>
 <summary>1.03 Forensic tools</summary>
 <br>
 
-<h4>Evidence ProjectForensics Tools Catalogue - <a href="https://www.dftoolscatalogue.eu/dftc.home.php">https://www.dftoolscatalogue.eu</a></h4>
+<h4>Forensics Tools Catalogues</h4>
 
-<h4>NIST - Forensics Tools Catalogue - <a href="https://toolcatalog.nist.gov/search/">https://toolcatalog.nist.gov</a></h4>
+<h4>Evidence Project - <a href="https://www.dftoolscatalogue.eu/dftc.home.php">https://www.dftoolscatalogue.eu</a></h4>
+
+<h4>NIST - <a href="https://toolcatalog.nist.gov/search/">https://toolcatalog.nist.gov</a></h4>
 
 <h4>S&T partners and NIST - Computer Forensic Tool Testing (CFTT) - <a href="https://www.dhs.gov/science-and-technology/nist-cftt-reports">https://www.dhs.gov/science-and-technology/nist-cftt-reports</a>
 
@@ -681,35 +684,74 @@ Log into the database while it is live and employ the application used to create
 <!-- ########## -->
 
 <details>
-<summary>1.04 Forensic online tools</summary>
+<summary>1.04 Online forensic tools</summary>
 <br>
 
-• Virus Total — https://www.virustotal.com<br>
-• Binvis — https://binvis.io<br>
-• Hybrid — https://hybrid-analysis.com<br>
-• Verexif - https://www.verexif.com/en/<br>
-• Any Run — https://app.any.run<br>
+• Message Header Analyzer — https://mha.azurewebsites.net<br>
+• Message Header Analyzer — https://github.com/microsoft/MHA<br>
+• PhishTank — https://phishtank.org<br>
+• Simple Email Reputation — https://emailrep.i<br>
+• Have I Been Pwned — https://haveibeenpwned.com<br>
+• DeHashed — https://www.dehashed.com<br>
+• Whois — https://www.iana.org/whois<br>
+• ViewDNS — https://viewdns.info<br>
+• NSLookup — https://www.nslookup.io<br>
+• My-Addr — https://my-addr.com<br>
+• CVE Details — https://www.cvedetails.com<br>
+• Malpedia — https://malpedia.caad.fkie.fraunhofer.de<br>
+• Exploit Database — https://www.exploit-db.com<br>
+• FileInfo — https://fileinfo.co<br>
+• xCyclopedia — https://strontic.github.io/xcyclopedia<br>
+• The Windows Binary Index — https://winbindex.m417z.com<br>
+• Palo Alto Applipedia — https://applipedia.paloaltonetworks.com<br>
+• Windows Securitiy Logs — https://www.ultimatewindowssecurity.com/securitylog/encyclopedia<br>
+• Web Cache — https://archive.org<br>
+• Archive web content — https://archive.ph<br>
+• HTTrack — https://www.httrack.com<br>
 • IP Logger — https://iplogger.org<br>
-• The ZMap Project — https://zmap.io<br>
 • Grabify IP Logger — https://grabify.link/<br>
 • IP Tracker — https://iplogger.org/ip-tracker<br>
+• IP location — https://www.iplocation.net<br>
 • Location Tracker — https://iplogger.org/location-tracker<br>
-• URL checker —  https://iplogger.org/url_checker<br>
-• MAC address lookup — https://iplogger.org/mac-checker<br>
+• URL Checker —  https://iplogger.org/url_checker<br>
+• MAC Address Lookup — https://iplogger.org/mac-checker<br>
+• MAC Vendor — https://macvendors.com<br>
 • IP API<br>
 &emsp; — ip-api — https://ip-api.com<br>
 &emsp; — ipify — https://www.ipify.org<br>
 &emsp; — ipapi — https://ipapi.co<br>
 &emsp; — vpnapi — https://vpnapi.io<br>
 &emsp; — ipapi — https://ipapi.com<br>
+• Virus Total — https://www.virustotal.com<br>
+• Hybrid Analysis — https://hybrid-analysis.com<br>
+• AlienVault OTX — https://otx.alienvault.com/
+• IBM X-Force Exchange — https://exchange.xforce.ibmcloud.com<br>
+• Cisco Talos — https://talosintelligence.com/reputation_center<br>
+• Maltiverse — https://maltiverse.com/collection<br>
+• GreyNoise — https://www.greynoise.io<br>
+• SANS Internet Storm Center — https://isc.sans.edu<br>
+• Intelligence X — https://intelx.io<br>
+• MetaDefender Cloud — https://metadefender.opswat.com<br>
+• RiskIQ Community Edition — https://community.riskiq.com/home<br>
+• Pulsedive — https://pulsedive.com<br>
+• Valhalla YARA Rules — https://valhalla.nextron-systems.com<br>
+• Binvis — https://binvis.io<br>
+• JoeSandbox — https://www.joesandbox.com<br>
+• ANY.RUN — https://any.run<br>
+• urlscan.io — https://urlscan.io<br>
+• Verexif - https://www.verexif.com/en/<br>
+• Any Run — https://app.any.run<br>
+• The ZMap Project — https://zmap.io<br>
 • Name OSINT — https://namechk.com<br>
-• Message Header Analyzer — https://mha.azurewebsites.net/  |  https://github.com/microsoft/MHA<br>
 • Reverse Shell Generator — https://www.revshells.com<br>
 • Rainbow Tables (Hashes) — https://hashes.com/en/decrypt/hash<br>
 • Breach Directory - https://breachdirectory.org<br>
 • MD5 Decrypt - https://md5decrypt.net/en/Sha1<br>
 • Magic Numbers — https://en.wikipedia.org/wiki/Magic_number_(programming)<br>
-• Web Cache - https://archive.org<br>
+• CyberChef — https://gchq.github.io/CyberChef<br>
+• IPVOID — https://www.ipvoid.com<br>
+• explainshell — https://explainshell.com<br>
+• Epoch Converter — https://www.epochconverter.com<br>
 
 <br>
 </details>
@@ -720,17 +762,28 @@ Log into the database while it is live and employ the application used to create
 <summary>1.05 Cryptography</summary>
 <br>
 
-<h4>Cryptanalysis</h4>
 
-<p>Visit our repo tree: 3.PAPERS_&_GUIDES/Cryptanalysis</p>
+<h4>Encryption Workrounds</h4>
+
+<p>Visit our repo tree: <a href="https://github.com/RENANZG/My-Forensics/tree/main/3.DOCUMENTS/Encryption">3.DOCUMENTS/Encryption</a></p>
+
+<p>Encryption workarounds:</p>
+<ol>
+<li>Find the key.</li>
+<li>Guess the key.</li>
+<li>Compel the key.</li>
+<li>Exploit a flaw in the encryption software.</li>
+<li>Access plaintext while the device is in use.</li>
+<li>Locate another plaintext copy.</li>
+</ol>
 
 <h4>Bruteforce</h4>
 
-<p>Read the "Brute Force" thread below.</p>
+<p>Read the thread <a href="https://github.com/RENANZG/My-Forensics?tab=readme-ov-file#brute-force-attacks">Brute Force Attacks</a></p>.</p>
 
-<h4>Workrounds</h4>
+<h4>Cryptanalysis</h4>
 
-<p>Visit our repo tree: 3.PAPERS_&_GUIDES/Encryption</p>
+<p>Visit our repo tree: <a href="https://github.com/RENANZG/My-Forensics/tree/main/3.DOCUMENTS/Cryptanalysis">3.DOCUMENTS/Cryptanalysis</a></p>
 
 <h4>Steganography</h4>
 
@@ -1249,7 +1302,7 @@ https://www.youtube.com/watch?v=6JJo8qCYE8M<br>
 <!-- ########## -->
 
 <details>
-<summary>2.09 Network Analysis</summary>
+<summary>2.09 Network Analysis (SIGINT)</summary>
 <br>
 
 <h4>Network Analysis</h4>
@@ -1301,7 +1354,7 @@ https://ghidra-sre.org<br>
 <!-- ########## -->
 
 <details>
-<summary>2.12 Social Engineeringg</summary>
+<summary>2.12 Social Engineeringg (HUMINT)</summary>
 <br>
 
 <h4>Social Engineering</h4>
@@ -1412,7 +1465,8 @@ https://github.com/SigPloiter/HLR-Lookups<br>
 — International Numbering Plans — [Link](https://www.numberingplans.com/)<br>
 — GSM World Coverage Map and GSM Country List — [Link](https://www.worldtimezone.com/gsm.html)<br>
 — Imei Info — https://www.imei.info<br>
-— Phones — https://www.gsmarena.com<br>
+— GSMArena Phones Ref.- https://www.gsmarena.com</br>
+— Phonescoop Phones Ref.- https://www.phonescoop.com</br>
 — Cell Towers — https://opencellid.org<br>
 
 <h3>Information & Explanations</h3>
@@ -1496,6 +1550,8 @@ $ sudo grgsm_livemon     # Live radio scanning.
 <details>
 <summary>${\color{Green}\textbf{BRUTE FORCE ATTACKS}}$</summary>
 <br>
+
+<h4>Brute Force Attacks</h4>
 
 <p>The speed at which your password is cracked depends on the entropy of your password and the power of the computer.</p>
 
@@ -1747,6 +1803,8 @@ https://rieas.gr
 <br>
 
 • Necessary and Proportionate - https://www.necessaryandproportionate.org<br>
+• Privacy International - https://www.privacyinternational.org<br>
+• EFF - https://www.eff.org<br>
 • Bad Internet Bills - https://www.badinternetbills.com<br>
 • Software Freedom Law Center - https://softwarefreedom.org<br>
 • The IT Law Wiki - https://itlaw.fandom.com<br>
@@ -1814,6 +1872,7 @@ https://securelist.com<br>
 https://oval.mitre.org<br>
 https://www.w3.org/Security/Faq/www-security-faq.html<br>
 https://www.nowsecure.com<br>
+https://www.htcia.org<br>
 https://www.reddit.com/r/InfoSecNews<br>
 https://www.reddit.com/r/digitalforensics<br>
 https://www.reddit.com/r/computerforensics<br>
