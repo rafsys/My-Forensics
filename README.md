@@ -690,7 +690,7 @@ Log into the database while it is live and employ the application used to create
 • Message Header Analyzer — https://mha.azurewebsites.net<br>
 • Message Header Analyzer — https://github.com/microsoft/MHA<br>
 • PhishTank — https://phishtank.org<br>
-• Simple Email Reputation — https://emailrep.i<br>
+• Simple Email Reputation — https://emailrep.io<br>
 • Have I Been Pwned — https://haveibeenpwned.com<br>
 • DeHashed — https://www.dehashed.com<br>
 • Whois — https://www.iana.org/whois<br>
@@ -708,8 +708,10 @@ Log into the database while it is live and employ the application used to create
 • Web Cache — https://archive.org<br>
 • Archive web content — https://archive.ph<br>
 • HTTrack — https://www.httrack.com<br>
-• IP Logger — https://iplogger.org<br>
+• IPVOID — https://www.ipvoid.com<br>
+• AbuseIPDB — https://www.abuseipdb.com<br>
 • Grabify IP Logger — https://grabify.link/<br>
+• IP Logger — https://iplogger.org<br>
 • IP Tracker — https://iplogger.org/ip-tracker<br>
 • IP location — https://www.iplocation.net<br>
 • Location Tracker — https://iplogger.org/location-tracker<br>
@@ -749,7 +751,6 @@ Log into the database while it is live and employ the application used to create
 • MD5 Decrypt - https://md5decrypt.net/en/Sha1<br>
 • Magic Numbers — https://en.wikipedia.org/wiki/Magic_number_(programming)<br>
 • CyberChef — https://gchq.github.io/CyberChef<br>
-• IPVOID — https://www.ipvoid.com<br>
 • explainshell — https://explainshell.com<br>
 • Epoch Converter — https://www.epochconverter.com<br>
 
@@ -1034,7 +1035,6 @@ https://www.youtube.com/watch?v=6JJo8qCYE8M<br>
 ∙ US Dod - Computer Crime and Intellectual Property Section (CCIPS) - https://www.justice.gov/criminal/criminal-ccips<br>
 ∙ US FBI - Internet Crime Complaint Center (IC3) - https://www.ic3.gov<br>
 ∙ Computer Crime Research Center - https://www.crime-research.org<br>
-∙ The IT Law Wiki - https://itlaw.fandom.com<br>
 
 <!-- ########## -->
 
@@ -1817,13 +1817,13 @@ https://www.justice.gov/criminal/cybercrime<br>
 https://www.coe.int/en/web/cybercrime<br>
 https://www.sherloc.unodc.org<br>
 https://www.enisa.europa.eu<br>
-https://csrc.nist.gov
+https://csrc.nist.gov<br>
 https://openyls.law.yale.edu<br>
 https://scholarship.law.duke.edu<br>
 https://law.utexas.edu/transnational/foreign-law-translations<br>
 https://www.computerweekly.com<br>
 https://www.vice.com/en/section/tech<br>
-
+https://copsincyberspace.wordpress.com<br>
 <br>
 </details>
 
