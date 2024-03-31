@@ -88,7 +88,7 @@
 • Paladin® (Freeware)<br><a href="https://sumuri.com/product/paladin-lts/">https://sumuri.com/software/paladin/</a><br>
 • Forensic Toolkit (FTK)® - Lite (Freeware) <br><a href="https://www.exterro.com/ftk-product-downloads/how-to-run-ftk-imager-from-a-flash-drive-imager-lite" target="_blank" rel="noopener noreferrer">https://www.exterro.com/forensic-toolkit</a><br>
 • Magnet Forensic® - Mobile Extractor (Freeware)<br><a href="https://www.magnetforensics.com/" target="_blank" rel="noopener noreferrer">https://www.magnetforensics.com</a><br>
-• Windows Forensic Environment WinFE (Freeware)<br><a href="https://www.winfe.net/home" target="_blank" rel="noopener noreferrer">https://www.winfe.net</a><br>
+• Windows® Forensic Environment WinFE (Freeware)<br><a href="https://www.winfe.net/home" target="_blank" rel="noopener noreferrer">https://www.winfe.net</a><br>
 • NirSoft® (Freeware)<br><a href="https://www.nirsoft.net/computer_forensic_software.html">https://www.nirsoft.net</a><br>
 • MiTeC® (Freeware)<br><a href="https://www.mitec.cz">https://www.mitec.cz</a><br>
 • Medusa Box® (Easy J-TAG)<br> <a href="https://medusabox.com/">https://medusabox.com</a><br> ╰┈➤<a href="https://medusabox.com/eng/features/features">Models Features</a><br> ╰┈➤<a href="https://aliexpress.com/w/wholesale-medusa-box.html">Aliexpress</a><br>
@@ -339,8 +339,9 @@ NSO Group (Pegasus)
 <a href="https://www.ncsc.gov.uk">UK — NCSC</a><br>
 <a href="https://english.ncsc.nl">NL — NCSC</a><br>
 <a href="https://www.bsi.bund.de/EN">DE — BSI</a><br>
-<a href="https://www.ccn-cert.cni.es/es/">ES —CCN-CERT</a><br>
-<a href="https://www.acn.gov.it/en">IT —ACN</a><br>
+<a href="https://cyber.gouv.fr/en">FR — ANSSI</a><br>
+<a href="https://www.ccn-cert.cni.es/es/">ES — CCN-CERT</a><br>
+<a href="https://www.acn.gov.it/en">IT — ACN</a><br>
 <a href="https://www.nki.gov.hu/en">HU — NKI</a><br>
 <a href="https://www.nukib.cz/en">CZ — NUKIB</a><br>
 <a href="https://nsm.no/areas-of-expertise/cyber-securitynorwegian-national-cyber-security-centre-ncsc">NO — NCSC</a><br>
@@ -388,7 +389,7 @@ ${\color{Blue}\textbf{1.PASSIVE FORENSICS}}$
 
 <h6>Visit: https://www.iso27001security.com</h6>
 
-Information security, cybersecurity and privacy protection — https://www.iso.org/standard/27001 <br>
+<h6>Official - Information security, cybersecurity and privacy protection — https://www.iso.org/standard/27001</h6>
 
 <ul>
 <li><A HREF="https://www.iso27001security.com/html/27000.html">ISO/IEC 27000 — ISO27k overview &amp; glossary</a></li>
@@ -610,7 +611,88 @@ Security Payload (ESP) and Authentication Header (AH)</a></li>
 <!-- ########## -->
 
 <details>
-<summary>1.03 Forensic tools</summary>
+<summary>1.03 Online forensic tools</summary>
+<br>
+
+• Message Header Analyzer — https://mha.azurewebsites.net<br>
+• Message Header Analyzer — https://github.com/microsoft/MHA<br>
+• PhishTank — https://phishtank.org<br>
+• Simple Email Reputation — https://emailrep.io<br>
+• Have I Been Pwned — https://haveibeenpwned.com<br>
+• DeHashed — https://www.dehashed.com<br>
+• Whois — https://www.iana.org/whois<br>
+• ViewDNS — https://viewdns.info<br>
+• WhoisMyDNS — https://whoismydns.com<br>
+• NSLookup — https://www.nslookup.io<br>
+• My-Addr — https://my-addr.com<br>
+• Malpedia — https://malpedia.caad.fkie.fraunhofer.de<br>
+• CVE Details — https://www.cvedetails.com<br>
+• Exploit Database — https://www.exploit-db.com<br>
+• FileInfo — https://fileinfo.co<br>
+• xCyclopedia — https://strontic.github.io/xcyclopedia<br>
+• The Windows Binary Index — https://winbindex.m417z.com<br>
+• Palo Alto Applipedia — https://applipedia.paloaltonetworks.com<br>
+• Windows Securitiy Logs — https://www.ultimatewindowssecurity.com/securitylog/encyclopedia<br>
+• Internet Archive - WayBackMachine - https://web.archive.org
+• Archive web content — https://archive.ph<br>
+• Internet Archive — https://archive.org<br>
+• HTTrack — https://www.httrack.com<br>
+• IPVOID — https://www.ipvoid.com<br>
+• AbuseIPDB — https://www.abuseipdb.com<br>
+• Grabify IP Logger — https://grabify.link/<br>
+• IP Logger — https://iplogger.org<br>
+• IP Tracker — https://iplogger.org/ip-tracker<br>
+• IP location — https://www.iplocation.net<br>
+• Location Tracker — https://iplogger.org/location-tracker<br>
+• URL Checker —  https://iplogger.org/url_checker<br>
+• MAC Address Lookup — https://iplogger.org/mac-checker<br>
+• MAC Vendor — https://macvendors.com<br>
+• IP API<br>
+&emsp; — ip-api — https://ip-api.com<br>
+&emsp; — ipify — https://www.ipify.org<br>
+&emsp; — ipapi — https://ipapi.co<br>
+&emsp; — vpnapi — https://vpnapi.io<br>
+&emsp; — ipapi — https://ipapi.com<br>
+• Virus Total — https://www.virustotal.com<br>
+• Hybrid Analysis — https://hybrid-analysis.com<br>
+• AlienVault OTX — https://otx.alienvault.com/
+• IBM X-Force Exchange — https://exchange.xforce.ibmcloud.com<br>
+• Cisco Talos — https://talosintelligence.com/reputation_center<br>
+• Maltiverse — https://maltiverse.com/collection<br>
+• GreyNoise — https://www.greynoise.io<br>
+• SANS Internet Storm Center — https://isc.sans.edu<br>
+• Intelligence X — https://intelx.io<br>
+• MetaDefender Cloud — https://metadefender.opswat.com<br>
+• RiskIQ Community Edition — https://community.riskiq.com/home<br>
+• Pulsedive — https://pulsedive.com<br>
+• Valhalla YARA Rules — https://valhalla.nextron-systems.com<br>
+• Binvis — https://binvis.io<br>
+• JoeSandbox — https://www.joesandbox.com<br>
+• ANY.RUN — https://any.run<br>
+• urlscan.io — https://urlscan.io<br>
+• Verexif - https://www.verexif.com/en/<br>
+• Any Run — https://app.any.run<br>
+• The ZMap Project — https://zmap.io<br>
+• Name OSINT — https://namechk.com<br>
+• Reverse Shell Generator — https://www.revshells.com<br>
+• Rainbow Tables (Hashes) — https://hashes.com/en/decrypt/hash<br>
+• Breach Directory - https://breachdirectory.org<br>
+• MD5 Decrypt - https://md5decrypt.net/en/Sha1<br>
+• File Signatures ("Magic Numbers") — https://en.wikipedia.org/wiki/Magic_number_(programming)<br> 
+• List of File Signatures — https://en.wikipedia.org/wiki/List_of_file_signatures<br>
+• CyberChef — https://gchq.github.io/CyberChef<br>
+• explainshell — https://explainshell.com<br>
+• Epoch Converter — https://www.epochconverter.com<br>
+
+<p>For OSINT tools visit our repository: <a href="https://github.com/RENANZG/My-OSINT</a></p>
+
+<br>
+</details>
+
+<!-- ########## -->
+
+<details>
+<summary>1.04 Forensic tools</summary>
 <br>
 
 <h4>Forensics Tools Catalogues</h4>
@@ -681,81 +763,7 @@ Log into the database while it is live and employ the application used to create
 <br>
 </details>
 
-<!-- ########## -->
 
-<details>
-<summary>1.04 Online forensic tools</summary>
-<br>
-
-• Message Header Analyzer — https://mha.azurewebsites.net<br>
-• Message Header Analyzer — https://github.com/microsoft/MHA<br>
-• PhishTank — https://phishtank.org<br>
-• Simple Email Reputation — https://emailrep.io<br>
-• Have I Been Pwned — https://haveibeenpwned.com<br>
-• DeHashed — https://www.dehashed.com<br>
-• Whois — https://www.iana.org/whois<br>
-• ViewDNS — https://viewdns.info<br>
-• NSLookup — https://www.nslookup.io<br>
-• My-Addr — https://my-addr.com<br>
-• CVE Details — https://www.cvedetails.com<br>
-• Malpedia — https://malpedia.caad.fkie.fraunhofer.de<br>
-• Exploit Database — https://www.exploit-db.com<br>
-• FileInfo — https://fileinfo.co<br>
-• xCyclopedia — https://strontic.github.io/xcyclopedia<br>
-• The Windows Binary Index — https://winbindex.m417z.com<br>
-• Palo Alto Applipedia — https://applipedia.paloaltonetworks.com<br>
-• Windows Securitiy Logs — https://www.ultimatewindowssecurity.com/securitylog/encyclopedia<br>
-• Web Cache — https://archive.org<br>
-• Archive web content — https://archive.ph<br>
-• HTTrack — https://www.httrack.com<br>
-• IPVOID — https://www.ipvoid.com<br>
-• AbuseIPDB — https://www.abuseipdb.com<br>
-• Grabify IP Logger — https://grabify.link/<br>
-• IP Logger — https://iplogger.org<br>
-• IP Tracker — https://iplogger.org/ip-tracker<br>
-• IP location — https://www.iplocation.net<br>
-• Location Tracker — https://iplogger.org/location-tracker<br>
-• URL Checker —  https://iplogger.org/url_checker<br>
-• MAC Address Lookup — https://iplogger.org/mac-checker<br>
-• MAC Vendor — https://macvendors.com<br>
-• IP API<br>
-&emsp; — ip-api — https://ip-api.com<br>
-&emsp; — ipify — https://www.ipify.org<br>
-&emsp; — ipapi — https://ipapi.co<br>
-&emsp; — vpnapi — https://vpnapi.io<br>
-&emsp; — ipapi — https://ipapi.com<br>
-• Virus Total — https://www.virustotal.com<br>
-• Hybrid Analysis — https://hybrid-analysis.com<br>
-• AlienVault OTX — https://otx.alienvault.com/
-• IBM X-Force Exchange — https://exchange.xforce.ibmcloud.com<br>
-• Cisco Talos — https://talosintelligence.com/reputation_center<br>
-• Maltiverse — https://maltiverse.com/collection<br>
-• GreyNoise — https://www.greynoise.io<br>
-• SANS Internet Storm Center — https://isc.sans.edu<br>
-• Intelligence X — https://intelx.io<br>
-• MetaDefender Cloud — https://metadefender.opswat.com<br>
-• RiskIQ Community Edition — https://community.riskiq.com/home<br>
-• Pulsedive — https://pulsedive.com<br>
-• Valhalla YARA Rules — https://valhalla.nextron-systems.com<br>
-• Binvis — https://binvis.io<br>
-• JoeSandbox — https://www.joesandbox.com<br>
-• ANY.RUN — https://any.run<br>
-• urlscan.io — https://urlscan.io<br>
-• Verexif - https://www.verexif.com/en/<br>
-• Any Run — https://app.any.run<br>
-• The ZMap Project — https://zmap.io<br>
-• Name OSINT — https://namechk.com<br>
-• Reverse Shell Generator — https://www.revshells.com<br>
-• Rainbow Tables (Hashes) — https://hashes.com/en/decrypt/hash<br>
-• Breach Directory - https://breachdirectory.org<br>
-• MD5 Decrypt - https://md5decrypt.net/en/Sha1<br>
-• Magic Numbers — https://en.wikipedia.org/wiki/Magic_number_(programming)<br>
-• CyberChef — https://gchq.github.io/CyberChef<br>
-• explainshell — https://explainshell.com<br>
-• Epoch Converter — https://www.epochconverter.com<br>
-
-<br>
-</details>
 
 <!-- ########## -->
 
@@ -879,9 +887,6 @@ ${\color{Red}\textbf{2.ACTIVE FORENSICS}}$
 
 <p>Visit our repo tree: <a href="https://github.com/RENANZG/My-Forensics/tree/main/4.POLICE_HACKING">4.POLICE_HACKING</a></p>
 
-<p>https://archive.epic.org/privacy/carnivore</p>
-<p>https://www.aclu.org/press-releases/fbi-renames-carnivore-internet-wiretap</p>
-
 <h4>The Cyber Kill Chain</h4>
 
 <img src="https://github.com/RENANZG/My-Forensics/blob/main/.data/the_cyber_kill_chain.png" title="The Cyber Kill Chain" style="width:100%">
@@ -894,6 +899,14 @@ https://attack.mitre.org/techniques/mobile/<br>
 
 • MITRE ATT&CK — Enterprise Techniques<br>
 https://attack.mitre.org/techniques/enterprise/<br>
+
+<h4>Old but gold</h4>
+
+<video src='.data/1.TOP_SECRET/Vault_7/FinFisher/FinFly-Web-Video.mp4' width=240/>
+<video src='.data/1.TOP_SECRET/Vault_7/FinFisher/FinSpy-Video.mp4' width=240/>
+<video src='.data/1.TOP_SECRET/Vault_7/FinFisher/FinFly-ISP-Video.mp4' width=240/>
+<video src='.data/1.TOP_SECRET/Vault_7/FinFisher/FinSpy-Mobile-Video.mp4' width=240/>
+<video src='.data/1.TOP_SECRET/Vault_7/FinFisher/FinIntrusion-Kit-Video.mp4' width=240/>
 
 <h4>• Training</h4>
 
@@ -930,7 +943,7 @@ https://en.wikipedia.org/wiki/Shutdown_of_Sky_Global<br>
 https://en.wikipedia.org/wiki/Bundestrojaner<br>
 ∙ Case: Magic Lantern<br>
 https://en.wikipedia.org/wiki/Magic_Lantern_(software)<br>
-https://github.com/bibanon/bibanon/blob/0b84bb23794c91c238a5601403898b61b5d193fc/Encyclopedia/History/Events/Pifts.md?<br>plain=1#L125
+https://github.com/bibanon/bibanon/blob/0b84bb23794c91c238a5601403898b61b5d193fc/Encyclopedia/History/Events/Pifts.md?plain=1#L125<br>
 ∙ Case: Cryptophon<br>
 https://en.wikipedia.org/wiki/Tron_(hacker)#Cryptophon<br>
 ∙ Planting Tiny Spy Chips in Hardware Can Cost as Little as $200<br>
@@ -1654,7 +1667,7 @@ https://github.com/opencve/opencve<br>
 https://thehackernews.com/#email-outer<br>
 • Forensic Focus — Newsletter<br>
 https://www.forensicfocus.com<br>
-SANS Institute — Newsletter<br>
+• SANS Institute — Newsletter<br>
 https://www.sans.org> <br>
 • Google Scholar — Alerts<br>osgeolive-doc-readthedocs-io-en-stable
 https://scholar.google.com/scholar_alerts?view_op=list_alerts&hl=en-US<br>
@@ -1772,7 +1785,6 @@ https://ecrimeresearch.org<br>
 • Communications in Computer and Information Science — Springer<br>
 https://www.springer.com/series/7899<br>
 
-
 <br>
 </details>
 
@@ -1801,16 +1813,21 @@ https://rieas.gr
 <details>
 <summary><b>Law Publications</b></summary>
 <br>
-
 • Necessary and Proportionate - https://www.necessaryandproportionate.org<br>
 • Privacy International - https://www.privacyinternational.org<br>
 • EFF - https://www.eff.org<br>
+• EPIC - https://epic.org/issues/surveillance-oversight<br>
+• Citizenlab - https://citizenlab.ca<br>
+• Bugged Planet - http://buggedplanet.info
+• BBW - https://bigbrotherwatch.org.uk<br>
 • Bad Internet Bills - https://www.badinternetbills.com<br>
 • Software Freedom Law Center - https://softwarefreedom.org<br>
+• UN Internet Governance Forum - https://www.intgovforum.org<br>
 • The IT Law Wiki - https://itlaw.fandom.com<br>
 • Computer Crime Research Center - https://www.crime-research.org<br>
 • Internet Crime Complaint Center (IC3) - https://www.ic3.gov/Home/AnnualReports<br>
-• ETSI - https://www.etsi.org/committees<br>q
+• ETSI - https://www.etsi.org/committees<br>
+• The Bureau of Investigative Journalism - https://www.thebureauinvestigates.com<br>
 https://www.fbi.gov<br>
 https://www.justice.gov/news<br>
 https://www.justice.gov/criminal/cybercrime<br>
@@ -1848,8 +1865,8 @@ https://www.youtube.com/@EkopartyConference<br>
 https://www.youtube.com/@reconmtl<br>
 https://www.youtube.com/@TROOPERScon<br>
 https://www.youtube.com/@MCH2022NL<br>
-https://www.youtube.com/c/MentalOutlaw<br>
-https://www.youtube.com/c/Seytonic<br>
+https://www.youtube.com/@ntalOutlaw<br>
+https://www.youtube.com/@Seytonic<br>
 https://www.youtube.com/@DoingFedTime<br>
 https://www.youtube.com/@UsenixOrg<br>
 <br>
