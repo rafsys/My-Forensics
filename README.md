@@ -1791,6 +1791,8 @@ https://www.springer.com/series/7899<br>
 <summary><b>Intelligence, Conflict, and Warfare Publications</b></summary>
 <br>
 
+• The NATO Cooperative Cyber Defence Centre of Excellence -
+https://ccdcoe.org<br>
 • Taylor & Francis - Intelligence and National Security - Open access articles<br>
 https://www.tandfonline.com/action/showOpenAccess?journalCode=fint20<br>
 • The Journal of Intelligence, Conflict, and Warfare<br>
@@ -1817,10 +1819,12 @@ https://rieas.gr
 • EFF - https://www.eff.org<br>
 • EPIC - https://epic.org/issues/surveillance-oversight<br>
 • Citizenlab - https://citizenlab.ca<br>
-• Bugged Planet - http://buggedplanet.info
+• CIS - https://cyberlaw.stanford.edu<br>
+• Bugged Planet - http://buggedplanet.info<br>
 • BBW - https://bigbrotherwatch.org.uk<br>
 • Bad Internet Bills - https://www.badinternetbills.com<br>
 • Software Freedom Law Center - https://softwarefreedom.org<br>
+• Techdirt - https://www.techdirt.com<br>
 • UN Internet Governance Forum - https://www.intgovforum.org<br>
 • The IT Law Wiki - https://itlaw.fandom.com<br>
 • Computer Crime Research Center - https://www.crime-research.org<br>
