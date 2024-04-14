@@ -53,6 +53,14 @@
 </tbody>
 </table>
 
+<p>The investigation must be protected from leaks by following a logical sequence:</p>
+
+<ol>
+<li>Exhaust the data collection and collection activity in open sources or closed sources (restricted databases);</li>
+<li>Monitoring and tracking measures;</li>
+<li>With concrete evidence of the practices investigated and exhaustion of remote possibilities, launch the operation itself with the publication of the investigation. At this stage, search and seizure warrants, temporary or preventive arrest and statements will be taken.</li>
+</ol>
+
 <!-- ################################## -->
 <br>
 <hr>
@@ -98,6 +106,7 @@
 • Cellebrite®<br><a href="https://cellebrite.com/" target="_blank" rel="noopener noreferrer">https://cellebrite.com</a><br>
 • NSO Group®<br><a href="https://www.nsogroup.com/" target="_blank" rel="noopener noreferrer">https://www.nsogroup.com</a><br>
 • Cognyte®<br><a href="https://www.cognyte.com/" target="_blank" rel="noopener noreferrer">https://www.cognyte.com</a><br>
+• Check Point®<br><a href="https://www.checkpoint.com" target="_blank" rel="noopener noreferrer">https://www.checkpoint.com</a><br>
 • Team Cymru®<br><a href="https://www.team-cymru.com" target="_blank" rel="noopener noreferrer">https://www.team-cymru.com</a><br>
 • BriefCam®<br><a href="https://www.briefcam.com/" target="_blank" rel="noopener noreferrer">https://www.briefcam.com/</a><br>
 • Forensic Toolkit (FTK)® <br><a href="https://www.exterro.com/forensic-toolkit" target="_blank" rel="noopener noreferrer">https://www.exterro.com/forensic-toolkit</a><br>
@@ -128,18 +137,19 @@
 </tbody>
 </table>
 
-
 <!-- ################################## -->
-<br>
 <hr>
 
 <h3>FORENSIC TOOLS</h3>
 
-<h4>• Evidence ProjectForensics Tools Catalogue - <a href="https://www.dftoolscatalogue.eu/dftc.home.php">https://www.dftoolscatalogue.eu</a></h4>
+<h4>• Evidence ProjectForensics Tools Catalogue</h4>
+<h4><a href="https://www.dftoolscatalogue.eu/dftc.home.php">https://www.dftoolscatalogue.eu</a></h4>
 
-<h4>• NIST - Forensics Tools Catalogue - <a href="https://toolcatalog.nist.gov/search/">https://toolcatalog.nist.gov</a></h4>
+<h4>• NIST - Forensics Tools Catalogue</h4>
+<h4><a href="https://toolcatalog.nist.gov/search/">https://toolcatalog.nist.gov</a></h4>
 
-<h4>• S&T partners and NIST - Computer Forensic Tool Testing (CFTT) - <a href="https://www.dhs.gov/science-and-technology/nist-cftt-reports">https://www.dhs.gov/science-and-technology/nist-cftt-reports</a>
+<h4>• S&T partners and NIST - Computer Forensic Tool Testing (CFTT)</h4>
+<h4><a href="https://www.dhs.gov/science-and-technology/nist-cftt-reports">https://www.dhs.gov/science-and-technology/nist-cftt-reports</a></h4>
 
 <!-- ################################## -->
 <br>
@@ -173,8 +183,6 @@
 <a href="https://www.nakedcapitalism.com/2021/07/as-un-human-rights-chief-urges-stricter-rules-snowden-calls-for-end-to-spyware-trade.html">• As UN Human Rights Chief Urges Stricter Rules, Snowden Calls for End to Spyware Trade (2021)</a>
 
 <a href="https://www.forensicscijournal.com/articles/jfsr-aid1039.pdf">• Forensics Journal Comparative analysis of mobile forensic proprietary tools: an application in forensic investigation (2022)</a>
-
-<a href="https://ppee.unb.br/wp-content/uploads/2020/12/Artigo_Claudinei-Morim.pdf">• Methodology for Forensics Data Reconstruction on Mobile Devices with Android<br> Operating System Applying In-System Programming and Combination Firmware (2020)</a>
 
 </sub>
 
@@ -655,7 +663,7 @@ Security Payload (ESP) and Authentication Header (AH)</a></li>
 &emsp; — ipapi — https://ipapi.com<br>
 • Virus Total — https://www.virustotal.com<br>
 • Hybrid Analysis — https://hybrid-analysis.com<br>
-• AlienVault OTX — https://otx.alienvault.com/
+• AlienVault OTX — https://otx.alienvault.com<br>
 • IBM X-Force Exchange — https://exchange.xforce.ibmcloud.com<br>
 • Cisco Talos — https://talosintelligence.com/reputation_center<br>
 • Maltiverse — https://maltiverse.com/collection<br>
@@ -701,7 +709,7 @@ Security Payload (ESP) and Authentication Header (AH)</a></li>
 
 <h4>NIST - <a href="https://toolcatalog.nist.gov/search/">https://toolcatalog.nist.gov</a></h4>
 
-<h4>S&T partners and NIST - Computer Forensic Tool Testing (CFTT) - <a href="https://www.dhs.gov/science-and-technology/nist-cftt-reports">https://www.dhs.gov/science-and-technology/nist-cftt-reports</a>
+<h4>S&T partners and NIST - Computer Forensic Tool Testing (CFTT) - <a href="https://www.dhs.gov/science-and-technology/nist-cftt-reports">https://www.dhs.gov/science-and-technology/nist-cftt-reports</a></h4>
 
 <h4>Some tools</h4>
 
@@ -762,8 +770,6 @@ Log into the database while it is live and employ the application used to create
 
 <br>
 </details>
-
-
 
 <!-- ########## -->
 
@@ -865,7 +871,7 @@ https://chainalysis.com<br>
 https://elliptic.co<br>
 https://ciphertrace.com<br>
 https://coinmetrics.io<br>
-https://www.whitestream.io<br>
+https://whitestream.io<br>
 https://ciphertrace.com<br>
 https://elementus.io<br>
 https://trmlabs.com<br>
@@ -979,6 +985,84 @@ https://www.youtube.com/watch?v=6JJo8qCYE8M<br>
 ∙ Octopus Project — https://coe.int/en/web/cybercrime/octopus-project<br>
 ∙ Five Eyes — https://en.wikipedia.org/wiki/Five_Eyes<br>
 
+
+<h5>Public International Law</h5>
+
+https://legal.un.org/repertory/art1.shtml<br>
+https://ihl-databases.icrc.org/en/ihl-treaties/api-1977?activeTab=undefined<br>
+https://casebook.icrc.org/a_to_z/glossary/direct-participation-hostilities<br>
+
+
+<table>
+<thead align="center">
+  <tr>
+    <th colspan="4">PUBLIC INTERNATIONAL LAW</th>
+  </tr>
+</thead>
+<tbody align="center">
+  <tr>
+    <td colspan="2">LAWS OF WAR</td>
+    <td colspan="2">LAWS OF PEACE</td>
+  </tr>
+  <tr>
+    <td>"Jus ad bellum"</td>
+    <td>"Jus in Bello"</td>
+    <td>Occupation and "Jus Post Bellum"</td>
+    <td>Human Rights Law</td>
+  </tr>
+  <tr>
+    <td>The international rules pertaining to which extent the use of military force against another state is allowed.</td>
+    <td>The international rules pertaining to how armed conflict must be conducted.</td>
+    <td>The Justice at the end of the war, helps move from conflict to peace.Reasonable peace treaties, civilian population should be protected,<br>leaders who broke Hague/Geneva laws must face prosecution, cities must be reconstructed.</td>
+    <td>International Bill on Human Rights. Treaties and Conventions. Covenats and Declarations.</td>
+  </tr>
+</tbody>
+</table>
+
+<h4>IUS AD BELLO</h4>
+
+<p>Charter of the United Nations. Chapter VII — Action with respect to Threats to the Peace, Breaches of the Peace, and Acts of Aggression - Article 51</p>
+
+<blockquote>“Nothing in the present Charter shall impair the inherent right of individual or collective self-defence if an armed attack occurs against a Member of the United Nations, until the Security Council has taken measures necessary to maintain international peace and security. Measures taken by Members in the exercise of this right of self-defence shall be immediately reported to the Security Council and shall not in any way affect the authority and responsibility of the Security Council under the present Charter to take at any time such action as it deems necessary in order to maintain or restore international peace and security.”</blockquote>
+
+<h4>IUS IN BELLO</h4>
+
+<p>Protocol Additional to the Geneva Conventions of 12 August 1949, and relating to the Protection of Victims of International Armed Conflicts (Protocol I)</p>
+
+<blockquote>“Article 3 of the Geneva Conventions and Article 44 Additional Protocol I <br>
+In order to promote the protection of the civilian population from the effects of hostilities, combatants are obliged to distinguish themselves from the civilian population while they are engaged in an attack or in a military operation preparatory to an attack. Recognizing, however, that there are situations in armed conflicts where, owing to the nature of the hostilities an armed combatant cannot so distinguish himself, he shall retain his status as a combatant, provided that, in such situations, he carries his arms openly:
+
+(a) During each military engagement, and
+
+(b) During such time as he is visible to the adversary while he is engaged in a military deployment preceding the launching of an attack in which he is to participate.
+
+(c) Acts which comply with the requirements of this paragraph shall not be considered as perfidious within the meaning of Article 37, paragraph 1."</blockquote>
+
+
+<h4>• Important distinctions in law</h4>
+
+<table>
+<thead>
+  <tr>
+    <th>Criminal Procedural Law</th>
+    <th>State intelligence</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>Repressive purpose,<br></td>
+    <td>Purpose is to collect information</td>
+  </tr>
+  <tr>
+    <td>Based on the authorship and<br>materiality of crimes provided<br>for by law.</td>
+    <td>Activity against political extremism and<br>states enemys, acts prior to the existence<br>of hazards. It does not have a punitive<br>purpose.</td>
+  </tr>
+</tbody>
+</table>
+
+
+<!-- ########## -->
+
 <h4>• Council of Europe — Cybercrime</h4>
 ∙ Cybercrime — https://www.coe.int/cybercrime<br>
 ∙ GLACY+ — https://coe.int/en/web/cybercrime/glacyplus<br>
@@ -1002,6 +1086,8 @@ https://www.youtube.com/watch?v=6JJo8qCYE8M<br>
 <li><a href="https://www.osce.org/subscriptions/signup" target="_blank" rel="noopener">Organisation for Security and Co-operation in Europe (OSCE) Newsletter</a>: hand-picked updates and in-depth information bundles on OSCE activities, with possibility to choose countries of interest.</li>
 <li><a href="https://www.europol.europa.eu/publications-events/publications?q=sirius" target="_blank" rel="noopener">SIRIUS project publications</a>: co-implemented by Europol and&nbsp;<a href="https://www.eurojust.europa.eu/">Eurojust</a>, in close partnership with the&nbsp;<a href="https://www.ejn-crimjust.europa.eu/ejn2021/Home/EN">European Judicial Network</a>, the SIRIUS project is a central reference point in the EU for knowledge sharing on cross-border access to electronic evidence and allows to download, among other publications, the yearly EU Digital Evidence Situation Report.</li>
 </ul>
+
+<!-- ########## -->
 
 <h4>• Investigatory Powers — Criminal Law</h4>
 
@@ -1047,6 +1133,7 @@ https://www.youtube.com/watch?v=6JJo8qCYE8M<br>
 ∙ US Dod - Computer Crime and Intellectual Property Section (CCIPS) - https://www.justice.gov/criminal/criminal-ccips<br>
 ∙ US FBI - Internet Crime Complaint Center (IC3) - https://www.ic3.gov<br>
 ∙ Computer Crime Research Center - https://www.crime-research.org<br>
+
 
 <!-- ########## -->
 
@@ -1290,7 +1377,10 @@ https://www.youtube.com/watch?v=6JJo8qCYE8M<br>
 <br>
 
 <h4>APT & Cybercriminal Campagin Collections</h4>
+
+• https://attack.mitre.org/groups<br>
 • https://github.com/CyberMonitor/APT_CyberCriminal_Campagin_Collections<br>
+
 
 <br>
 </details>
@@ -1303,6 +1393,8 @@ https://www.youtube.com/watch?v=6JJo8qCYE8M<br>
 
 <h4>Man In The Middle (MitM)</h4>
 • https://github.com/frostbits-security/MITM-cheatsheet<br>
+• https://github.com/mitmproxy/mitmproxy<br>
+• https://mitmproxy.org<br>
 • https://github.com/andreafortuna/MITMInjector<br>
 • https://github.com/KoreLogicSecurity/wmkick<br>
 • https://github.com/jakev/mitm-helper-wifi<br>
@@ -1664,20 +1756,26 @@ $ sudo grgsm_livemon     # Live radio scanning.
 https://github.com/opencve/opencve<br>
 • The Hacker News — Newsletter<br>
 https://thehackernews.com/#email-outer<br>
+• Secure List by Kaspersky<br>
+https://securelist.com<br>
+• Black Hat<br>
+https://blackhat.com<br>
+• ZDnet<br>
+https://www.zdnet.com<br>
+• Bleeping Computer<br>
+https://www.bleepingcomputer.com<br>
+• Wired News<br>
+https://www.wired.com<br>
+• The Register<br>
+https://www.theregister.com<br>
 • Forensic Focus — Newsletter<br>
 https://www.forensicfocus.com<br>
 • SANS Institute — Newsletter<br>
 https://www.sans.org> <br>
 • Google Scholar — Alerts<br>osgeolive-doc-readthedocs-io-en-stable
 https://scholar.google.com/scholar_alerts?view_op=list_alerts&hl=en-US<br>
-• Secure List<br>
-https://securelist.com
 • Debian Security Announce<br>
 https://lists.debian.org/debian-security-announce
-• Wired News<br>
-https://www.wired.com<br>
-• ZDnet<br>
-https://www.zdnet.com<br>
 • Cert Coordination Center<br>
 https://www.cert.org<br>
 • DoD Instructions Cybersecurity<br>
@@ -1749,6 +1847,14 @@ https://www.techweb.com<br>
 
 <hr>
 
+Open access journals<br>
+
+https://en.wikipedia.org/wiki/List_of_academic_databases_and_search_engines<br>
+https://en.wikipedia.org/wiki/Lists_of_academic_journals<br>
+https://en.wikipedia.org/wiki/List_of_open-access_journals<br>
+
+<hr>
+
 • Science Direct — Forensic Science International: Digital Investigation<br>
 https://www.sciencedirect.com/journal/forensic-science-international-digital-investigation<br>
 • Science Direct — Computer Law & Security Review<br>
@@ -1783,33 +1889,14 @@ https://www.acm.org/conferences<br>
 https://ecrimeresearch.org<br>
 • Communications in Computer and Information Science — Springer<br>
 https://www.springer.com/series/7899<br>
-
+IEEE Open Journal of Circuits and Systems<br>
+IEEE Open Journal of the Communications Society<br>
+IEEE Open Journal of the Computer Society<br>
+IEEE Open Journal of Signal Processing<br>
 <br>
 </details>
 
-<details>
-<summary><b>Intelligence, Conflict, and Warfare Publications</b></summary>
-<br>
-
-• The NATO Cooperative Cyber Defence Centre of Excellence -
-https://ccdcoe.org<br>
-• Taylor & Francis - Intelligence and National Security - Open access articles<br>
-https://www.tandfonline.com/action/showOpenAccess?journalCode=fint20<br>
-• The Journal of Intelligence, Conflict, and Warfare<br>
-https://journals.lib.sfu.ca/index.php/jicw/issue/archive<br>
-• CIA.gov - Center for the study of intelligence<br>
-https://www.cia.gov/resources/csi/studies-in-intelligence<br>
-• DCAF - Geneva Centre for Security Sector Governance<br>
-https://www.dcaf.ch/resources?type=publications<br>
-• E-International Relations - Open access scholarly books<br> 
-https://www.e-ir.info/publications<br>
-• Springer Open<br>
-https://www.springeropen.com<br>
-• RIEAS<br>
-https://rieas.gr
-
-<br>
-</details>
+<!-- ################################ -->
 
 <details>
 <summary><b>Law Publications</b></summary>
@@ -1818,19 +1905,27 @@ https://rieas.gr
 • Privacy International - https://www.privacyinternational.org<br>
 • EFF - https://www.eff.org<br>
 • EPIC - https://epic.org/issues/surveillance-oversight<br>
+• S&S - https://ojs.library.queensu.ca/index.php/surveillance-and-society/index
 • Citizenlab - https://citizenlab.ca<br>
-• CIS - https://cyberlaw.stanford.edu<br>
-• Bugged Planet - http://buggedplanet.info<br>
 • BBW - https://bigbrotherwatch.org.uk<br>
+• Bugged Planet - http://buggedplanet.info<br>
+• CIS - https://cyberlaw.stanford.edu<br>
+• The Berkman Klein Center for Internet & Society at Harvard University - https://cyber.harvard.edu<br>
+• Digital Evidence and Electronic Signature Law Review - https://journals.sas.ac.uk/deeslr/issue/view/596<br>
+• Carnegie Endowment for International Peace<br>
+https://carnegieendowment.org/publications/interactive/cybernorms<br>
+
 • Bad Internet Bills - https://www.badinternetbills.com<br>
 • Software Freedom Law Center - https://softwarefreedom.org<br>
 • Techdirt - https://www.techdirt.com<br>
+• Intelligence Oversight - https://www.intelligence-oversight.org
 • UN Internet Governance Forum - https://www.intgovforum.org<br>
 • The IT Law Wiki - https://itlaw.fandom.com<br>
 • Computer Crime Research Center - https://www.crime-research.org<br>
 • Internet Crime Complaint Center (IC3) - https://www.ic3.gov/Home/AnnualReports<br>
 • ETSI - https://www.etsi.org/committees<br>
 • The Bureau of Investigative Journalism - https://www.thebureauinvestigates.com<br>
+
 https://www.fbi.gov<br>
 https://www.justice.gov/news<br>
 https://www.justice.gov/criminal/cybercrime<br>
@@ -1844,6 +1939,36 @@ https://law.utexas.edu/transnational/foreign-law-translations<br>
 https://www.computerweekly.com<br>
 https://www.vice.com/en/section/tech<br>
 https://copsincyberspace.wordpress.com<br>
+<br>
+</details>
+
+<!-- ################################ -->
+
+<details>
+<summary><b>Intelligence, Conflict, and Warfare Publications</b></summary>
+<br>
+
+• The NATO Cooperative Cyber Defence Centre of Excellence -
+https://ccdcoe.org<br>
+• Taylor & Francis - Intelligence and National Security - Open access articles<br>
+https://www.tandfonline.com/action/showOpenAccess?journalCode=fint20<br>
+• The Journal of Intelligence, Conflict, and Warfare<br>
+https://journals.lib.sfu.ca/index.php/jicw/issue/archive<br>
+• DCAF - Geneva Centre for Security Sector Governance<br>
+https://www.dcaf.ch/resources?type=publications<br>
+• CIA.gov - Center for the study of intelligence<br>
+https://www.cia.gov/resources/csi/studies-in-intelligence<br>
+• E-International Relations - Open access scholarly books<br> 
+https://www.e-ir.info/publications<br>
+• Springer Open<br>
+https://www.springeropen.com<br>
+• International Security<br>
+https://direct.mit.edu/isec<br>
+• Carnegie Endowment for International Peace<br>
+https://carnegieendowment.org<br>
+• RIEAS<br>
+https://rieas.gr<br>
+
 <br>
 </details>
 
@@ -1884,11 +2009,13 @@ https://www.youtube.com/@UsenixOrg<br>
 https://eforensicsmag.com<br>
 https://0x00sec.org<br>
 https://csrc.nist.gov/projects<br>
+https://nvd.nist.gov<br>
 https://www.cisa.gov/news-events/cybersecurity-advisories<br>
 https://www.nsa.gov/Press-Room/Press-Releases-Statements<br>
 https://www.nsa.gov/ia/mitigation_guidance/security_configuration_guides/index.shtml<br>
 https://malware.lu<br>
 https://securelist.com<br>
+https://www.eucybernet.eu<br>
 https://oval.mitre.org<br>
 https://www.w3.org/Security/Faq/www-security-faq.html<br>
 https://www.nowsecure.com<br>
