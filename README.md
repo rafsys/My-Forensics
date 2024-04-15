@@ -192,11 +192,9 @@
 
 <h3>INTERCEPTION PLATFORMS</h3>
 
-
-<p>Comparison between Drive Badger<br><a href="https://drivebadger.com">https://drivebadger.com</a> <a href="https://github.com/drivebadger/drivebadger">(GitHub)</a><br> with other lawful interception platforms. Visit: <a href="https://docs.google.com/spreadsheets/d/1Ux0WeL-K4NOZTEQgJXuRzHPcG_ewKmcMNADuFhamytg/edit#gid=1460165261" target="_blank" rel="noopener noreferrer">Official sheet</a> or the<a href="3.GUIDES_&_PAPERS/Drive_Bagder_-_Comparison_of_lawful_interception_platforms.pdf" target="_blank" rel="noopener noreferrer">PDF copy</a>in our repo.</p>
+<p>Comparison between <br><a href="https://drivebadger.com">Drive Badger</a> <a href="https://github.com/drivebadger/drivebadger">(GitHub)</a> with other lawful interception platforms. Visit: <a href="https://docs.google.com/spreadsheets/d/1Ux0WeL-K4NOZTEQgJXuRzHPcG_ewKmcMNADuFhamytg/edit#gid=1460165261" target="_blank" rel="noopener noreferrer">Official sheet</a> or the<a href="https://github.com/RENANZG/My-Forensics/blob/main/3.DOCUMENTS/Workrounds/Drive_Bagder_-_Comparison_Of_Lawful_Interception_Platforms.pdf" target="_blank" rel="noopener noreferrer">PDF</a>version in our repo. Credits: <a href="https://github.com/tomaszklim">Tomasz Klim</a>.</p> 
 
 <img src="https://github.com/RENANZG/My-Forensics/blob/main/.data/Drive_Bagder1_-_Comparison_Of_Lawful_Interception_Platforms-1.png?raw=true" title="Drive Bagder 1 - Comparison Of Lawful Interception Platforms" style="width:100%">
-
 
 <!-- ################################## -->
 
@@ -661,6 +659,7 @@ Security Payload (ESP) and Authentication Header (AH)</a></li>
 &emsp; — ipapi — https://ipapi.co<br>
 &emsp; — vpnapi — https://vpnapi.io<br>
 &emsp; — ipapi — https://ipapi.com<br>
+• WiGLE — https://wigle.net
 • Virus Total — https://www.virustotal.com<br>
 • Hybrid Analysis — https://hybrid-analysis.com<br>
 • AlienVault OTX — https://otx.alienvault.com<br>
@@ -1054,7 +1053,7 @@ In order to promote the protection of the civilian population from the effects o
     <td>Laws of War</td>
   </tr>
   <tr>
-    <td>Criminal repressive purpose, specific to the case,<br>task force, organizational<br></td>
+    <td>Purpose of criminal repression, specific<br>to the case, task force,<br>organizational<br></td>
     <td>Purpose is to collect information about <br>enemy, HUMINT, IMINT, SIGINT,<br>strategic, tactical, regional,<br>orders of battle</td>
   </tr>
   <tr>
