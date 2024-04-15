@@ -53,10 +53,10 @@
 </tbody>
 </table>
 
-<p>The investigation must be protected from leaks by following a logical sequence:</p>
+<h4>The criminal investigation must be protected from leaks by following a logical sequence:</h4>
 
 <ol>
-<li>Exhaust the data collection and collection activity in open sources or closed sources (restricted databases);</li>
+<li>Exhaust the data collection and collection activity in open sources (OSINT) or closed sources (CSINT - restricted databases);</li>
 <li>Monitoring and tracking measures;</li>
 <li>With concrete evidence of the practices investigated and exhaustion of remote possibilities, launch the operation itself with the publication of the investigation. At this stage, search and seizure warrants, temporary or preventive arrest and statements will be taken.</li>
 </ol>
@@ -80,7 +80,7 @@
 <tr>
 <td align="left" valign="top" style="width: 50%">
 • Kali Linux<br><a href="https://www.kali.org">https://www.kali.org</a><br>
-• Drive Badger<br><a href="https://drivebadger.com">https://drivebadger.com</a><a href="https://github.com/drivebadger/drivebadger">(GitHub)</a><br>
+• Drive Badger<br><a href="https://drivebadger.com">https://drivebadger.com</a> <a href="https://github.com/drivebadger/drivebadger">(GitHub)</a><br>
 • SIFT Workstation<br><a href="https://www.sans.org/tools/sift-workstation" target="_blank" rel="noopener noreferrer">https://www.sans.org/tools/sift-workstation</a><br>
 • Parrot Security<br><a href="https://www.parrotsec.org">https://www.parrotsec.org</a><br>
 • CAINE<br><a href="https://www.caine-live.net">https://www.caine-live.net</a><br>
@@ -193,7 +193,7 @@
 <h3>INTERCEPTION PLATFORMS</h3>
 
 
-<p>Comparison between <a href="drivebadger.com">Drive Badger (Open source platform)</a> with other lawful interception platforms. Visit: <a href="https://docs.google.com/spreadsheets/d/1Ux0WeL-K4NOZTEQgJXuRzHPcG_ewKmcMNADuFhamytg/edit#gid=1460165261" target="_blank" rel="noopener noreferrer">Official online sheet complete and updated</a> or <a href="3.GUIDES_&_PAPERS/Drive_Bagder_-_Comparison_of_lawful_interception_platforms.pdf" target="_blank" rel="noopener noreferrer">PDF in our repo</a>.</p>
+<p>Comparison between Drive Badger<br><a href="https://drivebadger.com">https://drivebadger.com</a> <a href="https://github.com/drivebadger/drivebadger">(GitHub)</a><br> with other lawful interception platforms. Visit: <a href="https://docs.google.com/spreadsheets/d/1Ux0WeL-K4NOZTEQgJXuRzHPcG_ewKmcMNADuFhamytg/edit#gid=1460165261" target="_blank" rel="noopener noreferrer">Official sheet</a> or the<a href="3.GUIDES_&_PAPERS/Drive_Bagder_-_Comparison_of_lawful_interception_platforms.pdf" target="_blank" rel="noopener noreferrer">PDF copy</a>in our repo.</p>
 
 <img src="https://github.com/RENANZG/My-Forensics/blob/main/.data/Drive_Bagder1_-_Comparison_Of_Lawful_Interception_Platforms-1.png?raw=true" title="Drive Bagder 1 - Comparison Of Lawful Interception Platforms" style="width:100%">
 
@@ -210,7 +210,7 @@
 <tbody>
 <tr>
 <td>
-<strong>Zero-day Exploit</strong>
+<strong>Zero-day Exploit (2023)</strong>
 </td>
 <td>
 <strong>Associated Spyware Vendor</strong>
@@ -1756,8 +1756,6 @@ $ sudo grgsm_livemon     # Live radio scanning.
 https://github.com/opencve/opencve<br>
 • The Hacker News — Newsletter<br>
 https://thehackernews.com/#email-outer<br>
-• Secure List by Kaspersky<br>
-https://securelist.com<br>
 • Black Hat<br>
 https://blackhat.com<br>
 • ZDnet<br>
@@ -1768,6 +1766,8 @@ https://www.bleepingcomputer.com<br>
 https://www.wired.com<br>
 • The Register<br>
 https://www.theregister.com<br>
+• Secure List by Kaspersky — Newsletter<br>
+https://securelist.com<br>
 • Forensic Focus — Newsletter<br>
 https://www.forensicfocus.com<br>
 • SANS Institute — Newsletter<br>
@@ -1905,7 +1905,7 @@ IEEE Open Journal of Signal Processing<br>
 • Privacy International - https://www.privacyinternational.org<br>
 • EFF - https://www.eff.org<br>
 • EPIC - https://epic.org/issues/surveillance-oversight<br>
-• S&S - https://ojs.library.queensu.ca/index.php/surveillance-and-society/index
+• S&S - https://ojs.library.queensu.ca/index.php/surveillance-and-society/index<br>
 • Citizenlab - https://citizenlab.ca<br>
 • BBW - https://bigbrotherwatch.org.uk<br>
 • Bugged Planet - http://buggedplanet.info<br>
@@ -1948,7 +1948,7 @@ https://copsincyberspace.wordpress.com<br>
 <summary><b>Intelligence, Conflict, and Warfare Publications</b></summary>
 <br>
 
-• The NATO Cooperative Cyber Defence Centre of Excellence -
+• The NATO Cooperative Cyber Defence Centre of Excellence<br>
 https://ccdcoe.org<br>
 • Taylor & Francis - Intelligence and National Security - Open access articles<br>
 https://www.tandfonline.com/action/showOpenAccess?journalCode=fint20<br>
@@ -2025,6 +2025,8 @@ https://www.reddit.com/r/digitalforensics<br>
 https://www.reddit.com/r/computerforensics<br>
 https://www.reddit.com/r/antiforensics<br>
 https://www.reddit.com/r/Smartphoneforensics<br>
+https://www.reddit.com/r/privacy<br>
+https://www.reddit.com/r/restorethefourth<br>
 https://github.com/yeahhub/Hacking-Security-Ebooks<br>
 https://github.com/InfoSecIITR/reading-material<br>
 <br>
