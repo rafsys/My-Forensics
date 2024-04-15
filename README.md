@@ -1044,18 +1044,22 @@ In order to promote the protection of the civilian population from the effects o
 <table>
 <thead>
   <tr>
-    <th>Criminal Procedural Law</th>
-    <th>State intelligence</th>
+    <th>Police Intelligence</th>
+    <th>Military Intelligence</th>
   </tr>
 </thead>
 <tbody>
   <tr>
-    <td>Repressive purpose,<br></td>
-    <td>Purpose is to collect information</td>
+    <td>Criminal Procedural Law</td>
+    <td>Laws of War</td>
   </tr>
   <tr>
-    <td>Based on the authorship and<br>materiality of crimes provided<br>for by law.</td>
-    <td>Activity against political extremism and<br>states enemys, acts prior to the existence<br>of hazards. It does not have a punitive<br>purpose.</td>
+    <td>Criminal repressive purpose, specific to the case,<br>task force, organizational<br></td>
+    <td>Purpose is to collect information about <br>enemy, HUMINT, IMINT, SIGINT,<br>strategic, tactical, regional,<br>orders of battle</td>
+  </tr>
+  <tr>
+    <td>Based on the authorship and<br>materiality of crimes provided<br>by law.</td>
+    <td>Activity against political extremism and<br>states enemys, acts prior to the existence<br>of hazards.<br></td>
   </tr>
 </tbody>
 </table>
