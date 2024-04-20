@@ -56,8 +56,8 @@
 <h4>The criminal investigation must be protected from leaks by following a logical sequence:</h4>
 
 <ol>
-<li>Exhaust the data collection and collection activity in open sources (OSINT) or closed sources (CSINT - restricted databases);</li>
-<li>Monitoring and tracking measures;</li>
+<li>Exhaust the data collection and collection activity in open sources (OSINT) or closed sources (CSINT);</li>
+<li>Hidden monitoring and tracking measures;</li>
 <li>With concrete evidence of the practices investigated and exhaustion of remote possibilities, launch the operation itself with the publication of the investigation. At this stage, search and seizure warrants, temporary or preventive arrest and statements will be taken.</li>
 </ol>
 
@@ -111,6 +111,12 @@
 • BriefCam®<br><a href="https://www.briefcam.com/" target="_blank" rel="noopener noreferrer">https://www.briefcam.com/</a><br>
 • Forensic Toolkit (FTK)® <br><a href="https://www.exterro.com/forensic-toolkit" target="_blank" rel="noopener noreferrer">https://www.exterro.com/forensic-toolkit</a><br>
 • Magnet Forensic®<br><a href="https://www.magnetforensics.com/" target="_blank" rel="noopener noreferrer">https://www.magnetforensics.com</a><br>
+• Variston®<br><a href="https://variston.net" target="_blank" rel="noopener noreferrer">https://variston.net</a><br>
+• Intellexa®<br><a href=no refer" target="_blank" rel="noopener noreferrer">no refer</a><br>
+• Cytrox®<br><a href="no refer" target="_blank" rel="noopener noreferrer">no refer</a><br>
+• Cy4Gate®<br><a href="https://www.cy4gate.com/" target="_blank" rel="noopener noreferrer">https://www.cy4gate.com/</a><br>
+• PARS Defense®<br><a href="https://www.parsdefense.com" target="_blank" rel="noopener noreferrer">https://www.parsdefense.com</a><br>
+• Candiru®<br><a href="https://saito.tech" target="_blank" rel="noopener noreferrer">https://saito.tech/</a><br>
 • Harpia Tech®<br><a href="https://harpia.tech/english.html" target="_blank" rel="noopener noreferrer">https://harpia.tech</a><br>
 • Visual Cortex®<br><a href="https://visualcortex.com/" target="_blank" rel="noopener noreferrer">https://visualcortex.com</a><br>
 • Oxygen Forensic®<br><a href="https://oxygen-forensic.wedatasolution.com/" target="_blank" rel="noopener noreferrer">https://oxygen-forensic.wedatasolution.com</a><br>
@@ -136,6 +142,7 @@
 </tr>
 </tbody>
 </table>
+<sub>Browse: https://dimse.info</sub>
 
 <!-- ################################## -->
 <hr>
@@ -152,7 +159,6 @@
 <h4><a href="https://www.dhs.gov/science-and-technology/nist-cftt-reports">https://www.dhs.gov/science-and-technology/nist-cftt-reports</a></h4>
 
 <!-- ################################## -->
-<br>
 <hr>
 
 <sub>
@@ -192,7 +198,7 @@
 
 <h3>INTERCEPTION PLATFORMS</h3>
 
-<p>Comparison between <br><a href="https://drivebadger.com">Drive Badger</a> <a href="https://github.com/drivebadger/drivebadger">(GitHub)</a> with other lawful interception platforms. Visit: <a href="https://docs.google.com/spreadsheets/d/1Ux0WeL-K4NOZTEQgJXuRzHPcG_ewKmcMNADuFhamytg/edit#gid=1460165261" target="_blank" rel="noopener noreferrer">Official sheet</a> or the<a href="https://github.com/RENANZG/My-Forensics/blob/main/3.DOCUMENTS/Workrounds/Drive_Bagder_-_Comparison_Of_Lawful_Interception_Platforms.pdf" target="_blank" rel="noopener noreferrer">PDF</a>version in our repo. Credits: <a href="https://github.com/tomaszklim">Tomasz Klim</a>.</p> 
+<p>Comparison between <a href="https://drivebadger.com">Drive Badger</a> <a href="https://github.com/drivebadger/drivebadger">(GitHub)</a> with other lawful interception platforms. Visit: <a href="https://docs.google.com/spreadsheets/d/1Ux0WeL-K4NOZTEQgJXuRzHPcG_ewKmcMNADuFhamytg/edit#gid=1460165261" target="_blank" rel="noopener noreferrer">Official sheet</a> or the <a href="https://github.com/RENANZG/My-Forensics/blob/main/3.DOCUMENTS/Workrounds/Drive_Bagder_-_Comparison_Of_Lawful_Interception_Platforms.pdf" target="_blank" rel="noopener noreferrer">PDF</a> version in our repo. <sub>Credits for the panel: <a href="https://github.com/tomaszklim">Tomasz Klim</a>.</sub></p> 
 
 <img src="https://github.com/RENANZG/My-Forensics/blob/main/.data/Drive_Bagder1_-_Comparison_Of_Lawful_Interception_Platforms-1.png?raw=true" title="Drive Bagder 1 - Comparison Of Lawful Interception Platforms" style="width:100%">
 
@@ -639,7 +645,7 @@ Security Payload (ESP) and Authentication Header (AH)</a></li>
 • The Windows Binary Index — https://winbindex.m417z.com<br>
 • Palo Alto Applipedia — https://applipedia.paloaltonetworks.com<br>
 • Windows Securitiy Logs — https://www.ultimatewindowssecurity.com/securitylog/encyclopedia<br>
-• Internet Archive - WayBackMachine - https://web.archive.org
+• Internet Archive (WayBackMachine) - https://web.archive.org<br>
 • Archive web content — https://archive.ph<br>
 • Internet Archive — https://archive.org<br>
 • HTTrack — https://www.httrack.com<br>
@@ -659,7 +665,9 @@ Security Payload (ESP) and Authentication Header (AH)</a></li>
 &emsp; — ipapi — https://ipapi.co<br>
 &emsp; — vpnapi — https://vpnapi.io<br>
 &emsp; — ipapi — https://ipapi.com<br>
-• WiGLE — https://wigle.net
+• The ZMap Project — https://zmap.io<br>
+• WiGLE — https://wigle.net<br>
+• urlscan.io — https://urlscan.io<br>
 • Virus Total — https://www.virustotal.com<br>
 • Hybrid Analysis — https://hybrid-analysis.com<br>
 • AlienVault OTX — https://otx.alienvault.com<br>
@@ -676,10 +684,8 @@ Security Payload (ESP) and Authentication Header (AH)</a></li>
 • Binvis — https://binvis.io<br>
 • JoeSandbox — https://www.joesandbox.com<br>
 • ANY.RUN — https://any.run<br>
-• urlscan.io — https://urlscan.io<br>
 • Verexif - https://www.verexif.com/en/<br>
 • Any Run — https://app.any.run<br>
-• The ZMap Project — https://zmap.io<br>
 • Name OSINT — https://namechk.com<br>
 • Reverse Shell Generator — https://www.revshells.com<br>
 • Rainbow Tables (Hashes) — https://hashes.com/en/decrypt/hash<br>
@@ -691,7 +697,7 @@ Security Payload (ESP) and Authentication Header (AH)</a></li>
 • explainshell — https://explainshell.com<br>
 • Epoch Converter — https://www.epochconverter.com<br>
 
-<p>For OSINT tools visit our repository: <a href="https://github.com/RENANZG/My-OSINT</a></p>
+<p>For OSINT tools visit our repository: <a href="https://github.com/RENANZG/My-OSINT">My-OSINT</a></p>
 
 <br>
 </details>
@@ -713,7 +719,7 @@ Security Payload (ESP) and Authentication Header (AH)</a></li>
 <h4>Some tools</h4>
 
 <ul>
-<li><a href="https://www.sleuthkit.org/sleuthkit/">The Sleuth Kit (TSK)</a><a href="https://github.com/sleuthkit/sleuthkit">(GitHub)</a></li>
+<li><a href="https://www.sleuthkit.org/sleuthkit/">The Sleuth Kit (TSK)</a> <a href="https://github.com/sleuthkit/sleuthkit">(GitHub)</a></li>
 <li><a href="https://www.autopsy.com">Autopsy</a></li>
 <li><a href="https://github.com/WerWolv/ImHex">ImHex</a></li>
 <li><a href="https://hashcat.net">Hashcat</a></li>
@@ -977,20 +983,38 @@ https://www.youtube.com/watch?v=6JJo8qCYE8M<br>
 
 <p>*First of all, consult court cases to see how laws are (mis)applied.</p>
 
+<h4>• Difference between legal regimes</h4>
+
+<table>
+<thead>
+  <tr>
+    <th>Judiciary Police</th>
+    <th>Criminal investigation</th>
+    <th>Intelligence Services</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>• Conducts criminal investigations, carries out whatever<br>steps it deems appropriate to elucidate the facts, with a<br>view to discovering evidence of the existence of the crime<br> and signs of its authorship.<br>• Criminal police bodies act as a precautionary measure,<br> such as in the case of preserving evidence or in the case<br>in the case of a flagrant crime.<br>• Has an obligation to preserve the confidentiality of the<br>investigation, therefore the right to adversarial<br>proceedings is limited.<br>• In general, the investigation is already a procedural phase.<br><br></td>
+    <td>• <br>• In general, the criminal investigation can be directly <br>initiated by other institutions, such as the Public<br>Prosecutor's Office.<br><br>• Full exercise of the right to adversarial proceedings<br>
+    • Follow due legal process, the criminal procedural law.</td>
+    <td>• Production of knowledge to support decision making, production of intelligence reports.<br>• The production of information is separate from decision making.<br>• Compartmentalization princpiple ensures no single spy knows <br>everything, meaning if they're captured, spies won’t know enough<br>to compromise a mission.<br>• Related to military activities of national defense and conquest against<br>foreign enemies.<br>• In general, intelligence activity does not follow due legal process.<br><br><br><br></td>
+  </tr>
+</tbody>
+</table>
+
+<p>*In Germany, where the Gestapo of National Socialism existed, the separation between intelligence (knowledge) and police (power) was one of the denazification measures imposed by the allies in 1949.</p>
+
+<p>*There is some controversy as to whether intelligence can be considered security.</p>
+
 <h4>• International Law</h4>
 ∙ UN — Library of Resources — https://www.unodc.org/e4j/en/resdb/index.html<br>
-∙ UN — https://www.unodc.org/elearning/en/courses/course-catalogue.html
+∙ UN — https://www.unodc.org/elearning/en/courses/course-catalogue.html<br>
 ∙ Budapest Convention — Cybercrime — https://www.coe.int/en/web/cybercrime/the-budapest-convention<br>
 ∙ Octopus Project — https://coe.int/en/web/cybercrime/octopus-project<br>
 ∙ Five Eyes — https://en.wikipedia.org/wiki/Five_Eyes<br>
 
-
 <h5>Public International Law</h5>
-
-https://legal.un.org/repertory/art1.shtml<br>
-https://ihl-databases.icrc.org/en/ihl-treaties/api-1977?activeTab=undefined<br>
-https://casebook.icrc.org/a_to_z/glossary/direct-participation-hostilities<br>
-
 
 <table>
 <thead align="center">
@@ -1018,13 +1042,13 @@ https://casebook.icrc.org/a_to_z/glossary/direct-participation-hostilities<br>
 </tbody>
 </table>
 
-<h4>IUS AD BELLO</h4>
+<h4>Jus ad bellum</h4>
 
 <p>Charter of the United Nations. Chapter VII — Action with respect to Threats to the Peace, Breaches of the Peace, and Acts of Aggression - Article 51</p>
 
 <blockquote>“Nothing in the present Charter shall impair the inherent right of individual or collective self-defence if an armed attack occurs against a Member of the United Nations, until the Security Council has taken measures necessary to maintain international peace and security. Measures taken by Members in the exercise of this right of self-defence shall be immediately reported to the Security Council and shall not in any way affect the authority and responsibility of the Security Council under the present Charter to take at any time such action as it deems necessary in order to maintain or restore international peace and security.”</blockquote>
 
-<h4>IUS IN BELLO</h4>
+<h4>Jus in Bello</h4>
 
 <p>Protocol Additional to the Geneva Conventions of 12 August 1949, and relating to the Protection of Victims of International Armed Conflicts (Protocol I)</p>
 
@@ -1037,31 +1061,11 @@ In order to promote the protection of the civilian population from the effects o
 
 (c) Acts which comply with the requirements of this paragraph shall not be considered as perfidious within the meaning of Article 37, paragraph 1."</blockquote>
 
+References:<br>
+UN - https://legal.un.org/repertory/art1.shtml<br>
+ICRC - https://ihl-databases.icrc.org/en/ihl-treaties/api-1977?activeTab=undefined<br>
+ICRC - https://casebook.icrc.org/a_to_z/glossary/direct-participation-hostilities<br>
 
-<h4>• Important distinctions in law</h4>
-
-<table>
-<thead>
-  <tr>
-    <th>Police Intelligence</th>
-    <th>Military Intelligence</th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td>Criminal Procedural Law</td>
-    <td>Laws of War</td>
-  </tr>
-  <tr>
-    <td>Purpose of criminal repression, specific<br>to the case, task force,<br>organizational<br></td>
-    <td>Purpose is to collect information about <br>enemy, HUMINT, IMINT, SIGINT,<br>strategic, tactical, regional,<br>orders of battle</td>
-  </tr>
-  <tr>
-    <td>Based on the authorship and<br>materiality of crimes provided<br>by law.</td>
-    <td>Activity against political extremism and<br>states enemys, acts prior to the existence<br>of hazards.<br></td>
-  </tr>
-</tbody>
-</table>
 
 
 <!-- ########## -->
@@ -1095,8 +1099,10 @@ In order to promote the protection of the civilian population from the effects o
 <h4>• Investigatory Powers — Criminal Law</h4>
 
 <h6>Americas</h6> 
+
 ∙ US — Federal Rules — Criminal Procedure — Overview — <a href="https://www.law.cornell.edu/wex/criminal_procedure" target="_blank">Link</a><br>
 ∙ US — Federal Rules — Criminal Procedure — Rule 41 — Search and Seizure — <a href="https://www.law.cornell.edu/rules/frcrmp/rule_41" target="_blank">Link</a><br>
+
 
 <table>
 <tbody>
@@ -1116,27 +1122,36 @@ In order to promote the protection of the civilian population from the effects o
 </table>
 
 <h6>Union European</h6>
+
 ∙ UE — Criminal procedural laws across the European Union – A comparative analysis — <a href="https://www.europarl.europa.eu/RegData/etudes/STUD/2018/604977/IPOL_STU(2018)604977(ANN01)_EN.pdf" target="_blank">Link</a><br>
 ∙ UK — Crime, justice and law — Law and practice — <a href="https://www.gov.uk/guidance/rules-and-practice-directions-2020" target="_blank">Link</a><br>
 ∙ UK — Public General Acts — Investigatory Powers Act 2016 — <a href="https://www.legislation.gov.uk/ukpga/2016/25/contents" target="_blank">Link</a><br>
 ∙ GE — German Criminal Code (Strafgesetzbuch — StGB) — <a href="https://www.gesetze-im-internet.de/englisch_stgb" target="_blank">Link</a><br>
 ∙ GE — German Code of Criminal Procedure (Strafprozeßordnung — StPO) — <a href="https://www.gesetze-im-internet.de/englisch_stpo/index.html" target="_blank">Link</a><br>
-
-![architecture](https://github.com/RENANZG/My-Forensics/assets/53377291/f92b0055-29fe-40de-9a45-da845d0f3f4b)
+∙ GE — German Code of Criminal Procedure - StPO, Section 100a - Telecommunications surveillance — <a href="https://www.gesetze-im-internet.de/englisch_stpo/englisch_stpo.html#p0572" target="_blank">Link</a><br>
+∙ GE — Law on the Federal Criminal Police Office and cooperation between the federal and state governments in criminal police matters (Federal Criminal Police Office Act - BKAG) - § 49 Covert intervention in information technology systems — <a href="https://www.gesetze-im-internet.de/bkag_2018/__49.html" target="_blank">Link</a><br>
 
 <h4>Court Cases</h4>
-∙ US Federal Cases — https://pacer.uscourts.gov/find-case<br>
-∙ EUR-Lex https://eur-lex.europa.eu/homepage.html<br>
-∙ EU Common Portal of Case Law — https://network-presidents.eu/cpcl<br>
-∙ casetext (Thomson Reuters) - https://casetext.com<br>
+
 ∙ UNODC — Case Law Database — https://sherloc.unodc.org/cld/v3/sherloc/cldb/index.html?lng=en<br>
 ∙ UNODC — Cyber Organized Crime — https://www.unodc.org/e4j/en/cybercrime/module-13/additional-teaching-tools.html<br>
-∙ Council of Europe - COE Cybercrime - https://www.coe.int/en/web/cybercrime<br>
-∙ Council of Europe - Octopus Cybercrime Community - Materials - https://www.coe.int/en/web/octopus/training<br>
+
+<h6>Americas</h6>
+
+∙ US Federal Cases — https://pacer.uscourts.gov/find-case<br>
 ∙ US Dod - Computer Crime and Intellectual Property Section (CCIPS) - https://www.justice.gov/criminal/criminal-ccips<br>
 ∙ US FBI - Internet Crime Complaint Center (IC3) - https://www.ic3.gov<br>
 ∙ Computer Crime Research Center - https://www.crime-research.org<br>
 
+<h6>Union European</h6>
+
+∙ EUR-Lex https://eur-lex.europa.eu/homepage.html<br>
+∙ EU Common Portal of Case Law — https://network-presidents.eu/cpcl<br>
+∙ Casetext (Thomson Reuters) - https://casetext.com<br>
+∙ Council of Europe - COE Cybercrime - https://www.coe.int/en/web/cybercrime<br>
+∙ Council of Europe - Octopus Cybercrime Community - Materials - https://www.coe.int/en/web/octopus/training<br>
+
+![architecture](https://github.com/RENANZG/My-Forensics/assets/53377291/f92b0055-29fe-40de-9a45-da845d0f3f4b)
 
 <!-- ########## -->
 
@@ -1302,6 +1317,17 @@ In order to promote the protection of the civilian population from the effects o
 <summary>2.03 Liability for Contents</summary>
 <br>
 
+<p>TorrentFreak</p>
+https://torrentfreak.com<br>
+https://torrentfreak.com/category/lawsuits<br>
+https://torrentfreak.com/category/law-politics<br>
+
+<p>TorrentFreak - Newsletter</p>
+https://torrentfreak.com/subscriptions<br>
+https://t.me/torrentfreaks<br>
+https://defcon.social/@torrentfreak<br>
+https://torrentfreak.com/feed<br>
+
 <ul>
 <li><a href="https://startyourownisp.com/">How to start your own ISP</a></li>
 <li><a href="https://i.imgur.com/3fHyG2S.png">Where are torrents permitted?</a></li>
@@ -1420,8 +1446,9 @@ In order to promote the protection of the civilian population from the effects o
 
 <p>Live System Based</p>
 
-<a href="https://securityonionsolutions.com">Security Onion</a>
-<a href="https://www.networksecuritytoolkit.org">Network Security Toolkit</a>
+<a href="https://securityonionsolutions.com">Security Onion</a><br>
+
+<a href="https://www.networksecuritytoolkit.org">Network Security Toolkit</a><br>
 
 <br>
 </details>
@@ -1826,14 +1853,26 @@ https://www.securityfocus.com/news<br>
 https://www.newscientist.com/section/news<br>
 • Silicon Valley<br>
 https://www.siliconvalley.com<br>
-• USA Today<br>
-https://www.usatoday.com/tech<br>
-• Reuters<br>
-https://www.reuters.com/news/technology<br>
 • TechWeb<br>
 https://www.techweb.com<br>
-
-<br>
+• USA Today<br>
+https://www.usatoday.com/tech<br>
+• The Intercept<br>
+https://theintercept.com<br>
+• Reuters<br>
+https://www.reuters.com/news<br>
+• Aljazeera<br>
+https://www.aljazeera.com<br>
+• Gulf News<br>
+https://gulfnews.com/<br>
+• China Official Publications<br>
+https://english.www.gov.cn<br>
+• North Korea Official Publications<br>
+http://www.kcna.kp/en<br>
+• Israel Official Publications<br>
+https://www.gov.il/en<br>
+• Iran Official Publications<br>
+https://irangov.ir/en<br>
 </details>
 
 <!-- ################################# -->
@@ -1905,6 +1944,28 @@ IEEE Open Journal of Signal Processing<br>
 <details>
 <summary><b>Law Publications</b></summary>
 <br>
+
+• European Journal of Law and Technology<br>
+https://ejlt.org/index.php/ejlt<br>
+• <br>
+https://www.cambridge.org/core/journals/german-law-journal<br>
+• <br>
+https://www.sciencedirect.com/journal/computer-fraud-and-security<br>
+• Digital Evidence and Electronic Signature Law Review - https://journals.sas.ac.uk/deeslr/issue/view/596<br>
+• <br>
+https://www.tandfonline.com/journals/cirl20<br>
+• <br>
+https://openyls.law.yale.edu<br>
+• <br>
+https://dltr.law.duke.edu<br>
+• <br>
+https://scholarlycommons.law.northwestern.edu/njtip/<br>
+• Ohio State Technology Law Journal (Moritz College of Law)<br>
+https://kb.osu.edu/communities/a3767fe3-6fcd-5776-bbe7-44d144fb641a<br>
+• <br>
+https://scholar.smu.edu/smulr<br>
+• AIDP-IAPL Publications<br>
+https://www.penal.org/en/aidp-iapl-publications<br>
 • Necessary and Proportionate - https://www.necessaryandproportionate.org<br>
 • Privacy International - https://www.privacyinternational.org<br>
 • EFF - https://www.eff.org<br>
@@ -1915,10 +1976,8 @@ IEEE Open Journal of Signal Processing<br>
 • Bugged Planet - http://buggedplanet.info<br>
 • CIS - https://cyberlaw.stanford.edu<br>
 • The Berkman Klein Center for Internet & Society at Harvard University - https://cyber.harvard.edu<br>
-• Digital Evidence and Electronic Signature Law Review - https://journals.sas.ac.uk/deeslr/issue/view/596<br>
 • Carnegie Endowment for International Peace<br>
 https://carnegieendowment.org/publications/interactive/cybernorms<br>
-
 • Bad Internet Bills - https://www.badinternetbills.com<br>
 • Software Freedom Law Center - https://softwarefreedom.org<br>
 • Techdirt - https://www.techdirt.com<br>
@@ -1937,8 +1996,6 @@ https://www.coe.int/en/web/cybercrime<br>
 https://www.sherloc.unodc.org<br>
 https://www.enisa.europa.eu<br>
 https://csrc.nist.gov<br>
-https://openyls.law.yale.edu<br>
-https://scholarship.law.duke.edu<br>
 https://law.utexas.edu/transnational/foreign-law-translations<br>
 https://www.computerweekly.com<br>
 https://www.vice.com/en/section/tech<br>
