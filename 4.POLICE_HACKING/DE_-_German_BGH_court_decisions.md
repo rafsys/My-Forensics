@@ -1,4 +1,38 @@
-### Germany - BGH Criminal Cases (Strafsachen)
+## Germany - BGH Criminal Cases (Strafsachen)
+
+### German Abbreviations
+
+BGH  
+Bundesgerichtshof (German Federal Court of Justice)  
+
+BGH JZ  
+Decisions of the BGH published in the Juristenzeitung, cited by year and page  
+
+BGH LM
+Decisions of the BGH published in Das Nachschlagewerk des Bundesgerichtshofs in Zivilsachen, cited by sections of the BGB and case-numbers
+
+BGH NJW  
+Decisions of the BGH published in the Neue Juristische Wochenschrift, cited by year and page  
+
+BGH VersR  
+Decisions of the BGH published in Versicherungsrecht, cited by year and page  
+
+BGH WM  
+Decisions of the BGH published in Zeitschrift für Wirtschafts- und Bankrecht, Wertpapiermitteilungen, cited by year and page  
+
+BGHZ  
+Amtliche Sammlung des Bundesgerichtshof in Zivilsachen, cited by volume and page  
+
+BGH ZIP  
+Decisions of the BGH published in Zeitschrift für Wirtschaftsrecht, cited by year and page  
+ 
+GS  
+Großer Senat  
+
+I-VIII ZR  
+Case-numbers of the BGH, indicating the deciding senate  
+
+### Case Law
 
 #### BGH, 21.02.1964 - 4 StR 519/63 (https://dejure.org/1964,285)
 
@@ -55,8 +89,6 @@ Overturning a criminal conviction on appeal; Successful raising of a procedural 
 #### BGH, 18.11.1999 - 1 StR 221/99 (https://dejure.org/1999,164)
 
 BGHSt 45, 321; Incitement to commit a crime in a manner attributable to the state; fair trial principle; Provocation of crime by decoy informants; agent provocateur; police confidant; Reason for mitigating punishment independent of guilt; Requirements for the use of trusted persons; Legal effect of the HRK.  
-
-
 
 
 dejure.org  

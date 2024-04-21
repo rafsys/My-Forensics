@@ -710,11 +710,9 @@ Security Payload (ESP) and Authentication Header (AH)</a></li>
 
 <h4>Forensics Tools Catalogues</h4>
 
-<h4>Evidence Project - <a href="https://www.dftoolscatalogue.eu/dftc.home.php">https://www.dftoolscatalogue.eu</a></h4>
-
-<h4>NIST - <a href="https://toolcatalog.nist.gov/search/">https://toolcatalog.nist.gov</a></h4>
-
-<h4>S&T partners and NIST - Computer Forensic Tool Testing (CFTT) - <a href="https://www.dhs.gov/science-and-technology/nist-cftt-reports">https://www.dhs.gov/science-and-technology/nist-cftt-reports</a></h4>
+<p>Evidence Project - <a href="https://www.dftoolscatalogue.eu/dftc.home.php">https://www.dftoolscatalogue.eu</a></p>
+<p>NIST - <a href="https://toolcatalog.nist.gov/search/">https://toolcatalog.nist.gov</a></p>
+<p>S&T partners and NIST - Computer Forensic Tool Testing (CFTT) - <a href="https://www.dhs.gov/science-and-technology/nist-cftt-reports">https://www.dhs.gov/science-and-technology/nist-cftt-reports</a></p>
 
 <h4>Some tools</h4>
 
@@ -735,10 +733,22 @@ Security Payload (ESP) and Authentication Header (AH)</a></li>
 <li><a href="https://www.winfe.net/download">WinFE</a></li>
 </ul>
 
-Image and video upscaling programs<br>
+<h4>Image and video upscaling programs</h4>
 
 • <a href="https://github.com/imagej/ImageJ">ImageJ</a><br>
-• Upscalers - https://github.com/hollowaykeanho/Upscaler<br>
+• <a href="https://github.com/hollowaykeanho/Upscaler">Upscalers</a><br>
+
+
+<h4>Encryption workarounds:</h4>
+
+<ol>
+<li>Find the key.</li>
+<li>Guess the key.</li>
+<li>Compel the key.</li>
+<li>Exploit a flaw in the encryption software.</li>
+<li>Access plaintext while the device is in use.</li>
+<li>Locate another plaintext copy.</li>
+</ol>
 
 <h4>Extraction Methods</h4>
 
@@ -762,16 +772,6 @@ Log into the database while it is live and employ the application used to create
 </tr>
 </tbody>
 </table>
-
-<p>Encryption workarounds:</p>
-<ol>
-<li>Find the key.</li>
-<li>Guess the key.</li>
-<li>Compel the key.</li>
-<li>Exploit a flaw in the encryption software.</li>
-<li>Access plaintext while the device is in use.</li>
-<li>Locate another plaintext copy.</li>
-</ol>
 
 <br>
 </details>
@@ -807,6 +807,7 @@ Log into the database while it is live and employ the application used to create
 
 <h4>Steganography</h4>
 
+<p></p>
 
 <br>
 </details>
@@ -896,7 +897,8 @@ ${\color{Red}\textbf{2.ACTIVE FORENSICS}}$
 <summary>2.01 Police hacking</summary>
 <br>
 
-<p>Visit our repo tree: <a href="https://github.com/RENANZG/My-Forensics/tree/main/4.POLICE_HACKING">4.POLICE_HACKING</a></p>
+<h3>Visit our repo tree:<br>
+<a href="https://github.com/RENANZG/My-Forensics/tree/main/4.POLICE_HACKING">4.POLICE_HACKING</a></h3>
 
 <h4>The Cyber Kill Chain</h4>
 
@@ -995,10 +997,24 @@ https://www.youtube.com/watch?v=6JJo8qCYE8M<br>
 </thead>
 <tbody>
   <tr>
-    <td>• Conducts criminal investigations, carries out whatever<br>steps it deems appropriate to elucidate the facts, with a<br>view to discovering evidence of the existence of the crime<br> and signs of its authorship.<br>• Criminal police bodies act as a precautionary measure,<br> such as in the case of preserving evidence or in the case<br>in the case of a flagrant crime.<br>• Has an obligation to preserve the confidentiality of the<br>investigation, therefore the right to adversarial<br>proceedings is limited.<br>• In general, the investigation is already a procedural phase.<br><br></td>
-    <td>• <br>• In general, the criminal investigation can be directly <br>initiated by other institutions, such as the Public<br>Prosecutor's Office.<br><br>• Full exercise of the right to adversarial proceedings<br>
+    <td>
+    • Conducts criminal investigations, carries out whatever steps it deems appropriate to elucidate the facts, with a view to discovering evidence of the existence of the crime and signs of its authorship.<br>
+    • Criminal police bodies act as a precautionary measure, such as in the case of preserving evidence or in the case in the case of a flagrant crime.<br>
+    • Has an obligation to preserve the confidentiality of the<br>investigation, therefore the right to adversarial proceedings is limited.<br>
+    • In general, the investigation is already a procedural phase.<br>
+    </td>
+    <td>
+    • <br>
+    • In general, the criminal investigation can be directly initiated by other institutions, such as the Public Prosecutor's Office.<br>
+    • Full exercise of the right to adversarial proceedings<br>
     • Follow due legal process, the criminal procedural law.</td>
-    <td>• Production of knowledge to support decision making, production of intelligence reports.<br>• The production of information is separate from decision making.<br>• Compartmentalization princpiple ensures no single spy knows <br>everything, meaning if they're captured, spies won’t know enough<br>to compromise a mission.<br>• Related to military activities of national defense and conquest against<br>foreign enemies.<br>• In general, intelligence activity does not follow due legal process.<br><br><br><br></td>
+    <td>
+    • Production of knowledge to support decision making, production of intelligence reports.<br>
+    • The production of information is separate from decision making.<br>
+    • Compartmentalization princpiple ensures no single spy knows everything, meaning if they're captured, spies won’t know enough to compromise a mission.<br>
+    • Related to military activities of national defense and conquest against foreign enemies.<br>
+    • In general, intelligence activity does not follow due legal process.<br>
+    </td>
   </tr>
 </tbody>
 </table>
@@ -1522,9 +1538,10 @@ https://github.com/SigPloiter/SigPloit<br>
 • Telecom Exploits - HLR Lookups<br>
 https://github.com/SigPloiter/HLR-Lookups<br>
 
-<a href="https://youtu.be/VonHAsY4-VA">
-  <img src="https://markdown-videos-api.jorgenkh.no/url?url=https%3A%2F%2Fyoutu.be%2FVonHAsY4-VA" alt="Phone Surveillance Exposed" title="Phone Surveillance Exposed"/>
+<a href="https://www.youtube.com/watch?v=VonHAsY4-VA">
+  <img src="https://markdown-videos-api.jorgenkh.no/url?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DVonHAsY4-VA" alt="Phone Surveillance Exposed" title="Phone Surveillance Exposed"/>
 </a>
+
 
 <table>
 <thead>
@@ -1945,13 +1962,16 @@ IEEE Open Journal of Signal Processing<br>
 <summary><b>Law Publications</b></summary>
 <br>
 
+• Foreign Law Translations - The University of Texas at Austin<br>
+https://law.utexas.edu/transnational/foreign-law-translations<br>
+• The German Law Journal (open-access) - Cambridge University Press<br>
+https://www.cambridge.org/core/journals/german-law-journal<br>
 • European Journal of Law and Technology<br>
 https://ejlt.org/index.php/ejlt<br>
 • <br>
-https://www.cambridge.org/core/journals/german-law-journal<br>
-• <br>
 https://www.sciencedirect.com/journal/computer-fraud-and-security<br>
-• Digital Evidence and Electronic Signature Law Review - https://journals.sas.ac.uk/deeslr/issue/view/596<br>
+• Digital Evidence and Electronic Signature Law Review<br>
+https://journals.sas.ac.uk/deeslr/issue/view/596<br>
 • <br>
 https://www.tandfonline.com/journals/cirl20<br>
 • <br>
@@ -1966,6 +1986,7 @@ https://kb.osu.edu/communities/a3767fe3-6fcd-5776-bbe7-44d144fb641a<br>
 https://scholar.smu.edu/smulr<br>
 • AIDP-IAPL Publications<br>
 https://www.penal.org/en/aidp-iapl-publications<br>
+
 • Necessary and Proportionate - https://www.necessaryandproportionate.org<br>
 • Privacy International - https://www.privacyinternational.org<br>
 • EFF - https://www.eff.org<br>
@@ -1996,7 +2017,7 @@ https://www.coe.int/en/web/cybercrime<br>
 https://www.sherloc.unodc.org<br>
 https://www.enisa.europa.eu<br>
 https://csrc.nist.gov<br>
-https://law.utexas.edu/transnational/foreign-law-translations<br>
+
 https://www.computerweekly.com<br>
 https://www.vice.com/en/section/tech<br>
 https://copsincyberspace.wordpress.com<br>
