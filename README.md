@@ -1024,11 +1024,29 @@ https://www.youtube.com/watch?v=6JJo8qCYE8M<br>
 <p>*There is some controversy as to whether intelligence can be considered security.</p>
 
 <h4>• International Law</h4>
-∙ UN — Library of Resources — https://www.unodc.org/e4j/en/resdb/index.html<br>
-∙ UN — https://www.unodc.org/elearning/en/courses/course-catalogue.html<br>
-∙ Budapest Convention — Cybercrime — https://www.coe.int/en/web/cybercrime/the-budapest-convention<br>
-∙ Octopus Project — https://coe.int/en/web/cybercrime/octopus-project<br>
-∙ Five Eyes — https://en.wikipedia.org/wiki/Five_Eyes<br>
+
+∙ UN — Library of Resources<br>
+https://www.unodc.org/e4j/en/resdb/index.html<br>
+
+∙ UN — Course Catalogue<br>
+https://www.unodc.org/elearning/en/courses/course-catalogue.html<br>
+
+∙ ICRC - Cyber operations during armed conflicts<br>
+https://www.icrc.org/en/war-and-law/conduct-hostilities/cyber-warfare<br>
+
+∙ ICRC - New technologies and IHL<br>
+https://www.icrc.org/en/war-and-law/weapons/ihl-and-new-technologies<br>
+
+∙ The Cyber Law Toolkit -  The intersection of international law and cyber operations<br>
+https://cyberlaw.ccdcoe.org/wiki/Main_Page<br>
+
+∙ Budapest Convention (Cybercrime)<br>
+https://www.coe.int/en/web/cybercrime/the-budapest-convention<br>
+
+∙ Octopus Project<br>
+https://coe.int/en/web/cybercrime/octopus-project<br>
+
+
 
 <h5>Public International Law</h5>
 
@@ -1045,7 +1063,7 @@ https://www.youtube.com/watch?v=6JJo8qCYE8M<br>
   </tr>
   <tr>
     <td>"Jus ad bellum"</td>
-    <td>"Jus in Bello"</td>
+    <td>"Jus in bello"</td>
     <td>Occupation and "Jus Post Bellum"</td>
     <td>Human Rights Law</td>
   </tr>
@@ -1079,10 +1097,9 @@ In order to promote the protection of the civilian population from the effects o
 
 References:<br>
 UN - https://legal.un.org/repertory/art1.shtml<br>
+ICRC - https://www.icrc.org/en/document/what-are-jus-ad-bellum-and-jus-bello-0<br>
 ICRC - https://ihl-databases.icrc.org/en/ihl-treaties/api-1977?activeTab=undefined<br>
 ICRC - https://casebook.icrc.org/a_to_z/glossary/direct-participation-hostilities<br>
-
-
 
 <!-- ########## -->
 
